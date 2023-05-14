@@ -4,8 +4,8 @@ scene direction: the horseman continues past a tavern on the far side of the squ
 scene direction: angel with an irish accent
 angel: we'll be back when we've found a bit more cash money! keep the girls warm!
 scene direction: the tavern proprietor slams the door shut, and angel pounds on it a couple of times.
-scene direction: angel's friend moans
-angel's friend: let's go.
+scene direction: friend moans
+friend: let's go.
 scene direction: angel staggers back over to him and puts his arm around him. they begin to walk with a definite sway in their step.
 angel: come on. we'll sneak in and take some of me father's silver.
 scene direction: he'll never miss it. he eats with his hands, the pig.

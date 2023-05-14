@@ -4,7 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91be5e45-b60b-4174-887f-5282164fc438" name="Changes" comment="" />
+    <list default="true" id="91be5e45-b60b-4174-887f-5282164fc438" name="Changes" comment="everything pretty much">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue/s4e07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue/s4e07.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/per_character/s2e21/angel's friend.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/per_character/s2e21/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/per_character/s2e21/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/per_character/s4e07/xander's mother.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/per_character/s4e07/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/per_character/s4e07/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/per_episode/s2e21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/per_episode/s2e21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/per_episode/s4e07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/per_episode/s4e07.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphing_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphing_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/angelNumWords.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/angelNumWords.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/angelScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/angelScores.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/buffyNumWords.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/buffyNumWords.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/buffyScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/buffyScores.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/numDialogue.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/numDialogue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/numWords.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/numWords.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/angelNumWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/angelNumWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/angelScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/angelScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/buffyNumWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/buffyNumWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/buffyScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/buffyScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/numWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/numWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/xanderNumWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/xanderNumWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/xanderScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/xanderScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/xanderNumWords.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/xanderNumWords.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/xanderScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/xanderScores.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/s2e21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/s2e21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/s4e07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/s4e07.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s2e21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s2e21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s4e07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s4e07.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +72,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.grazie" />
   </component>
   <component name="RunManager" selected="Python.main">
@@ -344,6 +374,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675620559732</updated>
     </task>
+    <task id="LOCAL-00001" summary="everything pretty much">
+      <created>1684089111778</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684089111778</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -356,5 +394,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="everything pretty much" />
+    <option name="LAST_COMMIT_MESSAGE" value="everything pretty much" />
   </component>
 </project>

@@ -8,9 +8,8 @@ def get_character_lines(character, file):
         # turn filename into string
         fileString = str(os.path.join(episode, file))
         # check if buffy is in the file name
-        if character in fileString and '[' + character + ']' not in fileString:
-            # print(fileString)
-            # for testing print(fileString)
+        in_brackets = '[' + character + ']'
+        if character in fileString and in_brackets not in fileString and 'buffybot' not in fileString:
             linesFile = open(fileString, 'r')
             for l in linesFile:
                 # add every line to lines list
