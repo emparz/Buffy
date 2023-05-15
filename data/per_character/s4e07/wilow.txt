@@ -1,4 +1,0 @@
-ballpoints
-can
-be
-tricky

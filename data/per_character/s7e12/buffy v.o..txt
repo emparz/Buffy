@@ -1,8 +1,0 @@
-40a
-int
-classroom
-at
-sunnydale
-high
-
-night

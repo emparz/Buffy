@@ -57,7 +57,7 @@ def get_lines_per_character(lines, file):
 
     # add all the lines each character has to a file
     for speaker in speakersAndLines:
-        speakerEpisode = open('data/per_character/' + file + '/' + speaker + '.txt', 'w')
+        speakerEpisode = open('data/words_per_char_per_ep/' + file + '/' + speaker + '.txt', 'w')
         for word in lines_into_words(speakersAndLines[speaker]):
             speakerEpisode.write(word.strip() + '\n')
         speakerEpisode.close()
@@ -110,7 +110,7 @@ def write_dialogue_per_episode(lines, file):
     # turn a list of lines into a list of words
     wordsInLine = lines_into_words(linesList)
     # open file
-    episode = open('data/dialogue/' + file + '.txt', 'w')
+    episode = open('data/dialogue_per_ep/' + file + '.txt', 'w')
     # write each element of the list to a file
     for word in wordsInLine:
         # don't write empty spaces
@@ -130,7 +130,7 @@ def write_words_per_episode(lines, file):
     # turn a list of lines into a list of words
     wordsInLine = lines_into_words(linesList)
     # open file
-    episode = open('data/per_episode/' + file + '.txt', 'w')
+    episode = open('data/words_per_ep/' + file + '.txt', 'w')
     # write each element of the list to a file
     for word in wordsInLine:
         # don't write empty spaces

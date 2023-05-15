@@ -29,14 +29,14 @@ scores.close()
 
 # put methods in here that need to be done for every episode (file)
 def do_for_every_season(file):
-    episode = open('data/per_episode/' + file + '.txt', 'r')
+    episode = open('data/words_per_ep/' + file + '.txt', 'r')
     words = []
     for word in episode:
         words.append(word)
     wordsPerEpisode[file] = words
     episode.close()
 
-    episode = open('data/dialogue/' + file + '.txt', 'r')
+    episode = open('data/dialogue_per_ep/' + file + '.txt', 'r')
     words = []
     for word in episode:
         words.append(word)
@@ -242,18 +242,18 @@ def graphing_episodes():
     ''' get the scores for every episode (dialogue only)'''
     totalDialogueScores = {}
     for w in dialoguePerEpisode:
-        totalDialogueScores[w] = get_scores('words', dialoguePerEpisode[w])
+        totalDialogueScores[w] = get_scores('dialogue', dialoguePerEpisode[w])
     graph_show('dialogue', totalDialogueScores)
 
     ''' put episode's words into list '''
     s1e01Words = []
-    episodeWords = open('data/per_episode/s1e01.txt', 'r')
+    episodeWords = open('data/words_per_ep/s1e01.txt', 'r')
     for l in episodeWords:
         s1e01Words.append(l)
     episodeWords.close()
 
     s1e12Words = []
-    episodeWords = open('data/per_episode/s1e12.txt', 'r')
+    episodeWords = open('data/words_per_ep/s1e12.txt', 'r')
     for l in episodeWords:
         s1e12Words.append(l)
     episodeWords.close()

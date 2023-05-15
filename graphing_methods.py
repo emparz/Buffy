@@ -24,7 +24,7 @@ def count_character_words(lines):
 # go through all the files in that episode's folder, find one(s) with character's name
 # return a list with lines from the file(s)
 def get_character_lines(character, file):
-    episode = 'data/per_character/' + file
+    episode = 'data/words_per_char_per_ep/' + file
     lines = []
     for file in os.listdir(episode):
         # turn filename into string
@@ -44,7 +44,7 @@ def get_character_lines(character, file):
 # navigate to the folder with all the characters' lines files
 # return the number of files in that folder
 def get_num_chars(file):
-    episode = 'data/per_character/' + file
+    episode = 'data/words_per_char_per_ep/' + file
     chars = 0
     # count the number of character files in this folder
     for c in os.listdir(episode):
@@ -58,7 +58,7 @@ def get_num_chars(file):
 # open up the file with all the DIALOGUE words from that episode
 # return number of dialogue words in that episode
 def get_num_dialogue(file):
-    episode = open('data/dialogue/' + file + '.txt', 'r')
+    episode = open('data/dialogue_per_ep/' + file + '.txt', 'r')
     words = 0
     # count the number of spoken words in the episode
     for w in episode:
@@ -73,7 +73,7 @@ def get_num_dialogue(file):
 # open up the file with all the words from that episode
 # return number of words in that episode
 def get_num_words(file):
-    episode = open('data/per_episode/' + file + '.txt', 'r')
+    episode = open('data/words_per_ep/' + file + '.txt', 'r')
     words = 0
     # count the number of words in the episode
     for w in episode:
