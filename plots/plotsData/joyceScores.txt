@@ -1,144 +1,144 @@
-s1e01: 0.003649870.10189988-0.16530466
-s1e02: -0.013718500.01922031-0.12237683
-s1e03: 0.007739640.07201350-0.16223024
-s1e04: NoneNoneNone
-s1e05: NoneNoneNone
-s1e06: NoneNoneNone
-s1e07: -0.009186560.04239990-0.16054935
-s1e08: NoneNoneNone
-s1e09: 0.005061950.06934783-0.15919628
-s1e10: 0.007359100.09536057-0.16879116
-s1e11: NoneNoneNone
-s1e12: 0.021453520.07135605-0.16072363
-s2e01: 0.028857700.08196302-0.14674442
-s2e02: NoneNoneNone
-s2e03: -0.002336570.04870338-0.13363280
-s2e04: NoneNoneNone
-s2e05: NoneNoneNone
-s2e06: NoneNoneNone
-s2e07: NoneNoneNone
-s2e08: NoneNoneNone
-s2e09: NoneNoneNone
-s2e10: NoneNoneNone
-s2e11: 0.011787480.02752691-0.16842886
-s2e12: 0.002499380.01917138-0.17003711
-s2e13: NoneNoneNone
-s2e14: 0.071105240.12352086-0.11859205
-s2e15: NoneNoneNone
-s2e16: 0.00858547-0.01085014-0.09035256
-s2e17: -0.015510650.03476068-0.13646982
-s2e18: 0.00428636-0.00971506-0.17854103
-s2e19: NoneNoneNone
-s2e20: NoneNoneNone
-s2e21: NoneNoneNone
-s2e22: -0.027408980.06279634-0.13028403
-s3e01: 0.020043100.04149083-0.11366487
-s3e02: -0.000543500.05197648-0.13539099
-s3e03: 0.004613810.07020154-0.13030438
-s3e04: NoneNoneNone
-s3e05: NoneNoneNone
-s3e06: 0.019995950.06947481-0.12954599
-s3e07: NoneNoneNone
-s3e08: -0.009353640.08961199-0.13500083
-s3e09: NoneNoneNone
-s3e10: 0.014914200.07016138-0.19573262
-s3e11: -0.001360320.05230033-0.12240634
-s3e12: -0.005799400.11887827-0.18215910
-s3e13: NoneNoneNone
-s3e14: 0.002385280.02572241-0.11466752
-s3e15: NoneNoneNone
-s3e16: NoneNoneNone
-s3e17: NoneNoneNone
-s3e18: 0.036337480.06790966-0.20246069
-s3e19: -0.001352770.11142648-0.19173488
-s3e20: 0.014099720.07844861-0.18169504
-s3e21: 0.024226030.03621412-0.05746567
-s3e22: NoneNoneNone
-s4e01: -0.004848890.08777759-0.15756437
-s4e02: NoneNoneNone
-s4e03: NoneNoneNone
-s4e04: 0.003937750.02790585-0.14193421
-s4e05: NoneNoneNone
-s4e06: NoneNoneNone
-s4e07: NoneNoneNone
-s4e08: NoneNoneNone
-s4e09: NoneNoneNone
-s4e10: NoneNoneNone
-s4e11: NoneNoneNone
-s4e12: NoneNoneNone
-s4e13: NoneNoneNone
-s4e14: NoneNoneNone
-s4e15: -0.026152950.06996877-0.10668936
-s4e16: 0.008818550.06771078-0.12609720
-s4e17: NoneNoneNone
-s4e18: NoneNoneNone
-s4e19: NoneNoneNone
-s4e20: NoneNoneNone
-s4e21: NoneNoneNone
-s4e22: 0.044913980.03812733-0.14429658
-s5e01: 0.027861070.04283787-0.19440585
-s5e02: 0.017025120.04970651-0.16071601
-s5e03: NoneNoneNone
-s5e04: 0.023657670.03329917-0.15829233
-s5e05: 0.004052390.01513577-0.14629124
-s5e06: NoneNoneNone
-s5e07: -0.004670470.02094300-0.19777476
-s5e08: 0.00167949-0.01278996-0.13896980
-s5e09: 0.009637800.02437365-0.16169503
-s5e10: 0.011676890.09696632-0.18479391
-s5e11: 0.019618110.02370270-0.16845595
-s5e12: NoneNoneNone
-s5e13: 0.000326570.02318266-0.18542445
-s5e14: 0.003610970.04579218-0.15302792
-s5e15: 0.005423570.05522016-0.18968328
-s5e16: 0.040833750.07464896-0.06829396
-s5e17: NoneNoneNone
-s5e18: NoneNoneNone
-s5e19: NoneNoneNone
-s5e20: NoneNoneNone
-s5e21: 0.043237050.11383295-0.23293686
-s5e22: NoneNoneNone
-s6e01: NoneNoneNone
-s6e02: NoneNoneNone
-s6e03: NoneNoneNone
-s6e04: NoneNoneNone
-s6e05: NoneNoneNone
-s6e06: NoneNoneNone
-s6e07: NoneNoneNone
-s6e08: NoneNoneNone
-s6e09: NoneNoneNone
-s6e10: NoneNoneNone
-s6e11: NoneNoneNone
-s6e12: NoneNoneNone
-s6e13: NoneNoneNone
-s6e14: NoneNoneNone
-s6e15: NoneNoneNone
-s6e16: NoneNoneNone
-s6e17: 0.012465160.13505981-0.19192613
-s6e18: NoneNoneNone
-s6e19: NoneNoneNone
-s6e20: NoneNoneNone
-s6e21: NoneNoneNone
-s6e22: NoneNoneNone
-s7e01: NoneNoneNone
-s7e02: NoneNoneNone
-s7e03: NoneNoneNone
-s7e04: NoneNoneNone
-s7e05: NoneNoneNone
-s7e06: NoneNoneNone
-s7e07: NoneNoneNone
-s7e08: NoneNoneNone
-s7e09: NoneNoneNone
-s7e10: 0.014115680.00651082-0.12260199
-s7e11: NoneNoneNone
-s7e12: NoneNoneNone
-s7e13: NoneNoneNone
-s7e14: NoneNoneNone
-s7e15: NoneNoneNone
-s7e16: NoneNoneNone
-s7e17: NoneNoneNone
-s7e18: NoneNoneNone
-s7e19: NoneNoneNone
-s7e20: NoneNoneNone
-s7e21: NoneNoneNone
-s7e22: NoneNoneNone
+s1e01: 0.00364987, 0.10189988, -0.16530466
+s1e02: -0.01371850, 0.01922031, -0.12237683
+s1e03: 0.00773964, 0.07201350, -0.16223024
+s1e04: None, None, None
+s1e05: None, None, None
+s1e06: None, None, None
+s1e07: -0.00918656, 0.04239990, -0.16054935
+s1e08: None, None, None
+s1e09: 0.00506195, 0.06934783, -0.15919628
+s1e10: 0.00735910, 0.09536057, -0.16879116
+s1e11: None, None, None
+s1e12: 0.02145352, 0.07135605, -0.16072363
+s2e01: 0.02885770, 0.08196302, -0.14674442
+s2e02: None, None, None
+s2e03: -0.00233657, 0.04870338, -0.13363280
+s2e04: None, None, None
+s2e05: None, None, None
+s2e06: None, None, None
+s2e07: None, None, None
+s2e08: None, None, None
+s2e09: None, None, None
+s2e10: None, None, None
+s2e11: 0.01178748, 0.02752691, -0.16842886
+s2e12: 0.00249938, 0.01917138, -0.17003711
+s2e13: None, None, None
+s2e14: 0.07110524, 0.12352086, -0.11859205
+s2e15: None, None, None
+s2e16: 0.00858547, -0.01085014, -0.09035256
+s2e17: -0.01551065, 0.03476068, -0.13646982
+s2e18: 0.00428636, -0.00971506, -0.17854103
+s2e19: None, None, None
+s2e20: None, None, None
+s2e21: None, None, None
+s2e22: -0.02740898, 0.06279634, -0.13028403
+s3e01: 0.02004310, 0.04149083, -0.11366487
+s3e02: -0.00054350, 0.05197648, -0.13539099
+s3e03: 0.00461381, 0.07020154, -0.13030438
+s3e04: None, None, None
+s3e05: None, None, None
+s3e06: 0.01999595, 0.06947481, -0.12954599
+s3e07: None, None, None
+s3e08: -0.00935364, 0.08961199, -0.13500083
+s3e09: None, None, None
+s3e10: 0.01491420, 0.07016138, -0.19573262
+s3e11: -0.00136032, 0.05230033, -0.12240634
+s3e12: -0.00579940, 0.11887827, -0.18215910
+s3e13: None, None, None
+s3e14: 0.00238528, 0.02572241, -0.11466752
+s3e15: None, None, None
+s3e16: None, None, None
+s3e17: None, None, None
+s3e18: 0.03633748, 0.06790966, -0.20246069
+s3e19: -0.00135277, 0.11142648, -0.19173488
+s3e20: 0.01409972, 0.07844861, -0.18169504
+s3e21: 0.02422603, 0.03621412, -0.05746567
+s3e22: None, None, None
+s4e01: -0.00484889, 0.08777759, -0.15756437
+s4e02: None, None, None
+s4e03: None, None, None
+s4e04: 0.00393775, 0.02790585, -0.14193421
+s4e05: None, None, None
+s4e06: None, None, None
+s4e07: None, None, None
+s4e08: None, None, None
+s4e09: None, None, None
+s4e10: None, None, None
+s4e11: None, None, None
+s4e12: None, None, None
+s4e13: None, None, None
+s4e14: None, None, None
+s4e15: -0.02615295, 0.06996877, -0.10668936
+s4e16: 0.00881855, 0.06771078, -0.12609720
+s4e17: None, None, None
+s4e18: None, None, None
+s4e19: None, None, None
+s4e20: None, None, None
+s4e21: None, None, None
+s4e22: 0.04491398, 0.03812733, -0.14429658
+s5e01: 0.02786107, 0.04283787, -0.19440585
+s5e02: 0.01702512, 0.04970651, -0.16071601
+s5e03: None, None, None
+s5e04: 0.02365767, 0.03329917, -0.15829233
+s5e05: 0.00405239, 0.01513577, -0.14629124
+s5e06: None, None, None
+s5e07: -0.00467047, 0.02094300, -0.19777476
+s5e08: 0.00167949, -0.01278996, -0.13896980
+s5e09: 0.00963780, 0.02437365, -0.16169503
+s5e10: 0.01167689, 0.09696632, -0.18479391
+s5e11: 0.01961811, 0.02370270, -0.16845595
+s5e12: None, None, None
+s5e13: 0.00032657, 0.02318266, -0.18542445
+s5e14: 0.00361097, 0.04579218, -0.15302792
+s5e15: 0.00542357, 0.05522016, -0.18968328
+s5e16: 0.04083375, 0.07464896, -0.06829396
+s5e17: None, None, None
+s5e18: None, None, None
+s5e19: None, None, None
+s5e20: None, None, None
+s5e21: 0.04323705, 0.11383295, -0.23293686
+s5e22: None, None, None
+s6e01: None, None, None
+s6e02: None, None, None
+s6e03: None, None, None
+s6e04: None, None, None
+s6e05: None, None, None
+s6e06: None, None, None
+s6e07: None, None, None
+s6e08: None, None, None
+s6e09: None, None, None
+s6e10: None, None, None
+s6e11: None, None, None
+s6e12: None, None, None
+s6e13: None, None, None
+s6e14: None, None, None
+s6e15: None, None, None
+s6e16: None, None, None
+s6e17: 0.01246516, 0.13505981, -0.19192613
+s6e18: None, None, None
+s6e19: None, None, None
+s6e20: None, None, None
+s6e21: None, None, None
+s6e22: None, None, None
+s7e01: None, None, None
+s7e02: None, None, None
+s7e03: None, None, None
+s7e04: None, None, None
+s7e05: None, None, None
+s7e06: None, None, None
+s7e07: None, None, None
+s7e08: None, None, None
+s7e09: None, None, None
+s7e10: 0.01411568, 0.00651082, -0.12260199
+s7e11: None, None, None
+s7e12: None, None, None
+s7e13: None, None, None
+s7e14: None, None, None
+s7e15: None, None, None
+s7e16: None, None, None
+s7e17: None, None, None
+s7e18: None, None, None
+s7e19: None, None, None
+s7e20: None, None, None
+s7e21: None, None, None
+s7e22: None, None, None

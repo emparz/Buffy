@@ -136,7 +136,7 @@ def graph_scores(character, characterScores):
     axs.grid()
 
     axs.set_xticks(np.arange(0, 145, 2))
-    axs.set_yticks(np.arange(-0.25, 0.25, .05))
+    axs.set_yticks(np.arange(-0.25, 0.25, .025))
 
     # plt.show()
     fig.tight_layout()
@@ -149,14 +149,14 @@ def graph_scores(character, characterScores):
         writing = e + ': '
         # structure
         if isinstance(characterScores[e][0], float):
-            writing += '{:.8f}'.format(characterScores[e][0])
+            writing += '{:.8f}'.format(characterScores[e][0]) + ', '
         else:
-            writing += str(characterScores[e][0])
+            writing += str(characterScores[e][0]) + ', '
         # power
         if isinstance(characterScores[e][1], float):
-            writing += '{:.8f}'.format(characterScores[e][1])
+            writing += '{:.8f}'.format(characterScores[e][1]) + ', '
         else:
-            writing += str(characterScores[e][1])
+            writing += str(characterScores[e][1]) + ', '
         # danger
         if isinstance(characterScores[e][2], float):
             writing += '{:.8f}'.format(characterScores[e][2])

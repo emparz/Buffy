@@ -103,7 +103,7 @@ def graph_episode(episode, episodeScores):
     axs.grid()
 
     axs.set_xticks(np.arange(0, 8000, 200))
-    axs.set_yticks(np.arange(-0.25, 0.25, .05))
+    axs.set_yticks(np.arange(-0.25, 0.25, .025))
 
     # plt.show()
     fig.tight_layout()
@@ -116,14 +116,14 @@ def graph_episode(episode, episodeScores):
         writing = str(e) + ': '
         # structure
         if isinstance(episodeScores[e][0], float):
-            writing += '{:.8f}'.format(episodeScores[e][0])
+            writing += '{:.8f}'.format(episodeScores[e][0]) + ', '
         else:
-            writing += str(episodeScores[e][0])
+            writing += str(episodeScores[e][0]) + ', '
         # power
         if isinstance(episodeScores[e][1], float):
-            writing += '{:.8f}'.format(episodeScores[e][1])
+            writing += '{:.8f}'.format(episodeScores[e][1]) + ', '
         else:
-            writing += str(episodeScores[e][1])
+            writing += str(episodeScores[e][1]) + ', '
         # danger
         if isinstance(episodeScores[e][2], float):
             writing += '{:.8f}'.format(episodeScores[e][2])
@@ -163,7 +163,7 @@ def graph_show(scoring, episodeScores):
     axs.grid()
 
     axs.set_xticks(np.arange(0, 145, 2))
-    axs.set_yticks(np.arange(-0.25, 0.25, .05))
+    axs.set_yticks(np.arange(-0.25, 0.25, .025))
 
     # plt.show()
     fig.tight_layout()
@@ -176,14 +176,14 @@ def graph_show(scoring, episodeScores):
         writing = e + ': '
         # structure
         if isinstance(episodeScores[e][0], float):
-            writing += '{:.8f}'.format(episodeScores[e][0])
+            writing += '{:.8f}'.format(episodeScores[e][0]) + ', '
         else:
-            writing += str(episodeScores[e][0])
+            writing += str(episodeScores[e][0]) + ', '
         # power
         if isinstance(episodeScores[e][1], float):
-            writing += '{:.8f}'.format(episodeScores[e][1])
+            writing += '{:.8f}'.format(episodeScores[e][1]) + ', '
         else:
-            writing += str(episodeScores[e][1])
+            writing += str(episodeScores[e][1]) + ', '
         # danger
         if isinstance(episodeScores[e][2], float):
             writing += '{:.8f}'.format(episodeScores[e][2])
