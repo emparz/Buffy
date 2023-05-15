@@ -121,14 +121,14 @@ def graph_scores(character, characterScores):
     axs.plot(episodes, structure, 'tab:orange', marker='o')
     axs.plot(episodes, power, 'tab:blue', marker='o')
     axs.plot(episodes, danger, 'tab:red', marker='o')
-    axs.set_title('(structure average=' + '{:.8f}'.format(averages[character][0][0]) +
-                  ', power average=' + '{:.8f}'.format(averages[character][0][1]) +
-                  ', danger average=' + '{:.8f}'.format(averages[character][0][2]) + ')')
+    axs.set_title('(structure average=' + '{:.4f}'.format(averages[character][0][0]) +
+                  ', power average=' + '{:.4f}'.format(averages[character][0][1]) +
+                  ', danger average=' + '{:.4f}'.format(averages[character][0][2]) + ')')
 
     # print(character)
-    # print('(structure average=' + '{:.8f}'.format(averages[character][0][0]) +
-    #               ', power average=' + '{:.8f}'.format(averages[character][0][1]) +
-    #               ', danger average=' + '{:.8f}'.format(averages[character][0][2]) + ')')
+    # print('(structure average=' + '{:.4f}'.format(averages[character][0][0]) +
+    #       ', power average=' + '{:.4f}'.format(averages[character][0][1]) +
+    #       ', danger average=' + '{:.4f}'.format(averages[character][0][2]) + ')')
 
     axs.set_ylabel('score', fontsize=16)
     axs.set_xlabel('episode number', fontsize=16)
@@ -149,17 +149,17 @@ def graph_scores(character, characterScores):
         writing = e + ': '
         # structure
         if isinstance(characterScores[e][0], float):
-            writing += '{:.8f}'.format(characterScores[e][0]) + ', '
+            writing += '{:.4f}'.format(characterScores[e][0]) + ', '
         else:
             writing += str(characterScores[e][0]) + ', '
         # power
         if isinstance(characterScores[e][1], float):
-            writing += '{:.8f}'.format(characterScores[e][1]) + ', '
+            writing += '{:.4f}'.format(characterScores[e][1]) + ', '
         else:
             writing += str(characterScores[e][1]) + ', '
         # danger
         if isinstance(characterScores[e][2], float):
-            writing += '{:.8f}'.format(characterScores[e][2])
+            writing += '{:.4f}'.format(characterScores[e][2])
         else:
             writing += str(characterScores[e][2])
         writing += '\n'

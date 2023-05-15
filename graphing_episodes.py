@@ -94,9 +94,9 @@ def graph_episode(episode, episodeScores):
     axs.plot(windows, structure, 'tab:orange', marker='o')
     axs.plot(windows, power, 'tab:blue', marker='o')
     axs.plot(windows, danger, 'tab:red', marker='o')
-    axs.set_title('(structure average=' + '{:.8f}'.format(averages[episode][0][0]) +
-                  ', power average=' + '{:.8f}'.format(averages[episode][0][1]) +
-                  ', danger average=' + '{:.8f}'.format(averages[episode][0][2]) + ')')
+    axs.set_title('(structure average=' + '{:.4f}'.format(averages[episode][0][0]) +
+                  ', power average=' + '{:.4f}'.format(averages[episode][0][1]) +
+                  ', danger average=' + '{:.4f}'.format(averages[episode][0][2]) + ')')
     axs.set_ylabel('score', fontsize=16)
     axs.set_xlabel('words', fontsize=16)
     axs.margins(0)
@@ -116,17 +116,17 @@ def graph_episode(episode, episodeScores):
         writing = str(e) + ': '
         # structure
         if isinstance(episodeScores[e][0], float):
-            writing += '{:.8f}'.format(episodeScores[e][0]) + ', '
+            writing += '{:.4f}'.format(episodeScores[e][0]) + ', '
         else:
             writing += str(episodeScores[e][0]) + ', '
         # power
         if isinstance(episodeScores[e][1], float):
-            writing += '{:.8f}'.format(episodeScores[e][1]) + ', '
+            writing += '{:.4f}'.format(episodeScores[e][1]) + ', '
         else:
             writing += str(episodeScores[e][1]) + ', '
         # danger
         if isinstance(episodeScores[e][2], float):
-            writing += '{:.8f}'.format(episodeScores[e][2])
+            writing += '{:.4f}'.format(episodeScores[e][2])
         else:
             writing += str(episodeScores[e][2])
         writing += '\n'
@@ -154,9 +154,9 @@ def graph_show(scoring, episodeScores):
     axs.plot(episodes, structure, 'tab:orange', marker='o')
     axs.plot(episodes, power, 'tab:blue', marker='o')
     axs.plot(episodes, danger, 'tab:red', marker='o')
-    axs.set_title('(structure average=' + '{:.8f}'.format(averages[scoring][0][0]) +
-                  ', power average=' + '{:.8f}'.format(averages[scoring][0][1]) +
-                  ', danger average=' + '{:.8f}'.format(averages[scoring][0][2]) + ')')
+    axs.set_title('(structure average=' + '{:.4f}'.format(averages[scoring][0][0]) +
+                  ', power average=' + '{:.4f}'.format(averages[scoring][0][1]) +
+                  ', danger average=' + '{:.4f}'.format(averages[scoring][0][2]) + ')')
     axs.set_ylabel('score', fontsize=16)
     axs.set_xlabel('episode number', fontsize=16)
     axs.margins(0)
@@ -176,17 +176,17 @@ def graph_show(scoring, episodeScores):
         writing = e + ': '
         # structure
         if isinstance(episodeScores[e][0], float):
-            writing += '{:.8f}'.format(episodeScores[e][0]) + ', '
+            writing += '{:.4f}'.format(episodeScores[e][0]) + ', '
         else:
             writing += str(episodeScores[e][0]) + ', '
         # power
         if isinstance(episodeScores[e][1], float):
-            writing += '{:.8f}'.format(episodeScores[e][1]) + ', '
+            writing += '{:.4f}'.format(episodeScores[e][1]) + ', '
         else:
             writing += str(episodeScores[e][1]) + ', '
         # danger
         if isinstance(episodeScores[e][2], float):
-            writing += '{:.8f}'.format(episodeScores[e][2])
+            writing += '{:.4f}'.format(episodeScores[e][2])
         else:
             writing += str(episodeScores[e][2])
         writing += '\n'
