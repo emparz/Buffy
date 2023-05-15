@@ -11,6 +11,7 @@ numCharacters = {}
 dialoguePerEpisode = {}
 
 
+# put methods in here that need to be done for every episode (file)
 def do_for_every_season(file):
     wordsPerEpisode[file] = graphing_methods.get_num_words(file)
     numCharacters[file] = graphing_methods.get_num_chars(file)
@@ -49,14 +50,17 @@ def graphing_totals():
         filename = analysis_methods.create_filename('s7e', e)
         do_for_every_season(filename)
 
-    # graph number of words
+    # values we will be graphing
     episodes = list(range(1, 145, 1))
     numWords = list(wordsPerEpisode.values())
     numDialogue = list(dialoguePerEpisode.values())
     numChars = list(numCharacters.values())
 
     ''' graphing '''
+    # no method for graphing in this file because each one is individualized
     plt.rcParams['figure.figsize'] = [25, 10]
+
+    # graphing total number of words per episode
     fig, axs = plt.subplots(1)
     fig.suptitle('words per episode', fontsize=20)
     axs.plot(episodes, numWords, 'tab:green', marker='o')
@@ -75,6 +79,7 @@ def graphing_totals():
         totalWordsFile.write(e + ": " + str(wordsPerEpisode[e]) + "\n")
     totalWordsFile.close()
 
+    # graphing number of characters per episode
     fig, axs = plt.subplots(1)
     fig.suptitle('characters per episode', fontsize=20)
     axs.plot(episodes, numChars, 'tab:green', marker='o')
@@ -93,6 +98,7 @@ def graphing_totals():
         totalWordsFile.write(e + ": " + str(numCharacters[e]) + "\n")
     totalWordsFile.close()
 
+    # graphing total number of dialogue words per episode
     fig, axs = plt.subplots(1)
     fig.suptitle('dialogue words per episode', fontsize=20)
     axs.plot(episodes, numDialogue, 'tab:green', marker='o')

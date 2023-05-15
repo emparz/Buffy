@@ -1,3 +1,6 @@
+"""
+the one we actually run
+"""
 import season1
 import season2
 import season3

@@ -4,55 +4,10 @@ methods for fixing the scripts, used in season files
 import re
 
 
-def fix_line_breaks(line):
-    newLineIndex = line.find('\n')  # the index of /n
-    lastCharacterIndex = newLineIndex - 1  # the last character index is right before /n
-    lastCharacter = line[lastCharacterIndex: newLineIndex]  # python substrings start included, end not
-
-    # if the last character of a line is NOT punctuation, then assume it was a continuation from the previous line
-    if not (lastCharacter == '.' or lastCharacter == '?' or lastCharacter == '!'
-            or lastCharacter == '.\'' or lastCharacter == '?\'' or lastCharacter == '!\''
-            or lastCharacter == '.\"' or lastCharacter == '?\"' or lastCharacter == '!\"'
-            or lastCharacter == ')' or lastCharacter == '*'):
-        line = line[:newLineIndex]
-        line += ' '
-
-    # check for exceptions (if the last word of a line is Mr., Dr., etc)
-    if lastCharacter == '.':
-        lastSpaceIndex = line.rfind(' ')  # the index of the last space in the line
-        lastWord = line[lastSpaceIndex + 1: newLineIndex]
-        if lastWord == 'Dr.' or lastWord == 'Mr.' or lastWord == 'Mrs.' or lastWord == 'Det.':
-            # remove the newline character and add a space
-            line = line[:newLineIndex]
-            line += ' '
-    return line
-
-
-# if a line of dialogue on one line ends with a period, but is actually continued on the next line,
-# we want to see if this next line is more dialogue or scene direction
-def fix_unclear_punc(line1, line2):
-    newLineIndex = line1.find('\n')  # the index of /n
-    # check if line1 is dialogue and line2 is NOT dialogue
-    colonIndex1 = line1.find(':')
-    colonIndex2 = line2.find(':')
-    if not colonIndex1 == -1 and colonIndex2 == -1:
-        # if the line2 contains "I ", "we ", "We", "we're ", "We're " it's more dialogue
-        if 'I ' in line2 or \
-                'we ' in line2 or 'We ' in line2 or \
-                'we\'re ' in line2 or 'We\'re ' in line2 or \
-                'you ' in line2 or 'You ' in line2 or \
-                'you\'re ' in line2 or 'You\'re ' in line2:
-            line1 = line1[:newLineIndex]
-            line1 += ' '
-        # if line2 starts with an open parenthesis, it's more dialogue
-        indexOfOpenParen = line2.find('(')
-        if indexOfOpenParen == 0:
-            line1 = line1[:newLineIndex]
-            line1 += ' '
-    return line1
-
-
-# add 'scene change:' or 'scene direction:' to the beginning of a line and move directions inside dialogue to own line
+# given a line
+# if it's not dialogue, add 'scene change:' or 'scene direction:' to the beginning of the line --> return line
+# if it is dialogue, look for scene directions within line, marked by (), move directions to own line --> return lines
+# used: 1, 2, 3, 4, 5, 6, 7
 def add_scene_dir(line):
     # if this is a line of dialogue it will end with a :
     colonIndex = line.find(':')
@@ -74,8 +29,8 @@ def add_scene_dir(line):
         if 0 < openParenIndex < colonIndex:
             closeParenIndex = currLine.find(')')  # represents the index of a closed parenthesis
             # remove the parenthesis
-            currLine = currLine[0:openParenIndex] + currLine[openParenIndex + 1:closeParenIndex] \
-                       + currLine[closeParenIndex + 1:]
+            currLine = currLine[0:openParenIndex] + currLine[openParenIndex
+                                                             + 1:closeParenIndex] + currLine[closeParenIndex + 1:]
             # reset the following values:
             speaker = currLine[:colonIndex]  # the substring up to the colon
             openParenIndex = currLine.find('(')  # represents the index of an open parenthesis
@@ -112,8 +67,11 @@ def add_scene_dir(line):
     return line
 
 
-# add 'scene change:' or 'scene direction:' to the beginning of a line
-# and move directions inside dialogue (and within speaker!) to own line
+# given a line
+# if it's not dialogue, add 'scene change:' or 'scene direction:' to the beginning of the line --> return line
+# if it is dialogue, look for scene directions within line (and within speaker!), marked by (),
+# move directions to their own line --> return lines
+# used: 3, 4
 def fix_dialogue_and_dir(line):
     # if this is a line of dialogue it will have a :
     colonIndex = line.find(':')
@@ -192,7 +150,66 @@ def fix_dialogue_and_dir(line):
     return newLine
 
 
-# for season 4, episode 9
+# given a line
+# if the line does NOT end in punctuation (or the punctuation is preceded by a title) --> strip /n and return line
+# otherwise --> return line unchanged
+# used: 1, 2, 3, 4, 5, 6
+def fix_line_breaks(line):
+    newLineIndex = line.find('\n')  # the index of /n
+    lastCharacterIndex = newLineIndex - 1  # the last character index is right before /n
+    lastCharacter = line[lastCharacterIndex: newLineIndex]  # python substrings start included, end not
+
+    # if the last character of a line is NOT punctuation, then assume it was a continuation from the previous line
+    if not (lastCharacter == '.' or lastCharacter == '?' or lastCharacter == '!'
+            or lastCharacter == '.\'' or lastCharacter == '?\'' or lastCharacter == '!\''
+            or lastCharacter == '.\"' or lastCharacter == '?\"' or lastCharacter == '!\"'
+            or lastCharacter == ')' or lastCharacter == '*'):
+        line = line[:newLineIndex]
+        line += ' '
+
+    # check for exceptions (if the last word of a line is Mr., Dr., etc)
+    if lastCharacter == '.':
+        lastSpaceIndex = line.rfind(' ')  # the index of the last space in the line
+        lastWord = line[lastSpaceIndex + 1: newLineIndex]
+        if lastWord == 'Dr.' or lastWord == 'Mr.' or lastWord == 'Mrs.' or lastWord == 'Det.':
+            # remove the newline character and add a space
+            line = line[:newLineIndex]
+            line += ' '
+    return line
+
+
+# given two lines
+# if the line #1 has a speaker and line #2 does NOT, check if line #2 is a continuation of dialogue or scene direction
+# it's more dialogue if line #2 has 1st/2nd person pronouns or starts with open parenthesis
+# --> strip /n on line #1 and return
+# otherwise --> return line #1 unchanged
+# used: 1, 2, 3, 4
+def fix_unclear_punc(line1, line2):
+    newLineIndex = line1.find('\n')  # the index of /n
+    # check if line1 is dialogue and line2 is NOT dialogue
+    colonIndex1 = line1.find(':')
+    colonIndex2 = line2.find(':')
+    if not colonIndex1 == -1 and colonIndex2 == -1:
+        # if the line2 contains "I ", "we ", "We", "we're ", "We're " it's more dialogue
+        if 'I ' in line2 or \
+                'we ' in line2 or 'We ' in line2 or \
+                'we\'re ' in line2 or 'We\'re ' in line2 or \
+                'you ' in line2 or 'You ' in line2 or \
+                'you\'re ' in line2 or 'You\'re ' in line2:
+            line1 = line1[:newLineIndex]
+            line1 += ' '
+        # if line2 starts with an open parenthesis, it's more dialogue
+        indexOfOpenParen = line2.find('(')
+        if indexOfOpenParen == 0:
+            line1 = line1[:newLineIndex]
+            line1 += ' '
+    return line1
+
+
+# given a line
+# if the line is surrounded by () --> remove () and return line
+# otherwise --> return line unchanged
+# used: 4 (episode 9)
 def remove_parenthesis(line):
     newLineIndex = line.find('\n')  # the index of /n
     lastCharacterIndex = newLineIndex - 1  # the last character index is right before /n
@@ -204,23 +221,15 @@ def remove_parenthesis(line):
     return line
 
 
-# when the speaker is all uppercase
-def fix_uppercase(line):
-    # if this is a line of dialogue it will have a:
-    colonIndex = line.find(':')
-    if not colonIndex == -1:
-        speaker = line[:colonIndex]  # the substring up to the colon
-        return speaker.title() + line[colonIndex:]
-    return line
-
-
-# for season 7 and 5 when the speaker and dialogue are on different lines
+# given a line
+# if it's a cut --> return ''
+# if line is all uppercase --> figure out if it's a character speaking or scene directions, fix and return line
+# otherwise --> return line unchanged
+# used: 5, 7 (when the speaker and dialogue are on different lines)
 def change_dialogue_style(line):
-    # if the line is "Cut to:" we want to remove the new line character at the end
+    # if the line is "Cut to:", delete line
     if line == 'Cut to:\n':
-        # return without new line and colon
         return ''
-
     # if the line is all uppercase
     if line.isupper():
         firstCharacter = line[0:1]  # the first character of the line
@@ -234,5 +243,4 @@ def change_dialogue_style(line):
             newLineIndex = line.find('\n')  # the index of /n
             line = line.title()
             return line[:newLineIndex] + ': '  # return line with proper casing, no newline, and a colon
-
     return line

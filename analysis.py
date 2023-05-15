@@ -2,6 +2,7 @@
 import analysis_methods
 
 
+# put methods in here that need to be done for every episode (file)
 def do_for_every_season(file):
     allLines = analysis_methods.get_all_lines(file)
     # take all the lines from the episode and write to file

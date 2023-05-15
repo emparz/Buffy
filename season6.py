@@ -30,23 +30,6 @@ def season6():
         edited_w.close()
         # *************************
 
-        # """FIX ALL-UPPERCASE SPEAKER"""
-        # edited_r = open('scripts_edited/' + filename + '.txt', 'r')
-        # in_progress_w = open('progress.txt', 'w')
-        # for l in edited_r:
-        #     l = methods.fix_uppercase(l)  # change the speaker lines so they're not uppercase
-        #     in_progress_w.write(l)  # write fixed line to in progress file
-        # edited_r.close()
-        # in_progress_w.close()
-        # # **** write to edited ****
-        # in_progress_r = open('progress.txt', 'r')
-        # edited_w = open('scripts_edited/' + filename + '.txt', 'w')
-        # for l in in_progress_r:
-        #     edited_w.write(l)
-        # in_progress_r.close()
-        # edited_w.close()
-        # # *************************
-
         '''ADD SCENE DIRECTIONS'''
         edited_r = open('scripts_edited/' + filename + '.txt', 'r')
         in_progress_w = open('progress.txt', 'w')

@@ -10,6 +10,11 @@ import numpy as np
 wordsPerEpisode = {}
 dialoguePerEpisode = {}
 
+# 'episode/what we're counting for the entire show': [[structure, power, danger], total words]
+averages = {'dialogue': [[0.0, 0.0, 0.0], 0.0], 'words': [[0.0, 0.0, 0.0], 0.0],
+            's1e01': [[0.0, 0.0, 0.0], 0.0], 's1e12': [[0.0, 0.0, 0.0], 0.0]}
+
+
 ''' get the ousiometry data '''
 scores = open('data/ousiometry_data_augmented.tsv', 'r')
 scoringDict = {}
@@ -22,6 +27,7 @@ for line in scores:
 scores.close()
 
 
+# put methods in here that need to be done for every episode (file)
 def do_for_every_season(file):
     episode = open('data/per_episode/' + file + '.txt', 'r')
     words = []
@@ -38,13 +44,17 @@ def do_for_every_season(file):
     episode.close()
 
 
-def get_scores(episode):
+# given what's being scored: episode name, words in series, dialogue (string)
+# and the lines we're looking at for an episode: a window or words, all words, all dialogue (list)
+# sum up the scores, add to the average count
+# return the average score for structure, power, danger
+def get_scores(scoring, lines):
     structureTotal = 0.0
     powerTotal = 0.0
     dangerTotal = 0.0
     numValidWords = 0.0
     # get the scores for the episode
-    for word in episode:
+    for word in lines:
         word = word.strip()
         word = word.lower()
         if word in scoringDict.keys():
@@ -54,13 +64,19 @@ def get_scores(episode):
             structureTotal += float(scoringDict[word][0])
             powerTotal += float(scoringDict[word][1])
             dangerTotal += float(scoringDict[word][2])
+
+    # add to averages
+    averages[scoring][0][0] += structureTotal
+    averages[scoring][0][1] += powerTotal
+    averages[scoring][0][2] += dangerTotal
+    averages[scoring][1] += numValidWords
     # this value will be 0 if a character doesn't have any lines in an episode
-    if not numValidWords == 0.0:
+    if numValidWords > 20:
         return structureTotal/numValidWords, powerTotal/numValidWords, dangerTotal/numValidWords
-    return 0.0, 0.0, 0.0
+    return None, None, None
 
 
-# create and save graphs for each character
+# given the episode name and all the scores per window, graph
 def graph_episode(episode, episodeScores):
     plt.rcParams['figure.figsize'] = [25, 10]
     fig, axs = plt.subplots(1)
@@ -78,6 +94,9 @@ def graph_episode(episode, episodeScores):
     axs.plot(windows, structure, 'tab:orange', marker='o')
     axs.plot(windows, power, 'tab:blue', marker='o')
     axs.plot(windows, danger, 'tab:red', marker='o')
+    axs.set_title('(structure average=' + '{:.8f}'.format(averages[episode][0][0]) +
+                  ', power average=' + '{:.8f}'.format(averages[episode][0][1]) +
+                  ', danger average=' + '{:.8f}'.format(averages[episode][0][2]) + ')')
     axs.set_ylabel('score', fontsize=16)
     axs.set_xlabel('words', fontsize=16)
     axs.margins(0)
@@ -94,34 +113,38 @@ def graph_episode(episode, episodeScores):
     # also write words per episode to file to make it easier to read
     totalWordsFile = open('plots/plotsData/' + episode + 'Scores.txt', 'w')
     for e in episodeScores:
-        totalWordsFile.write(str(e) + ': ' + str(episodeScores[e][0]) + ', ' +
-                             str(episodeScores[e][1]) + ', ' + str(episodeScores[e][0]) + '\n')
+        writing = str(e) + ': '
+        # structure
+        if isinstance(episodeScores[e][0], float):
+            writing += '{:.8f}'.format(episodeScores[e][0])
+        else:
+            writing += str(episodeScores[e][0])
+        # power
+        if isinstance(episodeScores[e][1], float):
+            writing += '{:.8f}'.format(episodeScores[e][1])
+        else:
+            writing += str(episodeScores[e][1])
+        # danger
+        if isinstance(episodeScores[e][2], float):
+            writing += '{:.8f}'.format(episodeScores[e][2])
+        else:
+            writing += str(episodeScores[e][2])
+        writing += '\n'
+        totalWordsFile.write(writing)
     totalWordsFile.close()
 
 
-# create and save graphs for each character
+# given what's being graphed (dialogue vs all words) and scores for each episode, graph
 def graph_show(scoring, episodeScores):
     # put structure, power, danger scores into lists
     structure = []
     power = []
     danger = []
-    # for getting character average scores
-    structureTotal = 0.0
-    powerTotal = 0.0
-    dangerTotal = 0.0
-    totalEpisodes = 0
+
     for e in episodeScores:
-        strct = episodeScores[e][0]
-        structure.append(strct)
-        pwr = episodeScores[e][1]
-        power.append(pwr)
-        dngr = episodeScores[e][2]
-        danger.append(dngr)
-        if isinstance(strct, float) and isinstance(pwr, float) and isinstance(dngr, float):
-            structureTotal += strct
-            powerTotal += pwr
-            dangerTotal += dngr
-            totalEpisodes += 1
+        structure.append(episodeScores[e][0])
+        power.append(episodeScores[e][1])
+        danger.append(episodeScores[e][2])
 
     plt.rcParams['figure.figsize'] = [25, 10]
     fig, axs = plt.subplots(1)
@@ -131,8 +154,9 @@ def graph_show(scoring, episodeScores):
     axs.plot(episodes, structure, 'tab:orange', marker='o')
     axs.plot(episodes, power, 'tab:blue', marker='o')
     axs.plot(episodes, danger, 'tab:red', marker='o')
-    axs.set_title('(structure ave=' + str(structureTotal / totalEpisodes) + ', power ave=' +
-                  str(powerTotal / totalEpisodes) + ', danger ave=' + str(dangerTotal / totalEpisodes) + ')', fontsize=16)
+    axs.set_title('(structure average=' + '{:.8f}'.format(averages[scoring][0][0]) +
+                  ', power average=' + '{:.8f}'.format(averages[scoring][0][1]) +
+                  ', danger average=' + '{:.8f}'.format(averages[scoring][0][2]) + ')')
     axs.set_ylabel('score', fontsize=16)
     axs.set_xlabel('episode number', fontsize=16)
     axs.margins(0)
@@ -149,8 +173,24 @@ def graph_show(scoring, episodeScores):
     # also write words per episode to file to make it easier to read
     totalWordsFile = open('plots/plotsData/all' + scoring + 'Scores.txt', 'w')
     for e in episodeScores:
-        totalWordsFile.write(e + ": " + str(episodeScores[e][0]) + ", " +
-                             str(episodeScores[e][1]) + ", " + str(episodeScores[e][0]) + "\n")
+        writing = e + ': '
+        # structure
+        if isinstance(episodeScores[e][0], float):
+            writing += '{:.8f}'.format(episodeScores[e][0])
+        else:
+            writing += str(episodeScores[e][0])
+        # power
+        if isinstance(episodeScores[e][1], float):
+            writing += '{:.8f}'.format(episodeScores[e][1])
+        else:
+            writing += str(episodeScores[e][1])
+        # danger
+        if isinstance(episodeScores[e][2], float):
+            writing += '{:.8f}'.format(episodeScores[e][2])
+        else:
+            writing += str(episodeScores[e][2])
+        writing += '\n'
+        totalWordsFile.write(writing)
     totalWordsFile.close()
 
 
@@ -196,16 +236,16 @@ def graphing_episodes():
     ''' get the scores for every episode (all words)'''
     totalWordsScores = {}
     for w in wordsPerEpisode:
-        totalWordsScores[w] = get_scores(wordsPerEpisode[w])
+        totalWordsScores[w] = get_scores('words', wordsPerEpisode[w])
     graph_show('words', totalWordsScores)
 
     ''' get the scores for every episode (dialogue only)'''
     totalDialogueScores = {}
     for w in dialoguePerEpisode:
-        totalDialogueScores[w] = get_scores(dialoguePerEpisode[w])
+        totalDialogueScores[w] = get_scores('words', dialoguePerEpisode[w])
     graph_show('dialogue', totalDialogueScores)
 
-    ''' put season 1, episode 1 words into list '''
+    ''' put episode's words into list '''
     s1e01Words = []
     episodeWords = open('data/per_episode/s1e01.txt', 'r')
     for l in episodeWords:
@@ -218,15 +258,15 @@ def graphing_episodes():
         s1e12Words.append(l)
     episodeWords.close()
 
-    ''' get the scores for episode with function '''
+    ''' get the scores for episode '''
     s1e01Scores = {}
     windowSize = 100
     for w in range(0, len(s1e01Words), windowSize):
-        s1e01Scores[w + windowSize] = get_scores(s1e01Words[w:w + windowSize])
+        s1e01Scores[w + windowSize] = get_scores('s1e01', s1e01Words[w:w + windowSize])
     graph_episode('s1e01', s1e01Scores)
 
     s1e12Scores = {}
     windowSize = 100
     for w in range(0, len(s1e12Words), windowSize):
-        s1e12Scores[w + windowSize] = get_scores(s1e12Words[w:w + windowSize])
+        s1e12Scores[w + windowSize] = get_scores('s1e12', s1e12Words[w:w + windowSize])
     graph_episode('s1e12', s1e12Scores)

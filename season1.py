@@ -33,7 +33,6 @@ def season1():
         '''FIX WEIRD LINES'''
         edited_r = open('scripts_edited/' + filename + '.txt', 'r')
         in_progress_w = open('progress.txt', 'w')
-        l1 = ''
         l2 = ''
         for l in edited_r:
             l1 = l2  # l1 is the previous line

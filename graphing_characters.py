@@ -21,6 +21,7 @@ taraLines = {}
 anyaLines = {}
 spikeLines = {}
 
+# 'character': [[structure, power, danger], total words said]
 averages = {'buffy': [[0.0, 0.0, 0.0], 0.0], 'willow': [[0.0, 0.0, 0.0], 0.0], 'xander': [[0.0, 0.0, 0.0], 0.0],
             'giles': [[0.0, 0.0, 0.0], 0.0], 'angel': [[0.0, 0.0, 0.0], 0.0], 'cordelia': [[0.0, 0.0, 0.0], 0.0],
             'dawn': [[0.0, 0.0, 0.0], 0.0], 'oz': [[0.0, 0.0, 0.0], 0.0], 'joyce': [[0.0, 0.0, 0.0], 0.0],
@@ -39,6 +40,7 @@ for line in scores:
 scores.close()
 
 
+# put methods in here that need to be done for every episode (file)
 def do_for_every_season(file):
     buffyLines[file] = graphing_methods.get_character_lines("buffy", file)
     willowLines[file] = graphing_methods.get_character_lines("willow", file)
@@ -56,14 +58,126 @@ def do_for_every_season(file):
     spikeLines[file] = graphing_methods.get_character_lines("spike", file)
 
 
+# given a character (string)
+# go into the global variable averages
+# reset the values for structure, power, danger to their average structure, power, danger scores
+def find_averages(character):
+    averages[character][0][0] = averages[character][0][0] / averages[character][1]
+    averages[character][0][1] = averages[character][0][1] / averages[character][1]
+    averages[character][0][2] = averages[character][0][2] / averages[character][1]
+
+
+# given a character (string) and all their lines for an episode (list)
+# sum up the scores, add to the average count
+# return the average score for structure, power, danger
+def get_scores(character, lines):
+    structureTotal = 0.0
+    powerTotal = 0.0
+    dangerTotal = 0.0
+    numValidWords = 0.0
+    # get the scores for the episode
+    for word in lines:
+        word = word.strip()
+        word = word.lower()
+        if word in scoringDict.keys():
+            # for testing
+            # print(word + " found")
+            # add the values of this word to the totals
+            numValidWords += 1.0
+            structureTotal += float(scoringDict[word][0])
+            powerTotal += float(scoringDict[word][1])
+            dangerTotal += float(scoringDict[word][2])
+
+    # add to averages
+    averages[character][0][0] += structureTotal
+    averages[character][0][1] += powerTotal
+    averages[character][0][2] += dangerTotal
+    averages[character][1] += numValidWords
+
+    # only want to count scores if character has more than 20 words
+    if numValidWords > 20:
+        return structureTotal / numValidWords, powerTotal / numValidWords, dangerTotal / numValidWords
+    return None, None, None
+
+
+# given a character (string) and their scores in a dictionary
+# create and save graphs for each character
+def graph_scores(character, characterScores):
+    # put structure, power, danger scores into lists
+    structure = []
+    power = []
+    danger = []
+    for e in characterScores:
+        structure.append(characterScores[e][0])
+        power.append(characterScores[e][1])
+        danger.append(characterScores[e][2])
+
+    ''' graphing '''
+    plt.rcParams['figure.figsize'] = [25, 10]
+    fig, axs = plt.subplots(1)
+    fig.suptitle(character + ' scores per episode', fontsize=20)
+    # graph the characters scores
+    episodes = list(range(1, 145, 1))
+    axs.plot(episodes, structure, 'tab:orange', marker='o')
+    axs.plot(episodes, power, 'tab:blue', marker='o')
+    axs.plot(episodes, danger, 'tab:red', marker='o')
+    axs.set_title('(structure average=' + '{:.8f}'.format(averages[character][0][0]) +
+                  ', power average=' + '{:.8f}'.format(averages[character][0][1]) +
+                  ', danger average=' + '{:.8f}'.format(averages[character][0][2]) + ')')
+
+    # print(character)
+    # print('(structure average=' + '{:.8f}'.format(averages[character][0][0]) +
+    #               ', power average=' + '{:.8f}'.format(averages[character][0][1]) +
+    #               ', danger average=' + '{:.8f}'.format(averages[character][0][2]) + ')')
+
+    axs.set_ylabel('score', fontsize=16)
+    axs.set_xlabel('episode number', fontsize=16)
+    axs.margins(0)
+    axs.grid()
+
+    axs.set_xticks(np.arange(0, 145, 2))
+    axs.set_yticks(np.arange(-0.25, 0.25, .05))
+
+    # plt.show()
+    fig.tight_layout()
+    plt.savefig('plots/' + character + 'Scores.png')
+    plt.close()
+
+    # also write words per episode to file to make it easier to read
+    totalWordsFile = open('plots/plotsData/' + character + 'Scores.txt', 'w')
+    for e in characterScores:
+        writing = e + ': '
+        # structure
+        if isinstance(characterScores[e][0], float):
+            writing += '{:.8f}'.format(characterScores[e][0])
+        else:
+            writing += str(characterScores[e][0])
+        # power
+        if isinstance(characterScores[e][1], float):
+            writing += '{:.8f}'.format(characterScores[e][1])
+        else:
+            writing += str(characterScores[e][1])
+        # danger
+        if isinstance(characterScores[e][2], float):
+            writing += '{:.8f}'.format(characterScores[e][2])
+        else:
+            writing += str(characterScores[e][2])
+        writing += '\n'
+        totalWordsFile.write(writing)
+    totalWordsFile.close()
+
+
+# given a character (string) and their lines (dictionary)
 # create and save graphs for each character
 def graph_total_words(character, lines):
+    # returns a dictionary with each episode and the number of lines the character has in it,
+    # and the total number of words a character says
     wordsPerEp, totWords = graphing_methods.count_character_words(lines)
+
     ''' graphing '''
     plt.rcParams['figure.figsize'] = [25, 10]
     fig, axs = plt.subplots(1)
     fig.suptitle(character + ' # of words (total=' + str(totWords) + ')', fontsize=20)
-
     # graph number of words
     episodes = list(range(1, 145, 1))
     numWords = list(wordsPerEp.values())
@@ -84,89 +198,6 @@ def graph_total_words(character, lines):
     for e in wordsPerEp:
         totalWordsFile.write(e + ": " + str(wordsPerEp[e]) + "\n")
     totalWordsFile.close()
-
-
-def get_scores(episode, character):
-    structureTotal = 0.0
-    powerTotal = 0.0
-    dangerTotal = 0.0
-    numValidWords = 0.0
-    # get the scores for the episode
-    for word in episode:
-        word = word.strip()
-        word = word.lower()
-        if word in scoringDict.keys():
-            # print(word + " found")
-            # add the values of this word to the totals
-            numValidWords += 1.0
-            structureTotal += float(scoringDict[word][0])
-            powerTotal += float(scoringDict[word][1])
-            dangerTotal += float(scoringDict[word][2])
-
-    # add to averages
-    averages[character][0][0] += structureTotal
-    averages[character][0][1] += powerTotal
-    averages[character][0][2] += dangerTotal
-    averages[character][1] += numValidWords
-    # this value will be 0 if a character doesn't have any lines in an episode
-    # only counting if character has more than 20 words
-    if numValidWords > 20:
-        return structureTotal / numValidWords, powerTotal / numValidWords, dangerTotal / numValidWords
-    return None, None, None
-
-
-# create and save graphs for each character
-def graph_scores(character, characterScores):
-    # put structure, power, danger scores into lists
-    structure = []
-    power = []
-    danger = []
-
-    for e in characterScores:
-        structure.append(characterScores[e][0])
-        power.append(characterScores[e][1])
-        danger.append(characterScores[e][2])
-
-    plt.rcParams['figure.figsize'] = [25, 10]
-    fig, axs = plt.subplots(1)
-    fig.suptitle(character + ' scores per episode', fontsize=20)
-    # graph the characters scores
-    episodes = list(range(1, 145, 1))
-    axs.plot(episodes, structure, 'tab:orange', marker='o')
-    axs.plot(episodes, power, 'tab:blue', marker='o')
-    axs.plot(episodes, danger, 'tab:red', marker='o')
-    axs.set_title('(structure average=' + "{:.5f}".format(averages[character][0][0]) +
-                  ', power average=' + "{:.5f}".format(averages[character][0][1]) +
-                  ', danger average=' + "{:.5f}".format(averages[character][0][2]) + ')')
-    # print(character)
-    # print('(structure average=' + "{:.5f}".format(averages[character][0][0]) +
-    #               ', power average=' + "{:.5f}".format(averages[character][0][1]) +
-    #               ', danger average=' + "{:.5f}".format(averages[character][0][2]) + ')')
-    axs.set_ylabel('score', fontsize=16)
-    axs.set_xlabel('episode number', fontsize=16)
-    axs.margins(0)
-    axs.grid()
-
-    axs.set_xticks(np.arange(0, 145, 2))
-    axs.set_yticks(np.arange(-0.25, 0.25, .05))
-
-    # plt.show()
-    fig.tight_layout()
-    plt.savefig('plots/' + character + 'Scores.png')
-    plt.close()
-
-    # also write words per episode to file to make it easier to read
-    totalWordsFile = open('plots/plotsData/' + character + 'Scores.txt', 'w')
-    for e in characterScores:
-        totalWordsFile.write(e + ": " + str(characterScores[e][0]) + ", " +
-                             str(characterScores[e][1]) + ", " + str(characterScores[e][0]) + "\n")
-    totalWordsFile.close()
-
-
-def calculate_averages(character):
-    averages[character][0][0] = averages[character][0][0] / averages[character][1]
-    averages[character][0][1] = averages[character][0][1] / averages[character][1]
-    averages[character][0][2] = averages[character][0][2] / averages[character][1]
 
 
 # if __name__ == '__main__':
@@ -208,65 +239,65 @@ def graphing_characters():
         filename = analysis_methods.create_filename('s7e', ep)
         do_for_every_season(filename)
 
-    ''' get the character scores with function '''
+    ''' get the character's scores '''
     buffyScores = {}
     for ep in buffyLines:
-        buffyScores[ep] = get_scores(buffyLines[ep], 'buffy')
+        buffyScores[ep] = get_scores('buffy', buffyLines[ep])
     willowScores = {}
     for ep in willowLines:
-        willowScores[ep] = get_scores(willowLines[ep], 'willow')
+        willowScores[ep] = get_scores('willow', willowLines[ep])
     xanderScores = {}
     for ep in xanderLines:
-        xanderScores[ep] = get_scores(xanderLines[ep], 'xander')
+        xanderScores[ep] = get_scores('xander', xanderLines[ep])
     gilesScores = {}
     for ep in gilesLines:
-        gilesScores[ep] = get_scores(gilesLines[ep], 'giles')
+        gilesScores[ep] = get_scores('giles', gilesLines[ep])
     angelScores = {}
     for ep in angelLines:
-        angelScores[ep] = get_scores(angelLines[ep], 'angel')
+        angelScores[ep] = get_scores('angel', angelLines[ep])
     cordeliaScores = {}
     for ep in cordeliaLines:
-        cordeliaScores[ep] = get_scores(cordeliaLines[ep], 'cordelia')
+        cordeliaScores[ep] = get_scores('cordelia', cordeliaLines[ep])
     dawnScores = {}
     for ep in dawnLines:
-        dawnScores[ep] = get_scores(dawnLines[ep], 'dawn')
+        dawnScores[ep] = get_scores('dawn', dawnLines[ep])
     ozScores = {}
     for ep in ozLines:
-        ozScores[ep] = get_scores(ozLines[ep], 'oz')
+        ozScores[ep] = get_scores('oz', ozLines[ep])
     joyceScores = {}
     for ep in joyceLines:
-        joyceScores[ep] = get_scores(joyceLines[ep], 'joyce')
+        joyceScores[ep] = get_scores('joyce', joyceLines[ep])
     faithScores = {}
     for ep in faithLines:
-        faithScores[ep] = get_scores(faithLines[ep], 'faith')
+        faithScores[ep] = get_scores('faith', faithLines[ep])
     druScores = {}
     for ep in druLines:
-        druScores[ep] = get_scores(druLines[ep], 'drusilla')
+        druScores[ep] = get_scores('drusilla', druLines[ep])
     taraScores = {}
     for ep in taraLines:
-        taraScores[ep] = get_scores(taraLines[ep], 'tara')
+        taraScores[ep] = get_scores('tara', taraLines[ep])
     anyaScores = {}
     for ep in anyaLines:
-        anyaScores[ep] = get_scores(anyaLines[ep], 'anya')
+        anyaScores[ep] = get_scores('anya', anyaLines[ep])
     spikeScores = {}
     for ep in spikeLines:
-        spikeScores[ep] = get_scores(spikeLines[ep], 'spike')
+        spikeScores[ep] = get_scores('spike', spikeLines[ep])
 
-    # calculate averages for all characters
-    calculate_averages('buffy')
-    calculate_averages('willow')
-    calculate_averages('xander')
-    calculate_averages('giles')
-    calculate_averages('angel')
-    calculate_averages('cordelia')
-    calculate_averages('dawn')
-    calculate_averages('oz')
-    calculate_averages('joyce')
-    calculate_averages('faith')
-    calculate_averages('drusilla')
-    calculate_averages('tara')
-    calculate_averages('anya')
-    calculate_averages('spike')
+    '''calculate averages for all characters'''
+    find_averages('buffy')
+    find_averages('willow')
+    find_averages('xander')
+    find_averages('giles')
+    find_averages('angel')
+    find_averages('cordelia')
+    find_averages('dawn')
+    find_averages('oz')
+    find_averages('joyce')
+    find_averages('faith')
+    find_averages('drusilla')
+    find_averages('tara')
+    find_averages('anya')
+    find_averages('spike')
 
     ''' graphing scores per character'''
     graph_scores('buffy', buffyScores)

@@ -53,25 +53,6 @@ def season4():
             edited_w.close()
             # *************************
 
-        # """FIX UPPERCASE SPEAKER"""
-        # # episodes 18, 19, 22
-        # if i == 18 or i == 19 or i == 22:
-        #     edited_r = open('scripts_edited/' + filename + '.txt', 'r')
-        #     in_progress_w = open('progress.txt', 'w')
-        #     for l in edited_r:
-        #         l = methods.fix_uppercase(l)
-        #         in_progress_w.write(l)  # write line to in progress file
-        #     edited_r.close()
-        #     in_progress_w.close()
-        #     # **** write to edited ****
-        #     in_progress_r = open('progress.txt', 'r')
-        #     edited_w = open('scripts_edited/' + filename + '.txt', 'w')
-        #     for l in in_progress_r:
-        #         edited_w.write(l)
-        #     in_progress_r.close()
-        #     edited_w.close()
-        #     # *************************
-
         '''INDIVIDUAL EPISODES'''
         # episodes 4, 10, 11
         if i == 4 or i == 10 or i == 11:
@@ -99,7 +80,6 @@ def season4():
             '''FIX WEIRD LINES'''
             edited_r = open('scripts_edited/' + filename + '.txt', 'r')
             in_progress_w = open('progress.txt', 'w')
-            l1 = ''
             l2 = ''
             for l in edited_r:
                 l1 = l2  # l1 is the previous line
