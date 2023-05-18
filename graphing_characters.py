@@ -96,7 +96,7 @@ def get_scores(character, lines):
 
     # only want to count scores if character has more than 20 words
     if numValidWords > 20:
-        return structureTotal / numValidWords, powerTotal / numValidWords, dangerTotal / numValidWords
+        return structureTotal/numValidWords, powerTotal/numValidWords, dangerTotal/numValidWords
     return None, None, None
 
 
@@ -118,9 +118,10 @@ def graph_scores(character, characterScores):
     fig.suptitle(character + ' scores per episode', fontsize=20)
     # graph the characters scores
     episodes = list(range(1, 145, 1))
-    axs.plot(episodes, structure, 'tab:orange', marker='o')
-    axs.plot(episodes, power, 'tab:blue', marker='o')
-    axs.plot(episodes, danger, 'tab:red', marker='o')
+    axs.plot(episodes, structure, 'tab:orange', marker='o', label='structure')
+    axs.plot(episodes, power, 'tab:blue', marker='o', label='power')
+    axs.plot(episodes, danger, 'tab:red', marker='o', label='danger')
+    axs.legend()
     axs.set_title('(structure average=' + '{:.4f}'.format(averages[character][0][0]) +
                   ', power average=' + '{:.4f}'.format(averages[character][0][1]) +
                   ', danger average=' + '{:.4f}'.format(averages[character][0][2]) + ')')

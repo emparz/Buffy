@@ -4,46 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91be5e45-b60b-4174-887f-5282164fc438" name="Changes" comment="fixed formatting">
+    <list default="true" id="91be5e45-b60b-4174-887f-5282164fc438" name="Changes" comment="changed sig figs to .4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/graphing_characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphing_characters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/graphing_episodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphing_episodes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/allDialogueScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/allDialogueScores.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/allWordsScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/allWordsScores.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/angelScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/angelScores.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/anyaScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/anyaScores.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/buffyScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/buffyScores.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/cordeliaScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/cordeliaScores.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/dawnScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/dawnScores.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/drusillaScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/drusillaScores.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/faithScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/faithScores.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/gilesScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/gilesScores.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/joyceScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/joyceScores.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/ozScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/ozScores.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/plotsData/allDialogueScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/allDialogueScores.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/plotsData/allWordsScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/allWordsScores.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/plotsData/angelScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/angelScores.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/plotsData/anyaScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/anyaScores.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/plotsData/buffyScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/buffyScores.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/plotsData/cordeliaScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/cordeliaScores.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/plotsData/dawnScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/dawnScores.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/plotsData/drusillaScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/drusillaScores.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/plotsData/faithScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/faithScores.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/plotsData/gilesScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/gilesScores.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/plotsData/joyceScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/joyceScores.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/plotsData/ozScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/ozScores.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/plotsData/s1e01Scores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/s1e01Scores.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/plotsData/s1e12Scores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/s1e12Scores.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/plotsData/spikeScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/spikeScores.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/plotsData/taraScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/taraScores.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/plotsData/willowScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/willowScores.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/plotsData/xanderScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/xanderScores.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/s1e01Scores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/s1e01Scores.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/s1e12Scores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/s1e12Scores.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/spikeScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/spikeScores.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/taraScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/taraScores.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/willowScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/willowScores.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/xanderScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/xanderScores.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -431,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684173096106</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="changed sig figs to .4">
+      <created>1684191241111</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684191241112</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -453,6 +428,7 @@
     <MESSAGE value="renamed folders" />
     <MESSAGE value="renamed folders (2)" />
     <MESSAGE value="fixed formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed formatting" />
+    <MESSAGE value="changed sig figs to .4" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed sig figs to .4" />
   </component>
 </project>

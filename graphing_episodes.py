@@ -44,6 +44,15 @@ def do_for_every_season(file):
     episode.close()
 
 
+# given a method of scoring (string)
+# go into the global variable averages
+# reset the values for structure, power, danger to their average structure, power, danger scores
+def find_averages(scoring):
+    averages[scoring][0][0] = averages[scoring][0][0] / averages[scoring][1]
+    averages[scoring][0][1] = averages[scoring][0][1] / averages[scoring][1]
+    averages[scoring][0][2] = averages[scoring][0][2] / averages[scoring][1]
+
+
 # given what's being scored: episode name, words in series, dialogue (string)
 # and the lines we're looking at for an episode: a window or words, all words, all dialogue (list)
 # sum up the scores, add to the average count
@@ -78,9 +87,7 @@ def get_scores(scoring, lines):
 
 # given the episode name and all the scores per window, graph
 def graph_episode(episode, episodeScores):
-    plt.rcParams['figure.figsize'] = [25, 10]
-    fig, axs = plt.subplots(1)
-    fig.suptitle(episode + ' scores per episode', fontsize=20)
+
     # put structure, power, danger scores into lists
     structure = []
     power = []
@@ -89,14 +96,25 @@ def graph_episode(episode, episodeScores):
         structure.append(episodeScores[e][0])
         power.append(episodeScores[e][1])
         danger.append(episodeScores[e][2])
-    # graph number of words
+
+    '''graphing'''
+    plt.rcParams['figure.figsize'] = [25, 10]
+    fig, axs = plt.subplots(1)
+    fig.suptitle(episode + ' scores per episode', fontsize=20)
     windows = list(episodeScores.keys())
-    axs.plot(windows, structure, 'tab:orange', marker='o')
-    axs.plot(windows, power, 'tab:blue', marker='o')
-    axs.plot(windows, danger, 'tab:red', marker='o')
+    axs.plot(windows, structure, 'tab:orange', marker='o', label='structure')
+    axs.plot(windows, power, 'tab:blue', marker='o', label='power')
+    axs.plot(windows, danger, 'tab:red', marker='o', label='danger')
+    axs.legend()
     axs.set_title('(structure average=' + '{:.4f}'.format(averages[episode][0][0]) +
                   ', power average=' + '{:.4f}'.format(averages[episode][0][1]) +
                   ', danger average=' + '{:.4f}'.format(averages[episode][0][2]) + ')')
+
+    # print(episode)
+    # print('(structure average=' + '{:.4f}'.format(averages[episode][0][0]) +
+    #       ', power average=' + '{:.4f}'.format(averages[episode][0][1]) +
+    #       ', danger average=' + '{:.4f}'.format(averages[episode][0][2]) + ')')
+
     axs.set_ylabel('score', fontsize=16)
     axs.set_xlabel('words', fontsize=16)
     axs.margins(0)
@@ -151,12 +169,19 @@ def graph_show(scoring, episodeScores):
     fig.suptitle(scoring + ' scores per episode', fontsize=20)
     # graph the characters scores
     episodes = list(range(1, 145, 1))
-    axs.plot(episodes, structure, 'tab:orange', marker='o')
-    axs.plot(episodes, power, 'tab:blue', marker='o')
-    axs.plot(episodes, danger, 'tab:red', marker='o')
+    axs.plot(episodes, structure, 'tab:orange', marker='o', label='structure')
+    axs.plot(episodes, power, 'tab:blue', marker='o', label='power')
+    axs.plot(episodes, danger, 'tab:red', marker='o', label='danger')
+    axs.legend()
     axs.set_title('(structure average=' + '{:.4f}'.format(averages[scoring][0][0]) +
                   ', power average=' + '{:.4f}'.format(averages[scoring][0][1]) +
                   ', danger average=' + '{:.4f}'.format(averages[scoring][0][2]) + ')')
+
+    # print(scoring)
+    # print('(structure average=' + '{:.4f}'.format(averages[scoring][0][0]) +
+    #       ', power average=' + '{:.4f}'.format(averages[scoring][0][1]) +
+    #       ', danger average=' + '{:.4f}'.format(averages[scoring][0][2]) + ')')
+
     axs.set_ylabel('score', fontsize=16)
     axs.set_xlabel('episode number', fontsize=16)
     axs.margins(0)
@@ -237,12 +262,14 @@ def graphing_episodes():
     totalWordsScores = {}
     for w in wordsPerEpisode:
         totalWordsScores[w] = get_scores('words', wordsPerEpisode[w])
+    find_averages('words')
     graph_show('words', totalWordsScores)
 
     ''' get the scores for every episode (dialogue only)'''
     totalDialogueScores = {}
     for w in dialoguePerEpisode:
         totalDialogueScores[w] = get_scores('dialogue', dialoguePerEpisode[w])
+    find_averages('dialogue')
     graph_show('dialogue', totalDialogueScores)
 
     ''' put episode's words into list '''
@@ -263,10 +290,12 @@ def graphing_episodes():
     windowSize = 100
     for w in range(0, len(s1e01Words), windowSize):
         s1e01Scores[w + windowSize] = get_scores('s1e01', s1e01Words[w:w + windowSize])
+    find_averages('s1e01')
     graph_episode('s1e01', s1e01Scores)
 
     s1e12Scores = {}
     windowSize = 100
     for w in range(0, len(s1e12Words), windowSize):
         s1e12Scores[w + windowSize] = get_scores('s1e12', s1e12Words[w:w + windowSize])
+    find_averages('s1e12')
     graph_episode('s1e12', s1e12Scores)
