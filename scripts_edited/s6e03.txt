@@ -8,7 +8,8 @@ anya: i don't like this.
 scene direction: anya points to something they pass that's on fire
 anya: look, fire. fire is rarely a sign of imminent safety.
 willow: i wish we were there already.
-xander: hey, hey, don't worry, ladies, i'll get us there just fine. my senses are primed for danger, and nothing's gonna- xander yells in surprise as three demons on motorcycles come roaring up behind them. the demons ignore them, just ride around them and on down the alley.
+xander: hey, hey, don't worry, ladies, i'll get us there just fine. my senses are primed for danger, and nothing's gonna-
+scene direction: xander yells in surprise as three demons on motorcycles come roaring up behind them. the demons ignore them, just ride around them and on down the alley.
 scene direction: xander stumbles back, rattled. the girls steady him.
 scene direction: xander shaky
 xander: i'm okay.
@@ -111,7 +112,8 @@ spike: i mean it. i could rip your head off one-handed and drink from your brain
 scene direction: dawn reaches the bottom of the stairs. spike finally realizes something is up.
 dawn: look.
 scene direction: dawn turns back and we see buffy coming down the stairs behind her.
-spike: yeah? i've seen the bloody bot before. didn't think she'd patch up so- he breaks off, staring at buffy. she continues down the stairs, returning his gaze.
+spike: yeah? i've seen the bloody bot before. didn't think she'd patch up so-
+scene direction: he breaks off, staring at buffy. she continues down the stairs, returning his gaze.
 dawn: she's kind of, um ... she's been through a lot ... with the ... death. but i think she's okay.
 scene direction: buffy suddenly notices her shirt is still unbuttoned, begins buttoning it. dawn looks at spike, who continues staring in disbelief.
 dawn: spike? are *you* okay?
@@ -168,7 +170,8 @@ dawn: hey! back off!
 scene direction: the scoobies look at dawn in surprise.
 dawn: you did this. what did you do?
 willow: a spell. we, we did a spell.
-anya: we didn't think it worked, but- dawn: is she going to be okay?
+anya: we didn't think it worked, but-
+dawn: is she going to be okay?
 buffy: i'm okay.
 scene direction: everyone looks at buffy. shot of the scoobies from her perspective - towering over her, looking a little menacing.
 buffy: i'm gonna be fine. i remember. you brought me back.
@@ -176,10 +179,11 @@ anya: what was it like?
 buffy: i, i can't...
 xander: it's okay. you don't have to talk about this, buff. hey, do you want something? anything. pizza. i'll get you pizza.
 anya: buffy likes pizza.
-tara: yeah, something to eat- willow: she doesn't want pizza.
-tara: i just meant- dawn:
-scene direction: tara sharply
-tara: guys! back off.
+tara: yeah, something to eat-
+willow: she doesn't want pizza.
+tara: i just meant-
+scene direction: dawn sharply
+dawn: guys! back off.
 scene direction: beat.
 willow: right, uh, dawn's right. we should just be quiet, and let buffy tell us what she needs.
 scene direction: another shot from buffy's pov of the foursome staring down at her. she looks uncomfortable, gets up.
@@ -361,7 +365,8 @@ scene direction: xander slurred
 xander: in the house? all right, willow, you need to get out of there, just get everyone out.
 scene direction: suddenly we see anya with her eyes glowing greyish-white. she laughs a weird laugh and moves toward xander.
 scene direction: xander into phone
-xander: wake up buffy and dawn. don't make a big deal- we see anya still moving toward him. she has a knife and is using it to cut her face. she continues laughing. xander looks up and sees her.
+xander: wake up buffy and dawn. don't make a big deal-
+scene direction: we see anya still moving toward him. she has a knife and is using it to cut her face. she continues laughing. xander looks up and sees her.
 xander: gah!
 scene direction: he jumps up, grabs the knife. anya crumples to the floor unconscious. her cheeks are unmarked.
 xander: anya!
@@ -426,7 +431,8 @@ anya: well, that's four. what's the other one like?
 tara: uh, like the others, only dripping with viscous fluid.
 dawn: eww.
 xander: so, should we concentrate on how to kill those, or should we try to find more?
-willow: i'm not sure. maybe ... maybe some of us can, uh, keep going finding more, and the others-- buffy: i miss giles.
+willow: i'm not sure. maybe ... maybe some of us can, uh, keep going finding more, and the others--
+buffy: i miss giles.
 scene direction: we see buffy sitting across the table from willow.
 willow: oh. he's coming back, i talked to him. i know i'm a kind of poor substitute, but until then, we'll get it done.
 scene direction: buffy looks around at them. they all look expectantly at her.
@@ -525,7 +531,8 @@ xander: i know, i know, huh?
 scene direction: xander raises his hands
 xander: backing off quickly, hands in the air.
 scene direction: xander sighs
-xander: i just meant- willow: thaumogenesis!
+xander: i just meant-
+willow: thaumogenesis!
 scene direction: xander and tara look over at willow, who is at the counter, still looking through the books. we see anya and dawn with their heads on the table, jerking awake at willow's shout.
 anya: she's possessed!
 willow: thaumogenesis.
@@ -551,7 +558,8 @@ willow: yes.
 dawn: you can't do that.
 scene direction: dawn stands
 dawn: you can't think for a second that you're going to do that.
-tara: dawn- dawn walks over to willow.
+tara: dawn-
+scene direction: dawn walks over to willow.
 dawn: if you think you can give her back to me and then take her away again? no. that's worse than if you'd never brought her back. you can't mess with people's lives this way!
 willow: dawn, we're not going to do it that way.
 scene direction: dawn to the others
@@ -567,7 +575,8 @@ willow: because it's temporary.
 xander: what is?
 willow: the demon. i-it's gonna dissipate. the only way for it to survive on this plane is if it were to kill the subject of the original spell.
 tara: it would live if it killed buffy?
-willow: that's not gonna- xander lifts his head and we see that his eyes are white.
+willow: that's not gonna-
+scene direction: xander lifts his head and we see that his eyes are white.
 xander: thanks for the tip.
 scene direction: he collapses to the floor. again we see the little bulge move across the floor toward a wall.
 scene change: cut to interior of the summers house, night. buffy opens the door and comes in, puts her keys on the table, starts up the stairs. behind her, we see a white mist. it slowly coalesces into a vaguely human shape, reaching out arms toward buffy as it moves up the stairs after her.
@@ -677,9 +686,10 @@ scene change: cut to the back alley behind the magic shop. buffy comes out, clos
 spike: buffy.
 scene direction: buffy looks up, sees spike standing in the alley.
 scene direction: buffy frowns
-buffy: spike, it's daylight and you're- spike: not on fire?
-scene direction: buffy looks at the sky
-buffy: sun's low enough, shady enough here.
+buffy: spike, it's daylight and you're-
+spike: not on fire?
+scene direction: spike looks at the sky
+spike: sun's low enough, shady enough here.
 scene direction: buffy folds her arms around her middle.
 spike: i was gonna go inside, but i overheard you and the super-friends exchanging a special moment and i came over a bit queasy.
 scene direction: buffy wipes hair out of her face, doesn't seem to be listening.
@@ -723,4 +733,4 @@ scene direction: she walks just to the line where the shadows become sunlight, a
 buffy: they can never know. never.
 scene direction: she still doesn't look back at him, just continues walking into the sunlight.
 scene direction: blackout.
-executive producers: joss whedon and marti noxon. the en 
+executive producers: joss whedon and marti noxon. the end

@@ -15,7 +15,8 @@ kathy: oh! say, buffy. i wanted to show you this little system i implemented.
 scene direction: kathy goes over to the nightstand separating the beds and gets a small notepad and a pen, bringing them back
 buffy: oh, goody... system.
 kathy: just log every call you make in here and that way when the bill comes it won't be a problem. i figure, 'stitch in time...'
-buffy: '...catches the worm.' kathy cheerfully makes a 'you got it' gesture.
+buffy: '...catches the worm.'
+scene direction: kathy cheerfully makes a 'you got it' gesture.
 buffy: you bet. ok, then.
 scene direction: buffy turns and starts to go
 kathy: also...

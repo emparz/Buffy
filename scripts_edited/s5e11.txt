@@ -10,9 +10,9 @@ xander: like three weeks ago riley asked me to borrow a crescent wrench.
 scene direction: xander shakes his head
 xander: i keep having this feeling like i'm supposed to give it to him.
 anya: well, that's not going to happen unless he comes back. you know, not to get the crescent wrench. just to come back.
-xander: i just mean, sometimes i sort of forget that he's gone. it's like, "where's riley? oh wait, the central republic of where-in-the-hell." anya:
-scene direction: xander softly
-xander: xander?
+xander: i just mean, sometimes i sort of forget that he's gone. it's like, "where's riley? oh wait, the central republic of where-in-the-hell."
+scene direction: anya softly
+anya: xander?
 scene direction: he looks at her. we see they're holding hands.
 anya: if you ever decide to go, i want a warning. you know, big flashing red lights, and-and-and one of those clocks that counts down like a bomb in a movie? and there's a whole bunch of, of colored wires, and i'm not sure which is the right one to cut, but i guess the green one, and then at the last second "no! the red one!" and then click, it stops with three-tenths of a second left, but then you don't leave.
 scene direction: anya pause
@@ -25,7 +25,8 @@ anya: maybe it's her.
 xander: huh?
 anya: well, maybe it won't happen to us because it's all about *her* messing things up. she couldn't make it work with angel, and then she let riley go away.
 xander: yeah, relationship debris is kind of piling up on the buffy highway.
-anya: hmm. humans make the same mistakes over and over. i saw it when i was a vengeance demon. some guy dumps a girl, she calls me, i exact vengeance, blah blah blah, the next year, same girl, different guy. i mean, after you smite a few of 'em you start going "my goodness, young lady ... maybe you're doing something wrong here too." xander: i don't think it's a pattern with her. no, it's just ... you know, now that it happened again ... man number two ... i wonder how she's dealing with it.
+anya: hmm. humans make the same mistakes over and over. i saw it when i was a vengeance demon. some guy dumps a girl, she calls me, i exact vengeance, blah blah blah, the next year, same girl, different guy. i mean, after you smite a few of 'em you start going "my goodness, young lady ... maybe you're doing something wrong here too."
+xander: i don't think it's a pattern with her. no, it's just ... you know, now that it happened again ... man number two ... i wonder how she's dealing with it.
 scene change: cut to a courtyard filled with nuns. the camera follows one of them whom we only see from the back. she has a blonde curl of hair sticking out from under her habit.
 scene direction: suddenly a vampire appears behind her, backing away from something. he bumps into the nun, turns around and grabs her, holds her in front of him. the nun screams. the vampire pushes her aside as buffy runs up and kicks him in the face. he falls backward, flips upright again. buffy kicks him again. they continue fighting as the nun watches in amazement.
 scene direction: buffy hits the vampire, he kicks buffy twice, then she hits him a few times, kicks him a few times, and thrusts with her stake, but he grabs her arm and pushes her away. buffy ducks as he leaps at her, then she straightens up and stakes him.
@@ -117,9 +118,9 @@ scene direction: tara giles grins
 buffy: look, don't worry about the shop. we'll take care of it. we can open and close, and, and we'll deal with everyone.
 scene direction: anya frowns.
 willow: we can come by between classes! usually i use that time to copy over my class notes with a system of different colored pens ... but it's been pointed out to me that that's, you know, insane.
-tara: i said "quirky." anya:
-scene direction: tara annoyed
-tara: hello, i work here! i'll take care of everything.
+tara: i said "quirky."
+scene direction: anya annoyed
+anya: hello, i work here! i'll take care of everything.
 scene direction: xander not looking up from his reading
 xander: yeah, anya can do it!
 anya: thanks, sweetie.
@@ -178,9 +179,10 @@ buffy: don't touch anything.
 scene direction: dawn comes into the room, looks at a corkboard where several photos are hanging.
 dawn: you took down his pictures.
 buffy: yeah.
-dawn: i ... i think i would've done that sooner. like, boom! "don't wanna see that face again." buffy: it wasn't like that. i was never angry with him.
-scene direction: dawn sighs
-dawn: okay, that's a lie. but it's not like i don't want to see his face.
+dawn: i ... i think i would've done that sooner. like, boom! "don't wanna see that face again."
+buffy: it wasn't like that. i was never angry with him.
+scene direction: buffy sighs
+buffy: okay, that's a lie. but it's not like i don't want to see his face.
 dawn: i was just starting to kinda like the guy, and then ... gone. so fast.
 buffy: it wasn't really so fast. him leaving. according to everyone who isn't me, it was kind of gradual.
 dawn: oh. does that make it any better?
@@ -237,7 +239,8 @@ scene direction: anya annoyed
 anya: hey. what are you two doing?
 willow: oh, we're gonna try out a few spells.
 tara: there's this thing you can do where you create light, and we thought, what if you could make, like, simulated sunlight?
-willow: yeah, so then, you know, there buffy is, middle of the night, and she finds this whole nest of vamps, a-and then she just goes, "presto!" tara: only it won't be "presto" exactly.
+willow: yeah, so then, you know, there buffy is, middle of the night, and she finds this whole nest of vamps, a-and then she just goes, "presto!"
+tara: only it won't be "presto" exactly.
 willow: and, and voom! there's a, a floating ball of sunlight. vamps get dusty.
 tara: you don't wanna look right at it, though.
 anya: that's swell, but you can't use this stuff. giles has only been gone two days and you're already causing trouble. you shouldn't do things while he's gone.
@@ -302,9 +305,9 @@ anya: she endangered the money!
 scene direction: anya xander shrugs
 willow: of course, that's what she cares about.
 scene direction: willow imitates anya
-willow: "i like money better than people. people can so rarely be exchanged for goods and/or services." anya:
-scene direction: willow horrified
-willow: xander, she's pretending to be me!
+willow: "i like money better than people. people can so rarely be exchanged for goods and/or services."
+scene direction: anya horrified
+anya: xander, she's pretending to be me!
 willow: well, can you even believe how she's acting?
 xander: okay, you know what? i'm tired of being the one in the middle. i'm not gonna let you pull me into this.
 willow: i'm not.
@@ -346,7 +349,8 @@ willow: shh, no! this is it.
 scene direction: again she closes her eyes and inhales.
 willow: spirits of light, i invoke thee. let the gloom of darkness part before you.
 scene direction: a small circlet of yellow-orange light arises out of the cauldron and begins to spin.
-willow: let the moonlight be made pale by your presence. spirits- anya: is it done?
+willow: let the moonlight be made pale by your presence. spirits-
+anya: is it done?
 willow: shh!
 scene direction: the circle of light flashes brighter and grows a bit larger.
 willow: spirits of light, grant my wishes.
@@ -376,9 +380,9 @@ buffy: whole new vistas of knowledge to be confused and intimidated by.
 scene direction: tara laughs
 tara: i think this one's gonna be kind of fun. greek art's gonna touch on so many things -- mythology, history, philosophy...
 scene direction: buffy whispering
-buffy: the professor spit too much when he talked. it was like being at sea world. "the first five rows will get wet." tara:
-scene direction: buffy laughs
-buffy: that was just, you know, um, enthusiasm.
+buffy: the professor spit too much when he talked. it was like being at sea world. "the first five rows will get wet."
+scene direction: tara laughs
+tara: that was just, you know, um, enthusiasm.
 buffy: it seemed very much like saliva.
 tara: we'll sit farther back next time.
 buffy: good plan.
@@ -407,13 +411,15 @@ tara: oh! no, i-i said that all wrong. it was nothing. willow and anya were sort
 scene direction: buffy alarmed
 buffy: he left? xander left anya?
 scene direction: tara frowning
-tara: ummm ... no, not "left her" left her, he just left. it was only a little thing, it- buffy: little thing?
-scene direction: tara tearfully
-tara: see, the thing is, the ... little things get bigger, you know, and, and, and, and, if you don't catch the little thing and then, boom! you have this, this, this whole huge thing!
+tara: ummm ... no, not "left her" left her, he just left. it was only a little thing, it-
+buffy: little thing?
+scene direction: buffy tearfully
+buffy: see, the thing is, the ... little things get bigger, you know, and, and, and, and, if you don't catch the little thing and then, boom! you have this, this, this whole huge thing!
 tara: oh dear.
 scene direction: buffy sniffling
 buffy: not, not, not them with the little things! they can't break up!
-tara: oh, i think- buffy: they have a beautiful love.
+tara: oh, i think-
+buffy: they have a beautiful love.
 tara: i think they'll be fine.
 scene direction: buffy bursts into tears and puts her face against tara's shoulder, hugging her. tara looks alarmed, pats buffy on the back.
 scene direction: buffy muffled
@@ -438,7 +444,8 @@ scene direction: anya slams on the brake and they slow down with a screech. will
 willow: you don't know how to drive? why didn't you say you don't know how to drive?
 anya: well, i couldn't know if i could until i tried, could i?
 scene direction: they exchange an angry look.
-willow: this is very, very bad. there, there's an ogre on the loose- anya: troll.
+willow: this is very, very bad. there, there's an ogre on the loose-
+anya: troll.
 willow: what?
 anya: troll on the loose. now hold on, i'm gonna press the right pedal harder.
 scene direction: anya smiling
@@ -584,7 +591,8 @@ scene direction: willow points to anya
 willow: uh, her. it's very complex.
 anya: well, we can stop him. willow, do the spell.
 scene direction: willow opens her book to read.
-willow: uh, let the conjuring be- olaf suddenly stops drinking and looks over at them.
+willow: uh, let the conjuring be-
+scene direction: olaf suddenly stops drinking and looks over at them.
 olaf: stop!
 scene direction: they all look up at him. he growls.
 willow: nobody lets me finish!
@@ -619,7 +627,8 @@ willow: keep it far from us and ours as long as my voice shall sound.
 scene direction: olaf pauses, looks down at himself. nothing happens. he begins to laugh. willow flips pages frantically.
 scene direction: olaf laughs
 olaf: it did not work!
-willow: okay, wait! uh, "let the conjuring-" olaf lunges forward but buffy kicks him in the chest. as she drives him back, kicking and punching, spike follows right behind her. buffy ducks a punch and spike prepares to punch olaf himself, but gets caught by a swinging arm and goes flying aside.
+willow: okay, wait! uh, "let the conjuring-"
+scene direction: olaf lunges forward but buffy kicks him in the chest. as she drives him back, kicking and punching, spike follows right behind her. buffy ducks a punch and spike prepares to punch olaf himself, but gets caught by a swinging arm and goes flying aside.
 scene direction: buffy seizes olaf and shoves him down on a pool table. they both grapple for his hammer. olaf shoves buffy and she goes flying backward into spike, who had just gotten up. they both fall down again. olaf gets up from the pool table and begins smashing the pillars that hold up the mezzanine level of the bronze. people scream and run.
 scene direction: buffy is on the floor on top of spike. she tries to get up and spike acts like he's helping her, but actually he's hindering by clutching her around the waist. finally she gets to her feet and rushes off. spike watches her go with a smirk.
 scene direction: olaf continues smashing pillars as people run around screaming. xander and anya cower in a corner. olaf smashes another pillar and the entire upper level of the bronze comes crashing down, bringing people and tables with it. buffy covers her head with her hands as the debris falls on her. some of the people manage to cling to the railings, dangling in the air, but then they lose their grips and fall to the floor below.
@@ -707,9 +716,10 @@ olaf: and you shall be the one to choose.
 scene direction: zoom in on xander looking surprised. blackout.
 scene change: *** act iv ***
 scene direction: fade back in on the magic shop. willow and anya sit up.
-willow: did he just say- olaf: ha ha. choose!
-scene direction: willow gestures at them with one arm, the other arm around xander's shoulders
-willow: anyanka or the witch. one of your women must die.
+willow: did he just say-
+olaf: ha ha. choose!
+scene direction: olaf gestures at them with one arm, the other arm around xander's shoulders
+olaf: anyanka or the witch. one of your women must die.
 scene direction: the girls get to their feet as xander shakes his head.
 xander: no. you are one crazy troll, i ... i'm not choosing between my girlfriend and my best friend. that's insane troll logic.
 anya: go xander. i love you.
@@ -878,4 +888,4 @@ scene direction: dawn frowns.
 scene direction: cut back to dining room.
 joyce: oh, i can't even think about this. it's too ... i'll get some more milk.
 scene direction: cut back to dawn looking upset. the camera lingers on her expression. blackout.
-executive producer: joss whedon. [an error occurred while processing this directive 
+executive producer: joss whedon. [an error occurred while processing this directive]

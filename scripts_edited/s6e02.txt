@@ -41,7 +41,8 @@ scene direction: pan down across buffy's headstone, to the grass.
 scene change: cut to inside the coffin. buffy pounds frantically on the sides, tries to scream but no sound comes out. she looks terrified. she continues pounding, bangs on the inner lid just inches from her face. she begins to rip away the cloth that covers the inside of the lid. she grunts with exertion as the cloth rips.
 scene change: cut to the forest. xander walks along carrying willow, moving at a fast walk. he pauses, puts her down on the ground. willow comes to again.
 scene direction: willow loudly
-willow: xan ... xander, where - where- xander: shh! we're using our quiet voice, will.
+willow: xan ... xander, where - where-
+xander: shh! we're using our quiet voice, will.
 scene direction: willow whispers
 willow: wh-wh-where's tara?
 scene direction: xander panting
@@ -64,8 +65,9 @@ willow: osiris?
 xander: yeah. it got kind of...
 scene direction: willow remembers
 willow: broken. it's broken. i remember.
-xander: so we'll find another one. better made. anya and i will jump back on the web- willow: there is no other one.
-scene direction: xander closes her eyes
+xander: so we'll find another one. better made. anya and i will jump back on the web-
+willow: there is no other one.
+scene direction: willow closes her eyes
 xander: okay, we'll fix this one. a little tape, a dab of crazy glue.
 willow: no. it's no use.
 scene direction: willow tearful
@@ -77,12 +79,14 @@ scene direction: mag os
 mag: over here! stop your moanin'.
 scene direction: anya suddenly falls down as tara pulls at her from behind a rock.
 scene direction: anya annoyed
-anya: was that really necessary? a simple "psst"- tara puts her hand over anya's mouth. they both fall silent as two demons walk up near them.
+anya: was that really necessary? a simple "psst"-
+scene direction: tara puts her hand over anya's mouth. they both fall silent as two demons walk up near them.
 clyed: i'm just saying it's rank.
 mag: get off it, clyed.
-clyed: razor and the others head back to town, leave us here to hunt down strays. it's bullsh- mag: hey!
-scene direction: clyed grabs clyed
-clyed: you got a bug up your crack, you take it up with razor.
+clyed: razor and the others head back to town, leave us here to hunt down strays. it's bullsh-
+mag: hey!
+scene direction: mag grabs clyed
+mag: you got a bug up your crack, you take it up with razor.
 scene direction: the two girls huddle behind their rock listening.
 mag: until then you do as he says, and shut your hole, before i rip you a new one.
 scene direction: mag lets go of clyed and looks around, snarling.
@@ -102,7 +106,8 @@ scene direction: they get up and start to walk.
 anya: you don't think they'll cause a lot of damage, do you?
 scene change: cut to the demons still wrecking houses and cars on residential street. one demon throws a molotov cocktail at a front door, jumps up and down triumphantly as the porch bursts into flame.
 scene direction: shot of a wooden mailbox labeled "summers." a demon rides past and smashes it with a baseball bat.
-scene change: cut to exterior shot of the summers house. the demons have not yet ventured onto its lawn cut to inside the house. dawn is looking out the front window.
+scene change: cut to exterior shot of the summers house. the demons have not yet ventured onto its lawn
+scene change: cut to inside the house. dawn is looking out the front window.
 scene direction: spike os
 spike: a couple of stakes...
 scene direction: we see spike looking through buffy's weapon chest.
@@ -138,13 +143,13 @@ scene direction: spike frowns at her, confused.
 dawn: ...bot. you know, the-the buffybot.
 scene direction: spike sighs in frustration, looks around.
 scene direction: dawn agitated
-dawn: we-we have to wait for the others- spike:
-scene direction: dawn grabs her roughly by the shoulders
-dawn: look!
-scene direction: dawn pauses, more quietly
-dawn: dawn, i get that you're scared. but i'm your sitter, so mind me.
-scene direction: dawn lets go her shoulders
-dawn: i'm not gonna let any of those buggers lay so much as a warty digit on you. right?
+dawn: we-we have to wait for the others-
+scene direction: spike grabs her roughly by the shoulders
+spike: look!
+scene direction: spike pauses, more quietly
+spike: dawn, i get that you're scared. but i'm your sitter, so mind me.
+scene direction: spike lets go her shoulders
+spike: i'm not gonna let any of those buggers lay so much as a warty digit on you. right?
 scene direction: dawn whispers
 dawn: right.
 spike: right, then. we can't wait around to see if the others will pop in. we're on our own. no one's coming to our rescue.
@@ -220,7 +225,8 @@ scene direction: willow panting
 willow: i, i can't walk any more. i need to rest.
 xander: it can't be much further.
 willow: you said that an hour ago. i just ... that spell took a lot out of me.
-xander: as for example, snakes? how come you didn't tell us how much- willow: no. not now.
+xander: as for example, snakes? how come you didn't tell us how much-
+willow: no. not now.
 xander: what were we into back there, will?
 willow: it doesn't matter anyway.
 xander: do not get all avoidy on me.
@@ -248,11 +254,14 @@ scene direction: willow smiling
 willow: no, too small.
 xander: stay behind me.
 scene direction: xander picks up a stick from the ground, moves forward
-willow: xander, i don't- xander: stay down. i'll take care of this.
+willow: xander, i don't-
+xander: stay down. i'll take care of this.
 scene direction: the light flies right up to xander and circles his head. it's a small blue ball of light.
-willow: xander, it's- xander: a bug! a big fiery bug!
-scene direction: willow trying to shoo it away
-willow: xander- xander: get off! do fireflies bite? no, they probably burn, don't they? they - yaa!
+willow: xander, it's-
+xander: a bug! a big fiery bug!
+scene direction: xander trying to shoo it away
+willow: xander-
+xander: get off! do fireflies bite? no, they probably burn, don't they? they - yaa!
 scene direction: willow smiling
 willow: xander, it's not a bug.
 scene direction: willow as it flies around her face
@@ -310,10 +319,12 @@ anya: i knew you weren't dead.
 scene direction: anya hugs him
 xander: wow, then why was i so worried?
 scene direction: tara leading willow to a chair
-tara: are you- willow: uh, not yet. but, but i will be.
+tara: are you-
+willow: uh, not yet. but, but i will be.
 scene direction: willow eases into the chair with a pained expression. tara stands behind her stroking her hair.
 willow: where's dawn and spike?
-tara: we've been calling the house, but- xander: maybe they're on their way here. i mean, this place is norad, and we are at defcon one.
+tara: we've been calling the house, but-
+xander: maybe they're on their way here. i mean, this place is norad, and we are at defcon one.
 scene direction: the women all look at him in confusion.
 xander: okay, i so need male friends.
 willow: we have to go out and look for them.
@@ -389,7 +400,8 @@ scene direction: open on buffy running down the street. a demon on a motorcycle 
 demon: sorry. sorry.
 scene direction: buffy gets up and runs off.
 scene change: cut to xander and anya walking down the street. xander has an axe over his shoulder. pan forward to reveal tara and willow walking ahead of them. willow carries a crossbow.
-tara: it wasn't your fault. we, we don't know if the spell would have worked, even if the demons hadn't- willow: it would have worked.
+tara: it wasn't your fault. we, we don't know if the spell would have worked, even if the demons hadn't-
+willow: it would have worked.
 tara: well ... maybe...
 willow: what?
 tara: maybe it wasn't supposed to. i mean, those demons showing up at the exact wrong time? maybe we really were in over our heads. invoking forces that we have no right to. maybe the fates sent down all that destruction on us to stop us. i mean...
@@ -566,7 +578,8 @@ buffybot: no. not me. the other buffy.
 scene direction: dawn's eyes widen in shock.
 buffybot: yes. the other buffy.
 dawn: buffy?
-buffybot: i don't ... i don't ... know where she ran off to. maybe- she freezes in mid-word, staring blankly.
+buffybot: i don't ... i don't ... know where she ran off to. maybe-
+scene direction: she freezes in mid-word, staring blankly.
 scene direction: dawn backs away, gets up, still shocked. she stares at the lifeless bot, turns and runs away.
 scene change: cut to spike picking up a piece of twisted metal from the scrap pile. it's one of the bot's legs.
 spike: tsk. look what those filthy buggers done to you.
@@ -629,7 +642,8 @@ scene direction: tara rushes razor and he grabs her by the throat.
 willow: fragilis.
 scene direction: another ball of light appears in willow's hand and shoots over to tara. razor swipes his claws across tara's chest but the metal claws break off and fall away without harming her. razor stares at his fingers, thrusts tara away. she falls among some trash.
 scene direction: razor grabs willow by the throat and lifts her up.
-razor: so, witch, got a little power after all. well, let's see what tricks you can manage while i choke the life outta- suddenly he gasps and lets willow go. she falls to the ground. razor falls face-first beside her, with the axe buried in his back.
+razor: so, witch, got a little power after all. well, let's see what tricks you can manage while i choke the life outta-
+scene direction: suddenly he gasps and lets willow go. she falls to the ground. razor falls face-first beside her, with the axe buried in his back.
 scene direction: willow looks up to see tara standing there. tara bends over and helps willow up.
 willow: tara!
 tara: nobody messes with my girl.
@@ -663,7 +677,8 @@ dawn: how...
 scene direction: buffy frowns at her in confusion.
 dawn: is it you? i mean really?
 scene direction: dawn smiles tentatively, starts to take a step forward.
-dawn: what are you do- the tower creaks and shudders under dawn's feet. she grabs the pole beside her for support, looks down fearfully.
+dawn: what are you do-
+scene direction: the tower creaks and shudders under dawn's feet. she grabs the pole beside her for support, looks down fearfully.
 scene direction: shot from below as the whole tower shakes.
 scene direction: cut back to above. buffy turns back to the end of the platform.
 scene direction: dawn shrieks
@@ -691,7 +706,9 @@ dawn: no! buffy, no!
 scene direction: dawn taking a tiny step closer
 dawn: you're here ... with me.
 scene direction: dawn another tiny step
-dawn: whatever happened to you, whatever you've been through, it's ... it's over now. you're- the tower shakes again. dawn shrieks dawn: we have to get off this tower!
+dawn: whatever happened to you, whatever you've been through, it's ... it's over now. you're-
+scene direction: the tower shakes again. dawn shrieks
+dawn: we have to get off this tower!
 scene direction: buffy turns to look down again.
 scene direction: buffy quietly
 buffy: it was so ... clear ... on this spot. i remember ... how ... shiny ... and clear everything was.
@@ -705,7 +722,8 @@ dawn: but it's been so hard without you.
 scene direction: buffy still has eyes closed, frowning.
 dawn: i'm sorry. i promise i'll do better, i will!
 scene direction: dawn still tearful
-dawn: if you're with me. stay with me ... please. i need you to live. live! for- the tower shakes again, hard. dawn screams and crouches down. piece of the tower fall off.
+dawn: if you're with me. stay with me ... please. i need you to live. live! for-
+scene direction: the tower shakes again, hard. dawn screams and crouches down. piece of the tower fall off.
 dawn: buffy!
 scene direction: buffy whirls around.
 scene direction: buffy softly
@@ -732,4 +750,4 @@ scene direction: dawn crying
 dawn: you're alive, and you're home. you're home.
 scene direction: shot of buffy's face over dawn's shoulder. she doesn't look very happy.
 scene direction: blackout.
-executive producers: joss whedon and marti noxon. the en 
+executive producers: joss whedon and marti noxon. the end

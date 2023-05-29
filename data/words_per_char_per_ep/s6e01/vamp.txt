@@ -107,12 +107,6 @@ i
 see
 the
 slayer
-mag
-the
-part
-about
-the
-robot
 we
 fought
 right
@@ -140,13 +134,6 @@ shoulda
 seen
 the
 sparks
-razor
-gets
-up
-towers
-over
-the
-vamp
 that's
 what
 i'm
@@ -214,9 +201,3 @@ could
 let
 me
 go
-razor
-grabs
-him
-by
-the
-neck

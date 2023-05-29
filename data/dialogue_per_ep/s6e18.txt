@@ -74,7 +74,6 @@ you
 gotta
 do
 is
-buffy
 i
 am
 not
@@ -327,7 +326,6 @@ you
 have
 a
 friend
-willow
 no
 i'm
 oh
@@ -342,7 +340,6 @@ mean
 i
 have
 friends
-willow
 right
 many
 dear
@@ -878,7 +875,6 @@ life
 was
 that
 me'
-anya
 me
 too
 but
@@ -1237,7 +1233,6 @@ you
 it's
 me
 that
-anya
 ohh
 ahn
 ahn
@@ -1342,7 +1337,6 @@ out
 a
 way
 to
-anya
 no
 that's
 just
@@ -1376,7 +1370,6 @@ here
 of
 course
 i
-halfrek
 you
 can't
 exact
@@ -1566,7 +1559,6 @@ i
 love
 spending
 time
-buffy
 but
 i'm
 cramping
@@ -1574,7 +1566,6 @@ your
 teenage
 style
 no
-buffy
 yes
 i
 am
@@ -1692,7 +1683,6 @@ had
 in
 mind
 but
-buffy
 dawn
 i
 work
@@ -1827,7 +1817,6 @@ a
 couple
 of
 months
-willow
 oh
 did
 i
@@ -1941,7 +1930,6 @@ do
 just
 let
 us
-anya
 actually
 um
 there
@@ -1985,7 +1973,6 @@ i
 feel
 no
 but
-anya
 what
 if
 it
@@ -2105,7 +2092,6 @@ happened
 to
 me
 i'd
-anya
 wish
 his
 penis
@@ -2126,7 +2112,6 @@ in
 'i
 wish
 xander'
-dawn
 right
 that
 word
@@ -2316,7 +2301,6 @@ wish
 guys
 like
 that
-buffy
 whoa
 guys
 there
@@ -2392,7 +2376,6 @@ to
 be
 interested
 in
-anya
 god
 what
 kind
@@ -2415,7 +2398,6 @@ know
 you're
 hurting
 but
-anya
 what
 xander
 doesn't
@@ -2619,7 +2601,6 @@ the
 grave
 sooner
 to
-xander
 buffy
 oh
 my
@@ -2714,7 +2695,6 @@ must
 be
 true
 spike
-spike
 that
 ponce
 has
@@ -2730,11 +2710,6 @@ gets
 he
 sticks
 it
-he
-pauses
-looking
-at
-buffy
 you
 believe
 him
@@ -2843,7 +2818,6 @@ have
 to
 get
 over
-spike
 get
 out
 no
@@ -2888,7 +2862,6 @@ help
 you
 well
 but
-halfrek
 do
 you
 want
@@ -3031,7 +3004,7 @@ could
 go
 to
 her
-halfrek
+
 anyanka
 there's
 an
@@ -3240,23 +3213,6 @@ we're
 supposed
 to
 go
-suddenly
-the
-map
-bursts
-into
-flame
-where
-the
-beam
-of
-light
-is
-touching
-it
-they
-all
-yell
 yah
 so
 then
@@ -3266,7 +3222,6 @@ says
 real
 for
 you
-anya
 right
 but
 getting
@@ -4004,15 +3959,13 @@ trying
 i
 can't
 find
-jonathan
+
 here
 dorkface
-andrew
 i'll
 get
 it
 myself
-warren
 guys
 we
 have
@@ -4047,7 +4000,6 @@ they
 ohh
 is
 that
-jonathan
 spike
 he
 is
@@ -4101,12 +4053,6 @@ there
 could
 be
 something
-dawn
-rolls
-her
-eyes
-follows
-buffy
 there
 got
 it
@@ -4431,7 +4377,6 @@ you
 know
 i
 wish
-anya
 don't
 things
 fall
@@ -4473,7 +4418,6 @@ have
 coffee
 and
 expect
-willow
 i
 know
 there's

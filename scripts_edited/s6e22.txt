@@ -25,7 +25,8 @@ scene direction: anya softly to giles
 anya: how'd you do that?
 scene direction: giles ignores anya, still completely focused on willow.
 scene direction: willow small laugh
-willow: that's borrowed power. no way is it gonna be strong enough- giles: i'm here to help you.
+willow: that's borrowed power. no way is it gonna be strong enough-
+giles: i'm here to help you.
 scene direction: willow rolling eyes
 willow: thanks, but i can kill a couple geeks all by myself.
 scene direction: willow giles walking slowly closer
@@ -50,9 +51,9 @@ scene direction: suddenly a magic light from nowhere begins to light up willow's
 scene direction: willow deep resonant voice
 willow: 'cause i've turned pro.
 scene direction: the humming/whirring noise continues as willow begins a spell.
-willow: asmodea, bring forth-- giles:
-scene direction: willow gesturing
-willow: vincire!
+willow: asmodea, bring forth--
+scene direction: giles gesturing
+giles: vincire!
 scene direction: green magic energy shoots from giles's hand and forms a band around willow's torso, pinning her arms against her body. it glows with a green light that makes willow's skin appear green too.
 willow: what? no! get off!
 scene direction: willow struggling
@@ -60,7 +61,8 @@ willow: solvo, libero...
 scene direction: giles continues holding out his hand toward her. suddenly willow throws back her head and closes her eyes, apparently unconscious. her body floats up into the air and hovers about a foot off the ground. the band of magic holding her changes to a more contained blue-grey color.
 scene direction: anya and buffy watch warily. buffy moves closer to giles. willow continues to float in midair.
 buffy: what did you do?
-giles: contained her and her powers within a binding field. it puts her in a kind of ... stasis for the time- giles looks at buffy for the first time, pauses. buffy continues staring at willow.
+giles: contained her and her powers within a binding field. it puts her in a kind of ... stasis for the time-
+scene direction: giles looks at buffy for the first time, pauses. buffy continues staring at willow.
 giles: you cut your hair.
 scene direction: buffy looks at him, gets teary and hugs him.
 scene direction: anya watches them hugging. she walks up behind them and fidgets for a moment.
@@ -118,9 +120,9 @@ anya: willow.
 scene direction: willow telepathically
 willow: i need you, anya. i need you to do something for me.
 scene direction: anya twists her hands together nervously, gathers her nerve and moves a little closer to willow.
-anya: i know what you're trying to do. and i hate to burst your bubble, but that mind control mojo doesn't work on vengeance demons, so why don't you just- willow:
-scene direction: anya telepathically
-anya: stop talking and listen.
+anya: i know what you're trying to do. and i hate to burst your bubble, but that mind control mojo doesn't work on vengeance demons, so why don't you just-
+scene direction: willow telepathically
+willow: stop talking and listen.
 scene direction: anya nods
 anya: okay.
 scene direction: willow telepathically
@@ -233,7 +235,8 @@ spike: well, that was a bloody doddle and piece o'piss.
 scene direction: he staggers and goes to his knees wearily, but maintains his sarcastic tone.
 spike: got any more ruddy tests for me, you ponce? i'll take anything you can throw at me, if it'll get me what i need to take care of the slayer. give her what's coming to her.
 scene direction: spike sniffs angrily
-spike: so you just bring it on. bring on the whole- he pauses, looks confused. weird skittering noises.
+spike: so you just bring it on. bring on the whole-
+scene direction: he pauses, looks confused. weird skittering noises.
 spike: bloody hell.
 scene direction: we see spike from the waist up as lots and lots of large black insects, maybe beetles, start crawling up his body. they swarm up his chest and neck and onto his face as he squeezes his eyes shut and grunts in distaste.
 scene change: cut to magic shop, main room. the pillar is lying on the floor and furniture, sparking occasionally with electricity. pan slowly across the wreckage of the shop, which has taken quite a beating from all the fighting.
@@ -303,7 +306,8 @@ scene direction: willow looking up at him
 willow: you were jealous. still are. just couldn't bear that i was the one with power. that's why you ran away.
 giles: incurso!
 scene direction: green magic flies from giles's mouth and hits willow.
-willow: that's why you- she stumbles backward from the magic blow, and giles falls to the floor again.
+willow: that's why you-
+scene direction: she stumbles backward from the magic blow, and giles falls to the floor again.
 scene direction: willow panting
 willow: that ... was rude! now i forgot what i was saying.
 scene direction: giles painfully
@@ -363,7 +367,8 @@ xander: yeah, i'm working on a whole "shut the hell up" pitch you might like too
 scene direction: dawn noticing something above and behind them
 dawn: xander?
 scene direction: xander to andrew
-xander: i've had just about as much as i can stand baby-sitting a couple of social retards who don't appreciate- dawn: xander!
+xander: i've had just about as much as i can stand baby-sitting a couple of social retards who don't appreciate-
+dawn: xander!
 xander: what?
 dawn: what is that?
 scene direction: xander moves closer to her and looks up where she's looking. the nerds look too.
@@ -441,7 +446,8 @@ dawn: tried to do. whatever.
 scene direction: buffy realizing, annoyed
 buffy: xander.
 dawn: so it's true?
-buffy: dawn, you may not have noticed, we're in really big trouble here. this isn't- dawn: why did you not tell me?
+buffy: dawn, you may not have noticed, we're in really big trouble here. this isn't-
+dawn: why did you not tell me?
 buffy: because you didn't need to know.
 dawn: yes, i do. i need to know! i'm not a kid anymore.
 scene direction: buffy angry
@@ -467,7 +473,8 @@ scene direction: the edge of the pit, where xander's hands were leaning, gives w
 buffy: xander, you've gotta find some kind of rope or something and get us out of here.
 scene direction: xander looking around
 xander: right. okay, i'll, uh, i'll take a look around.
-buffy: and hurry up before- suddenly anya appears in front of buffy, in a shimmer of magic.
+buffy: and hurry up before-
+scene direction: suddenly anya appears in front of buffy, in a shimmer of magic.
 scene direction: anya looking around
 anya: holy frijole!
 buffy: anya! what are you doing here? where's giles?
@@ -509,9 +516,9 @@ buffy: what does that mean?
 anya: don't know. he, he said, "the slayer can't stop her," and then he said a bunch of other stuff.
 scene direction: anya anxiously
 anya: he really wasn't too clear.
-buffy: anya, what are you- anya:
-scene direction: buffy nervous
-buffy: i ... i should get back to him. he's alone.
+buffy: anya, what are you-
+scene direction: anya nervous
+anya: i ... i should get back to him. he's alone.
 scene direction: buffy worried
 buffy: is he okay?
 scene direction: anya fidgets nervously as buffy and dawn watch, anxious.
@@ -535,7 +542,8 @@ willow: from the pit of forgotten shadows...
 scene direction: cut back to the pit as buffy and dawn shove at a coffin.
 scene direction: willow's and buffy's lines overlap.
 buffy: i'm not just gonna sit here while willow incinerates what i'm chosen to protect.
-willow: awaken, sister of the dark, awaken- cut back to the bluff. willow pauses, looks to her right as if she can hear buffy.
+willow: awaken, sister of the dark, awaken-
+scene direction: cut back to the bluff. willow pauses, looks to her right as if she can hear buffy.
 buffy: i have to stop her.
 willow: always the slayer...
 scene direction: cut back to the pit. buffy pauses, hearing willow's words. she straightens up, looking surprised.
@@ -556,7 +564,8 @@ scene direction: willow o.s.
 willow: i can't take it anymore. but i know you, buffy.
 scene direction: cut alternately between the bluff and the pit for the next few lines.
 willow: you're a warrior. you won't go out without a fight. i don't really have time for one. but you should go out fighting.
-buffy: willow, what are you- willow: it was me that took you out of the earth. well, now...
+buffy: willow, what are you-
+willow: it was me that took you out of the earth. well, now...
 scene direction: buffy listens with alarm.
 willow: ...the earth wants you back.
 scene direction: the ground around buffy and dawn begins to rumble. suddenly the walls themselves start to turn into monsters, earth-creatures made up of dirt and rock and vines, which detach themselves from the walls and move toward buffy and dawn.
@@ -648,7 +657,8 @@ scene direction: willow watches, panting and looking a bit nervous. xander looks
 xander: i love you.
 scene direction: willow makes another slashing gesture. xander doubles over and falls to his knees. panting, he gets up again, and we see that his shirt is ripped open over the heart, more scratches visible on his chest. he pants and grimaces from the pain but faces willow again.
 scene direction: xander panting
-xander: i ... love y- willow: shut up!
+xander: i ... love y-
+willow: shut up!
 scene direction: now she does throw a blast of magic at him, and he staggers backward but doesn't fall down. willow still holds her hand out, a little bit of magic crackling around it but not as much as she had expected. she looks surprised and anxious. xander moves slowly toward her.
 xander: i love you, willow.
 willow: stop!
@@ -676,7 +686,8 @@ scene direction: anya frowns
 anya: why aren't i dead?
 giles: uh, the threat's gone. willow's been stopped.
 scene direction: giles tries to sit up and anya helps him.
-anya: oh. you mean she's- giles: no, she's alive. it, uh ... the magic she took from me, it-it did what i hoped it would do.
+anya: oh. you mean she's-
+giles: no, she's alive. it, uh ... the magic she took from me, it-it did what i hoped it would do.
 anya: oh.
 scene direction: anya getting it
 anya: you dosed her.
@@ -698,7 +709,8 @@ scene direction: dawn gives a deep sigh of relief, then looks over at buffy agai
 scene direction: buffy bursts into tears, not looking at dawn.
 scene direction: dawn scowls.
 scene direction: dawn sarcastic
-dawn: sorry to disappoint y- she pauses, looks at buffy again. buffy continues sobbing.
+dawn: sorry to disappoint y-
+scene direction: she pauses, looks at buffy again. buffy continues sobbing.
 dawn: wait, is ... is that happy crying?
 scene direction: buffy sniffles
 buffy: yes, dummy.
@@ -730,12 +742,16 @@ buffy: i got it so wrong. i don't want to protect you from the world. i want to 
 scene direction: she turns back to dawn again.
 buffy: there's so much that i want to show you.
 scene direction: they hug again, smiling. cue slow music "the prayer of st. francis" by sarah mclachlan.
-scene change: lord make me an instrument of your peace cut to a close shot of the grassy edge of the pit. a hand appears, then another, and buffy hauls herself up onto the grass, reaches back to pull dawn up behind her.
-scene direction: where there is hatred, let me sow love; where there is injury, pardon...
+scene direction: lord make me an instrument of your peace
+scene change: cut to a close shot of the grassy edge of the pit. a hand appears, then another, and buffy hauls herself up onto the grass, reaches back to pull dawn up behind her.
+scene direction: where there is hatred, let me sow love;
+scene direction: where there is injury, pardon...
 scene direction: buffy and dawn climb fully out of the pit and kneel on the ground panting. dawn looks over at buffy. buffy looks around at the world, smiling.
 scene direction: where there is doubt, faith...
 scene change: fade to the bluff. xander still holding the crying willow.
-scene direction: where there is despair, hope where there is darkness, light and where there is sadness, joy...
+scene direction: where there is despair, hope
+scene direction: where there is darkness, light
+scene direction: and where there is sadness, joy...
 scene change: fade to the magic box. anya helps giles up and puts his arm around her shoulders to support him. they duck under the fallen pillar and walk toward the front door.
 scene direction: o divine master grant that i may...
 scene change: cut to the front grille of a truck.
@@ -745,9 +761,11 @@ scene direction: ...to be understood as to understand...
 scene direction: pan across to reveal jonathan and andrew, looking nervously at the truck driver, and then trying to squeeze even farther away from him than they already are, pressing against the door.
 scene direction: ...to be loved as to love...
 scene change: fade to the cemetery. buffy walks forward, looking toward the rising sun, looking pleased.
-scene direction: for it is in giving that we receive dawn walks forward to stand beside buffy.
+scene direction: for it is in giving that we receive
+scene direction: dawn walks forward to stand beside buffy.
 scene change: fade to another part of the cemetery. dawn and buffy walk along, with their arms around each other. there's greenery and flowers and blooming trees all around.
-scene direction: and it's in pardoning that we are pardoned and it's in dying that we are born...
+scene direction: and it's in pardoning that we are pardoned
+scene direction: and it's in dying that we are born...
 scene change: fade to the cave in africa.
 scene direction: ...to eternal life...
 scene direction: pan across the darkness to reveal spike lying on his back on the ground, motionless.
@@ -765,4 +783,4 @@ scene direction: the demon's hand reaches out toward spike's chest.
 demon: ...your soul.
 scene direction: the hand touches his chest and it glows fiery yellow-orange. spike's eyes glow the same color. he throws back his head and screams.
 scene direction: blackout.
-executive producers: joss whedon and marti noxon 
+executive producers: joss whedon and marti noxon.

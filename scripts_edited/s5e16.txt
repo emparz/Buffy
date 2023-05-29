@@ -90,7 +90,8 @@ buffy: look, all we have to do is just cut off a little bit of the burnt...
 scene direction: as she begins trying to cut the pie, it falls off the island and onto the floor.
 scene direction: cut back to present day. shot of joyce's face as she lies on the sofa, her eyes open and unseeing.
 scene direction: buffy rushes over and begins shaking joyce by the shoulders.
-buffy: mom! mom! mom mom mom- she repeats the word many times and then shouts it in joyce's face, getting no reaction.
+buffy: mom! mom! mom mom mom-
+scene direction: she repeats the word many times and then shouts it in joyce's face, getting no reaction.
 scene direction: buffy gets up, panting and sniffling. the camera follows her into the kitchen where she picks up the phone and dials 911. she fidgets anxiously while it rings.
 911 operator: 911 emergency.
 buffy: hello?
@@ -194,7 +195,8 @@ scene change: cut to buffy and joyce in the ambulance with the paramedics.
 paramedic 1: it's a miracle. that's what it is, a beautiful miracle.
 scene change: cut to joyce in a hospital bed, dawn sitting on the bed beside her, buffy and a doctor standing next to the bed.
 doctor: good as new.
-joyce: buffy, thank god you found me in ti- zoom in on buffy as joyce says this.
+joyce: buffy, thank god you found me in ti-
+scene direction: zoom in on buffy as joyce says this.
 scene direction: cut back to the living room as we realize this was all in buffy's imagination. she is still standing there watching the paramedics work. utter silence except the sound of paramedic 2 continuing cpr.
 scene direction: shot of the ekg machine still showing flatline.
 scene direction: paramedic 2 stops cpr and turns to paramedic 1.
@@ -264,7 +266,8 @@ buffy: no. no. don't. no, it's too late.
 scene direction: the camera moves down the hallway (buffy's pov) as she rushes after giles.
 scene direction: giles os
 giles: joyce?
-buffy: they're, they're coming for her, no, no, we're- buffy rounds the corner and finds giles bending over joyce, shaking her.
+buffy: they're, they're coming for her, no, no, we're-
+scene direction: buffy rounds the corner and finds giles bending over joyce, shaking her.
 giles: joyce!
 scene direction: buffy desperate
 buffy: we're not supposed to move the body!
@@ -293,9 +296,11 @@ lisa: he just said you were ... freaky. which, you know, freaky can be ... sort 
 dawn: oh yeah. real cool.
 scene direction: dawn teary
 dawn: i'm a suicidal head-case.
-lisa: you know it was kirsty. she was telling people how you were into cutting yourself, and how you- dawn: that's such a lie! i got cut. by accident. one time.
+lisa: you know it was kirsty. she was telling people how you were into cutting yourself, and how you-
+dawn: that's such a lie! i got cut. by accident. one time.
 scene direction: dawn walks into the toilet stall and takes some toilet paper to wipe her face. lisa takes some paper towels from a dispenser to dry her hands.
-dawn: now kevin thinks i'm a- lisa: well, that was when you were wigging out about your family, and of course kirsty's gotta turn everything into a story.
+dawn: now kevin thinks i'm a-
+lisa: well, that was when you were wigging out about your family, and of course kirsty's gotta turn everything into a story.
 scene direction: dawn comes out of the stall wiping her eyes. we see her reflected in the mirror next to lisa.
 lisa: she was telling people that you were adopted.
 dawn: what a prima bee-yotch. i swear, if i could make her head explode using only the power of my mind? that's what i'd be doing right about now.
@@ -357,7 +362,8 @@ dawn: yeah. i just ... i had a lot of intense stuff going on.
 scene direction: dawn kevin smiles, returns to his drawing
 dawn: a lot of people don't understand that. pain.
 kevin: yeah.
-dawn: then kirsty's gotta blab it everywhere, 'cause she's- kevin: kirsty, man. it's like she thinks, "i'm so hot, everybody should just bow down before me." and i'm like, whatever.
+dawn: then kirsty's gotta blab it everywhere, 'cause she's-
+kevin: kirsty, man. it's like she thinks, "i'm so hot, everybody should just bow down before me." and i'm like, whatever.
 scene direction: dawn smiles and laughs. behind her we see buffy in the hallway, looking at dawn.
 dawn: she's so superficial. everything's always about clothes, or who likes who, and...
 scene direction: dawn buffy enters the classroom, goes over to the teacher
@@ -367,7 +373,8 @@ dawn: uh, this one time in history, uh,
 scene direction: dawn buffy begins walking down the aisle toward dawn
 dawn: she had this book called annals of history, and she didn't know how to say the word "annals"
 scene direction: dawn kevin looks surprised
-dawn: so she kept saying- buffy: dawn.
+dawn: so she kept saying-
+buffy: dawn.
 scene direction: dawn turns, still smiling. buffy stares at her.
 scene direction: dawn stops smiling.
 buffy: i have to talk to you.
@@ -392,9 +399,9 @@ buffy: it's ... bad ... news.
 scene direction: dawn crosses her arms anxiously over her chest.
 dawn: well, what is it? what happened?
 scene direction: shot through the window of the classroom. lisa and kevin are watching. lisa begins to walk forward.
-buffy: it's bad. please, can we- dawn:
-scene direction: buffy loudly
-buffy: where's mom?
+buffy: it's bad. please, can we-
+scene direction: dawn loudly
+dawn: where's mom?
 scene direction: buffy teary
 buffy: mom ... had an accident. or, um...
 scene direction: lisa walks toward the window, staring.
@@ -439,7 +446,8 @@ willow: no. no, it's too depressing, i-it's like, um, a ... funeral, god, i ...
 scene direction: willow holds up the other shirt, which is yellow
 willow: well, this is, this is cheerier, maybe, i-i wanna be cheery, like, like everything is normal?
 scene direction: tara just watches.
-willow: no, that's rude, that's, that's disrespectful. "la la la! i don't care!" she tosses both blouses on the bed with a sigh.
+willow: no, that's rude, that's, that's disrespectful. "la la la! i don't care!"
+scene direction: she tosses both blouses on the bed with a sigh.
 willow: if i had that blue one -
 scene direction: willow turns back to the closet, then back
 willow: jo-joyce really liked the blue one. she told me one time. you, you sure it's not in your room?
@@ -498,7 +506,8 @@ willow: that's where they were ... taking ... her.
 tara: um, giles said that he, he was gonna go with joyce, and buffy was gonna go to ... the school to ... tell dawn.
 scene direction: xander looks upset, closes his eyes.
 xander: god.
-tara: do you know how to, how to get- xander: yeah. it's at the hospital, it's a wing. we do morgue time in the scooby gang.
+tara: do you know how to, how to get-
+xander: yeah. it's at the hospital, it's a wing. we do morgue time in the scooby gang.
 scene direction: willow looks anxiously at tara.
 willow: i have to change.
 scene direction: she removes her cardigan, tosses it aside, goes off to get another shirt.
@@ -508,7 +517,8 @@ tara: not a lot.
 xander: are they sure this was ... natural? i mean, glory.
 tara: uh, giles was pretty sure that it wasn't, wasn't her.
 xander: but, i mean, she said she was gonna come after buffy's family.
-tara: i don't- xander: i mean, we should be going after her. i mean, she coulda done it, and, and, covered her tracks.
+tara: i don't-
+xander: i mean, we should be going after her. i mean, she coulda done it, and, and, covered her tracks.
 scene direction: anya looks confused. willow reappears, now wearing a pink turtleneck.
 willow: why would she? she'd want us to know.
 scene direction: xander looks upset.
@@ -565,7 +575,8 @@ anya: am i supposed to be changing my clothes a lot?
 scene direction: anya looks from willow to xander
 anya: is that the helpful thing to do?
 xander: guys...
-willow: the way you behave- anya: nobody will tell me.
+willow: the way you behave-
+anya: nobody will tell me.
 willow: because it's not okay for you to be asking these things!
 scene direction: anya desperate
 anya: but i don't understand!
@@ -852,4 +863,4 @@ scene direction: dawn lifts her hand and reaches out, very slowly.
 scene direction: close shot of joyce's head with dawn's hand moving slowly toward her cheek.
 scene direction: the picture goes to black just before dawn's fingers touch the body.
 scene direction: blackout.
-executive producer: joss whedon 
+executive producer: joss whedon.

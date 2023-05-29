@@ -59,7 +59,8 @@ willow: is there something out there?
 buffy: hmm? oh. no. i'm sorry. a lost mission. i mean, a hairbrush i can understand. and by the way, i will find that and get that back to you. but how do you lose a mission?
 willow: huge earthquake in 1812. everyone just assumed the mission was leveled. instead, they built right over it. it's like what happened in the thirties with that church the master was in. doesn't it make you wonder what else is there, like, right under our feet?
 buffy: mostly, i've just found sewers full of demons.
-willow: oh, right. outside we hear students running mad through the halls with excitement.
+willow: oh, right.
+scene direction: outside we hear students running mad through the halls with excitement.
 willow: man, it's crazy out there.
 buffy: mm-hmm. post-midterm frenzy. and the holiday. everyone's going home.
 willow: it looks like a lot of lucky moms are gonna be getting brimming baskets of dirty laundry.
@@ -409,7 +410,8 @@ spike: i'm saying that spike had a little trip to the vet and now he doesn't cha
 buffy: so you haven't murdered anybody lately? let's be best pals.
 spike: i've got information. about the soldier boys you were fighting. got the inside scoop. come on, what have you got to be afraid of?
 scene change: cut to hus performing a ritual to summon other spirits.
-hus: first people who dwell in mishupashup, hear me and descend. walk with me upon itiashup again. hear me also, nunashush. spirits from below... creatures of the night... take human form and join the battle. bring me my revenge. we see a cloud of green smoke which turns into a dozen warriors.
+hus: first people who dwell in mishupashup, hear me and descend. walk with me upon itiashup again. hear me also, nunashush. spirits from below... creatures of the night... take human form and join the battle. bring me my revenge.
+scene direction: we see a cloud of green smoke which turns into a dozen warriors.
 scene change: *** part 4 ***
 scene change: cut to spike sitting in a chair, being bound by rope by buffy.
 spike: grrr. bloody hell, woman. you're cuttin' off my circulation.
@@ -477,7 +479,8 @@ buffy: i always wondered that. giles, plates.
 spike: living skeletons, mate. like famine pictures from those dusty countries, only not half as funny.
 buffy: you can have gravy. that has blood in it, right?
 spike: do you know what else has blood in it? blood.
-buffy: do i have to gag you? because i am not gonna listen to you whine all the way through my dinner. it's gonna be a nice, quiet, civilized-- suddenly an arrow pierces the decorative scarecrow on the table. we see hus in the window with a bow and arrow.
+buffy: do i have to gag you? because i am not gonna listen to you whine all the way through my dinner. it's gonna be a nice, quiet, civilized--
+scene direction: suddenly an arrow pierces the decorative scarecrow on the table. we see hus in the window with a bow and arrow.
 buffy: you. listen, maybe i wasn't clear before about how terrible we all feel. 'cause we're trying to help.
 spike: what's going on?!
 giles: it isn't working.

@@ -20,9 +20,10 @@ buffy: dawn, maybe it wasn't such a good idea you coming along.
 scene direction: dawn turns to look at her
 dawn: it's fine. it's just ...
 buffy: i'm serious. y-you shouldn't have to deal with this stuff.
-director: if you'd like a few more minutes to decide- buffy: no. i, it's done, it's fine.
-scene direction: director to dawn
-director: okay?
+director: if you'd like a few more minutes to decide-
+buffy: no. i, it's done, it's fine.
+scene direction: buffy to dawn
+buffy: okay?
 scene direction: dawn nods.
 buffy: okay.
 scene direction: buffy turns and walks out with the men following. dawn remains staring at the coffin.
@@ -52,7 +53,8 @@ dawn: she never said anything to me.
 xander: i'm sure she just didn't wanna upset you, dawnster. now you better get to work on that dinner. you barely touched it.
 buffy: you really should eat something.
 dawn: why should i? you're not.
-buffy: this isn't about- the cordless phone on the table rings. buffy sighs.
+buffy: this isn't about-
+scene direction: the cordless phone on the table rings. buffy sighs.
 scene direction: buffy to giles
 buffy: i'm all phoned out. will you? unless it's my dad.
 giles: of course.
@@ -70,9 +72,9 @@ scene direction: buffy shot of willow thinking about it
 buffy: 'at the request of joyce, there will be no gathering'? uch, that sounds lame.
 scene direction: buffy puts a hand to her forehead. willow gives her a concerned look, looks at dawn, gets up and begins clearing the table.
 dawn: what are we gonna do? after, i mean. are we just gonna ... come back here?
-buffy: uh ... i, i don't know. i guess so. um, how about 'at the request of the family, there will be no wake.' xander:
-scene direction: buffy gets up to move into the chair next to buffy
-buffy: good, yeah, it's got, uh...
+buffy: uh ... i, i don't know. i guess so. um, how about 'at the request of the family, there will be no wake.'
+scene direction: xander gets up to move into the chair next to buffy
+xander: good, yeah, it's got, uh...
 scene direction: dawn to herself
 dawn: i don't wanna be here.
 buffy: should i put it at the top, or just a small line at the bottom?
@@ -239,9 +241,10 @@ tara: of course you wanna bring your mother back, and ... i wish we could, but i
 dawn: why? you guys do magic for all kinds of things.
 willow: we do, but...
 tara: this is different. magic can't be used to alter the natural order of things.
-dawn: but all you do is mess with the natural order of things. you, you make things float, a-and disappear, and- tara: but we don't mess with life and death.
-scene direction: dawn shot of willow looking upset
-dawn: dawn, i know how bad you hurt.
+dawn: but all you do is mess with the natural order of things. you, you make things float, a-and disappear, and-
+tara: but we don't mess with life and death.
+scene direction: tara shot of willow looking upset
+tara: dawn, i know how bad you hurt.
 dawn: you don't.
 scene direction: dawn upset
 dawn: they put her in the ground.
@@ -306,7 +309,8 @@ scene direction: they sit quietly together.
 scene change: cut to exterior hospital, night. ben walks out, wearing a jacket over his hospital scrubs. he turns a corner and see jinx lurking. jinx sees ben and walks toward him.
 scene direction: ben angrily
 ben: tell my sister i'm sick of running into her jawa rejects.
-jinx: she ... bade me come to you. the news of your relationship with the slayer- ben: we don't have a relationship.
+jinx: she ... bade me come to you. the news of your relationship with the slayer-
+ben: we don't have a relationship.
 jinx: but ... you attempted to court her, did you not?
 ben: you're more fun when i hit you.
 jinx: it's just, glory ... would like to encourage this interest of yours in the slayer. it might lead to more information about the key.
@@ -315,7 +319,8 @@ jinx: time ... is running short, sir. every moment you fight glory, you're only 
 ben: fine. let the best me win. let glory understand this: i won't help her find the key. i would never do that to an innocent-
 scene direction: ben stops himself
 jinx: an innocent? the key? that's an interesting choice of words.
-ben: no, that, that's not what i- jinx: i understand, sir. i'm sorry to have bothered you, i'll ... take my leave.
+ben: no, that, that's not what i-
+jinx: i understand, sir. i'm sorry to have bothered you, i'll ... take my leave.
 scene direction: he begins to leave but ben stops him.
 ben: you understand what? when i said it's innocent, i didn't mean that the key is ... it's not a person.
 jinx: of course not.
@@ -353,7 +358,8 @@ scene direction: dawn gets up and goes to the bookcase, pulls out the book, open
 scene direction: dawn reading table of contents
 dawn: 'age of levitation ... war of the warlocks...'
 scene direction: dawn flips pages
-dawn: 'resurrection -- a controversy born.' she flips the pages quickly, finds the spot, reads quickly, then looks up with a thoughtful expression.
+dawn: 'resurrection -- a controversy born.'
+scene direction: she flips the pages quickly, finds the spot, reads quickly, then looks up with a thoughtful expression.
 scene change: cut to exterior magic shop, day.
 scene change: cut to inside. dawn is pretending to dust while really examining the merchandise. we see anya doing something behind her. dawn moves over to a cart full of books and dusts them while reading the spines. anya follows, supervising. in the background we see giles. he looks over.
 giles: you don't have to do that, dawn, just, just relax.
@@ -449,7 +455,8 @@ spike: and i'm dead serious. you breathe a word of this to buffy, i'll see to it
 dawn: yeah. got it.
 scene change: cut to glory's apartment. glory is walking down the stairs into the living room, followed by several sycophant demons.
 glory: where is he? he should have been back hours ago.
-murk: i'm sure jinx is on his way, your ... new and improvedness. he's most loyal to- glory: hey! he better be loyal.
+murk: i'm sure jinx is on his way, your ... new and improvedness. he's most loyal to-
+glory: hey! he better be loyal.
 scene direction: the door opens and two more demons enter, half-carrying jinx between them. he has his arms around their shoulders but is conscious.
 glory: jinxie?
 scene direction: she rushes forward and takes one of jinx's arms around her shoulders. the displaced demon goes to shut the door.
@@ -514,9 +521,9 @@ doc: ohh. i'm so sorry.
 scene direction: doc dawn looks down
 spike: so we were wondering, what's to be done about it. heard you were the one to ask.
 scene direction: doc concerned
-doc: ohh ... no, no, that's, uh, you don't wanna mess with that. uh, i know some tonics, uh, make the grieving fly by- dawn:
-scene direction: doc shakes head
-doc: i don't want any tonics.
+doc: ohh ... no, no, that's, uh, you don't wanna mess with that. uh, i know some tonics, uh, make the grieving fly by-
+scene direction: dawn shakes head
+dawn: i don't want any tonics.
 doc: either one of you witches? got any experience with, uh, spells of this magnitude?
 scene direction: dawn shakes her head. spike just looks grim.
 doc: didn't think so.
@@ -536,11 +543,12 @@ scene direction: doc spike nods. doc reads from the book
 doc: egg of the ghora gives life.
 scene direction: doc looks up at dawn
 doc: it's key to the spell.
-dawn: can you buy it, this ... egg, or- doc: if it was as easy as making an omelet, everyone would try it.
-scene direction: dawn dawn looks chastised
-dawn: no. you have to steal the egg from the nest of the demon.
-scene direction: dawn looks at spike
-dawn: and the ghora won't be happy about it.
+dawn: can you buy it, this ... egg, or-
+doc: if it was as easy as making an omelet, everyone would try it.
+scene direction: doc dawn looks chastised
+doc: no. you have to steal the egg from the nest of the demon.
+scene direction: doc looks at spike
+doc: and the ghora won't be happy about it.
 spike: where do we find this demon?
 doc: first things first. we'll need an image of your mother. a photo, a painting.
 dawn: no problem.
@@ -629,7 +637,8 @@ scene direction: spike gives one last thrust and buries the axe in one of the de
 scene direction: as they start up the stairs, dawn trips and drops the egg. it bursts open, leaking bright blue stuff.
 spike: leave it, dawn.
 dawn: i can't. mom.
-spike: it's too dangerous and i haven't got- dawn turns and runs back toward the nest.
+spike: it's too dangerous and i haven't got-
+scene direction: dawn turns and runs back toward the nest.
 spike: -a weapon!
 scene direction: dawn runs to the nest, screams as the demon turns to confront her. one of the heads is inches from her face.
 scene direction: spike throws stones at the demon's head. it turns to him and lashes at him with its tail, knocking him over.
@@ -720,9 +729,9 @@ buffy: you have no idea what you're messing with. who knows what you actually ra
 scene direction: dawn tearful
 dawn: no, i-i know. it'll be her.
 buffy: no. now, tara told me that these spells go bad all the time. people come back ... wrong.
-dawn: not mom. he told me her dna- buffy:
-scene direction: dawn grabs dawn by the upper arms
-dawn: who told you? who helped you?
+dawn: not mom. he told me her dna-
+scene direction: buffy grabs dawn by the upper arms
+buffy: who told you? who helped you?
 scene direction: dawn angry
 dawn: nobody, let me go.
 buffy: you have to stop it. reverse it.
@@ -745,9 +754,9 @@ buffy: of course i care. how can you even think that?
 dawn: how can i not? you haven't even cried. you've just been running around like it's been some big chore or something. cleaning up after mom's mess.
 scene direction: buffy slaps dawn across the face. dawn yelps and puts her hand to her cheek. buffy puts her hand over her mouth in horror.
 scene direction: buffy tearful
-buffy: dawn ... i've been ... working. i've been busy, because i have to- dawn:
-scene direction: buffy tearful
-buffy: no! you've been avoiding me.
+buffy: dawn ... i've been ... working. i've been busy, because i have to-
+scene direction: dawn tearful
+dawn: no! you've been avoiding me.
 buffy: i'm not! ... i have to do these things, 'cause ...
 scene direction: buffy crying
 buffy: 'cause when i stop, then she's really gone.
@@ -788,4 +797,4 @@ dawn: it's okay.
 scene direction: they sink to the floor, holding each other tightly and crying.
 dawn: it's okay.
 scene direction: blackout.
-executive producer: joss whedon 
+executive producer: joss whedon.

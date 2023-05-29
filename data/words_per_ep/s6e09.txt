@@ -490,7 +490,6 @@ you
 spike
 once
 was
-spike
 twice
 but
 not
@@ -920,7 +919,6 @@ have
 better
 safe
 than
-warren
 okay
 the
 security
@@ -1332,7 +1330,6 @@ mean
 soon
 we'll
 have
-jonathan
 hey
 that's
 really
@@ -1389,7 +1386,6 @@ is
 he
 gonna
 like
-warren
 oh
 he'll
 be
@@ -1493,10 +1489,9 @@ hot
 chocolate
 you
 want
-amy
 no
 thanks
-willow
+amy
 gestures
 at
 her
@@ -1885,12 +1880,11 @@ catch
 up
 i
 can
-amy
 no
 no
 no
 stay
-buffy
+amy
 twitchy
 do
 you
@@ -2380,7 +2374,6 @@ a
 team
 we
 could
-buffy
 yeah
 that
 never
@@ -2858,7 +2851,6 @@ anything
 you
 want
 please
-spike
 just
 'cause
 she's
@@ -2876,7 +2868,7 @@ too
 'cause
 i'm
 not
-woman
+spike
 pacing
 back
 and
@@ -3611,7 +3603,6 @@ what's
 the
 deal
 with
-anya
 oh
 for
 crying
@@ -3655,12 +3646,12 @@ say
 anything
 to
 you
-willow
+anya
 pauses
 smiles
 except
 me
-willow
+anya
 looks
 at
 xander
@@ -3674,7 +3665,7 @@ that
 you
 were
 commenting
-willow
+anya
 xander
 nods
 guys
@@ -3977,7 +3968,6 @@ something
 'cause
 we're
 not
-spike
 in
 my
 head
@@ -4384,7 +4374,6 @@ your
 back
 you
 scratch
-spike
 i'm
 not
 scratching
@@ -4484,7 +4473,6 @@ i
 thought
 it
 was
-amy
 let's
 go
 somewhere
@@ -4877,7 +4865,6 @@ gotta
 be
 something
 wrong
-warren
 no
 no
 listen
@@ -4891,7 +4878,7 @@ does
 i'd
 like
 to
-spike
+warren
 leans
 closer
 spike
@@ -4944,7 +4931,6 @@ you're
 lying
 to
 me
-warren
 no
 it's
 all
@@ -4966,7 +4952,7 @@ out
 if
 you
 just
-spike
+warren
 sees
 spike
 frowning
@@ -5553,7 +5539,6 @@ not
 she
 i'm
 still
-amy
 it's
 cool
 amy
@@ -6061,7 +6046,6 @@ and
 tara
 but
 it
-xander
 tara
 thinks
 willow
@@ -6576,7 +6560,6 @@ these
 things
 seem
 really
-anya
 lame
 buffy
 shrugs
@@ -7172,8 +7155,6 @@ don't
 wanna
 be
 alone
-backup
-singers
 no
 no
 no
@@ -7221,10 +7202,7 @@ a
 gesture
 a
 whiteclad
-demo
-female
-singer
-
+demon
 appears
 floating
 over
@@ -8243,4 +8221,4 @@ and
 marti
 noxon
 the
-en
+end

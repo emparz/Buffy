@@ -75,8 +75,10 @@ def graphing_totals():
     plt.close()
     # write data to file to look at easier
     totalWordsFile = open('plots/plotsData/numWords.txt', 'w')
+    episodeNum = 1
     for e in wordsPerEpisode:
-        totalWordsFile.write(e + ": " + str(wordsPerEpisode[e]) + "\n")
+        totalWordsFile.write(e + '--' + str(episodeNum) + ": " + str(wordsPerEpisode[e]) + "\n")
+        episodeNum += 1
     totalWordsFile.close()
 
     # graphing number of characters per episode
@@ -94,8 +96,10 @@ def graphing_totals():
     plt.close()
     # write data to file to look at easier
     totalWordsFile = open('plots/plotsData/numCharacters.txt', 'w')
+    episodeNum = 1
     for e in numCharacters:
-        totalWordsFile.write(e + ": " + str(numCharacters[e]) + "\n")
+        totalWordsFile.write(e + '--' + str(episodeNum) + ": " + str(numCharacters[e]) + "\n")
+        episodeNum += 1
     totalWordsFile.close()
 
     # graphing total number of dialogue words per episode

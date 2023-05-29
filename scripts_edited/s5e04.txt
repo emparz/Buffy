@@ -152,7 +152,8 @@ scene direction: buffy falls to the floor on top of riley, who has his arms arou
 buffy: unh! ow, riley...
 scene direction: they get up.
 riley: just keeping you on your toes.
-buffy: or off them, as it were. what's gotten into- she stops as she looks around the room and sees it for the first time.
+buffy: or off them, as it were. what's gotten into-
+scene direction: she stops as she looks around the room and sees it for the first time.
 buffy: oh my god. look at this place!
 scene direction: long shot of the room. we see a punching bag hanging from the ceiling, a vault horse atop a set of mays, a stationary bike, and a scarecrow/dummy. in the background there's something that looks like a mini-fridge(?). against the far wall there's a set of weights. symbols are painted on the floor and walls.
 scene direction: buffy gasps
@@ -160,8 +161,9 @@ buffy: thank you.
 scene direction: buffy looks up at giles
 buffy: thank you ... so much.
 scene direction: giles removing his glasses and then the mask that's still around his neck
-giles: it's just a start, you need a proper space to train, so- buffy: i love it.
-scene direction: giles giles gives a small smile
+giles: it's just a start, you need a proper space to train, so-
+buffy: i love it.
+scene direction: buffy giles gives a small smile
 scene direction: riley grinning
 riley: so come on, let's test this puppy out. think you can take me?
 scene direction: riley throws a few fake punches at buffy. she mostly ignores him, walking farther into the room.
@@ -336,7 +338,8 @@ doctor: legally, no, i can't force you to do a thing.
 scene direction: doctor riley nods and resumes buttoning his shirt
 doctor: but with that pulse, believe me, i'd get on my knees and beg you if i thought i could change your mind.
 riley: you can't. i'm going home.
-doctor: and your friend here can't convince you to- riley holds up a hand to stop her.
+doctor: and your friend here can't convince you to-
+scene direction: riley holds up a hand to stop her.
 riley: i'm going.
 scene direction: buffy looks very concerned.
 doctor: all right then, but you're leaving against my recommendation.
@@ -384,7 +387,8 @@ dawn: did you know that one time the cia tried to kill fidel castro with poisono
 buffy: dawn, please.
 scene direction: dawn looks annoyed. buffy sits on a chair.
 buffy: i know i have to do something, i just don't know what.
-dawn: another time the cia- buffy: dawn!
+dawn: another time the cia-
+buffy: dawn!
 dawn: it's important.
 scene direction: buffy looks annoyed but nods.
 scene direction: dawn quickly
@@ -455,7 +459,8 @@ buffy: say.
 scene direction: graham sighs
 graham: hyperadrenal overload and a bunch of stuff that sounds even worse than that, and all it means is he's way stronger than he oughta be and feeling no pain. his heart can't take it. we've been at him for weeks about it.
 scene direction: buffy sighs.
-graham: there's a specialist waiting at sunnydale general, fourth floor neurology. get riley there. if you don't- buffy: i'll get him there.
+graham: there's a specialist waiting at sunnydale general, fourth floor neurology. get riley there. if you don't-
+buffy: i'll get him there.
 scene direction: graham nods
 graham: i'll tell the doc.
 scene direction: buffy turns to walk off. graham watches her go.
@@ -492,11 +497,12 @@ anya: and, i also have this "friend"
 scene direction: anya making air-quotes
 anya: and, uh, i have it on really good authority that she really likes that guy, your "friend"
 scene direction: anya air-quotes
-anya: ... and, by the by, my friend- buffy: you guys, enough!
-scene direction: anya anya and xander look embarrassed
-anya: okay, riley is in real danger here.
-scene direction: anya sighs
-anya: anya, xander, why don't you guys check the docks.
+anya: ... and, by the by, my friend-
+buffy: you guys, enough!
+scene direction: buffy anya and xander look embarrassed
+buffy: okay, riley is in real danger here.
+scene direction: buffy sighs
+buffy: anya, xander, why don't you guys check the docks.
 scene direction: anya and xander nod.
 xander: aye aye.
 scene direction: they get up and leave.
@@ -633,7 +639,8 @@ scene direction: riley puts up a hand in a "no thanks" gesture and backs away
 scene direction: buffy moving toward him
 buffy: he's the only one that understands what's wrong with you. he's the only one that can help.
 riley: what's wrong with me? i'm more powerful than i've ever been, buffy. most people would kill to feel this way.
-buffy: yeah, and this feeling is *going* to kill you. riley, your body was not built for this kind of strength- riley: i can handle it. this is my deal, buffy, just ... back off.
+buffy: yeah, and this feeling is *going* to kill you. riley, your body was not built for this kind of strength-
+riley: i can handle it. this is my deal, buffy, just ... back off.
 scene direction: he walks past her. she turns to watch him.
 buffy: what is this?
 scene direction: he stops walking, turns back to her.
@@ -666,7 +673,8 @@ buffy: i've opened up to you in ways that i've never opened up to ... god, you'r
 scene direction: riley still not looking at her
 riley: i never said that.
 scene direction: buffy teary-eyed
-buffy: because it obviously doesn't mean anything to you. do you really think so little of me- riley: buffy.
+buffy: because it obviously doesn't mean anything to you. do you really think so little of me-
+riley: buffy.
 buffy: no! no. do you think that i spent the last year with you because you had super powers? if that's what i wanted, then i'd be dating spike.
 scene direction: buffy quietly
 buffy: riley, i need you.
@@ -754,7 +762,8 @@ spike: swim in it.
 scene direction: shot of overheiser and harmony behind the sheet, staring at spike's brain. harmony is smoking another cigarette.
 spike: i'm gonna do the bloody backstroke.
 scene direction: harmony blows out smoke, which drifts toward spike's face. she begins to jump up and down.
-harmony: i see it, spikey! i see the chip! it's nestled in there like ... a pretty little easter egg with your brain all around it like that green plastic grassy stuff ... only this is more a beige, like- overheiser: would you please put out that cigarette? it's really not allowed.
+harmony: i see it, spikey! i see the chip! it's nestled in there like ... a pretty little easter egg with your brain all around it like that green plastic grassy stuff ... only this is more a beige, like-
+overheiser: would you please put out that cigarette? it's really not allowed.
 harmony: oh yeah? says who?
 scene direction: the doctor turns to look pointedly at the no smoking sign on the wall.
 harmony: oh god, sorry! didn't see the sign!
@@ -816,7 +825,8 @@ scene direction: the doctor rushes to lift the table off of riley as spike and h
 scene direction: buffy and the doctor lift riley up to a sitting position.
 scene change: cut to exterior graveyard, night. spike and harmony run between the trees and gravestones.
 spike: buffy, buffy, buffy! everywhere i turn, she's there! that nasty little face, that ... bouncing shampoo-commercial hair, that whole sodding holier-than-thou attitude.
-harmony: well, aren't we kinda unholy, by the- spike: she follows me, you know, tracks me down. i'm her pet project. drive spike round the bend. makes every day a fresh bout of torture.
+harmony: well, aren't we kinda unholy, by the-
+spike: she follows me, you know, tracks me down. i'm her pet project. drive spike round the bend. makes every day a fresh bout of torture.
 scene direction: he stops running, picks up a headstone and throws it against another. harmony cringes as the dust showers her.
 harmony: spike!
 spike: you don't understand. i can't get rid of her. she's everywhere. she's haunting me, harmony!

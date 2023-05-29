@@ -745,7 +745,6 @@ let's
 just
 call
 her
-buffy
 ben
 shot
 of
@@ -2101,7 +2100,6 @@ train
 at
 sunnydale
 station'
-tara
 glory
 buffy
 shakes
@@ -2612,7 +2610,6 @@ something
 about
 people
 murdered
-buffy
 it's
 not
 glory
@@ -2857,7 +2854,6 @@ really
 cool
 part
 buffy
-dawn
 to
 spike
 what
@@ -3889,7 +3885,6 @@ see
 there
 was
 this
-spike
 oh
 don't
 get
@@ -4193,7 +4188,6 @@ money
 why
 are
 y
-spike
 shh
 they
 both
@@ -4468,11 +4462,10 @@ knickers
 twisted
 i
 was
-buffy
 what
 is
 this
-spike
+buffy
 spike
 stares
 at
@@ -4485,7 +4478,7 @@ bogus
 suspects
 the
 flask
-spike
+buffy
 spike
 raises
 his
@@ -4697,7 +4690,6 @@ whole
 evil
 thing
 buffy
-spike
 turns
 back
 you
@@ -4746,7 +4738,6 @@ real
 here
 i
 love
-buffy
 don't
 she
 puts
@@ -4784,7 +4775,6 @@ need
 to
 talk
 buffy
-spike
 turns
 back
 we
@@ -6281,7 +6271,6 @@ in
 the
 bud
 before
-buffy
 the
 bud
 nips

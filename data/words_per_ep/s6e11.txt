@@ -149,7 +149,6 @@ to
 the
 bathroom
 no
-willow
 bird
 buffy
 stops
@@ -549,7 +548,6 @@ trial
 run
 but
 it's
-jonathan
 kind
 of
 clunkylooking
@@ -1011,7 +1009,6 @@ was
 the
 one
 who
-buffy
 who
 was
 drowning
@@ -1471,7 +1468,6 @@ nut
 sack
 like
 drusilla
-buffy
 hey
 you
 really
@@ -1556,13 +1552,12 @@ and
 after
 school
 you
-dawn
 yeah
 yeah
 let's
 go
 xander
-buffy
+dawn
 walking
 toward
 the
@@ -1837,7 +1832,6 @@ boyfriend
 would
 like
 to
-buffy
 he
 is
 not
@@ -1933,10 +1927,8 @@ sorry
 did
 you
 say
-buffy
 crib
-ms
-kroger
+buffy
 fake
 laugh
 he
@@ -2506,7 +2498,6 @@ thought
 you'd
 want
 buffy
-spike
 harshly
 get
 out
@@ -3480,7 +3471,6 @@ my
 hair
 cut
 and
-anya
 you
 cut
 your
@@ -3524,7 +3514,6 @@ cut
 before
 the
 wed
-xander
 can
 we
 get
@@ -3535,7 +3524,7 @@ out
 about
 noshow
 buffy
-anya
+xander
 anya
 looks
 chastised
@@ -4270,7 +4259,6 @@ when
 she
 suddenly
 just
-willow
 buffy
 got
 her
@@ -4290,7 +4278,6 @@ she's
 all
 'blinvisible'
 willow
-xander
 upset
 and
 you
@@ -4486,7 +4473,6 @@ grabbed
 it
 from
 me
-jonathan
 hey
 we
 got
@@ -5303,12 +5289,10 @@ house
 is
 a
 complete
-boss
 what
 is
 this
-ms
-kroger
+boss
 reading
 'all
 work
@@ -6870,7 +6854,6 @@ looking
 for
 buf
 spike
-xander
 quickly
 haven't
 seen
@@ -7157,7 +7140,6 @@ are
 you
 talking
 ab
-spike
 the
 only
 reason
@@ -7168,8 +7150,7 @@ that
 you're
 not
 here
-invisible
-buffy
+spike
 drinking
 right
 of
@@ -7838,8 +7819,6 @@ wwhat
 are
 you
 talking
-invisible
-buffy
 okay
 not
 the
@@ -7921,7 +7900,6 @@ it
 of
 course
 i
-dawn
 do
 you
 even
@@ -7953,8 +7931,6 @@ don't
 think
 that's
 dawn
-invisible
-buffy
 upset
 i
 can't
@@ -8790,8 +8766,6 @@ to
 you
 that
 you're
-invisible
-buffy
 fading
 away
 i
@@ -9824,4 +9798,4 @@ and
 marti
 noxon
 the
-en
+end

@@ -35,7 +35,8 @@ willow: please. please, bring her back.
 demon: you may not violate the laws of natural passing.
 willow: how? how is this natural?
 demon: it is a human death, by human means.
-willow: but i- demon: you raised one killed by mystical forces. this is not the same. she is taken by natural order. it is done.
+willow: but i-
+demon: you raised one killed by mystical forces. this is not the same. she is taken by natural order. it is done.
 scene direction: willow crying
 willow: no. there has to be a way.
 demon: it is done.
@@ -120,7 +121,8 @@ scene direction: warren friendly greeting
 warren: hey.
 scene direction: close on the tv, showing a crocodile in water.
 scene direction: warren leaning toward the vamp
-warren: bet you don't get a lot of humans in- the vamp, still glued to the tv, grabs warren's shoulder and holds him off.
+warren: bet you don't get a lot of humans in-
+scene direction: the vamp, still glued to the tv, grabs warren's shoulder and holds him off.
 vampire: i'm watching my program.
 scene direction: warren shrugs and straightens up as the vamp lets him go.
 warren: wouldn't want to interrupt your 'me' time.
@@ -165,7 +167,8 @@ scene direction: bartender laughing
 bartender: it was just on the news. girl was shot.
 scene direction: vampire grinning
 vampire: in her back yard.
-bartender: she survived. she's in the hospital warren looks surprised and a little alarmed. the others continue laughing.
+bartender: she survived. she's in the hospital
+scene direction: warren looks surprised and a little alarmed. the others continue laughing.
 bartender: slayers heal fast. real fast.
 vampire: yeah. i was gonna eat you myself during the commercial, but now i think it'll be more fun to let the slayer de-gut you.
 scene direction: warren now looks pretty scared.
@@ -175,9 +178,9 @@ scene change: cut to interior magic shop, day. the door suddenly slams open and 
 scene direction: reveal anya behind the counter, staring.
 anya: willow.
 willow: where do you keep the black arts books?
-anya: something terrible has happened, i know. but you don't have to do- willow:
-scene direction: anya staring up at the loft bookshelves
-anya: i need power.
+anya: something terrible has happened, i know. but you don't have to do-
+scene direction: willow staring up at the loft bookshelves
+willow: i need power.
 scene direction: anya coming out from behind the counter
 anya: not with those books. i can't let you. willow!
 scene direction: willow puts up a hand. magic purple bolts of light shoot over to anya and suddenly she can't move.
@@ -322,7 +325,8 @@ scene change: cut to the street as warren exits. a bunch of buses are lined up a
 scene change: cut to a highway, daylight. it's fairly deserted with mostly desert on each side. a single car speeds along.
 scene change: cut to the interior of the car. xander is driving, buffy in the passenger seat and willow in back. willow's eyes are back to normal but her hair is still black.
 willow: faster.
-xander: i'm going as fast as i- willow: faster!
+xander: i'm going as fast as i-
+willow: faster!
 scene direction: close on the gas pedal as it slams down under xander's foot. the car speeds up.
 xander: will, would you cut that out? if you wanted to drive...
 buffy: we need to stop. i don't like this.
@@ -378,7 +382,8 @@ willow: and then we'll kill him.
 scene direction: buffy grabs willow's arm and stops her, turns her around.
 buffy: okay, you need to calm down.
 willow: calm down?
-buffy: look, you're angry. i, i am too. there's no excuse for what warren did, but that- willow: he shot tara.
+buffy: look, you're angry. i, i am too. there's no excuse for what warren did, but that-
+willow: he shot tara.
 scene direction: buffy and xander stare at her, speechless.
 willow: when he shot you, he hit her too. upstairs in my room.
 buffy: oh my god.
@@ -402,7 +407,8 @@ willow: i'm not coming back.
 scene direction: yet again willow starts to walk off and buffy grabs her, stops her.
 buffy: will, please. please, we'll get through this together.
 willow: we won't! not your way.
-buffy: please, just- willow: no! no more talking. it's done!
+buffy: please, just-
+willow: no! no more talking. it's done!
 scene direction: she turns away again, this time gesturing behind her. another bolt of purple magic flies backward, knocking buffy and xander off their feet. they fall to the ground in a heap. willow continues walking.
 scene direction: buffy and xander sit up, brushing themselves off. they look up toward the car.
 scene direction: willow is gone. just empty highway and the car.
@@ -493,12 +499,14 @@ dawn: let me go with you. i want to.
 buffy: no, honey, it's too dangerous.
 dawn: but ... it's willow. she needs us.
 buffy: she does. and you'll help her. lots. okay, but first we have to get her home in one piece.
-dawn: but- buffy: dawn. i'm serious. you've been through enough for more than one ... ever. you should be someplace where you feel safe.
+dawn: but-
+buffy: dawn. i'm serious. you've been through enough for more than one ... ever. you should be someplace where you feel safe.
 scene direction: dawn sullen
 dawn: fine. i want to go to spike's.
 scene direction: beat. buffy sighs heavily.
 buffy: all right.
-xander: what?! not all right. are you kidding? after what spike did- buffy: xander!
+xander: what?! not all right. are you kidding? after what spike did-
+buffy: xander!
 scene direction: buffy gives xander a meaningful look and a very small shake of the head.
 buffy: i'll get the coats.
 scene direction: she gets up and moves toward the foyer. xander follows.
@@ -552,15 +560,17 @@ clem: i'm surprised he didn't tell you. he kind of left in a hurry, i guess.
 scene direction: clem awkwardly
 clem: sure i can't get you something? i've got bugles and, uh, liverwurst...
 buffy: we're fine, thank you. um, but you could do us a favor. do you think maybe dawn could hang out here with you for a while? i have some stuff that i need to do and, uh, i really don't want her to be alone.
-dawn: i still don't see why i just can't- buffy: dawn. we've been through this.
-scene direction: dawn to clem
-dawn: what do you think?
+dawn: i still don't see why i just can't-
+buffy: dawn. we've been through this.
+scene direction: buffy to clem
+buffy: what do you think?
 clem: no problem. i'd love the company.
 scene direction: clem to dawn
 clem: do you like parcheesi?
 scene direction: dawn trying to be nice
 dawn: sure.
-clem: or, we could rent videos. i've been dying to see "the wedding planner." dawn: either way. i'm good.
+clem: or, we could rent videos. i've been dying to see "the wedding planner."
+dawn: either way. i'm good.
 clem: ooh, and here.
 scene direction: clem indicates the chair
 clem: you can have the comfy chair.
@@ -598,9 +608,10 @@ spike: yeah.
 scene direction: close on the green glowing eyes as the demon laughs evilly.
 spike: what?
 demon: look what she's reduced you to.
-spike: it's this bloody chip- demon: you were a legendary dark warrior, and you let yourself be castrated.
-scene direction: spike spike looking angry
-spike: and you have the audacity to crawl in here and demand restoration?
+spike: it's this bloody chip-
+demon: you were a legendary dark warrior, and you let yourself be castrated.
+scene direction: demon spike looking angry
+demon: and you have the audacity to crawl in here and demand restoration?
 spike: i'm still a warrior.
 demon: you're a pathetic excuse for a demon.
 scene direction: spike angry
@@ -638,7 +649,8 @@ xander: when?
 scene direction: anya sourly
 anya: when do you think?
 scene direction: buffy rushes over.
-buffy: is everyone okay? did willow - anya: got her power boost and took off.
+buffy: is everyone okay? did willow -
+anya: got her power boost and took off.
 xander: anya's ... anya was saying she knows where willow is.
 buffy: a spell?
 scene direction: xander bitterly
@@ -661,7 +673,8 @@ scene direction: buffy and xander exchange a look.
 scene change: cut to the woods, night. willow walks along, holding the bloody shirt. the bushes bend back out of her way as she passes. she walks slowly and calmly.
 scene change: cut to another part of the woods. warren is running along, shoving branches and bushes out of his way. he's wearing a backpack.
 scene direction: willow comes to a small clearing, looks around, smiles a little.
-willow: run all night, warren. i'll still find- suddenly something hits her. she falls down face-first. we see warren standing behind her. a long-handled axe is buried in willow's back.
+willow: run all night, warren. i'll still find-
+scene direction: suddenly something hits her. she falls down face-first. we see warren standing behind her. a long-handled axe is buried in willow's back.
 scene direction: warren stares down at her, looking nervous.
 scene direction: blackout.
 scene change: *** act iv ***
@@ -705,7 +718,8 @@ willow: she wasn't your first.
 scene direction: warren nervous
 warren: uh, first who?
 willow: tara. she wasn't the first girl you killed.
-warren: i don't know what you're talk- willow: reveal!
+warren: i don't know what you're talk-
+willow: reveal!
 scene direction: katrina o.s.
 katrina: i should have strangled you in your sleep.
 scene direction: warren's ex-girlfriend katrina, whom he killed in episode "dead things," walks around the same tree that willow just came from. she is deathly pale.
@@ -737,7 +751,8 @@ warren: are you done yet? or can we talk some more about our feelings?
 scene change: cut to another part of the forest. anya walks along, with buffy and xander following.
 buffy: what's happening? what do you feel?
 anya: she's stronger now. close.
-xander: what about warren? has she- anya: he's still alive. she's not done.
+xander: what about warren? has she-
+anya: he's still alive. she's not done.
 scene direction: cut back to warren and willow. he's getting desperate now.
 scene direction: warren yells
 warren: help!
@@ -768,9 +783,9 @@ scene direction: warren strained
 warren: please! no.
 scene direction: warren is clearly in a lot of pain as the bullet continues penetrating his body.
 willow: when it finally hits your spine, it'll blow your central nervous system.
-warren: oh please, stop, god! please- willow:
-scene direction: warren angrily
-warren: i'm talking!
+warren: oh please, stop, god! please-
+scene direction: willow angrily
+willow: i'm talking!
 scene direction: willow lifts a hand and suddenly warren's lips are sewn shut with large stitches of thread. he can only groan and whimper.
 willow: the pain will be unbearable, but you won't be able to move. bullet usually travels faster than this, of course. but the dying? it'll seem like it takes forever.
 scene direction: she pauses, as if affected by her own words, looking at the little wound on warren's chest. warren just grunts and squeezes his eyes shut in pain.
@@ -797,7 +812,8 @@ buffy: willow!
 scene direction: willow looks over. the others are visible a few hundred feet away, rushing toward her.
 warren: oh, and when you get caught, you'll lose them too. your friends.
 scene direction: warren panting
-warren: you don't want that. i know you're in pain, but- willow: bored now.
+warren: you don't want that. i know you're in pain, but-
+willow: bored now.
 scene direction: willow makes a casual gesture with one hand. a bolt of magic rips through warren and tears the skin off his body in a single piece.
 scene direction: anya, buffy, and xander arrive just in time to see this.
 xander: oh my god.
@@ -812,4 +828,4 @@ willow: one down.
 scene direction: smoke begins to curl up around willow's body as red fire flashes in her eyes again. lightning flashes as her whole body dissipates into smoke and is gone.
 scene direction: the others stand there staring in horror.
 scene direction: blackout.
-executive producers: joss whedon and marti noxon 
+executive producers: joss whedon and marti noxon.

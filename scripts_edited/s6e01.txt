@@ -19,9 +19,9 @@ scene direction: spike sarcastic
 spike: yeah, that must be it.
 giles: good god, i hope he doesn't try to operate heavy machinery.
 scene direction: giles and spike laugh.
-spike: yeah, we could all be in real- willow:
-scene direction: spike telepathically
-spike: guys, heads up.
+spike: yeah, we could all be in real-
+scene direction: willow telepathically
+willow: guys, heads up.
 scene direction: they all look up.
 scene change: cut to a large crypt. zoom up and we see willow standing on top of it. zoom in on her.
 scene direction: willow telepathically
@@ -54,7 +54,8 @@ willow: i told you i was going to get the lay of the land.
 xander: but not the lay of my brain.
 anya: it's kind of intrusive. you could knock first or something.
 scene direction: willow telepathically
-willow: xander- xander: i know, i know, i don't have to talk when i answer you. but i saw "the fury," and that way lies spooky carnival death.
+willow: xander-
+xander: i know, i know, i don't have to talk when i answer you. but i saw "the fury," and that way lies spooky carnival death.
 scene direction: we see a vampire hiding behind a tombstone a few feet away from xander and anya.
 scene direction: willow telepathically
 willow: xander! vampire! other side of that tomb. you can get the jump on him if you go the other way.
@@ -103,7 +104,8 @@ willow: it's a glitch, i'll fix it.
 giles: we just can't have her messing up in front of the wrong person. or the wrong thing. we, we need the, the world and the underworld to believe that buffy is alive and well.
 willow: and i will therefore fix it. i got her head back on, didn't i? and i got her off those knock-knock jokes.
 buffybot: ooh, who's there?
-xander: you know, if we want her to be exactly- spike: she'll never be exactly.
+xander: you know, if we want her to be exactly-
+spike: she'll never be exactly.
 xander: i know.
 tara: the only really real buffy is really buffy.
 giles: and she's gone.
@@ -150,7 +152,8 @@ tara: oh, um, here's some juice, and...
 scene direction: tara gives dawn a glass of orange juice
 tara: pancakes are on the way. funny shapes or rounds?
 dawn: rounds are fine. uh, what's up with the mega-witches?
-tara: oh, i don't know if you can call us mega, willow maybe- dawn: no, i mean ... who's gonna eat all that?
+tara: oh, i don't know if you can call us mega, willow maybe-
+dawn: no, i mean ... who's gonna eat all that?
 scene change: we see that buffybot has made a huge pile of sandwiches. actually, several huge piles. tara grabs the bot's hands.
 tara: oh! oops, um ... she wanted to help, and i got her started, but then i forgot to un-start.
 scene direction: the bot nods understanding.
@@ -209,10 +212,12 @@ willow: actually, we have bigger worries than her fighting skills today.
 tara: way bigger.
 xander: i guess. depends on how highly you prize punning.
 willow: i'm serious, xander. buffybot is about to face her most dangerous challenge ever.
-scene change: cut to exterior of the sunnydale junior high. a big sign reads, "welcome to parent teacher day." various tables are set up with displays, people walking around. dawn and buffybot walk among the crowd. buffybot looks around at everything with great interest. dawn just looks nervous.
+scene change: cut to exterior of the sunnydale junior high. a big sign reads, "welcome to parent teacher day."
+scene direction: various tables are set up with displays, people walking around. dawn and buffybot walk among the crowd. buffybot looks around at everything with great interest. dawn just looks nervous.
 dawn: okay. so we'll make a quick lap so people can see you're here.
 scene direction: the bot stops to look at a display. it's a table-top model of a city, made with paper cups and cardboard and such.
-dawn: then we'll- buffybot: what is this?
+dawn: then we'll-
+buffybot: what is this?
 scene direction: we see a young male teacher sitting behind the display. he looks up.
 dawn: oh, um, this is our city of the future.
 scene direction: dawn we see a boy dawn's age on the other side, listening in
@@ -260,12 +265,13 @@ giles: pull the files again.
 scene direction: anya puts down her duster and walks quickly over to him, frowning anxiously.
 anya: are you mad at me?
 scene direction: giles confused
-giles: mad? no, i'm-i'm- anya: well then why are you torturing me? you know, i used to punish people like this when i was a demon.
-scene direction: giles giles rolls his eyes
-giles: i made them double-check spreadsheets for all eternity.
-giles: i'm sorry if you resent my authority, but i won't feel comfortable leaving here until i know that absolutely everything- anya:
-scene direction: giles grabs a small statue from the desk
-giles: you're taking the ramadan effigy?!
+giles: mad? no, i'm-i'm-
+anya: well then why are you torturing me? you know, i used to punish people like this when i was a demon.
+scene direction: anya giles rolls his eyes
+anya: i made them double-check spreadsheets for all eternity.
+giles: i'm sorry if you resent my authority, but i won't feel comfortable leaving here until i know that absolutely everything-
+scene direction: anya grabs a small statue from the desk
+anya: you're taking the ramadan effigy?!
 scene direction: giles rolls his eyes again
 giles: it's not inventory, it's my personal collection.
 scene direction: giles takes the statue
@@ -334,7 +340,8 @@ dawn: or if i am, i don't open anything any more. it's over. remember?
 scene direction: spike softly
 spike: i'm not leaving you here by yourself, so forget it.
 scene direction: he sits in the chair.
-dawn: well, i'm just saying- spike slams the cards down hard on the table. dawn jumps.
+dawn: well, i'm just saying-
+scene direction: spike slams the cards down hard on the table. dawn jumps.
 scene direction: spike not looking at her
 spike: no. i'm not leaving you ... to get hurt.
 scene direction: spike softly
@@ -378,7 +385,8 @@ anya: he's too busy not leaving to pay attention to me.
 scene direction: anya we see xander standing beside anya
 anya: besides, i ended up getting it on ebay.
 tara: you found the last known urn of osiris on ebay?
-anya: yeah, from this desert gnome in cairo. he drove a really hard bargain, but i finally got him to throw in a limited edition backstreet boys lunchbox for a - xander coughs. anya pauses. xander looks nervous.
+anya: yeah, from this desert gnome in cairo. he drove a really hard bargain, but i finally got him to throw in a limited edition backstreet boys lunchbox for a -
+scene direction: xander coughs. anya pauses. xander looks nervous.
 anya: ...a friend.
 scene direction: tara looks at xander with a little smile.
 xander: so you got your somber on, will, is the urn not up to spec?
@@ -425,7 +433,8 @@ scene direction: xander fidgets nervously
 xander: it feels wrong.
 tara: it is wrong.
 scene direction: tara willow looks surprised
-tara: it's against all the laws of nature, and practically impossible to do, but it's what we agreed to. if-if you guys are changing your minds- willow: nobody's changing their minds. period.
+tara: it's against all the laws of nature, and practically impossible to do, but it's what we agreed to. if-if you guys are changing your minds-
+willow: nobody's changing their minds. period.
 xander: excuse me? who made you the boss of the group?
 anya: you did.
 tara: you said willow should be boss.
@@ -442,7 +451,8 @@ scene direction: willow quietly
 willow: they might not understand.
 tara: what if something does go wrong?
 willow: i'm telling you it won't.
-xander: scenario -- we raise buffy from the grave, she tries to eat our brains. do we, a) congratulate ourselves on a job well done- willow: xander, this isn't zombies.
+xander: scenario -- we raise buffy from the grave, she tries to eat our brains. do we, a) congratulate ourselves on a job well done-
+willow: xander, this isn't zombies.
 anya: zombies don't eat brains anyway unless instructed to by their zombie masters. a lot of people get that wrong.
 willow: this isn't like dawn trying to bring mrs. summers back, or anything we've dealt with before. buffy didn't die a natural death. she was killed by mystical energy.
 tara: which means we do have a shot.
@@ -529,9 +539,10 @@ giles: no, uh, that's good, but, uh ...
 scene direction: giles we see anya come in and stop in the doorway, watching
 giles: ...think of the breath as chi. air as a, a life source.
 buffybot: i don't require oxygen to live.
-giles: of course, strictly speaking, but- anya: um ...
-scene direction: giles walks into the room
-giles: maybe you should stick to the standard drill. you know, you don't want her to blow another gasket.
+giles: of course, strictly speaking, but-
+anya: um ...
+scene direction: anya walks into the room
+anya: maybe you should stick to the standard drill. you know, you don't want her to blow another gasket.
 giles: i'm testing her responses after her injury. i see no harm in imparting a little eastern philosophy.
 anya: well, i just think that, the concept of chi might be a little, you know, hard for her to grasp.
 scene direction: giles drops his arms, in exasperation, then puts hands on hips.
@@ -590,15 +601,16 @@ razor: what's with the blood rat?
 scene direction: mag to the vampire
 mag: talk!
 scene direction: vamp nervous
-vamp: okay, uh, so, i was over in sunnydale, minding my own beeswax, when i see the slayer- mag:
-scene direction: vamp shakes him
-vamp: the part about the robot.
+vamp: okay, uh, so, i was over in sunnydale, minding my own beeswax, when i see the slayer-
+scene direction: mag shakes him
+mag: the part about the robot.
 vamp: we fought, right? and i was like all over her,
 scene direction: vamp punching gestures
 vamp: boom boom boom...
 mag: he says the slayer's been replaced by some kind of machine.
 scene direction: the vamp stops making punch noises. razor looks interested.
-vamp: a robot, yeah! and i kicked her synthetic ass. you shoulda seen the sparks- razor gets up, towers over the vamp.
+vamp: a robot, yeah! and i kicked her synthetic ass. you shoulda seen the sparks-
+scene direction: razor gets up, towers over the vamp.
 razor: you tellin' me there's no slayer in sunnydale?
 scene direction: longer shot of them from across the room, other demons watching.
 vamp: that's what i'm saying, they got some kind of decoy standing in for her.
@@ -610,7 +622,8 @@ vamp: i guess with your muscle, uh, you could own it in no time.
 scene direction: vamp nervous chuckle
 vamp: hey look, i know you guys don't usually let vampires join the gang, and i got the whole
 scene direction: vamp air quotes
-vamp: sunlight issue. but i was thinking, you know, as thanks for the 4-1-1, you could let me go- razor grabs him by the neck.
+vamp: sunlight issue. but i was thinking, you know, as thanks for the 4-1-1, you could let me go-
+scene direction: razor grabs him by the neck.
 scene direction: shot of the vamp's headless body hitting the floor and dusting.
 scene direction: razor brushes dust off his hands.
 razor: i'll think it over.
@@ -669,7 +682,8 @@ anya: y-you wanna look at the money? i find it always calms me.
 scene direction: xander smiles fondly.
 tara: that's okay, thanks.
 willow: you tell those bats that everything is gonna be all right. i promise. we couldn't be more prepared.
-tara: i know, i just wish it was time, i- we see anya behind the counter picking up a piece of paper, reading it with a frown, coming out from behind the counter.
+tara: i know, i just wish it was time, i-
+scene direction: we see anya behind the counter picking up a piece of paper, reading it with a frown, coming out from behind the counter.
 scene direction: tara os
 tara: -i can't stand worrying about it anymore.
 anya: um ... well, it's your lucky day then. i have something that will distract you.
@@ -678,7 +692,8 @@ willow: what?
 scene direction: xander reads
 xander: "i've gone. not one for long good-byes."
 scene direction: xander shot of willow and tara looking dismayed
-xander: "i thought it best to slip out quietly. love to you all, giles." cut to the airport. giles sits in the terminal, reading a book, with a small bag on the floor beside him. he stops reading, looks off into space.
+xander: "i thought it best to slip out quietly. love to you all, giles."
+scene change: cut to the airport. giles sits in the terminal, reading a book, with a small bag on the floor beside him. he stops reading, looks off into space.
 scene direction: willow os
 willow: you really think we'd let you get away with that?
 scene direction: the gang, plus dawn, walks up to him.
@@ -760,9 +775,10 @@ willow: what's he gonna do over there by himself?
 scene direction: willow they all start walking
 willow: i mean, he never talks about people from england. what if he's lonely?
 tara: he won't be lonely. he used to live there before, remember?
-dawn: and i'm sure we'll talk to him, right? it's not like he's- tara: we'll call him tomorrow, how 'bout that?
-scene direction: dawn puts arm around dawn's shoulder
-dawn: see how his flight was? yeah?
+dawn: and i'm sure we'll talk to him, right? it's not like he's-
+tara: we'll call him tomorrow, how 'bout that?
+scene direction: tara puts arm around dawn's shoulder
+tara: see how his flight was? yeah?
 scene direction: tara and dawn walk on ahead as the other three pause.
 scene direction: xander to willow
 xander: can you believe the timing? i mean, he's leaving right when we're ready to...
@@ -784,7 +800,8 @@ scene change: fade to the forest, night. tara, willow, xander, and anya are stan
 willow: does everybody have their candles?
 anya: i'm trying, my lighter won't stay lit.
 scene direction: anya flicking lighter continuously
-willow: well, hurry, it has to- tara: what time is it?
+willow: well, hurry, it has to-
+tara: what time is it?
 scene direction: xander checks watch
 xander: a minute till midnight.
 willow: c'mon, anya, do you have it?
@@ -905,4 +922,4 @@ scene direction: willow passes out again.
 scene direction: xander kneels there on the ground with willow lying across his lap. he looks around nervously. we can still hear the motorcycles all around.
 scene direction: pan down to the ground, into blackness. fade in on a wrinkled, desiccated hand. pan up across a body encased in black clothing. the orange mist from before swirls around the head, which is a skull with much of the skin rotting off and the hair decaying.
 scene direction: as the mist moves around the body, the eyeballs reappear, the skin and hair repair themselves, and it resolves into buffy, wide-eyed and gasping. she's inside her coffin. she looks around, panting, with an expression of extreme fear.
-scene direction: blackout 
+scene direction: blackout.

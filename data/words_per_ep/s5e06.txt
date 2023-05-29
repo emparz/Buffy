@@ -617,10 +617,9 @@ she
 comes
 after
 you
-buffy
 she'll
 come
-giles
+buffy
 looks
 toward
 the
@@ -1054,7 +1053,6 @@ and
 everybody
 loves
 bawdy
-buffy
 where's
 dawn
 i
@@ -1180,13 +1178,12 @@ weaknesses
 and
 then
 uh
-tara
 yeah
 you
 learn
 her
 source
-giles
+tara
 grins
 and
 uh
@@ -2100,7 +2097,6 @@ thing
 of
 not
 understanding
-xander
 half
 of
 what
@@ -3227,7 +3223,6 @@ families
 are
 always
 willow
-tara
 understandingly
 they
 make
@@ -3396,12 +3391,11 @@ i'm
 just
 gonna
 go
-buffy
 no
 it's
 family
 night
-dawn
+buffy
 glances
 at
 riley
@@ -3559,7 +3553,6 @@ government
 boys
 on
 it
-buffy
 no
 no
 iii
@@ -3634,7 +3627,6 @@ to
 help
 i'm
 not
-riley
 yeah
 know
 you
@@ -3655,7 +3647,7 @@ on
 any
 of
 it
-buffy
+riley
 opens
 door
 let
@@ -3839,12 +3831,11 @@ it
 won't
 mean
 that
-mr
-maclay
 you're
 turning
 twenty
-tara
+mr
+maclay
 walks
 toward
 her
@@ -4549,7 +4540,6 @@ sure
 you
 don't
 wanna
-tara
 look
 my
 family's
@@ -4558,7 +4548,7 @@ okay
 i
 can't
 just
-willow
+tara
 pauses
 not
 everything
@@ -5141,12 +5131,11 @@ if
 willy
 was
 here
-riley
 well
 willy's
 not
 here
-bartender
+riley
 puts
 glass
 down
@@ -5583,7 +5572,6 @@ beth
 what
 are
 you
-beth
 ii
 was
 looking
@@ -8026,8 +8014,6 @@ turn
 your
 back
 tara
-mr
-maclay
 walking
 forward
 dad

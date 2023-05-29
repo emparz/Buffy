@@ -1513,7 +1513,6 @@ think
 it
 worked
 but
-dawn
 is
 she
 going
@@ -1585,7 +1584,6 @@ yeah
 something
 to
 eat
-willow
 she
 doesn't
 want
@@ -1594,7 +1592,6 @@ i
 just
 meant
 dawn
-tara
 sharply
 guys
 back
@@ -3923,7 +3920,6 @@ more
 and
 the
 others
-buffy
 i
 miss
 giles
@@ -4904,7 +4900,6 @@ sighs
 i
 just
 meant
-willow
 thaumogenesis
 xander
 and
@@ -6798,11 +6793,10 @@ it's
 daylight
 and
 you're
-spike
 not
 on
 fire
-buffy
+spike
 looks
 at
 the
@@ -7236,4 +7230,4 @@ and
 marti
 noxon
 the
-en
+end

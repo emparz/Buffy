@@ -377,11 +377,10 @@ get
 the
 refund
 back
-giles
 um
 i
 meant
-buffy
+giles
 buffy
 stops
 with
@@ -1665,7 +1664,6 @@ know
 how
 her
 nose
-buffy
 what
 was
 that
@@ -1911,25 +1909,7 @@ on
 it's
 like
 i'm
-buffy
-looks
-over
-at
-a
-wall
-clock
-the
-hands
-on
-the
-clock
-move
-quickly
-they
-start
-at
-about
-1150
+0
 and
 stop
 again
@@ -2248,7 +2228,6 @@ i
 don't
 know
 i
-warren
 no
 warren
 reaches
@@ -2805,11 +2784,10 @@ excuse
 me
 but
 i
-tony
 hang
 on
 gidget
-buffy
+tony
 to
 xander
 this
@@ -3154,7 +3132,6 @@ it
 kinda
 makes
 sense
-danny
 hey
 we
 get
@@ -3162,7 +3139,7 @@ paid
 by
 the
 hour
-buffy
+danny
 buffy
 looks
 surprised
@@ -3907,11 +3884,9 @@ your
 turn
 now
 gimme
-warren
 no
 i'm
 still
-andrew
 gimme
 andrew
 grabs
@@ -4113,7 +4088,6 @@ was
 it
 really
 necessary
-buffy
 i
 didn't
 do
@@ -5943,7 +5917,6 @@ library
 uh
 to
 uh
-buffy
 we
 did
 this
@@ -6072,7 +6045,6 @@ just
 came
 in
 wait
-anya
 don't
 worry
 don't
@@ -6108,7 +6080,6 @@ stops
 her
 uh
 miss
-buffy
 here
 buffy
 grabs
@@ -8119,7 +8090,6 @@ him
 if
 he's
 heard
-spike
 later
 spike
 shoves
@@ -10527,4 +10497,4 @@ and
 marti
 noxon
 the
-en
+end

@@ -30,7 +30,8 @@ dawn voiceover: people wouldn't be so crazy about her if they had to live in the
 scene direction: buffy sniffs the milk and puts it on the counter. in the background we see joyce drinking coffee and dawn opening a cabinet to get out a box of cereal. buffy picks up a banana from a bowl of fruit, turns away.
 dawn voiceover: like that's *such* a crucial job skill in the real world.
 scene direction: as buffy moves to the background of the shot to get a bowl, joyce and dawn move to the foreground. joyce pours milk into her coffee cup. dawn opens the cereal box and sits down.
-dawn voiceover: plus mom lets her get away with everything. "your sister's saving the world." joyce moves to the background again as buffy returns with a bowl, which she places on the counter, moving the milk carton aside. she picks up the banana again and turns away, peeling it. dawn takes buffy's bowl and pours cereal into it.
+dawn voiceover: plus mom lets her get away with everything. "your sister's saving the world."
+scene direction: joyce moves to the background again as buffy returns with a bowl, which she places on the counter, moving the milk carton aside. she picks up the banana again and turns away, peeling it. dawn takes buffy's bowl and pours cereal into it.
 dawn voiceover: *i* could so save the world if somebody handed me super powers...
 scene direction: dawn turns away from the table as buffy returns with a knife, prepared to slice the banana into her bowl, but finds the bowl missing. she sees it sitting at dawn's spot full of cereal, and makes an irritated face.
 dawn voiceover: ...but i'd think of a cool name and wear a mask to protect my loved ones, which buffy doesn't even.
@@ -42,15 +43,16 @@ scene direction: buffy continues giving dawn a dirty look for a moment, then loo
 buffy: oh, actually, giles and i are gonna go to the magic shop for supplies for my new and improved training sessions.
 joyce: oh, that's great.
 scene direction: buffy walking to sink, then to fridge
-buffy: oh, yeah, i'm actually- joyce:
-scene direction: buffy interrupts
-buffy: you can take dawn shopping for back to school supplies.
+buffy: oh, yeah, i'm actually-
+scene direction: joyce interrupts
+joyce: you can take dawn shopping for back to school supplies.
 scene direction: dawn puts down her spoon and turns around, preparing to argue.
 buffy: what?
 dawn: mom, i-i thought you were taking me.
 joyce: well, honey, i've got the gurion showing tonight, and there's so much to do to get the gallery ready.
 scene direction: joyce turns to leave kitchen.
-buffy: no, but, see, mom -- buffy and dawn run after joyce as she walks to the living room.
+buffy: no, but, see, mom --
+scene direction: buffy and dawn run after joyce as she walks to the living room.
 buffy: that doesn't really work for me. we're just going to the magic shop. no school supplies there.
 dawn: yeah, mom, i'm not going to hogwarts.
 scene direction: dawn she giggles at her own joke till she notices buffy looking annoyed and confused.
@@ -59,7 +61,8 @@ joyce: look, i'm sure giles doesn't mind dropping you and your sister off at the
 buffy: actually, he does mind. this is supposed to be quality watcher/slayer time. i told you, she completely ruined my training yesterday.
 dawn: did not!
 buffy: oh, you know you did too.
-joyce: buffy. i realize the importance of your new slayer thing, but- knock on door.
+joyce: buffy. i realize the importance of your new slayer thing, but-
+scene direction: knock on door.
 joyce: -i could really use your help.
 scene direction: she walks past the two girls, both sighing and rolling their eyes in annoyance. they glare at each other as joyce opens the door and riley comes in.
 riley: morning, mrs. summers. you look great.
@@ -129,9 +132,9 @@ giles: i-i-i don't know, i just - i was so at loose ends, i-i found myself searc
 buffy: shallow?
 giles: perhaps, as i am to act as your watcher again, a modicum of respect might be in order.
 buffy: do i have to?
-giles: i'm serious, buffy, there's going to be far less time for the sort of flighty, frivolous- dawn:
-scene direction: giles pointing
-giles: hey, there's willow and tara!
+giles: i'm serious, buffy, there's going to be far less time for the sort of flighty, frivolous-
+scene direction: dawn pointing
+dawn: hey, there's willow and tara!
 giles: ooh, they haven't seen my new car.
 scene direction: he pulls over. buffy rolls her eyes at him. we see willow and tara coming out of the coffee shop.
 willow: hey giles, sharp wheels!
@@ -182,9 +185,9 @@ tara: shop's kinda dark. maybe it's closed.
 giles: that's odd.
 scene direction: everyone looks bemused and walks toward the magic shop.
 scene change: cut to interior of the magic shop as giles opens the door and walks in. it's dark and the furniture is overturned. giles and buffy walk in slowly, followed by the others, all looking around.
-buffy: well, i think "odd" just got upped to "bad." giles:
-scene direction: buffy calling
-buffy: hello? anyone here?
+buffy: well, i think "odd" just got upped to "bad."
+scene direction: giles calling
+giles: hello? anyone here?
 tara: mr. bogarty?
 scene direction: everyone looks at tara.
 tara: the owner. i-i come in here a lot.
@@ -265,7 +268,8 @@ giles: well, i had no idea the profit margins on a shop like this were so high.
 scene direction: buffy and willow exchange a look.
 giles: look at this! uh, low overhead, out-of-state orders, international - it's no wonder there's never any trouble attracting new owners.
 scene direction: giles looking around
-giles: a place like this is a virtual- buffy: deathtrap?
+giles: a place like this is a virtual-
+buffy: deathtrap?
 giles: what? well, uh, yes, there is that. but, uh, still...
 scene direction: giles puts book down and looks around some more
 giles: location, pedestrian traffic...
@@ -288,7 +292,8 @@ giles: oh, hello. something's been taken from this case, look here.
 scene direction: he goes over to a case where the glass has been knocked out.
 buffy: what'd they take?
 scene direction: willow looks in the inventory book.
-giles: i should think an item of, of value, or-or power, possibly even a- willow: a unicorn. 10-inch ceramic unicorn imported from thailand.
+giles: i should think an item of, of value, or-or power, possibly even a-
+willow: a unicorn. 10-inch ceramic unicorn imported from thailand.
 buffy: was it valuable?
 scene direction: giles stares in puzzlement at the empty case.
 scene direction: willow os
@@ -312,7 +317,8 @@ brad: i, i had to get her something. she sired me.
 scene direction: peaches to cyrus
 peaches: sire-whipped.
 scene direction: we see mort adding the unicorn to a large collection of other unicorn statues sitting on a table.
-harmony: anyway, the books you guys brought me to help with the plan? well, i've been skimming through the book jackets all morning, and let me tell you, there's some pretty useful stuff in there, so- cyrus raises his hand.
+harmony: anyway, the books you guys brought me to help with the plan? well, i've been skimming through the book jackets all morning, and let me tell you, there's some pretty useful stuff in there, so-
+scene direction: cyrus raises his hand.
 harmony: yes, uh ... sorry, forgot your name.
 cyrus: cyrus.
 harmony: cyrus, huh, right. peaches' friend.
@@ -325,9 +331,9 @@ harmony: uch, and you're a minion!
 mort: he means the plan! when are we gonna do the plan?
 harmony: ohhh! the plan!
 scene direction: harmony laughs in embarrassment
-harmony: ah, well, first lemme tell you i'm really psyched about it and i hope the rest of you guys- mort:
-scene direction: harmony yelling
-harmony: when?!
+harmony: ah, well, first lemme tell you i'm really psyched about it and i hope the rest of you guys-
+scene direction: mort yelling
+mort: when?!
 scene direction: harmony yelling
 harmony: tonight!
 scene direction: harmony more calmly
@@ -335,7 +341,8 @@ harmony: we kill the slayer ... tonight.
 scene direction: harmony smiles in self-satisfaction.
 scene direction: the other vamps grin and nod at each other.
 scene change: cut to dawn sitting on her bed holding her diary, wearing the same clothes she was wearing at the magic shop.
-joyce voiceover: so not only didn't you take your sister shopping for school supplies- dawn listens in. cut to joyce's bedroom. while buffy and joyce argue, joyce walks back and forth getting dressed and putting on jewelry.
+joyce voiceover: so not only didn't you take your sister shopping for school supplies-
+scene change: dawn listens in. cut to joyce's bedroom. while buffy and joyce argue, joyce walks back and forth getting dressed and putting on jewelry.
 joyce: -you brought her to a murder scene.
 buffy: no, i didn't bring her to it, it ... just ... sorta came upon us. it's not like she saw the body or anything.
 joyce: oh, well. that makes it all right then, doesn't it?
@@ -432,8 +439,10 @@ riley: so you want your mother to give you space to be a slayer, and shield you 
 buffy: thank you, logic boy. did i mention this is a rant? sense really has no place in it.
 riley: i'm getting that.
 scene direction: riley sighs
-riley: what's the deal, buffy? you seem really- buffy stops him by putting out a hand. she stops walking and looks intently to her right.
-buffy: oh, trash can. from a distance it looked kinda- riley: tense.
+riley: what's the deal, buffy? you seem really-
+scene direction: buffy stops him by putting out a hand. she stops walking and looks intently to her right.
+buffy: oh, trash can. from a distance it looked kinda-
+riley: tense.
 buffy: nooo, i-i was gonna say brown, squat, shadowy...
 riley: uh-uh. back to what i was saying before we were rudely attacked by nothing. you seem really tense.
 scene direction: buffy shrugs
@@ -443,10 +452,12 @@ buffy: i guess. it's just...
 scene direction: buffy sighs
 buffy: i don't know, it ... i know it's always been this way. she's the baby. but for some reason lately, it's just really getting to me. she's *always* around.
 riley: well, yeah. you're like her idol, buffy.
-buffy: her idol? i don't think so, unless you like to spill things on your idol's new leather pants, and- riley: you know what i mean. you have super powers ... and college ... a studly yet sensitive boyfriend...
+buffy: her idol? i don't think so, unless you like to spill things on your idol's new leather pants, and-
+riley: you know what i mean. you have super powers ... and college ... a studly yet sensitive boyfriend...
 buffy: and a pesky life-or-death job that i can't quit or even take a break from.
 riley: she doesn't get the sacrifices. she's a kid.
-buffy: and that's what bugs. *she* gets to be a kid, and she acts like it's the biggest burden in the world. sometimes *i* would like to just curl up in mom's lap and not worry about the fate of the world. i'd like to be the one who's protected, who's waited on- cut to joyce's house.
+buffy: and that's what bugs. *she* gets to be a kid, and she acts like it's the biggest burden in the world. sometimes *i* would like to just curl up in mom's lap and not worry about the fate of the world. i'd like to be the one who's protected, who's waited on-
+scene change: cut to joyce's house.
 dawn: -hand and foot, getting her own way. always the favorite.
 scene direction: we see that they're playing the game of life around a low table in the living room, surrounded by various junk food. dawn is eating a bowl of ice cream.
 xander: you nut. your mom loves you both equally. but if i'm wrong, i find money usually helps tip the scale. slip joyce a 10 or a 20 once in a while. then we'll see who's the favorite.
@@ -471,7 +482,8 @@ scene direction: anya scoops up the plastic markers that represent children
 anya: can i trade in the children for more cash?
 scene direction: dawn gives her a disgusted look.
 scene direction: suddenly something smashes in the window, showering them with broken glass. they all duck behind the table. dawn shrieks. xander gets up and goes to see what it was. anya follows. xander picks up a rock with a note tied around it. he unties the string, hands the rock to anya, and reads the note. dawn stays on the floor watching.
-xander: "slayer, come out and die." we see the note, written in large letters. the "i" in "die" is dotted with a smiley-face.
+xander: "slayer, come out and die."
+scene direction: we see the note, written in large letters. the "i" in "die" is dotted with a smiley-face.
 scene direction: harmony os
 harmony: i'm waiting for you, buffy!
 scene direction: xander goes over to the hole in the window and peeks out. he sees harmony, surrounded by her four minions, who carry weapons. harmony looks annoyed.
@@ -509,7 +521,8 @@ xander: dawn, i'm handling this. shut up, harmony!
 harmony: make me.
 xander: 'fraid i don't feel like getting into another hair-pulling contest with you.
 harmony: you're the hair-puller, you big girl!
-dawn: oh yeah? come inside and say that! xander will kick your- anya: dawn, no!
+dawn: oh yeah? come inside and say that! xander will kick your-
+anya: dawn, no!
 scene direction: xander makes his "uh-oh" face.
 scene direction: harmony morphs into vampire face and lunges at xander, shoving him to the floor as dawn shrieks. blackout.
 scene change: *** act iii ***
@@ -521,7 +534,8 @@ scene direction: harmony punches xander in the face a few times
 scene direction: anya running around
 anya: slayer's house have more weapons lying around.
 scene direction: anya picks up a lamp
-harmony: i've been working out, learning some new tricks, honing my - she bends to bite xander as anya runs up with the lamp. harmony straightens up and backhands anya, breaking the lamp and sending anya flying.
+harmony: i've been working out, learning some new tricks, honing my -
+scene direction: she bends to bite xander as anya runs up with the lamp. harmony straightens up and backhands anya, breaking the lamp and sending anya flying.
 harmony: instincts.
 scene direction: xander kicks harmony in the stomach and she flies backward out the front door, crashing into the minions. they all fall down the porch stairs. xander and anya rush to close the door and lean against it, looking out at the vampires.
 harmony: this isn't over, xander! i'll be back!
@@ -596,7 +610,8 @@ scene direction: mort walking up behind harmony
 mort: why are you talking to him?
 harmony: it's okay, we used to go steady.
 scene direction: harmony sighs
-harmony: spike, mort. mort, this is- mort: i know who he is. he kills our kind.
+harmony: spike, mort. mort, this is-
+mort: i know who he is. he kills our kind.
 harmony: oh yeah!
 scene direction: harmony to spike
 harmony: hat's up with that?
@@ -716,7 +731,8 @@ harmony: we don't. not yet.
 cyrus: why not?
 harmony: because! that's not the plan!
 scene direction: harmony sighs
-harmony: do i have to go over the plan again? we use the sister as bait. we send buffy a note- peaches: more notes?
+harmony: do i have to go over the plan again? we use the sister as bait. we send buffy a note-
+peaches: more notes?
 scene direction: harmony annoyed
 harmony: we send buffy a note, telling her that if she wants to see her sister again, she has to come alone to a place we choose. she comes, we jump her, we kill her.
 scene direction: harmony peaches nods.
@@ -783,13 +799,15 @@ buffy: dawn, close your eyes.
 scene direction: dawn does so.
 harmony: so, slayer, at last we meet.
 buffy: we've met, harmony, you halfwit.
-harmony: i'm the halfwit? um, excuse me, but look who's fallen into my- peaches attacks buffy with a large axe. she ducks his swing and stakes him. as he turns to dust, buffy grabs the axe from him, brad attacks, and buffy chops off his head. dawn scrunches her eyes together tightly.
+harmony: i'm the halfwit? um, excuse me, but look who's fallen into my-
+scene direction: peaches attacks buffy with a large axe. she ducks his swing and stakes him. as he turns to dust, buffy grabs the axe from him, brad attacks, and buffy chops off his head. dawn scrunches her eyes together tightly.
 harmony: trap.
 buffy: harmony, when you tried to be head cheerleader, you were bad. when you tried to chair the homecoming committee, you were really bad. but when you try to be bad ... you *suck*.
 scene direction: during this speech we see mort moving around behind buffy. dawn opens her eyes and sees him.
 dawn: buffy, watch out!
 scene direction: buffy turns and swings the axe but mort knocks it out of her grasp and knocks her down.
-harmony: ooh, good shot, mort, i think you got her on the- mort glares at her. harmony laughs nervously, turns and runs away.
+harmony: ooh, good shot, mort, i think you got her on the-
+scene direction: mort glares at her. harmony laughs nervously, turns and runs away.
 scene direction: mort swings at buffy; she punches him, grabs a large stick and hits him with it. he punches her. she ducks a few more punches and lands one on him.
 scene direction: shot of dawn struggling against her chains as sounds of battle continue.
 scene direction: buffy kicks mort a few times, he hits her a few times and she goes down. he picks her up and throws her. she gets up and they exchange more punches and kicks. mort grabs buffy by the neck and lifts her off the ground. she looks around and notices a large unicorn statue nearby. she shoves mort away, lands on the ground, grabs the unicorn and stabs him through the heart with it. he turns to dust. buffy scowls at the unicorn, then shrugs and puts it down.
@@ -844,4 +862,4 @@ buffy: what you're doing right now, not moving?
 scene direction: buffy makes the "okay" sign with her fingers
 buffy: good. keep doing that.
 scene direction: buffy exits
-dawn: she still thinks i'm little miss nobody, just her dumb little sister. boy, is she in for a surprise 
+dawn: she still thinks i'm little miss nobody, just her dumb little sister. boy, is she in for a surprise.

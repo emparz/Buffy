@@ -18,12 +18,10 @@ scene change: cut to hallway, first floor. buffy, willow, and riley round the co
 riley: i should call for backup.
 buffy: no time.
 scene direction: she hands him the crossbow and motions him down the adjacent hall and he splits from them towards the other door into the rec room. buffy arms herself with a stake from her bag. she does not look happy as she and willow head for the door.
-buffy: we have to make this fast. i have better things to do tonight than kill. opens the door and steps inside the rec room which is in total darkness. a second later the lights come up and we and buffy see that it is a surprise party for her 19th birthday
-scene direction: buffy says the large banner hanging across the ceiling
-buffy: and a crowd of people yelling.
-everybody: surprise! which buffy is and quickly hides her stake. riley rushes in through the door on the other side of the room, but attention is on buffy so he hides the crossbow without anybody noticing it. in the crowd we see xander harris, anya, rupert giles, and several other faces
-scene direction: everybody we might recognize as extras from previous seasons
-everybody: 
+buffy: we have to make this fast. i have better things to do tonight than kill.
+scene direction: opens the door and steps inside the rec room which is in total darkness. a second later the lights come up and we and buffy see that it is a surprise party for her 19th birthday (says the large banner hanging across the ceiling) and a crowd of people yelling.
+everybody: surprise!
+scene direction: which buffy is and quickly hides her stake. riley rushes in through the door on the other side of the room, but attention is on buffy so he hides the crossbow without anybody noticing it. in the crowd we see xander harris, anya, rupert giles, and several other faces (we might recognize as extras from previous seasons).
 scene direction: willow smiling
 willow: guess you won't be killing anything tonight, after all.
 scene direction: buffy sly grin
@@ -145,7 +143,8 @@ scene direction: buffy trying to sound impressed
 buffy: i mean, that's . . . seventeen.
 walsh: what about you?
 buffy: me?
-walsh: how many hostiles would you say you've slain? glancing back and forth between them, buffy is considering, and from her expression we know it's more than 17.
+walsh: how many hostiles would you say you've slain?
+scene direction: glancing back and forth between them, buffy is considering, and from her expression we know it's more than 17.
 scene change: cut to giles's apartment. he's dusting inside one of his book cases. he stops as he suddenly remembers something. he holds the feather duster between his teeth and takes an old tome from the shelf. he opens it and sits down on a cushion footrest. he reads then does a calculation with his fingers. he removes the featherduster.
 giles: "third new moon after the . . . nine-hundredth feast of delthrox." oh,
 scene direction: giles stands up
@@ -259,7 +258,8 @@ scene direction: eager to escape his wrath, willow and xander beat feet out. gil
 giles: who am i kidding?
 scene direction: he stuffs his supplies back in his bag and hurries to the door.
 scene direction: giles muttering
-giles: nothing is gonna happen. he leaves closing it behind him and all is quiet for a moment. then we see the back of a man wearing a gray trench coat step into the frame looking at the closed door.
+giles: nothing is gonna happen.
+scene direction: he leaves closing it behind him and all is quiet for a moment. then we see the back of a man wearing a gray trench coat step into the frame looking at the closed door.
 ethan: i wouldn't say that.
 scene direction: ethan cut to front closing shot of ethan rayne
 ethan: i wouldn't say that at all. in fact, ripper, old mate, i'd say something rather interesting was about to hap--
@@ -299,7 +299,8 @@ scene direction: giles takes a drink
 giles: what are they saying?
 ethan: heh, you know demons. it's all exaggeration and blank verse. "pain as bright as steel" things like that. they're scared. there's something called "314" that's got them scared most of all. the kind of scared that turns to angry. i know we're not particularly fond of each other,
 scene direction: ethan giles chuckles scoffingly
-ethan: rupert. but we are a couple of old mystics. this knew outfit, it's blundering into new places it doesn't belong. it's throwing the worlds out of balance. and that's way beyond chaos, mate. we're headed quite literally for one hell of a fight. cut to close up of buffy throwing jabs at the camera. high shot - we see she is sparring with riley on workout mats, circling each other. he's dressed in sweats and a t-shirt. buffy's in a white long sleeve shirt and blue jeans, with a scarf wrapped over her long flowing hair. she throws a few more jabs and he blocks them and counters with a one-two combo buffy easily ducks under. they continue to circle. buffy launches three roundkicks in quick succession. he blocks the first two then sidesteps the third gets up behind her and wrapping his arms around her.
+ethan: rupert. but we are a couple of old mystics. this knew outfit, it's blundering into new places it doesn't belong. it's throwing the worlds out of balance. and that's way beyond chaos, mate. we're headed quite literally for one hell of a fight.
+scene change: cut to close up of buffy throwing jabs at the camera. high shot - we see she is sparring with riley on workout mats, circling each other. he's dressed in sweats and a t-shirt. buffy's in a white long sleeve shirt and blue jeans, with a scarf wrapped over her long flowing hair. she throws a few more jabs and he blocks them and counters with a one-two combo buffy easily ducks under. they continue to circle. buffy launches three roundkicks in quick succession. he blocks the first two then sidesteps the third gets up behind her and wrapping his arms around her.
 scene direction: riley smiling
 riley: are you pulling back?
 scene direction: buffy grinning
@@ -382,14 +383,16 @@ scene direction: they hold hands again and close their eyes. they are in deep co
 scene direction: tara softly
 tara: it worked.
 scene direction: willow softly
-willow: now for the hard part. the petals. they begin to concentrate again looking at the rose when the rose suddenly shoots off across the room. surprised, they stand and watch as the rose ricochets off the walls a few times and have to duck to avoid it. it finally comes straight down on the four point star and we see that it is petalless but smoking.
+willow: now for the hard part. the petals.
+scene direction: they begin to concentrate again looking at the rose when the rose suddenly shoots off across the room. surprised, they stand and watch as the rose ricochets off the walls a few times and have to duck to avoid it. it finally comes straight down on the four point star and we see that it is petalless but smoking.
 scene direction: willow shocked
 willow: what the heck was that?
 tara: i don't know, but, uh, the petals are off.
 scene direction: tara chuckling
-tara: cut to exterior shot of giles' apartment building, morning. giles' citroen is parked by the curb. cut to interior shot, giles' loft. an alarm buzzer goes off and we see a body moving under a sheet on the bed and the alarm is shut off. dissolve to shot of panted legs walking down the stairs.
+scene change: cut to exterior shot of giles' apartment building, morning. giles' citroen is parked by the curb. cut to interior shot, giles' loft. an alarm buzzer goes off and we see a body moving under a sheet on the bed and the alarm is shut off. dissolve to shot of panted legs walking down the stairs.
 scene direction: giles yawning
-giles: i feel like hell in the morning. we see giles reach the landing and stop in front of a small mirror hanging on the wall while he releases a big yawn, stretching his arms. we see that giles is a demon! light brownish tan skin, with long horns sprouting from the sides of his forehead, curving back and around his really long, hairy, ears, ending in sharp points next to his cheeks. as he yawns he shows us a set a fangs much like a vampire's. he smacks his lips when the yawn is done and finally opens his sleepy eyes and sees his new form for the first time.
+giles: i feel like hell in the morning.
+scene direction: we see giles reach the landing and stop in front of a small mirror hanging on the wall while he releases a big yawn, stretching his arms. we see that giles is a demon! light brownish tan skin, with long horns sprouting from the sides of his forehead, curving back and around his really long, hairy, ears, ending in sharp points next to his cheeks. as he yawns he shows us a set a fangs much like a vampire's. he smacks his lips when the yawn is done and finally opens his sleepy eyes and sees his new form for the first time.
 scene direction: giles eyes popping wide open
 giles: uh! wha-- wha-
 scene direction: giles touching his horns
@@ -593,13 +596,11 @@ spike: good times. go with it.
 scene direction: giles almost normal voice again
 giles: no.
 spike: oh, it's fun. i can't do it, do it for me. now let yourself go.
-giles: i refuse to become a monster because i look like a monster. i have a soul. i have a conscience. i am a human being. oh, stop the car! the citroen pulls to a stop at the corner of main street and we see that professor walsh has just crossed the street. giles hops out of the car, without his blanket, and creeps up behind her. when he's close enough he roars and waves his claws in the air. walsh looks over her shoulder and
-scene direction: giles surprising for the evil bitch monster of death
-giles: screams like a woman and runs for her life as giles chases her down the street, pass the espresso pump. he stops halfway down the street but walsh continues to flee. giles hurries back to the car ignoring the gaping stares of a few pedestrians.
+giles: i refuse to become a monster because i look like a monster. i have a soul. i have a conscience. i am a human being. oh, stop the car!
+scene direction: the citroen pulls to a stop at the corner of main street and we see that professor walsh has just crossed the street. giles hops out of the car, without his blanket, and creeps up behind her. when he's close enough he roars and waves his claws in the air. walsh looks over her shoulder and (surprising for the evil bitch monster of death) screams like a woman and runs for her life as giles chases her down the street, pass the espresso pump. he stops halfway down the street but walsh continues to flee. giles hurries back to the car ignoring the gaping stares of a few pedestrians.
 scene direction: giles closing the door
-giles: right. let's go, then. while we're still laughing our asses off, we go back to giles's apartment. our gang is gathered around the sofa. xander, willow, and anya are sitting on the cushions and buffy is sitting on the arm of the sofa
-scene direction: giles really long couch
-giles:  and riley is standing behind it. xander points into the book he's holding and passes it to willow.
+giles: right. let's go, then.
+scene direction: while we're still laughing our asses off, we go back to giles's apartment. our gang is gathered around the sofa. xander, willow, and anya are sitting on the cushions and buffy is sitting on the arm of the sofa (really long couch). and riley is standing behind it. xander points into the book he's holding and passes it to willow.
 xander: that's the thing that attacked me.
 willow: a fyarl demon. sort of a foot soldier type, works for other demons lots of the times. very strong . . . ugh! and hey, mucous.
 buffy: mucous?
@@ -685,7 +686,8 @@ scene direction: fade in on our english demons in the citroen. giles is growling
 spike: how ya feeling, mate?
 scene direction: giles growling quality
 giles: like snapping necks until everyone is dead.
-spike: now that sounds like a fyarl demon. good for you. shot through front of the windshield. we see a set of bright headlights pull in behind the citroen. spike sees this through the rearview mirror.
+spike: now that sounds like a fyarl demon. good for you.
+scene direction: shot through front of the windshield. we see a set of bright headlights pull in behind the citroen. spike sees this through the rearview mirror.
 spike: hey, picked up a tail.
 scene direction: giles almost normal voice
 giles: yes. just a little one. it hurts when i sit.
@@ -750,7 +752,8 @@ scene direction: buffy frowning at letter opener
 buffy: is this thing real silver?
 scene change: cut to some time later. riley is guarding the door speaking into his cell phone. ethan is sitting cross-legged on the floor, remnants of a spell just completed in front of him. buffy is standing behind him holding him by the back of his collar. he's looking glum as he rests his chin on his fist.
 scene direction: ethan pouting
-ethan: i really got to learn to just do the damage and get out of town. it's the "stay and gloat" that gets me every time. buffy nudges him with her knee and walks across the room as riley finishes his call. we see giles, normal again except for a very ugly silk shirt he's wearing, standing in front of the dresser mirror looking at himself. buffy stands beside him.
+ethan: i really got to learn to just do the damage and get out of town. it's the "stay and gloat" that gets me every time.
+scene direction: buffy nudges him with her knee and walks across the room as riley finishes his call. we see giles, normal again except for a very ugly silk shirt he's wearing, standing in front of the dresser mirror looking at himself. buffy stands beside him.
 buffy: you okay?
 scene direction: giles sheepishly
 giles: oh, um, uh, embarrassed, mostly. ethan's wardrobe's not helping any.
@@ -794,7 +797,8 @@ scene change: cut to giles' apartment the next day. buffy is sitting on the sofa
 buffy: nice phone.
 giles: yes. fabulous technology. see, if anyone has information i need to know, they can, uh, simply tell me about it.
 scene direction: giles lifts the handpiece
-giles: through this ingenious speaking tube. i'm very excited. buffy takes all this with "i deserve that" acceptance.
+giles: through this ingenious speaking tube. i'm very excited.
+scene direction: buffy takes all this with "i deserve that" acceptance.
 buffy: i am sorry, giles. i really thought i told you about riley and the initiative. and i know that it doesn't help. look, i promise it won't happen again. i will tell you everything.
 scene direction: giles walking towards the couch, removing his glasses
 giles: buffy, i don't want to ask you to betray any confidences, and i certainly don't want to interfere--
@@ -811,7 +815,8 @@ buffy: you sure you're not just saying this because you don't like riley's boss?
 scene direction: giles as if offended
 giles: no! no. i'm not saying that at all.
 scene direction: giles considers
-giles: though i do . . . hate her quite a lot. but i want you to have your personal life, but . . . keep your eyes open. make sure you know what you're getting into. cut to the underground headquarters of the initiative. riley is walking with walsh across the large complex. in the background we can see several lab techs and military personnel moving about as well as the two parked humvees --that were unable to catch an old grampa car.
+giles: though i do . . . hate her quite a lot. but i want you to have your personal life, but . . . keep your eyes open. make sure you know what you're getting into.
+scene change: cut to the underground headquarters of the initiative. riley is walking with walsh across the large complex. in the background we can see several lab techs and military personnel moving about as well as the two parked humvees --that were unable to catch an old grampa car.
 walsh: so she walks in and the rules just suddenly break?
 riley: umm . . . pretty much.
 walsh: be careful with her. she reacts on instinct. there's no discipline there. her loyalties are uncertain.
@@ -823,5 +828,6 @@ walsh: oh, no! spontaneous poetic exclamations. lord, spare me college boys in l
 riley: i'm just saying she'll work out. you'll be proud of her.
 walsh: you want to know what i think?
 scene direction: walsh pause
-walsh: i think you're probably right. riley smiles then moves off leaving walsh who swipes an id card through a keypad and steps inside the security door. cut to interior we see walsh walk a short distance down a white corridor and punch a code into another keypad and slide the id card through again. the door she is standing in front of unlocks and she opens it and disappears inside. it closes again and we see a number stenciled into the door - 314.
+walsh: i think you're probably right.
+scene change: riley smiles then moves off leaving walsh who swipes an id card through a keypad and steps inside the security door. cut to interior we see walsh walk a short distance down a white corridor and punch a code into another keypad and slide the id card through again. the door she is standing in front of unlocks and she opens it and disappears inside. it closes again and we see a number stenciled into the door - 314.
 scene direction: end.

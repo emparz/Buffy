@@ -1686,7 +1686,6 @@ mocking
 laugh
 neeheehee
 dawn
-willow
 giggles
 you're
 awfully
@@ -2008,7 +2007,6 @@ are
 sorry
 to
 reject'
-dawn
 what's
 that
 buffy
@@ -3159,7 +3157,6 @@ question
 i
 just
 meant
-buffy
 i
 know
 i
@@ -5324,13 +5321,12 @@ photographer
 and
 place
 settings
-buffy
 we
 can't
 track
 the
 demon
-xander
+buffy
 they
 look
 at
@@ -5338,7 +5334,7 @@ her
 i
 killed
 it
-xander
+buffy
 chipper
 so
 who's
@@ -5346,7 +5342,6 @@ hungry
 we
 got
 uh
-dawn
 ice
 cubes
 all
@@ -5646,7 +5641,6 @@ power
 i
 can't
 even
-buffy
 let's
 go
 xander
@@ -6351,7 +6345,6 @@ in
 point
 of
 fact
-buffy
 shut
 up
 buffy
@@ -7319,7 +7312,6 @@ back
 away
 riley
 i
-riley
 aim
 high
 plenty
@@ -7479,7 +7471,6 @@ to
 contain
 these
 things
-buffy
 riley
 buffy
 grabs
@@ -7885,8 +7876,6 @@ the
 same
 time
 buffy
-buffy
-riley
 riley
 by
 mission
@@ -8027,7 +8016,6 @@ riley
 please
 don't
 patronize
-riley
 hey
 you
 want
@@ -8730,7 +8718,6 @@ that
 was
 never
 our
-buffy
 i'm
 not
 here
@@ -8775,7 +8762,6 @@ is
 you
 telling
 me
-buffy
 it's
 over
 spike

@@ -12,7 +12,7 @@ def season1():
             filename += '0'
         filename += str(i)
 
-        '''REMOVING BLANK LINES'''
+        '''REMOVE BLANK LINES + LOSE LINE BREAKS (A)'''
         unedited_r = open('scripts/' + filename + '.txt', 'r')
         in_progress_w = open('progress.txt', 'w')
         for l in unedited_r:
@@ -30,7 +30,7 @@ def season1():
         edited_w.close()
         # *************************
 
-        '''FIX WEIRD LINES'''
+        '''FIX WEIRD LINE BREAKS (A)'''
         edited_r = open('scripts_edited/' + filename + '.txt', 'r')
         in_progress_w = open('progress.txt', 'w')
         l2 = ''
@@ -52,7 +52,7 @@ def season1():
         edited_w.close()
         # *************************
 
-        '''ADD SCENE DIRECTIONS'''
+        '''ADD SCENE DIRECTIONS (A)'''
         edited_r = open('scripts_edited/' + filename + '.txt', 'r')
         in_progress_w = open('progress.txt', 'w')
         for l in edited_r:

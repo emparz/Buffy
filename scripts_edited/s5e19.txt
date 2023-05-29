@@ -47,11 +47,12 @@ doctor: benjamin. this is a pleasant surprise.
 ben: i'm sorry i'm late.
 doctor: you're not late.
 scene direction: ben looks at his watch
-ben: but sir- doctor: you can't be late to a job that you don't have.
-scene direction: ben gives the clipboard to the other doctor who walks away
-ben: interestingly enough, i've decided to give your job to someone who'll actually do it.
-scene direction: ben ben sighs in annoyance
-ben: honest to god, ben! i've been calling you for two weeks. where the hell have you been? i didn't wanna ... i'm sorry to fire you, but i need somebody i can count on.
+ben: but sir-
+doctor: you can't be late to a job that you don't have.
+scene direction: doctor gives the clipboard to the other doctor who walks away
+doctor: interestingly enough, i've decided to give your job to someone who'll actually do it.
+scene direction: doctor ben sighs in annoyance
+doctor: honest to god, ben! i've been calling you for two weeks. where the hell have you been? i didn't wanna ... i'm sorry to fire you, but i need somebody i can count on.
 scene direction: ben surprised
 ben: i haven't been here...
 scene direction: ben resigned
@@ -84,9 +85,10 @@ jinx: i am in thunderous agreement, oh glittering, glistening glorificus.
 glory: i wasn't talking to you.
 murk: uh, begging your pardon, and begging in general, but ... were you talking to me?
 glory: eww. yeah, right. like any of you have ever bathed, anyway.
-murk: oh, but we do, your scrumptiousness. we bathe in your splendiforous radiance, your aromatic- glory: how about you shut up and listen to me, you disgusting little fools?
-scene direction: murk all three bow their heads
-murk: okay. now, i asked for the key, and you brought me a vampire. a pulseless, impure, follicly-fried vampire. loofah!
+murk: oh, but we do, your scrumptiousness. we bathe in your splendiforous radiance, your aromatic-
+glory: how about you shut up and listen to me, you disgusting little fools?
+scene direction: glory all three bow their heads
+glory: okay. now, i asked for the key, and you brought me a vampire. a pulseless, impure, follicly-fried vampire. loofah!
 scene direction: murk produces a large loofah and gives it to her. she begins scrubbing her leg.
 glory: so, what i think we have here is a failure for you to do your frickin' jobs, pardon my french.
 scene direction: glory shoves the loofah back into murk's hand
@@ -111,13 +113,15 @@ scene direction: we see a woman sitting behind a desk with a nameplate saying "p
 buffy: i-i don't know what to say. i-i'm sure you're aware that the past few months, you know, have been kind of hard for dawn. not that i'm saying that's an excuse.
 principal: i understand. your mother was a lovely woman and we'll all miss her very much. i know how difficult it must be.
 buffy: it is. especially for dawn. she-she's just a kid.
-principal: well ... i think we both know that dawn is a lot more than "just a kid." dawn looks alarmed, looks over at buffy, who returns the look.
+principal: well ... i think we both know that dawn is a lot more than "just a kid."
+scene direction: dawn looks alarmed, looks over at buffy, who returns the look.
 scene direction: principal leans forward
 principal: she's a talented young girl ... with a sharp mind ...
 scene direction: principal to dawn
 principal: when she puts the effort in.
 scene direction: dawn looks away in relief.
-buffy: look. i realize that there's been some ball-dropping, but i'm sure this will all- principal: dawn, why don't you wait outside for a few minutes?
+buffy: look. i realize that there's been some ball-dropping, but i'm sure this will all-
+principal: dawn, why don't you wait outside for a few minutes?
 scene direction: dawn looks very scared. she looks over at buffy, who gives her a nod. dawn gets up and leaves. buffy watches her go with a sigh.
 scene direction: the principal gives buffy a stern look. buffy faces her head-on.
 scene change: cut to interior magic shop, day. xander and willow sit at the table, he's reading a comic book and she's reading something else. in the background there's an older couple walking around browsing. the camera pans around to reveal anya on the other side of the table, standing, watching the customers.
@@ -125,7 +129,8 @@ scene direction: shot of the customers examining the merchandise.
 scene direction: shot of anya watching them, partly hidden behind a display case.
 xander: honey.
 scene direction: anya whirls around to face him.
-xander: old saying. "a watched customer never buys." anya: they would if they were patriotic.
+xander: old saying. "a watched customer never buys."
+anya: they would if they were patriotic.
 scene direction: xander and willow both put down their reading material, look at anya, then look at each other.
 scene direction: xander to willow
 xander: okay, i'm goin' in.
@@ -317,16 +322,19 @@ willow: buffy what?
 tara: understandable about the crabby. she has to look after dawn now.
 scene direction: willow putting on a jacket
 willow: yeah, but not in a miss minchin's select seminary for girls way. i mean, she's just gonna make dawnie more rebellious.
-tara: i had to deal with my brother's problems after ... i mean, you can't really know what it's like to- willow: yeah, i know that.
+tara: i had to deal with my brother's problems after ... i mean, you can't really know what it's like to-
+willow: yeah, i know that.
 scene direction: tara makes a noise of displeasure, frowns, sits on the bed next to willow.
-tara: i, i didn't mean to- willow: no, i just ... i ... i know i can't know what you went through.
-scene direction: tara tara frowns
-tara: but i just ...
-scene direction: tara fake laugh
-tara: it's no big.
+tara: i, i didn't mean to-
+willow: no, i just ... i ... i know i can't know what you went through.
+scene direction: willow tara frowns
+willow: but i just ...
+scene direction: willow fake laugh
+willow: it's no big.
 tara: i made you mad.
 willow: no. no.
-tara: all i meant was- willow: no, it's okay. this whole buffy thing, let's just forget it.
+tara: all i meant was-
+willow: no, it's okay. this whole buffy thing, let's just forget it.
 tara: no, please. i mean, i mean, tell me if i said something wrong, otherwise i know i'll say it again. probably often and in public.
 willow: no, i was snippy gal. it's just ... i know i can't ... on some level ...
 scene direction: willow sighs
@@ -458,7 +466,8 @@ anya: oh, he's one of those things that work for glory!
 giles: yes. how helpful.
 slook: i do indeed work for the god. let me go if you do not wish to incur her anger.
 giles: well, she's not here. what a marvelous opportunity for you and me to talk.
-slook: i will not betray glorificus. i will never talk, no matter what heinous torture- giles: actually, you're talking quite a lot, just not about the right things. tell us why you're here.
+slook: i will not betray glorificus. i will never talk, no matter what heinous torture-
+giles: actually, you're talking quite a lot, just not about the right things. tell us why you're here.
 slook: no words shall pass my lips that will bring peril to glorificus.
 scene direction: giles doesn't take his eyes off the demon, but points with his hand.
 giles: girls, get the twine that's on the counter, let's tie him up.
@@ -480,7 +489,8 @@ willow: tara!
 scene direction: willow turns to run out.
 slook: she's the new one among you. it wasn't hard to figure out. the glorious one will have found her by now.
 scene direction: giles yells
-giles: willow, wait! i'll go with- willow: no! call buffy a-and go look in tara's room, i'm gonna check the fair.
+giles: willow, wait! i'll go with-
+willow: no! call buffy a-and go look in tara's room, i'm gonna check the fair.
 scene direction: she runs out.
 scene direction: cut back to the fair. glory is still sitting beside tara and holding her hand as tara looks at her with fear.
 glory: oh, this is nice. just hangin' out, just us girls. you like that sort of thing, don't you?
@@ -508,11 +518,12 @@ scene direction: glory watches some people go by
 glory: but keys, on the other hand ... keys are worth a very lot.
 scene direction: glory smiles and brings their clenched hands up to lick off some of the blood. then she makes a disgusted face and spits.
 glory: you lying little tramp! you're not the key, you're nothing! just another worthless human being!
-tara: i didn't- glory: i hate being lied to. it makes me feel so betrayed.
-scene direction: tara considers
-tara: hey!
-scene direction: tara turns back to tara
-tara: you wanna make it all better?
+tara: i didn't-
+glory: i hate being lied to. it makes me feel so betrayed.
+scene direction: glory considers
+glory: hey!
+scene direction: glory turns back to tara
+glory: you wanna make it all better?
 scene direction: tara looks at her with fear.
 glory: if you tell me who the key really is ... i'll let you go.
 scene direction: tara looks alarmed. glory gives her hand another squeeze and she whimpers again as we hear more bones crack.
@@ -603,7 +614,8 @@ spike: what, these? it's just a few bruises.
 scene direction: we see that spike is still looking very bruised and battered from his encounter with glory in "intervention".
 spike: nothin' to write home about.
 scene direction: he stops and turns back to see dawn's nervous expression.
-spike: hey, chin up, platelet. don't get scared. maybe glory doesn't wanna kill you, maybe it's something- dawn: worse?
+spike: hey, chin up, platelet. don't get scared. maybe glory doesn't wanna kill you, maybe it's something-
+dawn: worse?
 scene direction: spike doesn't respond, walks a little more. dawn sits down on a rock. spike turns to watch her as she sits there looking scared, facing away from him. he slowly walks toward her.
 spike: hey.
 scene direction: he puts out a hand to touch her hair, but pulls it back quickly as she turns back toward him.
@@ -669,9 +681,10 @@ scene direction: blackout.
 scene change: *** act iv ***
 scene direction: open on glory's apartment. glory is coming down the stairs followed by her three minions. she walks a little unsteadily.
 glory: you know, i think i'm a little buzzed from eating that witch! what a mind she has. mmm, nummy treat.
-jinx: is your grace not the slightest bit concerned about- glory: what, about the slayer? don't be stupid. i know i'm closing in. the key's as good as mine.
-scene direction: jinx the demons all smile
-jinx: girl like buffy's got just so many friends. all i gotta do it rip through 'em one by one until i finally...
+jinx: is your grace not the slightest bit concerned about-
+glory: what, about the slayer? don't be stupid. i know i'm closing in. the key's as good as mine.
+scene direction: glory the demons all smile
+glory: girl like buffy's got just so many friends. all i gotta do it rip through 'em one by one until i finally...
 scene direction: she stops as the walls begin to shake and rattle. knick-knacks on the walls fall over and smash to pieces. glory and the demons look around in confusion. the lights darken.
 glory: did anybody order an apocalypse?
 scene direction: the door suddenly flies open, revealing willow floating several inches above the floor. her hair is blown back by an unseen wind.
@@ -796,7 +809,8 @@ scene direction: they both look at tara, still being fed by dawn.
 scene direction: willow quietly
 willow: they said i might have to restrain her at night. but ... sometimes she's fine. she looks at me, and ... she's fine.
 scene direction: tara makes an unhappy face.
-buffy: i'm sorry i couldn't- willow: it's okay. i can do this. i'm gonna take care of her. even if she never...
+buffy: i'm sorry i couldn't-
+willow: it's okay. i can do this. i'm gonna take care of her. even if she never...
 scene direction: dawn looks up at this.
 scene direction: willow softly
 willow: she's my girl.
@@ -828,4 +842,4 @@ scene direction: glory's smile widens.
 scene direction: dawn looks fearfully at buffy.
 scene direction: buffy turns to glare at glory.
 scene direction: blackout.
-executive producer: joss whedon 
+executive producer: joss whedon.

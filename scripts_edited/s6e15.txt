@@ -194,9 +194,9 @@ willow: you know, when i was little, i used to spend hours imagining what my wed
 scene direction: willow shot of anya and xander at the bar
 willow: i just think...
 scene direction: willow mocking laugh
-willow: "nee-hee-hee!" dawn:
-scene direction: willow giggles
-willow: you're awfully chipper tonight.
+willow: "nee-hee-hee!"
+scene direction: dawn giggles
+dawn: you're awfully chipper tonight.
 scene direction: willow smiling
 willow: can't hide it.
 dawn: hmm. big wedding coming up ... lots of date possibilities ... you and tara are speaking again. you wanna call her? invite her over?
@@ -226,7 +226,8 @@ buffy: thanks.
 scene direction: dawn piles her books into her school bag. buffy opens a letter.
 scene direction: close shot of the letter. dear ms. summers, we are sorry to reject your application for re-admittance to ucsd. our guidelines dictate that re-admission forms must be processed on or before january 15, 2002. if you have any questions, please feel free to call my office during regular business hours, monday through friday. surrinda blackmaster assistant to the dean.
 scene direction: buffy os
-buffy: 'dear ms. summers, we are sorry to reject...' dawn: what's that?
+buffy: 'dear ms. summers, we are sorry to reject...'
+dawn: what's that?
 scene direction: buffy folding the letter
 buffy: nothing.
 dawn: huh. bronze was fun last night. in a total home-by-eleven-ish way. you should have come.
@@ -344,7 +345,8 @@ scene direction: shot of a gps screen on the car's dashboard. it shows a blip fo
 buffy: how's your arm?
 riley: it'll heal. how you doin'?
 buffy: complicated question.
-riley: i just meant- buffy: i know.
+riley: i just meant-
+buffy: i know.
 riley: i hear ya. got some, uh ... big stories to tell you to. if we ever get half a second.
 buffy: did you die?
 riley: no.
@@ -572,11 +574,13 @@ scene direction: beat. everyone looks at buffy.
 buffy: i wish i'd said something else.
 xander: okay, so we track down the demon, find the nest, mr. and mrs. finn here make with the killin', and everyone goes home happy.
 scene direction: xander sits on the sofa beside sam
-xander: but seriously, married man. if forced to choose between a photographer and place settings- buffy: we can't track the demon.
-scene direction: xander they look at her
-xander: i killed it.
-scene direction: xander chipper
-xander: so! who's hungry? we got, uh- dawn: ice cubes.
+xander: but seriously, married man. if forced to choose between a photographer and place settings-
+buffy: we can't track the demon.
+scene direction: buffy they look at her
+buffy: i killed it.
+scene direction: buffy chipper
+buffy: so! who's hungry? we got, uh-
+dawn: ice cubes.
 buffy: all you can eat.
 sam: buffy? it's good that you killed the suvolte before it killed us.
 scene direction: sam to xander
@@ -605,7 +609,8 @@ buffy: me and sam together?
 riley: you come across a suvolte nest, you're gonna want backup.
 sam: you know, i don't wanna be dragging down the slayer.
 scene direction: sam to buffy
-sam: you've got speed, and power i can't even- buffy: let's go. xander, are you okay to stay with dawn?
+sam: you've got speed, and power i can't even-
+buffy: let's go. xander, are you okay to stay with dawn?
 xander: yeah.
 riley: i'll check out some bars. willy's, some, uh, crypts that i know.
 scene direction: everyone gets up.
@@ -683,7 +688,8 @@ spike: i love you. you know i do.
 scene direction: she takes a couple of steps closer.
 buffy: tell me you want me.
 scene direction: spike whispers
-spike: i always want you. in point of fact- buffy: shut up.
+spike: i always want you. in point of fact-
+buffy: shut up.
 scene direction: buffy moves as if to kiss him, but instead she hooks her hand around his neck and pulls him down onto the coffin-couch.
 scene direction: buffy lies down on her back with spike on top of her. she begins unbuttoning his shirt. spike pulls at the fastenings on buffy's bulletproof vest. she stares at his face, pushes the partially unbuttoned shirt down on his shoulders, then uses it to pull him down for a kiss.
 scene change: fade to later. buffy and spike lie on the crypt sleeping with some blankets covering them, not touching each other. one of buffy's bare legs is exposed.
@@ -739,7 +745,8 @@ riley: i'm taking this place apart until i find that nest.
 spike: over my dead body.
 riley: i've seen enough of your dead body for one night, thanks.
 scene direction: riley uses the barrel of his shotgun to shove spike aside. as he passes, spike grabs his shoulder.
-spike: well, you're not gonna- riley shoves him back. spike stumbles back against a pillar. riley starts down the ladder to the underground part of the crypt.
+spike: well, you're not gonna-
+scene direction: riley shoves him back. spike stumbles back against a pillar. riley starts down the ladder to the underground part of the crypt.
 scene direction: riley os
 riley: you coming?
 scene direction: buffy looks up, looks at spike. he stares back at her. she follows riley.
@@ -751,14 +758,16 @@ scene change: cut to below. riley and buffy reach the ground.
 scene direction: spike os
 spike: there's nothin' to see down there!
 scene direction: buffy hurries after riley as he moves through the underground rooms.
-buffy: riley, look, i'm not saying that he's good, okay, i'm just saying that he's not capable of something as- she stops as they round a corner and come upon the demon eggs.
+buffy: riley, look, i'm not saying that he's good, okay, i'm just saying that he's not capable of something as-
+scene direction: she stops as they round a corner and come upon the demon eggs.
 scene direction: the eggs are about the size of beach-balls but brownish-grey and scaly. there are at least ten, possibly more.
 scene direction: riley cocks his gun.
 scene direction: closer shot of the eggs, surrounded by yellowish goo the same color as the demon's blood.
 scene direction: spike runs in, wearing the shirt (unbuttoned).
 spike: i can explain.
 riley: we're gonna need more weapons. spike screwed up. you didn't keep 'em frozen, did you ... doctor?
-spike: you can stop calling me that any time. if i may, the thing of it is, i'm holding these for a friend, who- buffy punches him in the nose again. he falls down on his butt, his nose bloody.
+spike: you can stop calling me that any time. if i may, the thing of it is, i'm holding these for a friend, who-
+scene direction: buffy punches him in the nose again. he falls down on his butt, his nose bloody.
 buffy: no more games.
 scene direction: spike gets to his feet, angry.
 spike: well, that's bloody funny coming from you! no more games?
@@ -772,7 +781,8 @@ scene direction: buffy backs away. riley stands staring at the eggs.
 scene direction: suddenly one of the eggs bursts open and a baby demon pops out, screeching. it looks a bit like a crab or a very large cockroach.
 riley: on second thought, stick around.
 scene direction: riley tosses his gun to buffy and pulls out the taser. more baby demons pop out of the eggs and move toward them, fast. riley and buffy back away.
-buffy: riley, i- riley: aim high, plenty of lead.
+buffy: riley, i-
+riley: aim high, plenty of lead.
 buffy: i'm not exactly gun girl.
 riley: you wanna live, learn fast.
 scene direction: buffy fires the gun randomly. it hits a stack of lp records, shattering them. another shot hits a pillow on the bed; feathers fly. a third shot destroys a lamp.
@@ -785,7 +795,8 @@ riley: we have to pull out.
 scene direction: one demon falls onto riley's shoulder. he grabs at it, pries it off. he and buffy begin to run for the exit. the baby demons pursue.
 scene direction: buffy looks around. the baby demons are crawling across every bit of ceiling and wall. she runs for the ladder.
 scene change: cut to above. buffy emerges as riley is lying on the floor just next to the opening to below.
-riley: we need a way to contain these things- buffy: riley!
+riley: we need a way to contain these things-
+buffy: riley!
 scene direction: buffy grabs riley's belt, detaches it. there are several grenades on it. she pulls the pin on one, and drops the entire belt down into the hole.
 riley: get down!
 scene direction: buffy lies down on top of riley, shielding him.
@@ -822,7 +833,9 @@ riley: nepal.
 buffy: sounds fun.
 riley: i'll send you a postcard.
 scene direction: they both stop walking and speak at the same time.
-riley: buffy- buffy: riley- riley: by mission parameters i'm done here. but i have authorization to take the doctor out.
+riley: buffy-
+buffy: riley-
+riley: by mission parameters i'm done here. but i have authorization to take the doctor out.
 scene direction: riley pause
 riley: do you want me to do that?
 scene direction: buffy shocked
@@ -839,7 +852,8 @@ riley: i was terrified about seeing you again.
 buffy: well, i'm sure my incredible patheticness softened the blow for you.
 scene direction: riley looks annoyed, fidgets a bit.
 riley: i don't know what you're talking about.
-buffy: riley, please don't patronize- riley: hey! you want me to say that i liked seeing you in bed with that idiot? or that blinding orange is your very best color? or that that ... burger smell is appealing?
+buffy: riley, please don't patronize-
+riley: hey! you want me to say that i liked seeing you in bed with that idiot? or that blinding orange is your very best color? or that that ... burger smell is appealing?
 scene direction: buffy upset
 buffy: you smelled the smell?
 riley: buffy, none of that means anything. it doesn't touch you. you're still the first woman i ever loved ... and the strongest woman i've ever known. and i'm not advertising this to the missus ... but you're still quite the hottie.
@@ -903,9 +917,12 @@ buffy: he's gone.
 scene direction: spike looks at her
 spike: so, you come for a bit of cold comfort?
 scene direction: spike sighs, gestures
-spike: the bed's a bit blown up, but then, that was never our- buffy: i'm not here to- she breaks off. spike just looks at her.
+spike: the bed's a bit blown up, but then, that was never our-
+buffy: i'm not here to-
+scene direction: she breaks off. spike just looks at her.
 buffy: and i'm not here to bust your chops about your stupid scheme, either. that's just you. i should have remembered.
-spike: so this is worse then, is it, this is you telling me- buffy: it's over.
+spike: so this is worse then, is it, this is you telling me-
+buffy: it's over.
 scene direction: spike smiles, moves closer to her
 spike: i've memorized this tune, luv. think i have the sheet music. doesn't change what you want.
 buffy: i know that.
@@ -926,4 +943,4 @@ scene direction: he continues staring at her.
 buffy: i'm sorry ... william.
 scene direction: she turns and walks off, leaving spike looking stricken.
 scene change: cut to above. buffy walks out of the crypt into sunlight.
-scene direction: blackout 
+scene direction: blackout.

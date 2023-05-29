@@ -130,8 +130,9 @@ def graph_episode(episode, episodeScores):
 
     # also write words per episode to file to make it easier to read
     totalWordsFile = open('plots/plotsData/' + episode + 'Scores.txt', 'w')
+    episodeNum = 1
     for e in episodeScores:
-        writing = str(e) + ': '
+        writing = str(e) + '--' + str(episodeNum) + ': '
         # structure
         if isinstance(episodeScores[e][0], float):
             writing += '{:.4f}'.format(episodeScores[e][0]) + ', '
@@ -149,6 +150,7 @@ def graph_episode(episode, episodeScores):
             writing += str(episodeScores[e][2])
         writing += '\n'
         totalWordsFile.write(writing)
+        episodeNum += 1
     totalWordsFile.close()
 
 
@@ -197,8 +199,9 @@ def graph_show(scoring, episodeScores):
 
     # also write words per episode to file to make it easier to read
     totalWordsFile = open('plots/plotsData/all' + scoring + 'Scores.txt', 'w')
+    episodeNum = 1
     for e in episodeScores:
-        writing = e + ': '
+        writing = str(e) + '--' + str(episodeNum) + ': '
         # structure
         if isinstance(episodeScores[e][0], float):
             writing += '{:.4f}'.format(episodeScores[e][0]) + ', '
@@ -216,6 +219,7 @@ def graph_show(scoring, episodeScores):
             writing += str(episodeScores[e][2])
         writing += '\n'
         totalWordsFile.write(writing)
+        episodeNum += 1
     totalWordsFile.close()
 
 

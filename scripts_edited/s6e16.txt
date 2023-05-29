@@ -77,7 +77,8 @@ mrs. harris: oh.
 scene direction: xander's dad looks annoyed.
 xander: hey, hey, how's about some breakfast?
 scene direction: xander uncle rory walks by, gives xander's dad a coffee mug
-mrs. harris: oh, well, i guess if i'm a little plump it doesn't matter, since i won't really be- xander: you'll be in the pictures, mom!
+mrs. harris: oh, well, i guess if i'm a little plump it doesn't matter, since i won't really be-
+xander: you'll be in the pictures, mom!
 scene direction: mr. harris gestures with coffee cup toward krelvin
 mr. harris: that's one of hers, right?
 scene direction: mr. harris to krelvin
@@ -168,14 +169,16 @@ scene direction: tara smiling at willow
 scene direction: anya clears throat
 anya: 'i, anya, promise to ... love you, to cherish you,
 scene direction: anya willow kneeling down to work on the dress
-anya: ...to honor you, uh, but not to obey you, of course, because that's anachronistic and misogynistic and who do you think you are, like a sea captain or something?' tara and willow grin in amusement and giggle a little, exchanging a look behind anya's back.
+anya: ...to honor you, uh, but not to obey you, of course, because that's anachronistic and misogynistic and who do you think you are, like a sea captain or something?'
+scene direction: tara and willow grin in amusement and giggle a little, exchanging a look behind anya's back.
 anya: 'however, i do entrust you with...'
 scene direction: anya pauses, hears the others chuckling
 anya: what? is something funny?
 tara: no, n-nothing, sweetie, just, just keep still.
 scene direction: tara smiling at willow
 scene direction: anya clears throat
-anya: okay. blah, blah, blah, misogynistic. blah, blah, 'i do however entrust you ... um, with my heart. take care of my heart, won't you please? take care of it because, it's all that i have. and, if you let me, i'll take care of your heart too.' willow and tara exchange another look, less giggly, more moved.
+anya: okay. blah, blah, blah, misogynistic. blah, blah, 'i do however entrust you ... um, with my heart. take care of my heart, won't you please? take care of it because, it's all that i have. and, if you let me, i'll take care of your heart too.'
+scene direction: willow and tara exchange another look, less giggly, more moved.
 anya: 'i'll protect it and tend to it, like a little stray.' wait, no. 'like a, a little mangy stray that needs a home.'
 scene direction: anya willow and tara amused again
 anya: no, that's not it either.
@@ -238,7 +241,8 @@ dawn: hmm. neat.
 scene direction: dawn to d'hoffryn
 dawn: i can put this on the table for you.
 scene direction: d'hoffryn giving her the box
-d'hoffryn: thank you. uh, careful, it's, uh- dawn: fragile?
+d'hoffryn: thank you. uh, careful, it's, uh-
+dawn: fragile?
 d'hoffryn: squirmy.
 scene direction: dawn looks at the box. we see that it has numerous holes in it. a tentacle pokes out of one of them, making dawn jump and gasp.
 dawn: oh.
@@ -271,8 +275,9 @@ clem: well, there are ancient ways.
 scene direction: clem the others staring at him
 clem: clowning, as an occupation, grew out of the commedia del'arte, and, uh, ancient sports, of course.
 scene direction: clem cousin carol nodding, smiling
-uncle rory: yeah, well, the thing is, if you expect xander to bring up his kids in some kinda foreign-speaky bow-to-the-easty kinda cult- tentacle demon: so you think the children should be raised in ignorance of our ways?
-scene direction: uncle rory xander's mom looking nervous
+uncle rory: yeah, well, the thing is, if you expect xander to bring up his kids in some kinda foreign-speaky bow-to-the-easty kinda cult-
+tentacle demon: so you think the children should be raised in ignorance of our ways?
+scene direction: tentacle demon xander's mom looking nervous
 cousin carol: no! no, the harrises are very broad-minded. we're episcopalians.
 scene direction: shot of xander's mom smiling nervously. in background, we see her husband sitting at the bar holding a glass.
 mr. harris: 'til death do us part.
@@ -307,9 +312,11 @@ dawn: hey buffy.
 scene direction: xander and buffy turn as dawn comes around a corner behind them. they don't stop walking. dawn falls in with them.
 dawn: spike's here and he brought a total skank.
 scene direction: buffy confused
-buffy: a- dawn: skank! a manic-panicked freak who he's like totally macking with right in the middle of the room.
-scene direction: buffy they stop walking
-buffy: i saw him shove his tongue- buffy: spike brought a date?
+buffy: a-
+dawn: skank! a manic-panicked freak who he's like totally macking with right in the middle of the room.
+scene direction: dawn they stop walking
+dawn: i saw him shove his tongue-
+buffy: spike brought a date?
 dawn: yeah.
 scene direction: dawn snickering
 dawn: wait till you see her.
@@ -322,11 +329,12 @@ scene change: cut to the lobby. xander opens the door and peeks out. then moves 
 scene direction: an elderly woman starts pinching xander's cheeks. his mom comes up.
 mrs. harris: alexander. do you realize that the usher sat us in the third row?
 xander: mom, i'm sure it was a mistake.
-mrs. harris: well, i-i don't think it was really- the creepy old man comes over, as does uncle rory.
+mrs. harris: well, i-i don't think it was really-
+scene direction: the creepy old man comes over, as does uncle rory.
 old man: excuse me.
-uncle rory: say neph, do you know where the photographer is? i've got a proposition for him- old man:
-scene direction: uncle rory tugging xander's arm
-uncle rory: please, i really need to talk to you.
+uncle rory: say neph, do you know where the photographer is? i've got a proposition for him-
+scene direction: old man tugging xander's arm
+old man: please, i really need to talk to you.
 scene direction: dawn os
 dawn: xander?
 mrs. harris: honey, listen to me.
@@ -345,18 +353,20 @@ scene direction: dawn, rory, and xander's mom continue talking over each other a
 old man: you can't get married today. it's a huge mistake.
 xander: yeah right, thanks for the advice, uncle ... help me here?
 old man: uncle? you don't recognize me, do you?
-xander: i'm sorry, i don't- old man: it sounds crazy, i know. but you have to believe me.
-scene direction: xander xander looking puzzled
-xander: i'm xander harris. i'm you.
+xander: i'm sorry, i don't-
+old man: it sounds crazy, i know. but you have to believe me.
+scene direction: old man xander looking puzzled
+old man: i'm xander harris. i'm you.
 scene direction: xander stares at him.
 scene direction: blackout.
 scene change: *** act ii ***
 scene direction: same scene.
 xander: what do you mean, you're me?
 old man: i'm you. i'm you from the future.
-xander: oh, from the future! for a minute i thought you were a nutball but now that you're from the future- old man:
-scene direction: xander agitated
-xander: please, listen to me. i found a way back to warn you. to tell you- xander: hey, hey, easy, easy. everything's going to be all right.
+xander: oh, from the future! for a minute i thought you were a nutball but now that you're from the future-
+scene direction: old man agitated
+old man: please, listen to me. i found a way back to warn you. to tell you-
+xander: hey, hey, easy, easy. everything's going to be all right.
 scene direction: mr. harris os
 mr. harris: toast!
 scene direction: xander looks over his shoulder
@@ -390,7 +400,8 @@ mr. harris: and a toast ... to the bride's dermatologically-challenged family sh
 tentacle demon: sit down!
 mr. harris: hey, i paid for all this! you want me to sit down, you cough up a couple of grand, squidly.
 scene direction: the tentacle demon starts toward mr. harris, angry.
-tentacle demon: what'd you call me, you drunken piece of sh- buffy: mazel tov!
+tentacle demon: what'd you call me, you drunken piece of sh-
+buffy: mazel tov!
 scene direction: buffy appears and grabs mr. harris's arm, leading him away just in time. they walk off as clem moves to placate the tentacle demon.
 mr. harris: hey, what's this?
 scene direction: buffy super-cheerful
@@ -402,7 +413,8 @@ mr. harris: did you used to own a little square pinkish purse?
 scene direction: buffy less cheerful, sighs
 buffy: i did.
 scene direction: as they pass by, we see spike standing by a wall with his skanky date. he watches buffy go by.
-mr. harris: i thought so. hey, what do you say we slip in the back room and i show you my- buffy: you finish that sentence and i guarantee you won't have anything to show.
+mr. harris: i thought so. hey, what do you say we slip in the back room and i show you my-
+buffy: you finish that sentence and i guarantee you won't have anything to show.
 scene direction: mr. harris stares at buffy. she yanks his arm, pulling him away.
 scene change: cut to another room. the old man enters, still holding the glass orb (no longer glowing). xander follows. they walk into the middle of the room and face each other. the old man holds the orb in both hands.
 xander: what is it?
@@ -478,9 +490,9 @@ xander: yeah, you should have. 'cause then maybe i would have gotten some touch 
 anya: i wasn't the one who stopped touching!
 xander: oh! maybe, but you weren't touching me!
 scene direction: he jumps up angrily, begins to pace.
-anya: what did you expect me to do? you wouldn't come near me after buffy- xander:
-scene direction: anya shouts
-anya: don't bring her into this!
+anya: what did you expect me to do? you wouldn't come near me after buffy-
+scene direction: xander shouts
+xander: don't bring her into this!
 anya: fine. forget her. maybe you were just born to be a bitter, angry old man.
 scene direction: xander quietly, very angry
 xander: shut up.
@@ -501,7 +513,8 @@ xander: is she okay, what did i do?!
 old man: listen. i don't have long here. the spell that brought me back, it won't last.
 scene direction: old man xander still looking shell-shocked
 old man: but you can change things. it doesn't have to go like this. but you can't marry anya.
-xander: but- old man: you'll hurt her less today than you will later. believe me. sometimes, two people ... all they bring each other ... is pain.
+xander: but-
+old man: you'll hurt her less today than you will later. believe me. sometimes, two people ... all they bring each other ... is pain.
 scene direction: xander stares at him, horrified.
 scene change: cut to the lobby. buffy walks by. most of the guests have taken their seats in the main room. there are short white pedestals holding vases of flowers at the entrance to the aisle.
 scene direction: buffy walks along the corridor, pauses as she spots something up ahead.
@@ -522,9 +535,10 @@ scene direction: spike remembers himself
 spike: or, good!
 scene direction: buffy smiles a little.
 spike: you want us to go?
-buffy: no. no, i ... you have every right to be here. i pretty much deserve- spike: that's not true, you...
-scene direction: buffy sighs, looks at the ceiling
-buffy: god, this is hard.
+buffy: no. no, i ... you have every right to be here. i pretty much deserve-
+spike: that's not true, you...
+scene direction: spike sighs, looks at the ceiling
+spike: god, this is hard.
 buffy: yeah.
 scene direction: spike sighs
 spike: i think we'll go.
@@ -579,10 +593,12 @@ xander: um ... yeah, just give me a sec, i wanna work on my vows.
 willow: take your time. it's not like we can start the wedding without you.
 scene direction: she smiles at him and leaves. xander watches her go, dropping his brave smile.
 scene change: cut to the bridal room. anya has her hair out of curlers now, pulled back and covered with the veil. she also wears a thin silver necklace.
-anya: 'i, anya, promise to cherish you...' ew, no, not cherish. uh, 'i promise...' we see tara sitting on a sofa nearby, observing, looking a little bored.
+anya: 'i, anya, promise to cherish you...' ew, no, not cherish. uh, 'i promise...'
+scene direction: we see tara sitting on a sofa nearby, observing, looking a little bored.
 anya: '...to have sex with you whenever ... *i* want, and, uh...
 scene direction: anya walking down off the platform
-anya: uh, pledge to be your friend, and your wife, and your confidant, and your sex poodle...' tara: uh, sex poodle?
+anya: uh, pledge to be your friend, and your wife, and your confidant, and your sex poodle...'
+tara: uh, sex poodle?
 anya: yeah, why?
 tara: um, i'm not sure you should say 'sex poodle' in your vows.
 anya: huh.
@@ -623,9 +639,12 @@ scene direction: buffy fidgets for a moment, opens the door and leaves. tara con
 scene direction: anya still looking in mirror, clears throat
 anya: okay.
 scene direction: anya turns to face tara
-anya: for the last time. 'i, anya, want to marry you, xander, because ... i love you and i'll always love you. and ... before i knew you, i was like a completely different person. not even a person, really...' cut to the street. xander walks along in the rain, still wearing his tux, getting soaked.
-anya voiceover: '...and i had seen what love could do to people, and it was ... hurt and sadness. alone was better. and then, suddenly there was you, and ... you knew me. you saw me, and it was this ... thing. you make me feel safe and warm.' cut back to the bridal room.
-anya: 'so, i get it now. i finally get love, xander. i really do.' cut to the main room. the guests are restless, fidgeting in their seats. all the demons are seated to the left of the aisle and the harrises on the right -- except that clem also sits on the right side.
+anya: for the last time. 'i, anya, want to marry you, xander, because ... i love you and i'll always love you. and ... before i knew you, i was like a completely different person. not even a person, really...'
+scene change: cut to the street. xander walks along in the rain, still wearing his tux, getting soaked.
+anya voiceover: '...and i had seen what love could do to people, and it was ... hurt and sadness. alone was better. and then, suddenly there was you, and ... you knew me. you saw me, and it was this ... thing. you make me feel safe and warm.'
+scene direction: cut back to the bridal room.
+anya: 'so, i get it now. i finally get love, xander. i really do.'
+scene change: cut to the main room. the guests are restless, fidgeting in their seats. all the demons are seated to the left of the aisle and the harrises on the right -- except that clem also sits on the right side.
 karen: i'm bored.
 cousin carol: it's a wedding, honey. we're all bored.
 scene direction: buffy appears at the end of the aisle, coming to tell everyone about the delay. seeing her, the string quartet begins to play the wedding march ("here comes the bride"). everyone turns to look. buffy is flustered, waves at the musicians, making throat-cutting gestures, trying to get them to stop.
@@ -641,7 +660,8 @@ scene direction: buffy finishes talking to the minister, puts on a huge fake smi
 scene direction: the guests get even more restless. mr. harris gets up and leaves. mrs. harris watches him angrily.
 scene change: cut to the bridal room. anya is pacing angrily.
 anya: i mean, i am sorry, but what the hell is that minister thinking?
-tara: uh, i don't know, he- anya: i mean, delivering a baby! on my special day! i mean, it's totally rude of him and the mother. i mean, why couldn't he have just told her to hold it?
+tara: uh, i don't know, he-
+anya: i mean, delivering a baby! on my special day! i mean, it's totally rude of him and the mother. i mean, why couldn't he have just told her to hold it?
 scene direction: cut back to the main room. the guests are extremely fidgety.
 scene change: cut to the lobby. mr. harris sits on a bar stool, tapping his fingers on the bar. mrs. harris stands nearby.
 mr. harris: gimme a double jack.
@@ -651,7 +671,8 @@ scene direction: mrs. harris annoyed
 mrs. harris: i offered to help. she didn't want my help.
 scene change: cut to the main room. everyone fidgets. karen is using her inhaler. cousin carol gets up and walks off.
 scene direction: angle on halfrek in the front row, with d'hoffryn behind her.
-halfrek: this thing totally isn't happening. we should have known that she would never, ever- d'hoffryn: i'm worried about anya.
+halfrek: this thing totally isn't happening. we should have known that she would never, ever-
+d'hoffryn: i'm worried about anya.
 scene direction: halfrek bitterly
 halfrek: oh, sure. of course you are.
 d'hoffryn: oh, halfrek.
@@ -678,7 +699,8 @@ guests: first word...
 scene direction: buffy puts her fingers up to her head like horns and moves from side to side.
 scene direction: guests guessing
 guests: antlers? animals? bull!
-scene change: buffy smiles, nods yes, points at the person who said "bull." cut to the hallway. anya walks along. tara runs up behind her.
+scene direction: buffy smiles, nods yes, points at the person who said "bull."
+scene change: cut to the hallway. anya walks along. tara runs up behind her.
 tara: anya, wait up!
 anya: this bride waits for no one. if the minister's not here yet, well then we'll just have to get married without a minister.
 scene change: cut to the main room. buffy and krelvin are on-stage. buffy is juggling three yellow apples(?). krelvin also begins to juggle another three. the guests applaud. buffy stops juggling but drops one of her apples. she smiles a big fake smile and takes a small bow. krelvin hands her another apple.
@@ -701,8 +723,10 @@ scene direction: shot of the main room. everyone heard anya's last shout. they a
 scene direction: close shot on buffy onstage, looking dismayed.
 scene direction: close shot on anya panting, looking around in extreme anxiety. she starts forward, into the room.
 scene direction: uncle rory chuckles
-uncle rory: it's a joke. xander's playing a joke. it's like one time, at one of carol's weddings, i had this ape suit- tentacle demon: oh, great.
-uncle rory: -and i put it on- tentacle demon: another harris family joke.
+uncle rory: it's a joke. xander's playing a joke. it's like one time, at one of carol's weddings, i had this ape suit-
+tentacle demon: oh, great.
+uncle rory: -and i put it on-
+tentacle demon: another harris family joke.
 scene direction: the harrises look insulted.
 scene direction: tentacle demon to mr. harris
 tentacle demon: why don't *you* have another drink?
@@ -910,4 +934,4 @@ scene direction: anya doesn't react.
 d'hoffryn: it's time you got back to what you do best ... don't you think?
 scene direction: anya finally lifts her face up to look at him. her expression is blank.
 scene direction: blackout.
-executive producers: joss whedon and marti noxon 
+executive producers: joss whedon and marti noxon.

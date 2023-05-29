@@ -49,9 +49,10 @@ scene direction: willow smiling
 willow: that's good, that's good!
 buffy: yeah. i figure, if i hold off paying the plumber, i can pay the utility bill.
 scene direction: buffy willow and tara stop smiling
-buffy: and then i can wait to re-shingle the roof until we get the refund back- giles: um, i meant...
-scene direction: buffy buffy stops
-buffy: ...with your life.
+buffy: and then i can wait to re-shingle the roof until we get the refund back-
+giles: um, i meant...
+scene direction: giles buffy stops
+giles: ...with your life.
 buffy: oh. life plans. um ... well...
 scene direction: the others continue to watch her.
 buffy: i have no idea.
@@ -91,7 +92,8 @@ warren: that's filtered through a dual quad dvs system, and a...
 jonathan: yeah, yeah, fine, just tell me.
 scene direction: jonathan they start walking around toward the front of the van
 jonathan: are you sure with all of this stuff that we'll be able to watch buffy without her noticing us?
-warren: absolutely. i mean, she'll never even know- they come around to the other side and find andrew spray-painting a huge death star on the side of the van.
+warren: absolutely. i mean, she'll never even know-
+scene direction: they come around to the other side and find andrew spray-painting a huge death star on the side of the van.
 warren: w-what the hell is that?
 andrew: death star, dude! wicked, huh?
 scene direction: jonathan scornfully
@@ -184,7 +186,8 @@ tara: ...didn't think she liked my cooking
 scene direction: tara we see tara sitting on a bench nearby
 tara: until i realized that that was her yummy face.
 scene direction: tara smiling
-tara: you know how her nose- buffy: what was that?
+tara: you know how her nose-
+buffy: what was that?
 tara: what was what?
 scene direction: buffy confused
 buffy: uh ... that, that noise, wh-what was that about, about cooking? whose yummy face?
@@ -200,7 +203,8 @@ scene direction: we see tara all the way down the hall by a set of double doors.
 scene direction: tara calling
 tara: we're gonna be late for class.
 scene direction: buffy looks extremely confused and a little angry.
-buffy: what the f- cut to interior of the van. warren opens the door from outside and quickly climbs in, shutting the door behind him.
+buffy: what the f-
+scene change: cut to interior of the van. warren opens the door from outside and quickly climbs in, shutting the door behind him.
 scene direction: warren excited
 warren: is it working? is it doing it?
 jonathan: dude, it's doing it.
@@ -211,10 +215,12 @@ buffy: tara! tara!
 scene direction: the classroom doors close in her face. the halls are now empty as all the students have gone to class. buffy looks around in dismay.
 scene direction: the buzzing noise again. students begin pouring out of the classrooms into the hallways. tara walks up behind buffy.
 tara: buffy, where have you been? you missed art class.
-buffy: missed? uh, tara, something freaky's going on, it's like i'm- buffy looks over at a wall clock. the hands on the clock move quickly. they start at about 11:50 and stop again at about 12:10.
+buffy: missed? uh, tara, something freaky's going on, it's like i'm-
+buffy looks over at a wall clock. the hands on the clock move quickly. they start at about 11:50 and stop again at about 12:10.
 buffy: look, there! there!
 scene direction: buffy pointing
-buffy: uh, did you see- she looks around and sees that tara is gone. the halls are deserted again. buffy makes a frustrated face.
+buffy: uh, did you see-
+scene direction: she looks around and sees that tara is gone. the halls are deserted again. buffy makes a frustrated face.
 buffy: crap!
 scene direction: she runs off.
 scene change: cut to buffy coming out of the building. a lot of students are walking around in various directions. buffy rushes down the stairs.
@@ -236,7 +242,8 @@ scene direction: cut back to buffy. she finds the tiny metal device attached to 
 scene direction: cut back to the van.
 andrew: oh, this is bad, this is bad.
 jonathan: self-destruct! self-destruct!
-andrew: i, i don't know, i- warren: no!
+andrew: i, i don't know, i-
+warren: no!
 scene direction: warren reaches over and flips up the plastic casing that covers a large red button. he puts his finger over it, pauses. on the screen, buffy reaches out her finger toward the device. warren pushes the button.
 scene direction: cut back to buffy. the device disintegrates in her hand. she looks up.
 scene direction: all the people resume walking at normal speed.
@@ -290,9 +297,10 @@ scene direction: tony just scowls at xander. buffy pulls her hand back, looks ar
 buffy: guys.
 scene direction: the other guys just stare.
 tony: you gotta be kiddin' me. we're a week behind, i got two men out on the dl, and now you want us to baby-sit some little girl?
-buffy: uh, excuse me, but i- tony: hang on, gidget!
-scene direction: buffy to xander
-buffy: this stinks, harris. what am i supposed to do with her?
+buffy: uh, excuse me, but i-
+tony: hang on, gidget!
+scene direction: tony to xander
+tony: this stinks, harris. what am i supposed to do with her?
 xander: give her a chance. she's stronger than she looks.
 scene direction: tony just sneers and turns back to the blueprints.
 xander: that's the spirit!
@@ -318,9 +326,10 @@ scene direction: she carries the beam off as vince stares at the remaining pile 
 scene change: cut to inside the site, later. someone is welding. buffy comes in carrying another girder, and addresses another man, danny, who's crouched over doing something.
 buffy: so basically i'm just trying to learn everything i can, you know? 'cause i don't want just a job, you know? i want a career, you know, something i can grow into.
 scene direction: she goes over to danny who is trying to move a girder. buffy easily helps him lift it into position.
-buffy: i mean, i never thought i'd be working in construction ... but when you think about it kinda makes sense- danny: hey. we get paid by the hour.
-scene direction: buffy buffy looks surprised
-buffy: you wanna ruin it for the rest of us? slow down.
+buffy: i mean, i never thought i'd be working in construction ... but when you think about it kinda makes sense-
+danny: hey. we get paid by the hour.
+scene direction: danny buffy looks surprised
+danny: you wanna ruin it for the rest of us? slow down.
 scene direction: he walks off leaving buffy standing there uncertainly. in the background we see tony watching.
 scene change: cut to a view of the construction site as seen through binoculars. the lens follows a worker along until we see buffy in the background. the lens stops and focuses in on her.
 warren: ah! got visual of subject, four o'clock.
@@ -365,7 +374,10 @@ warren: lemme see.
 scene direction: warren grabs the binoculars and looks
 andrew: okay, give it back now.
 warren: no, i'm still looking.
-andrew: no, y-you had your turn, now gimme- warren: no, i'm still- andrew: gimme- andrew grabs for the binoculars and warren shoves him away. andrew falls halfway onto jonathan's lap. his elbow hits the steering wheel and activates the horn, which plays the star wars theme song.
+andrew: no, y-you had your turn, now gimme-
+warren: no, i'm still-
+andrew: gimme-
+scene direction: andrew grabs for the binoculars and warren shoves him away. andrew falls halfway onto jonathan's lap. his elbow hits the steering wheel and activates the horn, which plays the star wars theme song.
 scene change: cut to the construction site. buffy hears the honking and peers curiously out of the building. she sees the black van sitting on the street beyond the fence. the star wars music continues.
 scene direction: cut back to the van. the geeks yell "duck!" and all dive for the floor. andrew jumps through the bead curtain into the back while the other two just lower their heads.
 scene direction: cut back to the site. buffy continues looking toward the van as a couple of construction workers approach. we see another guy is pinned under some wreckage.
@@ -374,7 +386,8 @@ scene direction: andrew defensive
 andrew: hey. all you said was lose the mural.
 scene direction: the other two make annoyed faces.
 scene direction: cut back to the site. two men are helping the third get up. xander comes running over.
-xander: oh my god. buffy, what ... what happened? how ... aw, buffy, i know these guys can be jerks, but was it really necessary- buffy: i didn't do this!
+xander: oh my god. buffy, what ... what happened? how ... aw, buffy, i know these guys can be jerks, but was it really necessary-
+buffy: i didn't do this!
 scene direction: tony comes around the corner holding a cloth to his bleeding forehead.
 tony: i'll tell you what she did. i came over to tell your friend i was impressed by the job she was doing, liking the way she handles herself, and all of a sudden she goes berserk and attacks me.
 scene direction: buffy outraged
@@ -467,7 +480,8 @@ scene direction: jonathan begins flicking the lighter as he holds the piece of p
 jonathan: okay, it's in latin, so don't laugh. it's supposed to sound like this.
 scene direction: he turns off the lighter and sets it aside, puts the burning paper down, picks up the bone.
 scene direction: shot from above. we see that there's a triangle drawn in red on the floor, and a bowl in the middle of the triangle, with the burning paper in the bowl. jonathan waves the bone over it while making gestures with his other hand.
-jonathan: opus orbit est, et ea in medio, tempus ad calcem intendit. [approx. translation: "the work is a circle, and she is in the middle, the time stretches out."] clouds of smoke begin to rise from the bowl. jonathan grins at the other guys.
+jonathan: opus orbit est, et ea in medio, tempus ad calcem intendit. [approx. translation: "the work is a circle, and she is in the middle, the time stretches out."]
+scene direction: clouds of smoke begin to rise from the bowl. jonathan grins at the other guys.
 scene direction: the smoke engulfs them and they all begin to cough.
 scene change: cut to inside the magic shop. buffy walks along looking bored. behind her, we can see out the window. we see the van parked across the street with smoke coming out of it as its rear door pops open to release the smoke. faintly, we can hear the geeks coughing.
 scene direction: we also see a woman walk past the windows toward the magic shop door. the camera follows her. she opens the door, making the bell above it jingle.
@@ -487,7 +501,8 @@ scene direction: anya smiles, pats buffy on the back and walks off. buffy looks 
 scene direction: as she climbs the stairs, a male customer stops her. he's looking at a display of scented candles.
 male customer: miss? which candle creates a more, you know, romantic atmosphere?
 scene direction: buffy picks up a candle, sniffs it, looks at the sticker on the bottom.
-buffy: hmm. "lemon seduction." she puts it down, picks up another and sniffs it, makes a face.
+buffy: hmm. "lemon seduction."
+scene direction: she puts it down, picks up another and sniffs it, makes a face.
 buffy: ew!
 scene direction: buffy looks at sticker
 buffy: "essence of slug."
@@ -526,7 +541,8 @@ scene direction: the woman customer comes in, shuts the door. buffy frowns in co
 giles: uh, while i was running the store, i found it was useful to, uh...
 buffy: huh? what? huh?
 scene direction: giles cleaning glasses
-giles: ...imagine myself back in the library, uh, to, uh- buffy: we did this just now. giles, something is happening.
+giles: ...imagine myself back in the library, uh, to, uh-
+buffy: we did this just now. giles, something is happening.
 scene direction: giles not listening
 giles: yes, uh, quite right.
 scene change: cut to a view of buffy and giles on the monitors inside the van.
@@ -543,9 +559,11 @@ jonathan: like make her kind of itchy?
 scene direction: on the monitor, giles walks away as buffy turns toward the customer and anya walks up to buffy.
 scene direction: cut back to the store.
 anya: go help the lady who just came in.
-buffy: wait- anya: don't worry, don't be nervous. do what i do, just picture yourself naked.
+buffy: wait-
+anya: don't worry, don't be nervous. do what i do, just picture yourself naked.
 scene direction: buffy makes an "ew" face as anya pushes her toward the customer. again the man by the candles stops her.
-male customer: uh, miss- buffy: here.
+male customer: uh, miss-
+buffy: here.
 scene direction: buffy grabs the lemon candle and gives it to him, continues on her way.
 female customer: hi. i'm looking for something really specific. i heard you carry it.
 buffy: a mummy hand.
@@ -590,7 +608,8 @@ buffy: yes. and then i'm going to marry bob dole and raise penguins in guam.
 scene direction: giles not listening
 giles: yes, uh, quite, quite, yes.
 scene direction: giles puts his glasses back on and turns away. buffy rolls her eyes, starts toward the customers. she grabs the lemon candle.
-male customer: miss, i- buffy shoves the candle into his hand and continues toward the woman.
+male customer: miss, i-
+scene direction: buffy shoves the candle into his hand and continues toward the woman.
 buffy: mummy hand, right? you got it, lady.
 scene direction: the female customer looks bemused as buffy just walks on toward the basement.
 scene change: cut to a little later. buffy pulls at the mummy hand which is trying to strangle the woman customer. she gets it loose, only to have it latch onto the woman's throat again. we see that buffy is behind the counter by the cash register, with the customer on the other side of the counter. the woman's eyes bulge as the hand strangles her.
@@ -634,7 +653,8 @@ buffy: i-i can't get it for you. um ...
 scene direction: buffy gets an idea
 buffy: there's something wrong with it. it's defective.
 female customer: defective? are you sure? i - there must be something you can do.
-buffy: but there's no way to get- buffy suddenly stops as she realizes the solution to the problem. a slow smile comes over her face.
+buffy: but there's no way to get-
+scene direction: buffy suddenly stops as she realizes the solution to the problem. a slow smile comes over her face.
 buffy: ...to get *that* hand. but i can special-order one. we can deliver it anywhere you want.
 scene direction: female customer smiling happily
 female customer: really?
@@ -666,7 +686,8 @@ scene direction: buffy gives her a sour look.
 giles: yes, um, i'm sure b-buffy would understand that.
 scene direction: buffy walks around anya to get out from behind the counter. she slaps something down on the counter and keeps walking.
 buffy: absolutely.
-scene direction: close-up on the counter. the thing buffy put down was her name tag. it reads, "hello! my name is," then a white space with "buffy" written in it, and then, "ask me about curses!" giles looks at it, looks at anya. anya looks toward the door.
+scene direction: close-up on the counter. the thing buffy put down was her name tag. it reads, "hello! my name is," then a white space with "buffy" written in it, and then, "ask me about curses!"
+scene direction: giles looks at it, looks at anya. anya looks toward the door.
 scene direction: long shot of buffy going to the front door and opening it. close-up on the bell jingling.
 scene direction: blackout.
 scene change: *** act iv ***
@@ -735,7 +756,8 @@ scene direction: we see one demon with many eyes, one with scaly skin and a bunc
 green demon: you know the game, spike. you in?
 many-eyed demon: he kills our kind. don't let him in.
 scene direction: spike grabs the many-eyed demon by the front of his jacket, pulls him up out of his chair.
-buffy: ooh, ask him if he's heard- spike: later.
+buffy: ooh, ask him if he's heard-
+spike: later.
 scene direction: spike shoves the demon toward the door, sits down in his seat and picks up his cards.
 scene direction: buffy disbelieving
 buffy: you're gonna play cards?
@@ -987,4 +1009,4 @@ scene direction: she walks to the door, looking at the check. pauses in the door
 buffy: i just ... wanna tell you ... that, um ... this ... makes me feel safe. knowing you're always gonna be here.
 scene direction: giles gives her a smile and a nod. but as soon as buffy turns to leave the room, his smile turns to a worried frown and he sighs.
 scene direction: blackout.
-executive producers: joss whedon and marti noxon. the en 
+executive producers: joss whedon and marti noxon. the end

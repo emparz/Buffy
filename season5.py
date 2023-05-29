@@ -13,13 +13,11 @@ def season5():
             filename += '0'
         filename += str(i)
 
-        ''' REMOVING BLANK LINES '''
+        ''' REMOVE BLANK LINES '''
         unedited_r = open('scripts/' + filename + '.txt', 'r')
         in_progress_w = open('progress.txt', 'w')
         for l in unedited_r:
             if not l == '\n':  # if the line is not blank
-                if i != 22 and i != 5 and i != 7:  # 5, 7, 22 doesn't have blank lines
-                    l = script_methods.fix_line_breaks(l)  # fix the line breaks
                 in_progress_w.write(l)  # write fixed line to in progress file
         unedited_r.close()
         in_progress_w.close()
@@ -32,10 +30,9 @@ def season5():
         edited_w.close()
         # *************************
 
-        '''INDIVIDUAL EPISODES'''
+        '''CHANGING DIALOGUE STYLE (I)'''
         # episodes 5 and 7 are like season 7
         if i == 5 or i == 7:
-            '''CHANGING DIALOGUE STYLE'''
             edited_r = open('scripts_edited/' + filename + '.txt', 'r')
             in_progress_w = open('progress.txt', 'w')
             for l in edited_r:
@@ -51,7 +48,7 @@ def season5():
             in_progress_r.close()
             edited_w.close()
 
-        '''ADD SCENE DIRECTIONS'''
+        '''ADD SCENE DIRECTIONS (H, I)'''
         edited_r = open('scripts_edited/' + filename + '.txt', 'r')
         in_progress_w = open('progress.txt', 'w')
         for l in edited_r:

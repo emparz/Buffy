@@ -1,6 +1,11 @@
 scene change: *** episode begins ***
 scene direction: loud rock music. fade in on a large sign reading 'grand opening' with a piece of paper stuck in between the words reading 're' (as in, grand re-opening). pan across to a neon sign holding the bronze's new logo - the word bronze in pink in a futuristic script.
-scene change: cut to inside the bronze, which has been extensively remodeled following its demolition by olaf in 'triangle.' the basic layout is the same but the fixtures and furniture have a new style, less gothic/industrial and more modern. it is filled with people dancing, talking, etc. we can see willow/tara and xander/anya dancing. the group summercamp is onstage performing their song 'play it by ear.' i'm amused by the overwhelming choices i guess the hardest part is knowing when to stop i'm confused and i think i'm hearing voices things are happening so fast do i save the best for last?
+scene change: cut to inside the bronze, which has been extensively remodeled following its demolition by olaf in 'triangle.' the basic layout is the same but the fixtures and furniture have a new style, less gothic/industrial and more modern. it is filled with people dancing, talking, etc. we can see willow/tara and xander/anya dancing. the group summercamp is onstage performing their song 'play it by ear.'
+scene direction: i'm amused by the overwhelming choices
+scene direction: i guess the hardest part is knowing when to stop
+scene direction: i'm confused and i think i'm hearing voices
+scene direction: things are happening so fast
+scene direction: do i save the best for last?
 scene direction: closer shot of xander and anya dancing. pan across them to willow and tara dancing. all smiling. pan over to buffy sitting by a low round table by herself, watching the dancers, looking pensive.
 scene direction: spike os
 spike: bleedin' crime, is what it is.
@@ -57,7 +62,8 @@ tara: honey, in case you didn't hear me the first six thousand times, no more te
 willow: well, it's just we have squat in the way of glory-fighting arsenal, and ... another run-in with her and my headaches and nosebleeds are gonna be the least of our problems.
 buffy: you know what? this is the first r-'n'-r i've had in weeks. how about we go one night without saying the name glory.
 scene direction: everyone nods.
-tara: i'm down with that. let's just call 'she who will not be named' another name. let's just call her- buffy: ben!
+tara: i'm down with that. let's just call 'she who will not be named' another name. let's just call her-
+buffy: ben!
 scene direction: shot of ben sitting on a sofa across the room, with another guy.
 scene direction: tara os
 tara: for example.
@@ -176,7 +182,8 @@ harmony: i'm coming after you, you bad, evil vampire,
 scene direction: harmony gestures with the stake
 harmony: and i'm gonna slay you!
 scene direction: harmony pauses and thinks for a moment
-harmony: i'm sneaking up, and i'm going to stake you so much with my slaying powers that i have because i'm the chosen- she shrieks as spike, shirtless, lunges into the shot and grabs her around the waist, growling, pulling her to the ground. the camera doesn't follow them down but remains focused on the darkened crypt.
+harmony: i'm sneaking up, and i'm going to stake you so much with my slaying powers that i have because i'm the chosen-
+scene direction: she shrieks as spike, shirtless, lunges into the shot and grabs her around the waist, growling, pulling her to the ground. the camera doesn't follow them down but remains focused on the darkened crypt.
 scene direction: harmony os
 harmony: oh, spike!
 scene change: cut to exterior uc sunnydale building, day.
@@ -205,7 +212,8 @@ scene direction: buffy grabs the paper from him
 guy: yeah, hi, uh, kind of reading that?
 scene direction: buffy ignores him, taking the paper over to willow and tara, staring at the front page.
 scene direction: shot of front page of the sunnydale press reading 'metrotrain murder six found murdered on train at sunnydale station'.
-buffy: 'six found murdered on train at sunnydale station.' tara: glory?
+buffy: 'six found murdered on train at sunnydale station.'
+tara: glory?
 scene direction: buffy shakes her head
 buffy: 'unconfirmed reports of severe trauma to the throats of one or more of the victims.'
 scene direction: buffy lowers the paper
@@ -273,7 +281,8 @@ joyce: is dawn with you?
 buffy: isn't she here?
 joyce: no, she didn't come home from school today.
 scene direction: joyce anxious
-joyce: oh buffy, the news said something about people murdered- buffy: it's not glory, it has nothing to do with dawn, i promise. look, she probably - i'll find her.
+joyce: oh buffy, the news said something about people murdered-
+buffy: it's not glory, it has nothing to do with dawn, i promise. look, she probably - i'll find her.
 scene direction: she leaves.
 scene change: cut to exterior, aerial shot of the graveyard, night.
 dawn voiceover: and the lady just invited you in?
@@ -304,9 +313,9 @@ buffy: spike, i need your help, dawn is-
 scene direction: buffy stops short when she sees dawn
 buffy: here.
 scene direction: buffy spike gets down from the coffin
-dawn: spike was just telling a story, a-and he was just at this really cool part- buffy:
-scene direction: dawn to spike
-dawn: what the hell is this? what is she doing here?
+dawn: spike was just telling a story, a-and he was just at this really cool part-
+scene direction: buffy to spike
+buffy: what the hell is this? what is she doing here?
 dawn: just hanging out.
 scene direction: buffy raises eyebrows
 buffy: here?
@@ -332,7 +341,8 @@ dawn: 'cause it was spike!
 buffy: hanging out with spike is not cool, dawn, okay? it is, it is dangerous, and ... icky.
 scene direction: dawn pauses, smiles bashfully.
 dawn: i don't think spike's icky.
-buffy: yeah, well, think again, sister- buffy sees dawn's expression and stops. dawn tries to hide her face. buffy folds her arms across her chest.
+buffy: yeah, well, think again, sister-
+scene direction: buffy sees dawn's expression and stops. dawn tries to hide her face. buffy folds her arms across her chest.
 buffy: you have a crush on him.
 dawn: no i don't! it's just,
 scene direction: dawn giggles
@@ -423,7 +433,8 @@ scene direction: joyce puts her hands over dawn's
 joyce: our missing child drama.
 scene direction: buffy nods
 buffy: and he just decided to ... hang out for a while?
-joyce: oh, well, i got talking about the gallery. see, there was this- spike: oh, don't get us all laughing again, joyce. anyhow, i really need to talk to your eldest.
+joyce: oh, well, i got talking about the gallery. see, there was this-
+spike: oh, don't get us all laughing again, joyce. anyhow, i really need to talk to your eldest.
 buffy: what about?
 scene direction: spike gets down from the counter and goes past buffy into the hallway. she turns to follow him, looking suspicious.
 spike: i got a bit of info you might be keen on knowin'.
@@ -454,7 +465,8 @@ scene direction: spike sings
 spike: i wanna be sedated...
 scene direction: spike stops singing, looks at buffy
 spike: do you like the ramones?
-buffy: so if you're not doing this for the money, why *are* y- spike: shh!
+buffy: so if you're not doing this for the money, why *are* y-
+spike: shh!
 scene direction: they both look out the front window. two figures walk across the street.
 scene direction: closer shot of the two male vamps going up to a door, opening it and entering the warehouse.
 scene direction: spike and buffy get out of the car.
@@ -484,11 +496,12 @@ spike: i wasn't thinking.
 buffy: what is this?
 spike: oh, come-
 scene direction: spike shoves the door closed
-spike: don't get your knickers twisted, i was- buffy: what ... is this?
-scene direction: spike spike stares at her
-spike: the late-night stakeout, the bogus suspects, the flask?
-scene direction: spike spike raises his eyebrows
-spike: is this a date?
+spike: don't get your knickers twisted, i was-
+buffy: what ... is this?
+scene direction: buffy spike stares at her
+buffy: the late-night stakeout, the bogus suspects, the flask?
+scene direction: buffy spike raises his eyebrows
+buffy: is this a date?
 scene direction: spike loudly
 spike: a d- please!
 scene direction: spike pretending to be amused
@@ -521,22 +534,23 @@ scene direction: spike realizing that's not what he meant
 spike: but i'm not ... like that. something's happening to me. i can't stop thinking about you.
 buffy: uhh.
 scene direction: buffy turns away
-spike: and if that means turning my back on the whole evil thing- buffy:
-scene direction: spike turns back
-spike: you don't know what you mean! you don't know what feelings are!
+spike: and if that means turning my back on the whole evil thing-
+scene direction: buffy turns back
+buffy: you don't know what you mean! you don't know what feelings are!
 scene direction: spike offended
 spike: i damn well do! i lie awake every night!
 buffy: you sleep during the day!
 spike: yeah, but -
 scene direction: spike through his teeth
-spike: you are missing the point. this is real here. i love- buffy: don't!
+spike: you are missing the point. this is real here. i love-
+buffy: don't!
 scene direction: she puts up a hand to stop him. he sighs.
 buffy: don't say it.
 scene direction: buffy spike stares at her
 buffy: i'm going. she starts to walk toward the door again.
-spike: oh, come on, we need to talk- buffy:
-scene direction: spike turns back
-spike: we don't need to do anything! okay, there is no we! understand?
+spike: oh, come on, we need to talk-
+scene direction: buffy turns back
+buffy: we don't need to do anything! okay, there is no we! understand?
 scene direction: she turns to leave.
 spike: buffy.
 scene direction: she opens the door and exits. spike watches her go.
@@ -663,7 +677,9 @@ willow: well, buffy, you have to talk to him again.
 buffy: what? no. no, no, no, i have to avoid him again.
 willow: not until you shut him down completely. if he thinks there's even a little chance with you, there's no telling what he'll do.
 scene direction: buffy looks concerned.
-scene change: cut to the bronze. the group devics is onstage performing their song 'key.' and this time i'm staying to bury the trail that you left, you left pan across people dancing. pan over to the door. spike and dru enter, arm in arm. spike is once again wearing his usual attire complete with long black leather coat. he takes a glass of wine from a tray carried by a passing waitress. the waitress gives him a dirty look as dru removes her coat.
+scene change: cut to the bronze. the group devics is onstage performing their song 'key.'
+scene direction: and this time i'm staying to bury the trail that you left, you left
+scene direction: pan across people dancing. pan over to the door. spike and dru enter, arm in arm. spike is once again wearing his usual attire complete with long black leather coat. he takes a glass of wine from a tray carried by a passing waitress. the waitress gives him a dirty look as dru removes her coat.
 scene direction: shot of the band doing an instrumental interlude.
 scene direction: cut back to dru putting the now-empty glass down. spike takes her hands and they move onto the dance floor and begin to dance, very slow and sensual. the singer resumes singing.
 scene direction: and if i was cold, well then you would stay inside me, warm me...
@@ -675,7 +691,8 @@ scene direction: dru leans her head back on spike's shoulder and draws his atten
 scene change: cut to the summers house. joyce is in the hallway taking a coat down from a hook.
 joyce: i know this is hard, honey, but i think you made the right decision.
 scene direction: she walks back into the living room where buffy and willow are standing. joyce gives the coat to buffy.
-joyce: better to nip this in the bud before- buffy: the bud nips me?
+joyce: better to nip this in the bud before-
+buffy: the bud nips me?
 joyce: exactly.
 willow: if you want, buffy, i can go with. back you up with some scowling.
 scene direction: she demonstrates her scowl as buffy puts on her coat.
@@ -685,10 +702,15 @@ scene direction: willow grins and holds up both hands with the fingers crossed
 scene direction: buffy sighs, turns and walks toward the door. she stops and turns back to willow.
 buffy: you know what, though? there is one thing you can do for me while i'm gone.
 scene direction: cut back to the bronze. close-up shot of the couple still kissing on the balcony. pan across to spike and dru, climbing the stairs hand in hand. dru has her vamp face on. they walk in step, slow-motion, as the music continues.
-scene direction: i told you just like i told everyone i still have some doubts that you are the reason dru walks up to the couple, grabs the girl's head and twists it. we hear her neck snap. dru pushes the dead girl back toward spike, who catches her as the boy looks on in horror.
-scene direction: still this is just so hard 'cause i know that i'll be left like always dru walks behind the boy, turns his face aside and leans in to bite his neck.
+scene direction: i told you just like i told everyone
+scene direction: i still have some doubts that you are the reason
+scene direction: dru walks up to the couple, grabs the girl's head and twists it. we hear her neck snap. dru pushes the dead girl back toward spike, who catches her as the boy looks on in horror.
+scene direction: still this is just so hard 'cause i know that i'll be left like always
+scene direction: dru walks behind the boy, turns his face aside and leans in to bite his neck.
 scene direction: shot of the dead girl with her head lolling back, exposing her neck. pan up to spike staring at her neck. he looks over at dru, who raises her head from the boy to look at spike, smiling.
-scene direction: here i'm safe so here i stay lift me out, lift the doubt spike looks conflicted. he closes his eyes, looks back at the girl, takes a few deep breaths. his vampire face appears and he bends down with a growl to bite the girl's neck.
+scene direction: here i'm safe so here i stay
+scene direction: lift me out, lift the doubt
+scene direction: spike looks conflicted. he closes his eyes, looks back at the girl, takes a few deep breaths. his vampire face appears and he bends down with a growl to bite the girl's neck.
 scene direction: shot of dru watching, then turning back to her meal.
 scene direction: zoom in on spike drinking from the dead girl.
 scene change: cut to spike's crypt. the door opens and buffy peeks in, looking around.
@@ -812,7 +834,8 @@ spike: you think i like having you in here? destroying everything that was me, u
 scene direction: spike scoffs
 spike: you say you hate it, but you won't leave. you know, what i should just do, is get rid of both of you. burn you. cut you into little pieces
 scene direction: spike makes scissor gesture with his fingers
-spike: so there won't be any more bints to cock up things for spi- he suddenly stops talking and spins around, falls over as we see an arrow protruding from his back and harmony standing behind him with a crossbow.
+spike: so there won't be any more bints to cock up things for spi-
+scene direction: he suddenly stops talking and spins around, falls over as we see an arrow protruding from his back and harmony standing behind him with a crossbow.
 scene direction: shot of spike on the floor, looking up.
 spike: oh, great.
 scene direction: harmony os
@@ -827,7 +850,8 @@ scene direction: spike still on the floor
 spike: oh, so now you're all ganging up.
 harmony: i thought i could change you, spike. i thought maybe if i gave and i gave and gave, maybe you'd come around. maybe be a little nicer. stop treating me like your dog.
 scene direction: harmony begins reloading the crossbow
-harmony: but now i see it's you. you're the dog. who needs to be put d- she turns away for a moment and spike rushes her, grabs the crossbow and hits her in the face. he throws the crossbow away.
+harmony: but now i see it's you. you're the dog. who needs to be put d-
+scene direction: she turns away for a moment and spike rushes her, grabs the crossbow and hits her in the face. he throws the crossbow away.
 scene direction: shot of dru looking over at buffy. shot of buffy tugging at her chains.
 scene direction: spike tries a kick on harmony, which she avoids. she punches him.
 scene direction: shot of dru struggling. shot of her hands behind her, tied with rope. shot of buffy struggling.
@@ -882,4 +906,4 @@ scene direction: he stops suddenly at the doorway as an invisible force prevents
 scene direction: spike stares in surprise, gives a tentative smile, not quite getting it yet. it begins to dawn on him that his invitation to the summers house has been revoked.
 scene direction: buffy steps back and closes the door in his face.
 scene direction: blackout.
-executive producer: joss whedon 
+executive producer: joss whedon.

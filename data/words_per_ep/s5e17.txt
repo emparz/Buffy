@@ -210,14 +210,13 @@ more
 minutes
 to
 decide
-buffy
 no
 i
 it's
 done
 it's
 fine
-director
+buffy
 to
 dawn
 okay
@@ -682,7 +681,6 @@ be
 no
 wake'
 xander
-buffy
 gets
 up
 to
@@ -2185,7 +2183,6 @@ float
 aand
 disappear
 and
-tara
 but
 we
 don't
@@ -2194,7 +2191,7 @@ with
 life
 and
 death
-dawn
+tara
 shot
 of
 willow
@@ -2932,7 +2929,6 @@ relationship
 with
 the
 slayer
-ben
 we
 don't
 have
@@ -3048,7 +3044,6 @@ that's
 not
 what
 i
-jinx
 i
 understand
 sir
@@ -4462,7 +4457,6 @@ he's
 most
 loyal
 to
-glory
 hey
 he
 better
@@ -5077,7 +5071,6 @@ grieving
 fly
 by
 dawn
-doc
 shakes
 head
 i
@@ -5372,7 +5365,6 @@ it
 this
 egg
 or
-doc
 if
 it
 was
@@ -5386,7 +5378,7 @@ everyone
 would
 try
 it
-dawn
+doc
 dawn
 looks
 chastised
@@ -5403,7 +5395,7 @@ nest
 of
 the
 demon
-dawn
+doc
 looks
 at
 spike
@@ -7092,7 +7084,6 @@ me
 her
 dna
 buffy
-dawn
 grabs
 dawn
 by
@@ -7332,7 +7323,6 @@ i
 have
 to
 dawn
-buffy
 tearful
 no
 you've

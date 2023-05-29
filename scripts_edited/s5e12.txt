@@ -18,7 +18,8 @@ giles: presumably. we'll find that out when they ... arrive. could be very impor
 buffy: arrive? they're coming here? now? w-why do they have to come here?
 xander: yeah, don't they have phones?
 scene direction: xander fake british accent
-xander: 'allo, buffy, here's some stuff we know, pip pip.' buffy: yeah! phones. see, i'd like them on phones.
+xander: 'allo, buffy, here's some stuff we know, pip pip.'
+buffy: yeah! phones. see, i'd like them on phones.
 tara: well, what's so bad about them coming here? aren't they good guys? i mean, watchers, that's just like other gileses, right?
 buffy: yeah, they're scary and horrible!
 giles: um, they, well, they can appear a bit ... well, uh, hard-nosed, but, uh, well, essentially, their agenda is the same as ours, they want to save the world and kill demons.
@@ -31,7 +32,8 @@ tara: are you sure they're english? i-i thought english people were, um, gentler
 scene direction: tara trailing off
 tara: normal...
 willow: maybe it won't be so bad this time. i mean, buffy, they did think you were faith last time. now that they know you're just you, maybe they won't care enough to kill you.
-buffy: it's not just that. they're gonna screw everything up. i-it's a delicate time right now. i-i have to take care of dawn, and- xander: but that's not new, you've always taken care of her.
+buffy: it's not just that. they're gonna screw everything up. i-it's a delicate time right now. i-i have to take care of dawn, and-
+xander: but that's not new, you've always taken care of her.
 buffy: right. right, i, i know that, it's just, you know, there's, there's glory, and...
 scene direction: we see dawn on the stairs, listening in, wearing pajamas.
 scene direction: buffy os
@@ -66,7 +68,8 @@ dreg: help her!
 scene direction: jinx goes to glory and drags her toward the mailman.
 jinx: we're here for you, great one.
 scene direction: glory gets up on her knees and the demons put her hands on the mailman's head.
-mailman: what- dreg: drink!
+mailman: what-
+dreg: drink!
 mailman: oh, what is this? what the, what the hell are you things doing to me?
 scene direction: glory puts her fingers on the sides of his head, and then pushes them into his head. instead of blood, yellow light streams out as glory pushes her hands deeper into his brain. both glory and the mailman scream. after a moment the light stops and they both fall to the floor.
 dreg: very good, delicious.
@@ -214,9 +217,10 @@ professor: well, i'm sorry if you find these facts so boring, miss summers. mayb
 scene direction: professor the other students laugh
 professor: intro to flights of fancy?
 scene direction: professor the students laugh more
-buffy: i only meant- professor: what was it you were going on about last week? mysterious sleeping patterns of the prussian generals?
-scene direction: buffy buffy looks annoyed
-buffy: now, some of us are here to learn. believe it or not, we're interested in finding out what actually happened. it's called studying history. you can sit down now. unless you have something else to add, professor?
+buffy: i only meant-
+professor: what was it you were going on about last week? mysterious sleeping patterns of the prussian generals?
+scene direction: professor buffy looks annoyed
+professor: now, some of us are here to learn. believe it or not, we're interested in finding out what actually happened. it's called studying history. you can sit down now. unless you have something else to add, professor?
 scene direction: buffy scowls, sits.
 buffy voiceover: miss summers!
 scene change: cut to graveyard, night. buffy is fighting a vampire. she kicks him backward.
@@ -289,9 +293,9 @@ nigel: it's an exhaustive examination of your procedures and abilities. we'll ob
 buffy: talk to my friends?
 travers: yes, we understand you're still taking civilians out on patrols.
 buffy: oh, you've gotta be kidding me.
-travers: buffy ... i can sense your resistance, and i don't blame you. but i think your watcher hasn't reminded you lately of the resolute status of the players in our little game. the council fights evil. the slayer is the instrument by which we fight. the council remains, the slayers change. it's been that way from the beginning, giles:
-scene direction: travers scornfully
-travers: well, that's a very comforting, bloodless way of looking at it, isn't it?
+travers: buffy ... i can sense your resistance, and i don't blame you. but i think your watcher hasn't reminded you lately of the resolute status of the players in our little game. the council fights evil. the slayer is the instrument by which we fight. the council remains, the slayers change. it's been that way from the beginning,
+scene direction: giles scornfully
+giles: well, that's a very comforting, bloodless way of looking at it, isn't it?
 travers: giles, let me talk to buffy, because i think she's understanding me.
 scene direction: travers to buffy
 travers: glory is stronger than you. she's a more powerful instrument, if you will. we can help you. we have information that will help. pass the review and we give it to you without reservation. fail the review, either through incompetence, or by resisting our recommendations...
@@ -425,8 +429,9 @@ tara: five!
 scene direction: nigel writes this down as willow and tara give each other anxious looks. willow mouths, 'five?' and tara shrugs.
 nigel: and you're registered as practicing witches under the names as you gave them to me?
 tara: r-registered?
-willow: oh yes! yes, of course we're- tara: ...r-r-registered.
-scene direction: willow nodding
+willow: oh yes! yes, of course we're-
+tara: ...r-r-registered.
+scene direction: tara nodding
 scene direction: cut back to xander/anya interrogation.
 philip: do either of you know anything about the key?
 anya: nope, but it sounds demony to me. i don't hold with that demon nonsense.
@@ -459,12 +464,14 @@ scene direction: spike grins
 spike: well, well. isn't that neat.
 scene direction: spike stops smiling
 spike: tell me, pet, now we're such good friends, how's the slayer doing? is she okay? high marks in all categories?
-travers voiceover: agility, clarity, stamina and strength- cut to the workout room in the back of the magic shop. nigel is tying a blindfold around buffy's head. giles and the other watchers are standing around.
+travers voiceover: agility, clarity, stamina and strength-
+scene change: cut to the workout room in the back of the magic shop. nigel is tying a blindfold around buffy's head. giles and the other watchers are standing around.
 travers: ...these are the qualities that the slayer must possess to do her job.
 buffy: what came after agility?
-giles: if you want her to attack the dummy- travers: no, no. philip will attack the dummy.
-scene direction: giles we see philip standing next to the dummy, wearing a karate robe
-giles: the slayer's job is to protect it. do you understand?
+giles: if you want her to attack the dummy-
+travers: no, no. philip will attack the dummy.
+scene direction: travers we see philip standing next to the dummy, wearing a karate robe
+travers: the slayer's job is to protect it. do you understand?
 buffy: protect the dummy.
 travers: as if it were precious. now, getting the best of philip will require agility. listening to my instructions at the same time, that will demonstrate clarity. and stamina and strength will win the long fight. good luck.
 buffy: instructions?
@@ -472,7 +479,8 @@ travers: yeah, i'll be telling you what to do, how to counter philip's attack. w
 buffy: japanese?
 scene direction: watcher #2 clicking a stopwatch
 watcher #2: and, go!
-buffy: whoa, hold on a second. we uh, you know in america, we usually just work our way up to 'go.' philip bows toward buffy. he's holding a short axe.
+buffy: whoa, hold on a second. we uh, you know in america, we usually just work our way up to 'go.'
+scene direction: philip bows toward buffy. he's holding a short axe.
 scene direction: travers speaks japanese
 buffy: huh?
 giles: he wants you to bow. take a bow.
@@ -485,7 +493,8 @@ giles: punch him.
 buffy: thanks, giles.
 giles: sorry.
 scene direction: travers japanese
-giles: uh...back kick, elbow- buffy back-kicks and philip moves out of the way. she thrusts with her elbow and he avoids it.
+giles: uh...back kick, elbow-
+scene direction: buffy back-kicks and philip moves out of the way. she thrusts with her elbow and he avoids it.
 giles: ...elbow...strike.
 travers: how have you been training her?
 giles: i've trained her to win.
@@ -608,12 +617,13 @@ scene direction: spike walks toward them; buffy follows
 spike: come on in. there's plenty of blood in the fridge.
 dawn: do you mean like, real blood?
 spike: what do you think?
-dawn: mostly i think 'ew.' buffy:
-scene direction: dawn to joyce
-dawn: keep dawn here as long as you can. i'll be back soon.
+dawn: mostly i think 'ew.'
+scene direction: buffy to joyce
+buffy: keep dawn here as long as you can. i'll be back soon.
 joyce: okay.
 scene direction: buffy walks over to spike
-buffy: i don't think i need to remind you, but- spike: yeah, yeah, 'anything happens to 'em i'll stake you good and proper.' sing me a new one sometime, eh? that bit's gone stale.
+buffy: i don't think i need to remind you, but-
+spike: yeah, yeah, 'anything happens to 'em i'll stake you good and proper.' sing me a new one sometime, eh? that bit's gone stale.
 scene direction: buffy leaves. spike, dawn, and joyce stand around looking uncomfortable.
 joyce: i, i love what you've, um, neglected to do with the place.
 spike: just don't break anything.
@@ -681,18 +691,19 @@ buffy: power. i have it. they don't. this bothers them.
 scene direction: buffy moves back to the table, removing her coat.
 buffy: glory ... came to my home today.
 scene direction: giles alarmed
-giles: buffy, are you- buffy:
-scene direction: giles puts her coat on a chair
-giles: just to talk.
-scene direction: giles resumes pacing
-giles: she told me i'm a bug, i'm a flea, she could squash me in a second.
-scene direction: giles stops, looks at travers again
-giles: only she didn't. she came into my home, and we talked. we had what in her warped brain probably passes for a civilized conversation. why?
-scene direction: giles pauses
-giles: because she needs something from me. because i have power over her.
+giles: buffy, are you-
+scene direction: buffy puts her coat on a chair
+buffy: just to talk.
+scene direction: buffy resumes pacing
+buffy: she told me i'm a bug, i'm a flea, she could squash me in a second.
+scene direction: buffy stops, looks at travers again
+buffy: only she didn't. she came into my home, and we talked. we had what in her warped brain probably passes for a civilized conversation. why?
+scene direction: buffy pauses
+buffy: because she needs something from me. because i have power over her.
 scene direction: buffy looks around, hands on her hips. she walks the floor, looking from one watcher to the next as she talks.
 buffy: you guys didn't come all the way from england to determine whether or not i was good enough to be let back in. you came to beg me to let you back in. to give your jobs, your lives some semblance of meaning.
-nigel: this is beyond insolence- buffy grabs the sword from the table and throws it across the room in a single movement. it flies point-first into the wall directly in front of nigel's nose. he jumps back looking shocked.
+nigel: this is beyond insolence-
+scene direction: buffy grabs the sword from the table and throws it across the room in a single movement. it flies point-first into the wall directly in front of nigel's nose. he jumps back looking shocked.
 scene direction: buffy clears throat
 buffy: i'm fairly certain i said no interruptions.
 scene direction: xander whispers
@@ -745,4 +756,4 @@ travers: she's a god.
 scene direction: buffy long pause, eyes widen
 buffy: oh.
 scene direction: blackout.
-executive producer: joss whedon 
+executive producer: joss whedon.

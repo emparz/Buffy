@@ -12,12 +12,11 @@ def season6():
             filename += '0'
         filename += str(i)
 
-        '''REMOVING BLANK LINES'''
+        '''REMOVE BLANK LINES'''
         unedited_r = open('scripts/' + filename + '.txt', 'r')
         in_progress_w = open('progress.txt', 'w')
         for l in unedited_r:
             if not l == '\n':  # if the line is not blank
-                l = script_methods.fix_line_breaks(l)  # fix the line breaks
                 in_progress_w.write(l)  # write fixed line to in progress file
         unedited_r.close()
         in_progress_w.close()
@@ -30,7 +29,7 @@ def season6():
         edited_w.close()
         # *************************
 
-        '''ADD SCENE DIRECTIONS'''
+        '''ADD SCENE DIRECTIONS (H)'''
         edited_r = open('scripts_edited/' + filename + '.txt', 'r')
         in_progress_w = open('progress.txt', 'w')
         for l in edited_r:

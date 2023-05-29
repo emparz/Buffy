@@ -156,12 +156,6 @@ sort
 of
 flighty
 frivolous
-dawn
-hey
-there's
-willow
-and
-tara
 ooh
 they
 haven't
@@ -180,6 +174,9 @@ you
 willow
 that's
 odd
+hello
+anyone
+here
 i
 make
 it
@@ -260,8 +257,6 @@ this
 is
 a
 virtual
-buffy
-deathtrap
 what
 well
 uh
@@ -320,15 +315,6 @@ power
 possibly
 even
 a
-willow
-a
-unicorn
-10inch
-ceramic
-unicorn
-imported
-from
-thailand
 which
 begs
 the

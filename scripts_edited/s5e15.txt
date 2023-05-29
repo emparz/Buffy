@@ -12,7 +12,8 @@ buffy: i feel gross, you know, like, like, dirty.
 scene direction: she resumes punching. we see part of the thing she's punching, which looks like a punching bag.
 giles: that's ridiculous, you can't be responsible for what spike thinks or, feels.
 scene direction: buffy stops punching
-buffy: well, aren't i responsible? i mean, something about me had to make him feel that, right? something that made him say, 'woof, that's the one for me!' she resumes punching, very violently, and finishes by kneeing the target sharply.
+buffy: well, aren't i responsible? i mean, something about me had to make him feel that, right? something that made him say, 'woof, that's the one for me!'
+scene direction: she resumes punching, very violently, and finishes by kneeing the target sharply.
 giles: buffy, i think you should perhaps calm down.
 xander: me too.
 scene direction: we see that buffy's target is actually xander in a huge padded suit and fencing mask. it forces his arms to stand straight out at his sides, basically immobile. giles and buffy look at him with concern.
@@ -30,7 +31,8 @@ buffy: here.
 scene direction: xander loud sigh
 buffy: comfy?
 xander: oh, yeah. this leaning? this is the stuff.
-buffy: that's my secret to attracting men. you know, it's simple really, you slap 'em around a bit, you torture 'em, you make their lives a living hell- xander: buff...
+buffy: that's my secret to attracting men. you know, it's simple really, you slap 'em around a bit, you torture 'em, you make their lives a living hell-
+xander: buff...
 buffy: ...and sure, the nice guys, they'll run away, but every now and then you'll meet a real prince of a guy like spike who gets off on it.
 xander: buffy ...
 scene direction: xander jerks his head sideways
@@ -122,7 +124,8 @@ dawn: hmm. spin again. real fast this time.
 scene direction: joyce gives them an amused-scolding look.
 scene change: cut to tara and anya walking along the uc sunnydale campus, day.
 tara: willow's good at all that computer stuff, but me not so much. do you really understand all that?
-anya: oh. well, at first it was confusing. just the idea of computers was like, 'whoa, i'm eleven hundred years old. i had trouble adjusting to the idea of lutherans.' tara: i go online sometimes, but ... everyone's spelling is really bad, and it's ... depressing.
+anya: oh. well, at first it was confusing. just the idea of computers was like, 'whoa, i'm eleven hundred years old. i had trouble adjusting to the idea of lutherans.'
+tara: i go online sometimes, but ... everyone's spelling is really bad, and it's ... depressing.
 anya: but you have to try online trading, it's great! the secret is avoiding the tech companies everyone was jumping on, and, and going with the smaller firms that supply the basic components.
 tara: uh-huh.
 anya: anyway, i took the money from working for giles, and i tripled it.
@@ -250,9 +253,10 @@ scene direction: spike buffy continues glaring
 spike: you having fun, pet? you ... trolling for your next ex?
 scene direction: spike looks around
 spike: i gotta say, you can do better.
-buffy: i told you, i wa- spike: thought i was gonna leave town? it's a free country. free party.
-scene direction: buffy reaches for some snacks on the table, turns back to buffy with a smirk
-buffy: if you want me to leave, you can put your hands on my hot, tight little body and make me.
+buffy: i told you, i wa-
+spike: thought i was gonna leave town? it's a free country. free party.
+scene direction: spike reaches for some snacks on the table, turns back to buffy with a smirk
+spike: if you want me to leave, you can put your hands on my hot, tight little body and make me.
 scene direction: he eats a snack and smirks suggestively at buffy. she looks disgusted.
 buffy: get away from me.
 scene direction: spike starts to say something, stops, nods and walks away, still smirking.
@@ -314,7 +318,8 @@ buffy: excuse me. hi. um, uh, maybe you and i could talk. you know, 'cause, thro
 scene direction: buffy pauses, grins
 buffy: well, that's really good...
 scene direction: buffy stops smiling
-buffy: um, but, you know, generally speaking- april: do you know my boyfriend?
+buffy: um, but, you know, generally speaking-
+april: do you know my boyfriend?
 buffy: okay. i think you need to take a second and stop looking for your boyfriend.
 scene direction: april grabs buffy by the upper arms and flings her backwards. she flies back several yards and lands on the floor with an expression of pain, grabbing her arm.
 scene direction: april os
@@ -329,7 +334,8 @@ xander: are you kidding? double-glazed windows ain't cheap. and the jamb needs t
 scene direction: xander pauses
 xander: oh dear god, i'm the grownup who sees the world through my job. i'm like my uncle dave the plumber. i must be shunned.
 willow: okay.
-buffy: so, what do you guys think she is? i mean, this may sound nuts, but i kinda got the impression that she was a- tara: robot.
+buffy: so, what do you guys think she is? i mean, this may sound nuts, but i kinda got the impression that she was a-
+tara: robot.
 scene direction: everyone nods in complete agreement.
 xander: oh yeah, robot.
 buffy: yeah, i was gonna say robot. what do you think she wants?
@@ -360,7 +366,8 @@ buffy: so if you wanna trade...
 scene direction: buffy pauses
 buffy: no ... wait ... i wouldn't give that memory up for anything.
 giles: a robot? sounds interesting.
-buffy: we're gonna work on it in the morning. i mean, unless you wanna stay for a while, and then you and i could- joyce appears behind giles, entering the house with a big smile.
+buffy: we're gonna work on it in the morning. i mean, unless you wanna stay for a while, and then you and i could-
+scene direction: joyce appears behind giles, entering the house with a big smile.
 joyce: who wants to hear everything?
 buffy: ...listen to my mom talk about boys.
 scene direction: giles quickly
@@ -524,9 +531,9 @@ dawn: a robot? really? was it ted? 'cause i always said there could have been mo
 willow: nope, whole new robot. this one was a girl.
 xander: buffy's busy tracking down the guy that made her,
 scene direction: xander puts hand on the doorknob
-xander: so i'll drop you off at school, and if she's not finished, then- spike:
-scene direction: xander os
-xander: coming through! coming through.
+xander: so i'll drop you off at school, and if she's not finished, then-
+scene direction: spike os
+spike: coming through! coming through.
 scene direction: as xander opens the door, spike runs in, holding a blanket over himself. the blanket is on fire. the others jump back. we see giles and anya in the background. spike drops the blanket on the floor and stomps out the fire.
 spike: fire! fire!
 scene direction: the others stare at him. giles comes forward. we see anya in the background. we can see that spike still has a bunch of small cuts on his face and neck from being thrown through the window.
@@ -545,10 +552,11 @@ spike: hey. someone's glad to see me, aren't you, little bit?
 dawn: stay away from me.
 tara: i think you better go.
 scene direction: tara steps in front of dawn and folds her arms
-spike: okay, now, i was afraid of this. misrepresentations, misunderstandings, slurs and allegations. i don't know what buffy told you, but the thing is, the slayer and i worked together, side by side, to get rid of dru. who was up to no good. and i don't mind telling you- giles:
-scene direction: spike takes off his glasses, moves closer to spike
-spike: spike ... listen to me.
-spike: it's just ... i'm trying to explain. she might have said some things that sounded like i expressed some kind of feeling- giles shoves spike backward. he stumbles into a bookshelf. giles walks slowly up to him, glaring angrily.
+spike: okay, now, i was afraid of this. misrepresentations, misunderstandings, slurs and allegations. i don't know what buffy told you, but the thing is, the slayer and i worked together, side by side, to get rid of dru. who was up to no good. and i don't mind telling you-
+scene direction: giles takes off his glasses, moves closer to spike
+giles: spike ... listen to me.
+spike: it's just ... i'm trying to explain. she might have said some things that sounded like i expressed some kind of feeling-
+scene direction: giles shoves spike backward. he stumbles into a bookshelf. giles walks slowly up to him, glaring angrily.
 scene direction: giles softly
 giles: we are not your friends. we are not your way to buffy.
 scene direction: giles spike stares at him
@@ -583,7 +591,8 @@ scene direction: they all laugh.
 scene change: cut to exterior shot of warren's house, day.
 buffy voiceover: so you have girl troubles.
 scene change: cut to inside. buffy sits on the sofa while warren paces.
-buffy: they're not talking to you, you're not gettin' dates ... you start thinking, 'hey, this isn't fair.' warren: yeah, i mean, i felt like i deserved to have someone. you know, i mean, everyone deserves to have someone.
+buffy: they're not talking to you, you're not gettin' dates ... you start thinking, 'hey, this isn't fair.'
+warren: yeah, i mean, i felt like i deserved to have someone. you know, i mean, everyone deserves to have someone.
 buffy: so naturally you turned to manufacturing.
 warren: kinda.
 buffy: and how long did it take to build yourself that little toy?
@@ -696,9 +705,10 @@ warren: no. no, this isn't a game.
 april: did i do something wrong?
 scene direction: april buffy watches, still sitting on the bench holding katrina's head
 april: i waited a long time and you never came back. a long time. i made you five sweaters.
-warren: that's great, you could go back and get them. so you could wait there, and- buffy: warren!
-scene direction: warren he looks back at her
-warren: you have to tell her. and do it right.
+warren: that's great, you could go back and get them. so you could wait there, and-
+buffy: warren!
+scene direction: buffy he looks back at her
+buffy: you have to tell her. and do it right.
 scene direction: warren looks nervously at april.
 april: what is she saying, warren? what do you need to tell me?
 scene direction: warren stammers
@@ -709,7 +719,8 @@ warren: no, i did.
 scene change: cut to image of warren from april's point of view. it's like a blue computer screen with warren's face in a circle in the middle.
 scene direction: along the top left is a list labeled 'directives.' the lists consists of 'mk warren hpy.fld', 'locate_warren.fld', and 'protect warren.fld'.
 scene direction: along the top right is another list under the heading 'locate warren' with a line connecting 'locate_warren.fld' on the left to the list on the right. the right-hand list reads - favorite_places.gfd, phne #'s.gfd, scent.gfd, questions.gfd, gps tracking.gfd, clues.gfd.
-scene direction: at the lower left are the words 'recognition module.' as warren talks, underneath the heading 'recognition module' appears the word 'warren' and then 'boyfriend.' the 'locate warren' list disappears and is replaced by a list connected to the 'mk warren hpy' directive - kissing_01.gfd, kissing_02.gfd, lstn sympthtc.gfd, gv_hm_prsnts.gfd, sex01.gfd, sex02.gfd, sex03.gfd, sex04.gfd, praise.gfd, neckrubs.gfd, fetish_01.gfd, fetish_02.gfd, fetish_03.gfd, positions01.gfd, positions02.gfd, positions03.gfd, positions04.gfd, positions05.gfd, positions06.gfd.
+scene direction: at the lower left are the words 'recognition module.'
+scene direction: as warren talks, underneath the heading 'recognition module' appears the word 'warren' and then 'boyfriend.' the 'locate warren' list disappears and is replaced by a list connected to the 'mk warren hpy' directive - kissing_01.gfd, kissing_02.gfd, lstn sympthtc.gfd, gv_hm_prsnts.gfd, sex01.gfd, sex02.gfd, sex03.gfd, sex04.gfd, praise.gfd, neckrubs.gfd, fetish_01.gfd, fetish_02.gfd, fetish_03.gfd, positions01.gfd, positions02.gfd, positions03.gfd, positions04.gfd, positions05.gfd, positions06.gfd.
 scene direction: the list of positions continues off the bottom of the screen. meanwhile, underneath 'warren' and 'boyfriend' appear other identifiers - really smart, handsome, best lover, snappy dresser, good dancer.
 scene direction: all of this appears while warren is talking.
 scene direction: warren in computer display
@@ -735,7 +746,8 @@ warren: well...
 scene direction: april grabs buffy and flings her away. she lands on some grass, gets up as april approaches.
 scene direction: april goes over to a see-saw and lifts one end of it. she brings her arm down on the middle of the board so it snaps in half. buffy looks alarmed. april swings the piece of wood at buffy, who grabs it. they grapple. buffy kicks april in the stomach and she stumbles back, grabbing the bench to steady herself. we see katrina still lying on the bench and warren in the background. buffy swings the piece of wood but april gets out of the way and it slams down on the bench, awaking katrina, who sits up. buffy swings again and hits april in the stomach, tearing away her dress and exposing machinery in her stomach.
 katrina: what's going on?
-warren: no, no, trina- shot of april's inner workings sparking.
+warren: no, no, trina-
+scene direction: shot of april's inner workings sparking.
 warren: get away.
 scene direction: katrina gets up and backs away from the fight, toward warren.
 scene direction: buffy swings the wood at april again and april grabs it, pulls it out of buffy's hands, tosses it away and punches buffy. buffy flies backward and lands on her back, turns it into a backflip and gets up. she ducks a punch and lands another one on april.
@@ -875,4 +887,4 @@ buffy: mom?
 scene direction: buffy very quietly
 buffy: mommy?
 scene direction: blackout.
-executive producer: joss whedon 
+executive producer: joss whedon.

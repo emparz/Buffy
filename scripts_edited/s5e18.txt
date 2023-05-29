@@ -27,13 +27,16 @@ scene direction: buffy they sit on the sofa
 buffy: i'm just ... starting to feel ... uneasy about stuff.
 giles: stuff?
 buffy: training. slaying. all of it. it's just ... i mean ... i can beat up the demons until the cows come home. and then i can beat up the cows ... but i'm not sure i like what it's doing to me.
-giles: but you've mastered so much. i mean, your strength and resilience alone- buffy: yeah. strength, resilience ... those are all words for hardness.
-scene direction: giles pause
-giles: i'm starting to feel like ... being the slayer is turning me into stone.
-giles: turning you into stone? buffy- buffy: just ... think about it.
-scene direction: giles gets up, paces
-giles: i was never there for riley, not like i was for angel. i was terrible to dawn.
-giles: at a time like this- buffy: no.
+giles: but you've mastered so much. i mean, your strength and resilience alone-
+buffy: yeah. strength, resilience ... those are all words for hardness.
+scene direction: buffy pause
+buffy: i'm starting to feel like ... being the slayer is turning me into stone.
+giles: turning you into stone? buffy-
+buffy: just ... think about it.
+scene direction: buffy gets up, paces
+buffy: i was never there for riley, not like i was for angel. i was terrible to dawn.
+giles: at a time like this-
+buffy: no.
 giles: you're bound to feel emotionally numb.
 buffy: before that. riley left because i was shut down. he's gone. and now my mom is gone ... and i loved her more than anything ... and ... i don't know if she knew.
 giles: oh, she knew.
@@ -87,7 +90,8 @@ warren: hey, she's, uh, great. you'll be real happy, i swear, she's got everythi
 spike: *all* the extra programming, right?
 warren: ah, the, the stuff that you wanted, the, uh, scenario responses, you know, the, uh, uh, special ... skills ...
 scene direction: warren nervous laugh
-warren: all of it. now, you said that i could leave- warren tries to go past but spike grabs his arm.
+warren: all of it. now, you said that i could leave-
+scene direction: warren tries to go past but spike grabs his arm.
 spike: wait. i'm not sure i'm a satisfied customer. she looks a little shiny to me, you know, uh...
 scene direction: close shot of the bot's closed eyes.
 scene direction: spike os
@@ -384,7 +388,8 @@ tara: everyone, before we jump all over her, people do strange things when someo
 anya: buffy's boinking spike.
 scene direction: xander nods. willow and tara look surprised.
 scene direction: willow pause
-willow: oh ... well, ta-tara's right. grief can be powerful, and we shouldn't judge- tara: what are you, kidding? she's nuts!
+willow: oh ... well, ta-tara's right. grief can be powerful, and we shouldn't judge-
+tara: what are you, kidding? she's nuts!
 willow: well, it's not healthy, we're all agreeing there.
 tara: what can we do?
 anya: sometimes in the movies when they go crazy they slap 'em.
@@ -434,7 +439,8 @@ jinx: tie his hands! glory will want him restrained.
 scene direction: spike struggling
 spike: let me go!
 jinx: careful with him. she will want the key intact.
-spike: key? who's a key? i'm not the- jinx stuffs something in spike's mouth. spike continues struggling and muffled yelling as the demons drag him out.
+spike: key? who's a key? i'm not the-
+scene direction: jinx stuffs something in spike's mouth. spike continues struggling and muffled yelling as the demons drag him out.
 scene direction: blackout.
 scene change: *** act iii ***
 scene direction: open on buffy at the fireside. throughout the ensuing scene we see the first slayer through the flames, sometimes obscuring her entirely.
@@ -459,7 +465,8 @@ scene direction: buffybot looks around
 buffybot: i waited like you said, but then i missed you. spike?
 scene direction: she walks off, not noticing xander lying on the ground behind her.
 scene change: cut to darkness, sound of someone knocking on a door.
-willow: xander, did you- willow opens the door to discover the buffy bot.
+willow: xander, did you-
+scene direction: willow opens the door to discover the buffy bot.
 buffybot: spike's gone!
 willow: bu-buffy. uh, come in. shh! it's late!
 scene direction: willow ushers the bot in, closes the door. they walk through the darkened living room.
@@ -606,7 +613,8 @@ xander: buffy, we need to talk.
 scene direction: buffy alarmed
 buffy: what's wrong? is dawn okay?
 willow: dawn's fine.
-xander: buffy, we care about you, and we're worried about you. the way you're acting, the things you're doing- anya: it's wrong.
+xander: buffy, we care about you, and we're worried about you. the way you're acting, the things you're doing-
+anya: it's wrong.
 willow: wait. this shouldn't be about blame.
 buffy: blame? there's blame now?
 willow: no, there's only love. and ... some fear.
@@ -639,10 +647,11 @@ buffy: no, *she*'s a robot. she acts just like that girlfriend-bot that warren g
 buffybot: oh, i don't think i'm a robot.
 anya: she's very well done.
 scene direction: the bot smiles at her.
-xander: spike must have had her built so he could program her t- buffy:
-scene direction: xander horrified
-xander: oh god.
-willow: yikes. imagine the things- buffy: no! no, no imagining. any of you.
+xander: spike must have had her built so he could program her t-
+scene direction: buffy horrified
+buffy: oh god.
+willow: yikes. imagine the things-
+buffy: no! no, no imagining. any of you.
 scene direction: xander raises his hand
 xander: already got the visual.
 buffybot: people. friends of mine. you're forgetting the most important thing. glory has spike and she's going to harm him.
@@ -711,13 +720,13 @@ glory: on the television?
 spike: that show ... the prize show ... where they guess what stuff cost?
 murk: the price is right?
 jinx: oh, bob barker!
-murk: we will bring you bob barker! we will bring you the limp and beaten body of bob bark- glory:
-scene direction: murk jumps up
-murk: it is not bob barker, scabby morons! the key is new to this world ...
-scene direction: murk turns back to face spike
-murk: and bob barker is as old as grit.
-scene direction: murk smiles
-murk: the vampire ... is lying to me.
+murk: we will bring you bob barker! we will bring you the limp and beaten body of bob bark-
+scene direction: glory jumps up
+glory: it is not bob barker, scabby morons! the key is new to this world ...
+scene direction: glory turns back to face spike
+glory: and bob barker is as old as grit.
+scene direction: glory smiles
+glory: the vampire ... is lying to me.
 scene direction: spike giggles weakly
 spike: yeah ... but it was fun. and guess what, bitch.
 scene direction: spike shot of his hands still trying to twist free
@@ -857,11 +866,12 @@ spike: and my robot?
 scene direction: buffy turns back
 buffy: the robot is gone. the robot was gross and obscene.
 scene direction: spike lowers his head
-spike: it wasn't supposed to- buffy: don't. that ... thing, it ... it wasn't even real.
+spike: it wasn't supposed to-
+buffy: don't. that ... thing, it ... it wasn't even real.
 scene direction: she turns and takes a few more steps toward the door. spike sits with his head hanging. buffy pauses again but doesn't turn back to him.
 buffy: what you did, for me, and dawn ... that was real.
 scene direction: spike lifts his head to look at her. she turns to look at him over her shoulder.
 buffy: i won't forget it.
 scene direction: she walks out, closing the door behind her. spike stares after her.
 scene direction: blackout.
-executive producer: joss whedon 
+executive producer: joss whedon.

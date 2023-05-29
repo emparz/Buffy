@@ -535,7 +535,6 @@ you
 gotta
 do
 is
-buffy
 i
 am
 not
@@ -1158,9 +1157,8 @@ you
 have
 a
 friend
-willow
 no
-tara
+willow
 quickly
 i'm
 oh
@@ -1177,7 +1175,6 @@ mean
 i
 have
 friends
-willow
 right
 many
 dear
@@ -2066,7 +2063,6 @@ was
 that
 me'
 anya
-xander
 softly
 me
 too
@@ -2625,7 +2621,6 @@ it's
 me
 that
 anya
-xander
 frustrated
 ohh
 she
@@ -2834,7 +2829,6 @@ out
 a
 way
 to
-anya
 no
 that's
 just
@@ -2868,7 +2862,6 @@ here
 of
 course
 i
-halfrek
 you
 can't
 exact
@@ -2880,7 +2873,7 @@ behalf
 of
 yourself
 silly
-anya
+halfrek
 laughs
 how
 long
@@ -3191,7 +3184,6 @@ love
 spending
 time
 buffy
-dawn
 realizing
 but
 i'm
@@ -3200,11 +3192,10 @@ your
 teenage
 style
 no
-buffy
 yes
 i
 am
-dawn
+buffy
 alarmed
 i'm
 the
@@ -3335,7 +3326,6 @@ had
 in
 mind
 but
-buffy
 dawn
 i
 work
@@ -3532,7 +3522,6 @@ a
 couple
 of
 months
-willow
 oh
 did
 i
@@ -3664,7 +3653,6 @@ do
 just
 let
 us
-anya
 actually
 um
 there
@@ -3731,7 +3719,6 @@ i
 feel
 no
 but
-anya
 what
 if
 it
@@ -3748,7 +3735,7 @@ was
 that
 magical
 day
-dawn
+anya
 dawn
 looking
 chastised
@@ -3895,7 +3882,6 @@ to
 me
 i'd
 anya
-buffy
 hopefully
 wish
 his
@@ -3923,7 +3909,6 @@ in
 'i
 wish
 xander'
-dawn
 right
 that
 word
@@ -4170,7 +4155,6 @@ wish
 guys
 like
 that
-buffy
 whoa
 guys
 there
@@ -4257,7 +4241,6 @@ to
 be
 interested
 in
-anya
 god
 what
 kind
@@ -4307,7 +4290,6 @@ know
 you're
 hurting
 but
-anya
 what
 xander
 doesn't
@@ -4618,7 +4600,6 @@ the
 grave
 sooner
 to
-xander
 buffy
 they
 both
@@ -4769,7 +4750,6 @@ it
 must
 be
 true
-spike
 spike
 that
 ponce
@@ -4941,7 +4921,6 @@ to
 get
 over
 spike
-buffy
 softly
 get
 out
@@ -5018,7 +4997,6 @@ help
 you
 well
 but
-halfrek
 do
 you
 want
@@ -5253,7 +5231,7 @@ could
 go
 to
 her
-halfrek
+
 anyanka
 there's
 an
@@ -5808,7 +5786,6 @@ says
 real
 for
 you
-anya
 right
 but
 getting
@@ -7332,8 +7309,8 @@ trying
 i
 can't
 find
+
 jonathan
-andrew
 reaching
 across
 warren
@@ -7342,12 +7319,10 @@ andrew's
 keyboard
 here
 dorkface
-andrew
 i'll
 get
 it
 myself
-warren
 guys
 we
 have
@@ -7436,7 +7411,6 @@ they
 ohh
 is
 that
-jonathan
 spike
 andrew
 riveted
@@ -8728,7 +8702,6 @@ you
 know
 i
 wish
-anya
 don't
 spike
 looks
@@ -8924,7 +8897,6 @@ coffee
 and
 expect
 willow
-tara
 guilty
 i
 know

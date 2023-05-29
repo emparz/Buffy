@@ -281,7 +281,6 @@ strength
 and
 resilience
 alone
-buffy
 yeah
 strength
 resilience
@@ -291,7 +290,7 @@ all
 words
 for
 hardness
-giles
+buffy
 pause
 i'm
 starting
@@ -311,12 +310,11 @@ you
 into
 stone
 buffy
-buffy
 just
 think
 about
 it
-giles
+buffy
 gets
 up
 paces
@@ -342,7 +340,6 @@ a
 time
 like
 this
-buffy
 no
 you're
 bound
@@ -3763,7 +3760,6 @@ and
 we
 shouldn't
 judge
-tara
 what
 are
 you
@@ -5813,7 +5809,6 @@ the
 things
 you're
 doing
-anya
 it's
 wrong
 wait
@@ -6040,7 +6035,6 @@ program
 her
 t
 buffy
-xander
 horrified
 oh
 god
@@ -6048,7 +6042,6 @@ yikes
 imagine
 the
 things
-buffy
 no
 no
 no
@@ -6683,7 +6676,6 @@ of
 bob
 bark
 glory
-murk
 jumps
 up
 it
@@ -6701,7 +6693,7 @@ to
 this
 world
 
-murk
+glory
 turns
 back
 to
@@ -6715,7 +6707,7 @@ as
 old
 as
 grit
-murk
+glory
 smiles
 the
 vampire
@@ -8191,7 +8183,6 @@ it
 wasn't
 supposed
 to
-buffy
 don't
 that
 thing

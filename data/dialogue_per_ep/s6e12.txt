@@ -66,7 +66,6 @@ a
 'not
 so
 completely'
-willow
 yeah
 well
 she
@@ -74,7 +73,6 @@ went
 in
 and
 then
-anya
 speaking
 of
 buffy
@@ -150,7 +148,6 @@ vulcan
 woman
 on
 enterprise
-xander
 ooh
 i
 mean
@@ -912,7 +909,6 @@ pocket
 of
 the
 company'
-buffy
 i
 prefer
 the
@@ -929,7 +925,6 @@ the
 pocket
 of
 heshouldbiteme'
-gary
 you
 really
 need
@@ -1799,16 +1794,6 @@ you
 doing
 what
 what
-camera
-angle
-moves
-closer
-as
-gary
-suddenly
-begins
-to
-scream
 feels
 like
 i
@@ -2509,7 +2494,6 @@ gonna
 take
 forever
 forever'
-amy
 yeah
 but
 uh
@@ -2879,7 +2863,6 @@ real
 human
 would
 behave'
-halfrek
 oh
 so
 he
@@ -3828,7 +3811,6 @@ again
 i
 say
 'huh'
-willow
 no
 i'm
 not
@@ -4102,7 +4084,6 @@ say
 not
 my
 fault'
-willow
 i
 can't
 spend

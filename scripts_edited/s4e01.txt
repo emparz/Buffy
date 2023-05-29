@@ -338,7 +338,8 @@ fatvamp: great! why don't you let dead eddie get your dinner.
 sunday: that's pretty much the plan.
 scene direction: sunday walks past eddie, who opens his eyes at that moment
 scene direction: giles' apartment. buffy opens the door while knocking. she enters, closes the door, and walks to the middle of the room. david bowie is playing in the background.
-buffy: giles? we see an attractive black woman in the kitchen through the opening over the counter.
+buffy: giles?
+scene direction: we see an attractive black woman in the kitchen through the opening over the counter.
 olivine: rupert, is this bleu cheese or is it just cheese that's gone blue?
 scene direction: olivine reaches the front room and sees buffy, she appears to be wearing a shirt and nothing else
 olivine: you're not giles.
@@ -509,7 +510,8 @@ scene direction: interior. some type of office with a computer and file cabinets
 buffy: kids disappearing every year. not too many, just enough so that everyone thinks they up and left.
 xander: i can't believe the vampires took your stuff. murder i expect, but petty larceny seems so... petty.
 buffy: they have to be keeping it somewhere, on campus or at least near by.
-xander: hey, how far back do the disappearances go? buffy types at the keyboard, we see she's still not using her left arm.
+xander: hey, how far back do the disappearances go?
+scene direction: buffy types at the keyboard, we see she's still not using her left arm.
 buffy: uhh... they weren't too common before '82.
 xander: match number! check this out.
 scene direction: xander carries two newspapers over to the counter, and buffy picks one up and reads it aloud

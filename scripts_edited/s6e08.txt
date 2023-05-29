@@ -104,10 +104,12 @@ xander: i'm gonna go get that ... phone you probably don't hear. high-pitched ri
 anya: i'm gonna help you with that.
 scene direction: xander and anya flee into the bedroom leaving tara and willow alone.
 tara: do you think i'm stupid? i know you used that spell on me.
-willow: tara, i'm sorry, i- tara: don't! just ... don't.
-scene direction: willow shakes head
-willow: there's nothing you can say.
-willow: tara, i didn't mean to- tara: to what? violate my mind like that? how could you, willow? how could you after what glory did to me?
+willow: tara, i'm sorry, i-
+tara: don't! just ... don't.
+scene direction: tara shakes head
+tara: there's nothing you can say.
+willow: tara, i didn't mean to-
+tara: to what? violate my mind like that? how could you, willow? how could you after what glory did to me?
 willow: violate you? i ... i-i didn't ... mean anything like that, i-i, i just wanted us not to fight any more. i love you.
 tara: if you don't wanna fight, you don't fight. you don't use magic to make a fight disappear.
 willow: but i-i just wanted to make things better. better for us.
@@ -140,13 +142,14 @@ giles: i have to.
 scene direction: reveal buffy standing beside him. she looks shocked.
 buffy: uh-huh.
 scene direction: she sits on a pile of exercise mats, frowning.
-giles: you have to be strong. i'm, i'm trying to- buffy:
-scene direction: giles jumps up
-giles: trying to, to what?
-scene direction: giles angrily
-giles: desert me? abandon me? leave me all alone when i really need somebody?
+giles: you have to be strong. i'm, i'm trying to-
+scene direction: buffy jumps up
+buffy: trying to, to what?
+scene direction: buffy angrily
+buffy: desert me? abandon me? leave me all alone when i really need somebody?
 scene direction: giles quietly
-giles: i don't want to leave- buffy: so don't. please don't.
+giles: i don't want to leave-
+buffy: so don't. please don't.
 scene direction: she goes to sit beside him.
 buffy: i can't do this without you.
 giles: you can. that's why i'm going. as long as i stay you'll always turn to me if there's something comes up that you feel that you can't handle, and i'll step in because, because ...
@@ -159,7 +162,8 @@ giles: i've taught you all i can about being a slayer, and your mother taught yo
 scene direction: giles buffy looks away, pouting
 giles: you ... you're not gonna trust that until you're forced to stand alone.
 buffy: but why now? now that you know where i've been, what i'm going through?
-giles: now more than ever. the temptation to give up is gonna be overwhelming, and i can't let- buffy: so i won't! no giving up. you can be here, and i can still be strong.
+giles: now more than ever. the temptation to give up is gonna be overwhelming, and i can't let-
+buffy: so i won't! no giving up. you can be here, and i can still be strong.
 scene direction: beat. she stares at him anxiously.
 giles: buffy, i've thought this over ... and over. i believe it's the right thing to do.
 buffy: you're wrong.
@@ -198,9 +202,11 @@ xander: not a problem, the cold only makes me stronger and more macho-like.
 scene direction: they come over to join the others. giles stands.
 giles: i'm glad you're here, um...
 scene direction: the others look expectantly at him. buffy just glares.
-giles: i have something i really have to tell you all. um ... i know it feels like we've been through this before- buffy: why don't you just jump to the chase?
-scene direction: giles gets down from stairs
-giles: tell them that you're- the door opens again and spike rushes in, sizzling slightly from the sunlight. everyone turns to look.
+giles: i have something i really have to tell you all. um ... i know it feels like we've been through this before-
+buffy: why don't you just jump to the chase?
+scene direction: buffy gets down from stairs
+buffy: tell them that you're-
+scene direction: the door opens again and spike rushes in, sizzling slightly from the sunlight. everyone turns to look.
 scene direction: spike is wearing an old-fashioned brown suit with a bow-tie, and a padded hat with earflaps.
 giles: spike?
 anya: holy moly.
@@ -230,7 +236,8 @@ giles: and i plan to stay ... indefinitely.
 scene direction: giles sits beside anya. everyone looks surprised.
 xander: now? not now, i mean, not after ... everything.
 giles: yes, now.
-anya: for real this time? 'cause honest to pete, a young shopkeeper's heart can only take so much ... i mean, not that i want you to go- buffy: i can't do this.
+anya: for real this time? 'cause honest to pete, a young shopkeeper's heart can only take so much ... i mean, not that i want you to go-
+buffy: i can't do this.
 scene direction: buffy walks quickly past them, up the stairs, toward the door.
 buffy: i just, i don't think...
 willow: buffy, listen.
@@ -239,7 +246,8 @@ willow: i know this must be awful for you, and i, i'm sorry, i ... i'm so sorry 
 scene direction: buffy nods impatiently.
 buffy: sorry. everybody's sorry. i know that you guys are just trying to help ... but it's just, it's too much. and, and i, i can't take it any more.
 scene direction: buffy tearful
-buffy: if you guys ... if you guys understood how it felt ... how it feels. it's like i'm dying, it- suddenly she falls to the floor, unconscious.
+buffy: if you guys ... if you guys understood how it felt ... how it feels. it's like i'm dying, it-
+scene direction: suddenly she falls to the floor, unconscious.
 scene direction: the others all fall down too. giles and anya slump over together in their seats. willow and xander fall to the floor in a heap. spike falls over onto some books on the counter.
 scene change: cut to the living room. zoom in on the smoking pile of ashes that used to be the entire bagful of lethe's bramble.
 scene direction: blackout.
@@ -277,7 +285,8 @@ willow: you don't know me?
 xander: not a clue.
 willow: but you were just all like,
 scene direction: willow imitating him
-willow: 'oh, hey.' xander: yeah, 'cause i thought you were a girl and i'd remember, but...
+willow: 'oh, hey.'
+xander: yeah, 'cause i thought you were a girl and i'd remember, but...
 scene direction: willow grabs her breasts
 willow: well, i am a girl! i'm ... not sure ... who i am exactly, but...
 scene direction: xander yelling
@@ -309,13 +318,13 @@ scene direction: willow revelation
 willow: oh!
 scene direction: tara gets up
 tara: this is a magic shop. a-a-a real magic shop.
-buffy: well, maybe that's it. maybe something magic happened- giles:
-scene direction: buffy scoffs
-buffy: magic! magic's all balderdash and chicanery. i'm afraid we don't know a bloody thing.
-scene direction: buffy everyone looking at him
-buffy: except i seem to be british, don't i? uh, and a man. with ... glasses.
-scene direction: buffy removes glasses
-buffy: well, that narrows it down considerably.
+buffy: well, maybe that's it. maybe something magic happened-
+scene direction: giles scoffs
+giles: magic! magic's all balderdash and chicanery. i'm afraid we don't know a bloody thing.
+scene direction: giles everyone looking at him
+giles: except i seem to be british, don't i? uh, and a man. with ... glasses.
+scene direction: giles removes glasses
+giles: well, that narrows it down considerably.
 scene direction: dawn tearfully to buffy
 dawn: i don't like this.
 buffy: it's okay, don't worry. we'll take care of each other.
@@ -421,9 +430,9 @@ scene direction: dawn smiling
 dawn: you want me to name you?
 buffy: oh, that's sweet, but i think i can name myself.
 scene direction: buffy thinks
-buffy: i'll name me ... joan. [transcriber's note: great choice!] dawn:
-scene direction: buffy makes a face
-buffy: ugh!
+buffy: i'll name me ... joan. [transcriber's note: great choice!]
+scene direction: dawn makes a face
+dawn: ugh!
 buffy: what? did you just 'ugh' my name?
 dawn: no! i just ... i mean, it's so blah. joan?
 buffy: i like it. i feel like a joan.
@@ -436,7 +445,8 @@ scene direction: dawn and buffy in unison.
 dawn: boy, you're a pain in the...
 buffy: boy, you're bossy!
 scene direction: they look at each other in surprise.
-dawn: do you think we're- buffy: sisters?
+dawn: do you think we're-
+buffy: sisters?
 scene direction: they smile and hug each other.
 scene direction: spike to giles
 spike: you never showed me affection like that!
@@ -444,7 +454,8 @@ scene direction: giles looks confused.
 spike: ...i'd wager.
 buffy: well, we need to figure out what's going on. we need to get help.
 spike: looks like joan fancies herself the boss.
-buffy: we have a kid here- dawn: a teenager.
+buffy: we have a kid here-
+dawn: a teenager.
 buffy: a teenager. and we have no idea what's wrong with us. i think a hospital's our best bet.
 scene direction: anya is fiddling with giles's clothing.
 giles: uh, yes, let's, um, let's head out.
@@ -486,9 +497,10 @@ scene direction: vamp o.s.
 vamp: slayer, come out and play!
 tara: 'slay her,' that's just what they said before.
 scene direction: tara horrified
-tara: th-th-they're gonna use the spikes to- buffy: to slay someone? a female someone!
-scene direction: tara giles looking horrified
-tara: who do those jerks think they are?
+tara: th-th-they're gonna use the spikes to-
+buffy: to slay someone? a female someone!
+scene direction: buffy giles looking horrified
+buffy: who do those jerks think they are?
 anya: bloodsuckers. they kill by sucking blood. take it easy, joan.
 scene direction: willow o.s.
 willow: you guys!
@@ -507,7 +519,8 @@ vamp 3: you owe us!
 spike: fine! take your damn spikes!
 scene direction: spike pulls the stakes from his jacket and tosses them at the vamp. they clatter to the floor. spike tries to go past but the vampire stops him.
 vamp 3: don't be stupid.
-buffy: get your hands off me, you son of a- we see buffy struggling with the other vamp. he puts his hand over her mouth.
+buffy: get your hands off me, you son of a-
+scene direction: we see buffy struggling with the other vamp. he puts his hand over her mouth.
 vamp 3: i said you owe us.
 spike: who, me?
 vamp 3: you've got the boss's kittens.
@@ -578,7 +591,8 @@ dawn: thanks.
 scene direction: xander and tara help willow climb down next. she reaches the bottom with her hands on tara's shoulders. they look at each other for a moment, then separate.
 scene direction: they all begin walking slowly through the sewer.
 scene direction: dawn sings
-dawn: the ants go marching one by one, hurrah, hurrah. the ants go marching one by- dawn cuts off with a gasp as a vampire appears in front of them. they all scream, turn and run back the way they came. the vampire pursues them.
+dawn: the ants go marching one by one, hurrah, hurrah. the ants go marching one by-
+scene direction: dawn cuts off with a gasp as a vampire appears in front of them. they all scream, turn and run back the way they came. the vampire pursues them.
 scene change: cut to the magic shop. giles blows dust off a book while anya is in background looking at another book. giles gets dust on his hands, digs in his pockets looking for something to wipe them with.
 anya: this must be nice for us.
 giles: sorry?
@@ -606,9 +620,9 @@ anya: true, but my intuition says that you're not so much the magic guy and more
 scene direction: anya giles frowns
 anya: okay, here we go.
 scene direction: anya sets the book on the table and opens it to a random page.
-giles: but you don't even know- anya:
-scene direction: giles reads from book
-giles: bara bara himble gemination.
+giles: but you don't even know-
+scene direction: anya reads from book
+anya: bara bara himble gemination.
 scene direction: a bunny suddenly appears on the table in front of anya. she screams and grabs giles.
 scene change: cut to spike running down the street, still in game face.
 spike: wait up!
@@ -616,7 +630,8 @@ scene direction: he runs up to buffy, grabs her arm. she turns, grabs his arm wi
 spike: bloody hell, what are you doing?
 scene direction: buffy staring at him, realizing
 buffy: you don't know who you are.
-spike: right, none of us do, and we're being chased by- buffy: you're a vampire!
+spike: right, none of us do, and we're being chased by-
+buffy: you're a vampire!
 scene direction: spike shocked
 spike: how can you say - i, me, a vampire? no.
 buffy: check the lumpies. and the teeth.
@@ -644,7 +659,8 @@ anya: no!
 scene direction: reveal anya standing on a chair holding the book close to her face. we see that there are bunnies everywhere - on the floor, the counter, the bookshelves.
 anya: this book made the little fluffers, and this book's gonna send 'em back. i've got it this time, okay.
 scene direction: anya reads
-anya: 'himble abri, abri voyon.' another bunny appears by giles's feet.
+anya: 'himble abri, abri voyon.'
+scene direction: another bunny appears by giles's feet.
 giles: yes, dear.
 scene direction: anya looks alarmed.
 scene direction: cut back to the street. spike paces back and forth while buffy stands rolling her eyes.
@@ -758,12 +774,14 @@ scene direction: willow and tara pause before actually kissing. willow gets off 
 scene direction: willow looks over at the crystal. shot of the broken pieces of crystal lying on the ground.
 scene direction: cut back to the magic shop. giles and anya still kissing. suddenly they stop and their eyes widen.
 scene direction: cut back to the street. buffy and spike still fighting vampires. spike holds a vamp by the arms as buffy kicks him, then punches him and he falls to the ground.
-buffy: don't mess with joan the v- buffy suddenly pauses, stands still with a small frown as her memories return.
+buffy: don't mess with joan the v-
+scene direction: buffy suddenly pauses, stands still with a small frown as her memories return.
 scene direction: a hand appears and punches her in the face. she goes down.
 scene direction: blackout.
 scene change: *** act iv ***
 scene direction: open on the same scene. buffy lies on the ground panting. a vampire stands over her. he kicks her in the stomach, twice. she gasps in pain.
-spike: buffy! buff- another vampire attacks spike. spike punches him.
+spike: buffy! buff-
+scene direction: another vampire attacks spike. spike punches him.
 scene change: cut to the sewer. tara stands up, still giving willow a look of disgust. willow stays sitting, looking up at her. slowly willow looks down, feels her belt pouch and finds it empty.
 scene direction: dawn goes to stand by xander, both watching willow. they look down at the broken pieces of crystal. all stare at willow.
 scene direction: suddenly xander gives a little laugh. everyone looks at him.
@@ -802,31 +820,67 @@ spike: you all right?
 scene direction: buffy gives him an angry look, gets to her feet without taking his hand. she scowls at him, walks past him and away.
 scene direction: spike watches her go, sighs.
 scene change: cut to the bronze. michelle branch is onstage singing her song "goodbye to you".
-scene direction: of all the things i believed in i just wanna get it over with tears warm behind my eyes, but i do not cry counting the days that pass me by buffy sits at the bar, staring vacantly in front of her.
-scene direction: i've been searchin' deep down in my soul words that i'm hearin' are starting to get old buffy looks on the verge of tears again. cut back to the band onstage.
-scene direction: feels like i'm starting all over again the last three years were just pretend and i said...
+scene direction: of all the things i believed in
+scene direction: i just wanna get it over with
+scene direction: tears warm behind my eyes, but i do not cry
+scene direction: counting the days that pass me by
+scene direction: buffy sits at the bar, staring vacantly in front of her.
+scene direction: i've been searchin' deep down in my soul
+scene direction: words that i'm hearin' are starting to get old
+scene direction: buffy looks on the verge of tears again. cut back to the band onstage.
+scene direction: feels like i'm starting all over again
+scene direction: the last three years were just pretend
+scene direction: and i said...
 scene change: cut to the summers house. tara takes a pile of clothing from the cabinet, turns, looks around.
-scene direction: goodbye to you goodbye to everything that i knew tara walks over to the bed, puts the clothes in a cardboard box sitting there. she glances toward the door, starts to cry.
+scene direction: goodbye to you
+scene direction: goodbye to everything
+scene direction: that i knew
+scene direction: tara walks over to the bed, puts the clothes in a cardboard box sitting there. she glances toward the door, starts to cry.
 scene change: cut to a long shot of willow sitting on the floor in buffy's room with her knees pulled up to her chest.
-scene change: you were the one i loved the one thing that i tried to hold on to cut to a closer shot of willow, then even closer. she stares ahead sadly.
+scene direction: you were the one i loved
+scene direction: the one thing that i tried to hold on to
+scene change: cut to a closer shot of willow, then even closer. she stares ahead sadly.
 scene direction: cut back to tara folding and packing her clothes. guitar music continues.
 scene direction: cut back to the bronze. close shot on the singer as she starts the second verse.
-scene change: i used to get lost in your eyes and it seems that i can't live a day without you fade to giles sitting on the plane surrounded by other passengers. he stares off in front of him.
-scene direction: closin' my eyes, you chase my thoughts away to a place where i am blinded by the light but it's not right goodbye to you cut back to willow still sitting, crying.
-scene direction: goodbye to everything that i knew you were the one i loved the one thing that i tried...
+scene direction: i used to get lost in your eyes
+scene direction: and it seems that i can't live a day without you
+scene change: fade to giles sitting on the plane surrounded by other passengers. he stares off in front of him.
+scene direction: closin' my eyes, you chase my thoughts away
+scene direction: to a place where i am blinded by the light
+scene direction: but it's not right
+scene direction: goodbye to you
+scene direction: cut back to willow still sitting, crying.
+scene direction: goodbye to everything
+scene direction: that i knew
+scene direction: you were the one i loved
+scene direction: the one thing that i tried...
 scene direction: cut back to buffy in the bronze.
-scene direction: ...to hold on to spike walks up beside buffy. she looks over at him. he looks at her questioningly.
+scene direction: ...to hold on to
+scene direction: spike walks up beside buffy. she looks over at him. he looks at her questioningly.
 scene direction: buffy turns her face away from spike, breathes deeply as if trying to hold back tears.
 scene direction: spike looks frustrated, walks away. fade back to the band onstage.
-scene direction: and it hurts to want everything and nothing at the same time i want what's yours and i want what's mine the song pauses for a moment, then resumes.
-scene change: i want you but i'm not giving in this time goodbye to you cut to the summers house. tara walking down the stairs holding a box. the front door of the house is open. she walks out onto the porch.
-scene direction: goodbye to everything that i knew dawn is on the porch leaning against a post. tara puts her box on top of another, reaches out to dawn. but before she can touch her, dawn turns and runs back inside.
-scene direction: you were the one i loved the one thing that i tried to hold on to tara watches dawn go, looks sad.
+scene direction: and it hurts to want
+scene direction: everything and nothing at the same time
+scene direction: i want what's yours and i
+scene direction: want what's mine
+scene direction: the song pauses for a moment, then resumes.
+scene direction: i want you
+scene direction: but i'm not giving in this time
+scene direction: goodbye to you
+scene change: cut to the summers house. tara walking down the stairs holding a box. the front door of the house is open. she walks out onto the porch.
+scene direction: goodbye to everything that i knew
+scene direction: dawn is on the porch leaning against a post. tara puts her box on top of another, reaches out to dawn. but before she can touch her, dawn turns and runs back inside.
+scene direction: you were the one i loved
+scene direction: the one thing that i tried to hold on to
+scene direction: tara watches dawn go, looks sad.
 scene change: cut to willow still sitting and crying.
-scene change: the one thing that i tried to hold on to cut to giles on the plane.
+scene direction: the one thing that i tried to hold on to
+scene change: cut to giles on the plane.
 scene change: cut to the bronze. pan across various couples walking around, holding hands, talking, etc.
-scene direction: goodbye to you pan around the stairs and we discover spike and buffy standing underneath the stairs kissing.
-scene direction: goodbye to everything that i knew buffy pulls back for a moment, then resumes kissing spike.
+scene direction: goodbye to you
+scene direction: pan around the stairs and we discover spike and buffy standing underneath the stairs kissing.
+scene direction: goodbye to everything that i knew
+scene direction: buffy pulls back for a moment, then resumes kissing spike.
 scene direction: you were the one i loved...
 scene direction: blackout.
-executive producers: joss whedon and marti noxon. the en 
+executive producers: joss whedon and marti noxon. the end

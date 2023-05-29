@@ -413,7 +413,8 @@ parker: it's only been a few days. you need to talk to me about something.
 buffy: is everything okay?
 parker: sure it is.
 buffy: it is?
-parker: sure. buffy; oh, um, so maybe do you wanna do something.
+parker: sure.
+scene direction: buffy; oh, um, so maybe do you wanna do something.
 parker: sure, we could do that absolutely.
 buffy: so what about tonight.
 parker: oh... uh... i think i'm supposed to get together with some people later ...

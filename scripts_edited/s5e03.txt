@@ -46,9 +46,8 @@ buffy: it would drive you crazy if we were watching an army movie and they were 
 scene direction: more shouting and banging from upstairs. xander and anya shift uncomfortably. riley coughs.
 buffy: and anyway, i mean, you know, you can't blame me for being critical. willow's the same way when we watch a, a movie about witches, right xander?
 scene direction: xander distracted by the noise from upstairs
-xander: what? oh yeah, she's all like, "what's that, a cauldron? who uses a cauldron any more?" cut to a dark lair filled with steam or smoke. cheesy dramatic music. a demon is tending to a huge cauldron full of bubbling yellow liquid. steam rises from it. the demon pulls the hood of his cloak back, so we can see he has brownish skin with cracks through which yellowish ligh
-scene direction: xander ?
-xander: shows. his eyes are sunken and red, and his voice is very deep.
+xander: what? oh yeah, she's all like, "what's that, a cauldron? who uses a cauldron any more?"
+scene change: cut to a dark lair filled with steam or smoke. cheesy dramatic music. a demon is tending to a huge cauldron full of bubbling yellow liquid. steam rises from it. the demon pulls the hood of his cloak back, so we can see he has brownish skin with cracks through which yellowish light(?) shows. his eyes are sunken and red, and his voice is very deep.
 toth: the last step in thy forging is my pain ... the price with which i purchase ... the death of the slayer.
 scene direction: he has some kind of rod or stick in his hand. he plunges it into the cauldron, along with his hand. he screams in pain.
 scene direction: wolf howl. opening credits.
@@ -57,13 +56,15 @@ scene direction: fade in on a nice modern apartment building surrounded by bushe
 scene change: cut to interior hallway.
 willow: if you get the apartment, this'll be your hallway.
 scene direction: we see willow, anya, xander, buffy, and riley walking down the hall. xander wears a yellow t-shirt with a brightly flowered hawaiian shirt over it. anya still has her arm in the sling.
-willow: we'll walk down this hall, and we'll say, "la la, i'm on my way to xander's." buffy: just warning you, xander, i probably won't be doing that.
+willow: we'll walk down this hall, and we'll say, "la la, i'm on my way to xander's."
+buffy: just warning you, xander, i probably won't be doing that.
 riley: really? i will.
 xander: hey, we're just lookin'. rent's way high, so don't get your hopes all carbonated.
 anya: but you have references.
 xander: no, i have albert, which is me doing an important voice.
 scene direction: xander does important voice
-xander: 'xander harris? an excellent tenant. and a very nice-looking fellow.' anya opens a door and they walk into the apartment. it's large and spacious.
+xander: 'xander harris? an excellent tenant. and a very nice-looking fellow.'
+scene direction: anya opens a door and they walk into the apartment. it's large and spacious.
 willow: whoa! big!
 buffy: it's nice. and not subterranean. it's very, uh, above-terranean.
 scene direction: xander looks less than thrilled.
@@ -150,7 +151,8 @@ giles: rabbit's foot, no, wait...
 scene direction: giles tosses it aside and looks in the box for something else. toth brushes the box out of giles' hands. giles gasps and holds up a wooden statue about a foot and a half high.
 toth: that is a fertility god.
 scene direction: toth giles looks at it in dismay
-toth: feeble man, you are not going to distract me- giles hits him in the head with the statue. he reels backward. giles hits him with the statue a few more times, then toth shoves giles, and he falls into a pile of boxes.
+toth: feeble man, you are not going to distract me-
+scene direction: giles hits him in the head with the statue. he reels backward. giles hits him with the statue a few more times, then toth shoves giles, and he falls into a pile of boxes.
 scene direction: toth pointing the stick at giles
 toth: you are not the slayer.
 scene direction: toth giles rolls over and looks up at him
@@ -481,7 +483,8 @@ scene direction: buffy nods.
 buffy: go be with her. i, i mean, if you were out there looking for the double too ...
 scene direction: buffy looks at riley, then back at suavexander
 buffy: let's just say that i wouldn't wanna run into you and kill the wrong one.
-suavexander: good thinking. when you kill this thing, you better make sure you got the one's who's actually- cut back to willow's.
+suavexander: good thinking. when you kill this thing, you better make sure you got the one's who's actually-
+scene direction: cut back to willow's.
 scruffyxander: a demon. a demon has taken my life from me, and he's living it better than i do.
 scene direction: he's now standing and has his hawaiian shirt in his hands. he gives it a shake to remove the water. willow is still sitting on the bed, and winces as the water sprays her.
 willow: well, we're working on it. there has to be a way to get to buffy to ... un-hypnotize her. i'll find a spell to snap her out of it.
@@ -610,9 +613,11 @@ willow: he knew stuff! he, he did the snoopy dance.
 scene direction: willow another shot of giles reading
 willow: buffy, it was xander, and he needs us.
 giles: oh, dear lord.
-riley: buffy, our xander, did he seem a little- buffy: he seemed kind of forceful and confident.
+riley: buffy, our xander, did he seem a little-
+buffy: he seemed kind of forceful and confident.
 willow: that's not xander.
-giles: i said, "oh, dear lord." buffy: you always say that.
+giles: i said, "oh, dear lord."
+buffy: you always say that.
 giles: well, it's always important!
 scene direction: giles coming forward to join them, carrying book
 giles: neither xander is a demon.
@@ -649,7 +654,8 @@ scene change: cut to exterior shot of a car zooming down the streets. cut to int
 buffy: can't this thing go any faster? ultimate driving machine, my ass.
 riley: we're pushing 70.
 scene direction: pause. buffy looks meditative.
-buffy: riley, do you wish- riley: no.
+buffy: riley, do you wish-
+riley: no.
 buffy: no? you don't even know what i was gonna say.
 riley: yes, i do. you wanted to know if i wished you got hit by the ferula-gemina, got split in two.
 buffy: well, you have been kind of rankly about the whole slayer gig. instead of having slayer buffy, you could have buffy buffy.
@@ -862,4 +868,4 @@ riley: uh, you can help me pack this.
 buffy: sure.
 scene direction: buffy goes over to riley and kisses him
 buffy: sure.
-scene direction: they both turn to the packing as xander watches. blackout 
+scene direction: they both turn to the packing as xander watches. blackout.

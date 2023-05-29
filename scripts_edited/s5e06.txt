@@ -74,9 +74,10 @@ giles: yes.
 scene direction: giles stands, begins to pace
 giles: we have to find out who this woman is, and what she needs dawn for.
 scene direction: buffy ponders this.
-giles: i mean, if she comes after you- buffy: she'll come.
-scene direction: giles looks toward the stairs
-giles: she'll come for us.
+giles: i mean, if she comes after you-
+buffy: she'll come.
+scene direction: buffy looks toward the stairs
+buffy: she'll come for us.
 scene change: cut to a pile of rubble that suddenly explodes upward as glory throws it off of her. she rises in the middle of the destroyed building, still wearing her red dress. she looks around angrily.
 glory: okay. now i'm upset.
 scene direction: wolf howl. opening credits.
@@ -121,7 +122,8 @@ buffy: just figured i'd ... save a little cash for this semester, that's all.
 willow: i think that's smart.
 xander: still, it's hard to give up. you've got the two entrances
 scene direction: xander pointing to the two doors to the room
-xander: lot of opportunity for bawdy french farce, and everybody loves bawdy- buffy: where's dawn?
+xander: lot of opportunity for bawdy french farce, and everybody loves bawdy-
+buffy: where's dawn?
 riley: i think she just walked out.
 scene direction: riley points out one of the doors
 scene direction: buffy hurrying forward
@@ -136,9 +138,10 @@ scene direction: buffy and dawn fold a sheet.
 buffy: nothing like gettin' your ass kicked to ... make your ass hurt.
 dawn: you'll totally take her next time.
 xander: 'cause you'll have backup, baby. she's messin' with all of us.
-giles: yes, uh, we'll, we'll, uh, find her weaknesses, and then, uh- tara: yeah. you learn her source,
-scene direction: giles grins
-giles: and, uh, we'll introduce her to her insect reflection.
+giles: yes, uh, we'll, we'll, uh, find her weaknesses, and then, uh-
+tara: yeah. you learn her source,
+scene direction: tara grins
+tara: and, uh, we'll introduce her to her insect reflection.
 scene direction: everyone looks at her in confusion. tara stops smiling.
 tara: um ... that, that was funny if you, um, studied taglarin mythic rites...
 scene direction: tara softly
@@ -248,7 +251,8 @@ xander: i don't necessarily get her ... but she's really nice.
 buffy: yeah. there's ... just that thing.
 scene direction: xander agreeing
 xander: that thing.
-buffy: that ... thing of not understanding- xander: half of what she says?
+buffy: that ... thing of not understanding-
+xander: half of what she says?
 buffy: as for example. but she's super nice.
 xander: you betcha.
 scene direction: they continue looking at books.
@@ -361,9 +365,9 @@ tara: yeah.
 scene direction: shot of buffy and xander exchanging a look.
 scene direction: willow os
 willow: they seem nice.
-tara: you know, they-they're okay. families are always- willow:
-scene direction: tara understandingly
-tara: they make you crazy.
+tara: you know, they-they're okay. families are always-
+scene direction: willow understandingly
+willow: they make you crazy.
 tara: usually. wanna get into research mode?
 willow: sure.
 scene direction: they move off.
@@ -386,9 +390,10 @@ dawn: i'm going to melinda's for dinner.
 buffy: since when?
 dawn: now-ish.
 buffy: you can't. i-it's not safe for you to walk there.
-dawn: it's just across the street. what is the big deal, i'm just gonna go- buffy: no. it's family night.
-scene direction: dawn glances at riley
-dawn: and besides, melinda's a bad influence. i don't like you hanging out with someone that ... short.
+dawn: it's just across the street. what is the big deal, i'm just gonna go-
+buffy: no. it's family night.
+scene direction: buffy glances at riley
+buffy: and besides, melinda's a bad influence. i don't like you hanging out with someone that ... short.
 scene direction: dawn annoyed
 dawn: i am so glad you're moving back into the house. this is the source of my gladness.
 scene direction: she stalks off. buffy sighs.
@@ -405,7 +410,8 @@ buffy: what do you mean?
 scene direction: riley sits next to her, shakes his head
 riley: you tell me.
 buffy: we all have to be careful. this ... demon chick is ... exciting and new. i don't know what i'm up against.
-riley: if we're in trouble here i could contact graham, maybe get the government boys on it- buffy: no! no, i-i-i don't want them anywhere near this.
+riley: if we're in trouble here i could contact graham, maybe get the government boys on it-
+buffy: no! no, i-i-i don't want them anywhere near this.
 scene direction: riley annoyed
 riley: just a suggestion.
 buffy: look, the fewer people that are involved, the safer i will feel.
@@ -419,9 +425,10 @@ scene direction: riley walking toward front door
 riley: i'll call you later.
 buffy: riley!
 scene direction: buffy he stops walking
-buffy: i *want* you to help. i'm not- riley: yeah. know you got a lot on your mind. you decide you wanna let me in on any of it,
-scene direction: buffy opens door
-buffy: let me know. i'll come running.
+buffy: i *want* you to help. i'm not-
+riley: yeah. know you got a lot on your mind. you decide you wanna let me in on any of it,
+scene direction: riley opens door
+riley: let me know. i'll come running.
 scene direction: he exits. buffy looks troubled.
 scene change: cut to exterior sunnydale dorm, day.
 scene change: cut to inside. tara enters her room, stops when she sees her dad standing there. he has his arms folded, staring at her roomful of witchy stuff.
@@ -441,9 +448,10 @@ mr. maclay: of course we came. we haven't heard from you in months. your birthda
 scene direction: tara upset
 tara: i don't think it's ...
 scene direction: tara stammers
-tara: it, it won't mean that- mr. maclay: you're turning twenty.
-scene direction: tara walks toward her
-tara: it's the same age your mother was when she... do your friends even know?
+tara: it, it won't mean that-
+mr. maclay: you're turning twenty.
+scene direction: mr. maclay walks toward her
+mr. maclay: it's the same age your mother was when she... do your friends even know?
 scene direction: tara softly
 tara: y-yes.
 mr. maclay: are you lying to me?
@@ -497,9 +505,10 @@ willow: no, no, you have to come. this demon chick is supposed to be really powe
 tara: that didn't work.
 willow: yeah ... but we only tried it once, and i-i think i got some ingredients wrong.
 tara: well, i-i'm tired. maybe we can do it tomorrow?
-willow: you sure you don't wanna- tara: look, my family's here, okay, i can't just-
-scene direction: willow pauses
-willow: not everything is about your friends and stuff.
+willow: you sure you don't wanna-
+tara: look, my family's here, okay, i can't just-
+scene direction: tara pauses
+tara: not everything is about your friends and stuff.
 scene direction: willow makes a face
 willow: sorry.
 scene direction: willow backs away from tara, starts walking to the door
@@ -526,7 +535,8 @@ scene direction: buffy os
 buffy: i let you come, now sit down and look studious.
 scene direction: dawn looks annoyed, walks toward the table and out of the shot. the camera pans past the bookshelves and around a corner.
 scene direction: giles os
-giles: well, first of all, i want to talk to you about ... safety. um, this creature could be- we see tara hiding around the corner, listening.
+giles: well, first of all, i want to talk to you about ... safety. um, this creature could be-
+scene direction: we see tara hiding around the corner, listening.
 scene direction: buffy os, fading
 buffy: will be.
 scene direction: giles os, fading
@@ -534,7 +544,8 @@ giles: will be coming after buffy, and possibly all of us.
 scene direction: tara whispering
 tara: blind cadria, desolate queen, work my will upon them all. your curse upon them, my obeisance to you.
 scene direction: she holds up her hand and blows on it. red dust (?) flows out of her hand. cut back to the other room, where giles is sitting down with the others around the table. we see the tendril of red floating into the room from tara's hiding place, toward the table.
-giles: now, i may have a lead on this monk that buffy spoke of. there, there are a few orders that i-i've read up on- the red dust turns yellow and floats into the middle of the table, then sends out shoots, one for each willow, buffy, dawn, giles, anya and xander. it hits them in the eyes and they all simultaneously flinch back. a pause, then giles continues, looking confused.
+giles: now, i may have a lead on this monk that buffy spoke of. there, there are a few orders that i-i've read up on-
+scene direction: the red dust turns yellow and floats into the middle of the table, then sends out shoots, one for each willow, buffy, dawn, giles, anya and xander. it hits them in the eyes and they all simultaneously flinch back. a pause, then giles continues, looking confused.
 giles: i-i'm sorry, where was i?
 buffy: the monk.
 giles: yes, um, i'd like us all to start looking at these orders, i-it's possible whichever one this monk belonged to was wiped out entirely...
@@ -555,9 +566,10 @@ riley: i come for the ambiance.
 scene direction: riley picks up glass, looks around
 riley: what can i say? this place just reeks of class.
 scene direction: riley drinks the shot
-bartender: yeah, well, if willy was here- riley: well, willy's not here.
-scene direction: bartender puts glass down
-bartender: hit me.
+bartender: yeah, well, if willy was here-
+riley: well, willy's not here.
+scene direction: riley puts glass down
+riley: hit me.
 scene direction: bartender scowls and pours.
 female voice: drinking alone?
 scene direction: a woman with long dark hair and a low-cut blouse (sandy) walks up next to riley.
@@ -617,7 +629,8 @@ spike: if the slayer's gonna die ... i'm gonna watch.
 scene direction: spike exits
 scene change: cut to tara walking across campus. it's dark. she looks over her shoulder several times. then she sees cousin beth approaching. beth looks surprised and pleased.
 beth: tara.
-tara: beth, what are you- beth: i-i was looking for you.
+tara: beth, what are you-
+beth: i-i was looking for you.
 tara: i'm sorry we didn't get to have dinner.
 beth: i just ... wanted to see if everything was okay.
 scene direction: beth tara smiles
@@ -875,9 +888,9 @@ scene direction: shot of buffy and dawn in identical poses side-by-side, with th
 giles: mr. maclay, i would say your business here is finished.
 mr. maclay: tara.
 scene direction: mr. maclay tara looks at him
-mr. maclay: for eighteen years your family has taken care of you and supported you. if you wanna turn your back- tara:
-scene direction: mr. maclay walking forward
-mr. maclay: dad ... just go.
+mr. maclay: for eighteen years your family has taken care of you and supported you. if you wanna turn your back-
+scene direction: tara walking forward
+tara: dad ... just go.
 scene direction: mr. maclay scowls, turns and heads for the door. donny follows. mr. maclay pauses at the door.
 scene direction: mr. maclay disgusted
 mr. maclay: magic.
@@ -927,4 +940,4 @@ singer: i can't take my eyes off you... i can't take my eyes off you...
 scene direction: (this line of song repeats several more times as they continue slowly moving to the music and the camera moves around them. we see them slowly rising upward.)
 scene direction: long shot of willow and tara, surrounded by other couples who are also dancing. but willow and tara are floating several feet above the floor.
 scene direction: blackout.
-executive producer: joss whedon 
+executive producer: joss whedon.

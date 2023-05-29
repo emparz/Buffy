@@ -82,7 +82,8 @@ scene change: cut to high school classroom, next day. pan across bored students.
 teacher: ...if we can come up with things jim lost during his years in shanghai, and things he gained.
 scene direction: teacher shot of dawn doodling
 student: excuse me.
-teacher: who wants to- a student comes in and gives the teacher a piece of paper.
+teacher: who wants to-
+scene direction: a student comes in and gives the teacher a piece of paper.
 teacher: dawn.
 scene direction: dawn looks up, alarmed.
 teacher: they need you in the guidance office.
@@ -142,7 +143,11 @@ xander: ahh, don't worry, it's not a setup.
 scene direction: anya grinning
 anya: right. no. just an attractive single man, with whom we hope you find much in common.
 scene direction: anya buffy looking annoyed
-anya: and if you happen to form- xander: ahn- anya: -a romantic relationship leading to babies- xander: ahn- anya: -and many double dates with us so we have someone else to talk to, yay!
+anya: and if you happen to form-
+xander: ahn-
+anya: -a romantic relationship leading to babies-
+xander: ahn-
+anya: -and many double dates with us so we have someone else to talk to, yay!
 scene direction: xander looks uncomfortable.
 buffy: i assume this was an act of kindness?
 scene direction: buffy xander looking embarrassed
@@ -196,8 +201,9 @@ willow: thanks.
 scene direction: willow stops smiling, looks embarrassed
 tara: i mean ... great.
 scene direction: willow embarrassed
-willow: thanks. you do too. is that a new- tara: oh, yeah.
-scene direction: willow glancing nervously at her dress
+willow: thanks. you do too. is that a new-
+tara: oh, yeah.
+scene direction: tara glancing nervously at her dress
 willow: it's nice.
 tara: thanks.
 scene direction: very awkward silence.
@@ -207,14 +213,16 @@ scene direction: tara exits toward the kitchen.
 scene direction: willow muttering to herself
 willow: you don't wanna get thirsty.
 scene change: cut to the kitchen. buffy is filling paper cups from a large pitcher. tara enters.
-buffy: hey, how did it- tara: yes please.
+buffy: hey, how did it-
+tara: yes please.
 scene direction: tara takes a cup from buffy's hand and drinks. buffy looks surprised.
 scene direction: knocking at the back door. buffy stands up.
 scene direction: spike enters, holding a 6-pack of beer under one arm. someone else enters behind him but we can't see who it is.
 scene direction: buffy surprised
 buffy: spike.
 spike: yeah. willow mentioned the shindig ... figured we're all part of the team.
-scene direction: we see that spike still has a large bruise over one eye from being beaten by buffy in "dead things." buffy gives tara a nervous look.
+scene direction: we see that spike still has a large bruise over one eye from being beaten by buffy in "dead things."
+scene direction: buffy gives tara a nervous look.
 spike: thought i'd, uh, swing by.
 scene direction: reveal the other person behind spike. it's the loose-skinned demon from the poker game in "life serial." buffy frowns.
 buffy: wait, what kind of team is this?
@@ -277,7 +285,8 @@ spike: oh, what, you worried about richard? you don't wanna make your new boyfri
 scene direction: buffy grinning
 buffy: shut up. he's ... sweet.
 scene direction: spike teasing
-spike: "oh, shut up, he's sweet." buffy: maybe he's not the jealous one.
+spike: "oh, shut up, he's sweet."
+buffy: maybe he's not the jealous one.
 scene direction: spike looks surprised. buffy moves past him and away.
 spike: you think he'll take you out on his ten-speed, pet?
 scene direction: spike to himself
@@ -595,7 +604,8 @@ scene direction: dawn buffy frowning
 dawn: i'm glad you're trapped.
 scene direction: dawn very angrily
 dawn: how else can i get anybody to spend any time with me?
-buffy: dawn. if you want us to spend time with you- dawn: i don't. get out.
+buffy: dawn. if you want us to spend time with you-
+dawn: i don't. get out.
 scene direction: buffy stares at her.
 scene direction: dawn shrieking
 dawn: get out, get out, get out!
@@ -785,7 +795,8 @@ buffy: dawn, come on.
 dawn: no. you don't know! you have this thing you do. you have all these friends.
 scene direction: dawn softly
 dawn: you have no idea what it's like.
-buffy: what are you talking about? i don't know what, what- dawn: being alone!
+buffy: what are you talking about? i don't know what, what-
+dawn: being alone!
 buffy: you're not alone!
 dawn: then why do i feel like this?
 scene change: cut to the dining room. tara and spike standing next to each other.
@@ -806,7 +817,8 @@ scene direction: anya angrily
 anya: not can't, won't.
 willow: you don't know how much i hate this. i don't know if there's even ... anything i could do.
 anya: yes ... and a good way to find out is to sit around and try nothing. that was sarcasm, by the way.
-spike: look- willow: it's dangerous.
+spike: look-
+willow: it's dangerous.
 anya: and so is all of us dying!
 xander: will ... look, i don't wanna gang up on you ... but anya kinda has a point.
 scene direction: xander willow looking anxious
@@ -819,7 +831,8 @@ scene direction: willow to anya
 willow: if i start, i ... i might not be able to stop.
 anya: and whose fault is that?
 scene direction: anya stands up, walks toward willow
-anya: you know, if you hadn't gotten so much of this in your system in the first place- tara: hey! you're gonna back off!
+anya: you know, if you hadn't gotten so much of this in your system in the first place-
+tara: hey! you're gonna back off!
 scene direction: tara gets in between willow and anya, faces anya down.
 tara: she said no, and that's it. you're not gonna make her do something that she doesn't want to. and if you try...
 scene direction: tara folds arms across her chest
@@ -942,7 +955,8 @@ scene direction: anya coming closer
 anya: how could you? why would you do this?
 halfrek: i told you i was going to take care of some business while i was here in town.
 anya: yeah, but cursing us? some of them are in the wedding party.
-halfrek: i just go where i'm- halfrek pauses, looking to her right as spike walks up.
+halfrek: i just go where i'm-
+scene direction: halfrek pauses, looking to her right as spike walks up.
 scene direction: halfrek shocked whisper
 halfrek: william?
 scene direction: spike frowning
@@ -1033,4 +1047,4 @@ scene direction: shot from inside, pointing out the front door at the group as t
 scene direction: shot from outside, pointing in the front door as only dawn and buffy are left. buffy walks forward, goes over to the doorway.
 scene direction: dawn turns and follows, stands a little ways behind buffy, watching her sadly. buffy looks at dawn.
 scene direction: shot from outside. buffy takes hold of the door and closes it. dawn's face slowly breaks into a smile as the closing door hides them from our view.
-scene direction: blackout 
+scene direction: blackout.

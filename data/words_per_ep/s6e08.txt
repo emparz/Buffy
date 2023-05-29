@@ -1039,11 +1039,10 @@ tara
 i'm
 sorry
 i
-tara
 don't
 just
 don't
-willow
+tara
 shakes
 head
 there's
@@ -1056,7 +1055,6 @@ i
 didn't
 mean
 to
-tara
 to
 what
 violate
@@ -1398,14 +1396,13 @@ i'm
 trying
 to
 buffy
-giles
 jumps
 up
 trying
 to
 to
 what
-giles
+buffy
 angrily
 desert
 me
@@ -1427,7 +1424,6 @@ don't
 want
 to
 leave
-buffy
 so
 don't
 please
@@ -1593,7 +1589,6 @@ and
 i
 can't
 let
-buffy
 so
 i
 won't
@@ -2050,7 +2045,6 @@ been
 through
 this
 before
-buffy
 why
 don't
 you
@@ -2059,7 +2053,7 @@ jump
 to
 the
 chase
-giles
+buffy
 gets
 down
 from
@@ -2346,7 +2340,6 @@ want
 you
 to
 go
-buffy
 i
 can't
 do
@@ -2806,7 +2799,6 @@ imitating
 him
 'oh
 hey'
-xander
 yeah
 'cause
 i
@@ -3043,7 +3035,6 @@ something
 magic
 happened
 giles
-buffy
 scoffs
 magic
 magic's
@@ -3059,7 +3050,7 @@ know
 a
 bloody
 thing
-buffy
+giles
 everyone
 looking
 at
@@ -3078,7 +3069,7 @@ a
 man
 with
 glasses
-buffy
+giles
 removes
 glasses
 well
@@ -3726,7 +3717,6 @@ note
 great
 choice
 dawn
-buffy
 makes
 a
 face
@@ -3791,7 +3781,6 @@ do
 you
 think
 we're
-buffy
 sisters
 they
 smile
@@ -3840,7 +3829,6 @@ have
 a
 kid
 here
-dawn
 a
 teenager
 a
@@ -4182,14 +4170,13 @@ use
 the
 spikes
 to
-buffy
 to
 slay
 someone
 a
 female
 someone
-tara
+buffy
 giles
 looking
 horrified
@@ -5407,7 +5394,6 @@ don't
 even
 know
 anya
-giles
 reads
 from
 book
@@ -5502,7 +5488,6 @@ we're
 being
 chased
 by
-buffy
 you're
 a
 vampire
@@ -8310,4 +8295,4 @@ and
 marti
 noxon
 the
-en
+end

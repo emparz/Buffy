@@ -11,7 +11,8 @@ tara: me too.
 buffy: i just don't think this is the best time to break out the party pinata. we need to stay focused if we're gonna find a way to stop glory.
 scene direction: we see xander and anya sitting on buffy's other side.
 xander: we're going up against a god. an actual mightier-than-thou god.
-willow: well, you know what they say, the bigger they are- anya: the faster they stomp you into nothing.
+willow: well, you know what they say, the bigger they are-
+anya: the faster they stomp you into nothing.
 scene direction: everyone looks at her. we see giles sitting between buffy and xander, looking through books and papers.
 buffy: she's right. i've thrown everything i've got at her and she just shrugs it off.
 willow: then we have to find something heavier to throw.
@@ -31,7 +32,8 @@ tara: she, she, she's a brain-sucker?
 scene direction: tara willow and tara exchange a look
 giles: she, um ...
 scene direction: giles leans over to read from book
-giles: 'absorbs the energies that bind the human mind into a cohesive whole.' once drained, all that's left behind is, uh- buffy: crazy people.
+giles: 'absorbs the energies that bind the human mind into a cohesive whole.' once drained, all that's left behind is, uh-
+buffy: crazy people.
 scene direction: giles pouring more tea
 giles: which is, i'm afraid, why there's been a marked increase in the ranks of the mentally unstable here in sunnydale.
 tara: at least vampires just kill you.
@@ -233,9 +235,11 @@ scene direction: buffy, joyce, and giles enter.
 scene direction: dawn to joyce
 dawn: they were talking about me, just like everybody is.
 xander: again, not so much. in fact, none.
-anya: we were talking about sex. i mean, you know us, sometimes we like to pretend stuff- joyce: um...
+anya: we were talking about sex. i mean, you know us, sometimes we like to pretend stuff-
+joyce: um...
 xander: anya!
-anya: you know, like, say there's a fireman, or a shepherd- buffy: you know what? let's not have this exchange of images right now.
+anya: you know, like, say there's a fireman, or a shepherd-
+buffy: you know what? let's not have this exchange of images right now.
 dawn: oh. right. of course. can't let dawn hear anything.
 scene direction: dawn angry
 dawn: fine. i'm just gonna go to bed. that way i won't accidentally get exposed to, like, words.
@@ -260,7 +264,8 @@ spike: little tremble wouldn't hurt.
 dawn: sorry, it's just ... come on. *i'm* badder than you.
 scene direction: spike insulted
 spike: are not!
-dawn: am too. you're standing in the bushes hugging a bent box of chocolates, and i'm- spike: what? sneaking out to braid hair and watch teletubbies with your mates?
+dawn: am too. you're standing in the bushes hugging a bent box of chocolates, and i'm-
+spike: what? sneaking out to braid hair and watch teletubbies with your mates?
 dawn: no.
 scene direction: dawn softly, looking back at the house
 dawn: i'm breaking into the magic shop ...
@@ -304,11 +309,11 @@ spike: where did he learn to write so bloody small, from a fruit fly?
 scene direction: we see dawn and spike sitting on the floor, three candles lit in front of them. dawn reading the book. spike's cigarette is mostly ash.
 dawn: wait, here's something. uh, 'tarnis, 12th century. one of the founders of the monks of the order of dagon.'
 scene direction: dawn spike stands up
-dawn: 'their sole purpose appears to have been as protectors of the key.' spike:
-scene direction: dawn scoffs
-dawn: brown-robe types are always protecting something. it's the only way they can justify giving up girls.
-scene direction: dawn he looks around, spots olaf's hammer from 'triangle' in a display case
-dawn: hey! troll hammer.
+dawn: 'their sole purpose appears to have been as protectors of the key.'
+scene direction: spike scoffs
+spike: brown-robe types are always protecting something. it's the only way they can justify giving up girls.
+scene direction: spike he looks around, spots olaf's hammer from 'triangle' in a display case
+spike: hey! troll hammer.
 scene direction: spike tries to pick it up but it's too heavy. it falls to the floor with a clang. he glances over to see if dawn noticed. she has her back to him.
 spike: didn't go with my stuff anyway.
 scene direction: he continues looking around at the shelves, looking bored, as dawn reads.
@@ -329,7 +334,8 @@ scene direction: back to dawn looking thoughtful.
 spike: what else does it say about this key? is it made out of gold? maybe we can hock it, split the take.
 dawn: um,
 scene direction: dawn reads
-dawn: 'the key is also susceptible to necromanced animal detection, particularly those of canine or serpent construct.' flash to the snake creature slithering across the floor in 'shadow.' dawn screaming as it rears up above her. the creature's eyes flashing red.
+dawn: 'the key is also susceptible to necromanced animal detection, particularly those of canine or serpent construct.'
+scene direction: flash to the snake creature slithering across the floor in 'shadow.' dawn screaming as it rears up above her. the creature's eyes flashing red.
 scene direction: back to dawn holding the book, pondering. spike reaches over and takes the book from her.
 scene direction: spike frowns at book
 spike: 'the monks possessed the ability to transform energy, bend reality.' blah, blah, blah.
@@ -340,7 +346,8 @@ spike: 'they started work. but the council ... has suggested ... to us that they
 scene direction: spike dawn continues staring into the distance as she listens
 spike: 'they obviously did manage to accomplish the taste...'
 scene direction: spike looks closer
-spike: 'accomplish the task. they had to be certain the slayer would protect it with her life. so they sent the key to her ... in human form. in the form of a sister.' zoom in on dawn's shocked expression.
+spike: 'accomplish the task. they had to be certain the slayer would protect it with her life. so they sent the key to her ... in human form. in the form of a sister.'
+scene direction: zoom in on dawn's shocked expression.
 scene direction: spike frowns, looks over at her.
 spike: huh! i guess that's you, nibblet.
 scene direction: shot of dawn continuing to react. blackout.
@@ -348,7 +355,8 @@ scene change: *** act ii ***
 scene direction: exterior shot of the summers house, night.
 scene change: cut to inside. willow and tara on a sofa, facing buffy in an armchair.
 willow: not even a card, huh?
-buffy: i wasn't really expecting one. no contact with civilians. there's probably a ... code name for it. you know, like radio silence, it's 'greeting card silence.' willow: sorry.
+buffy: i wasn't really expecting one. no contact with civilians. there's probably a ... code name for it. you know, like radio silence, it's 'greeting card silence.'
+willow: sorry.
 buffy: maybe it's time to start a new tradition. birthdays without boyfriends. it could be just as much fun.
 willow: preaching to the choir here, baby.
 scene direction: willow smiles at tara
@@ -374,7 +382,8 @@ scene direction: dawn getting teary
 dawn: am i real? am i anything?
 scene direction: she begins to cry. joyce hugs her. buffy watches grimly, also a little teary-eyed.
 scene change: cut to buffy seeing the others out.
-willow: if you need anything- buffy: thanks.
+willow: if you need anything-
+buffy: thanks.
 scene direction: willow hugs buffy and leaves. giles walks up to the door.
 giles: perhaps i should stay, you know, just in case.
 buffy: this is a family thing. we should deal with this.
@@ -398,10 +407,12 @@ joyce: honey, you've been alive a lot longer than that to us.
 dawn: you don't know that! you don't know anything. i'm, i'm just a key, right? everything about me is made up.
 buffy: dawn ...
 scene direction: buffy sits on the bed next to dawn
-buffy: mom and i know what we feel. i know i care about you. i know that i worry about you- dawn: you worry about me because you have to. i'm your job. protect the key, right?
+buffy: mom and i know what we feel. i know i care about you. i know that i worry about you-
+dawn: you worry about me because you have to. i'm your job. protect the key, right?
 buffy: i worry because my sister is cutting herself!
 dawn: yeah? how do you know? maybe this is just another fake memory from my fake family.
-joyce: sweetheart- dawn: get out.
+joyce: sweetheart-
+dawn: get out.
 buffy: dawn...
 dawn: get out, get out, get out!
 scene direction: her voice rises to a shriek on the last two words. joyce and buffy get up to leave. dawn lies down on the bed, curls up hugging a stuffed animal.
@@ -472,7 +483,8 @@ jinx: their numbers are few for the moment, but they will grow.
 scene direction: jinx ben puts down the tray
 jinx: the knights of byzantium are like ants. first you see one, then two, then the picnic's ruined. no matter how many we kill, they'll keep coming ... wave after wave.
 scene direction: jinx walks over to ben
-jinx: it's time to set old animosities aside. your fate is directly linked to her magnificently-scented glorificus. she's been extremely forgiving of your considerable foibles up until now, but if you persist in your defiance, she'll be forced to- ben: to what? what is she going to do? send a six-pack of minions to bore me to death? glory can't lay a finger on me. you know it, i know it, she knows it. so save the threats, or i'll finish the job i started on your head.
+jinx: it's time to set old animosities aside. your fate is directly linked to her magnificently-scented glorificus. she's been extremely forgiving of your considerable foibles up until now, but if you persist in your defiance, she'll be forced to-
+ben: to what? what is she going to do? send a six-pack of minions to bore me to death? glory can't lay a finger on me. you know it, i know it, she knows it. so save the threats, or i'll finish the job i started on your head.
 scene direction: he shoves past jinx and exits.
 scene change: cut to exterior of the summers house, night.
 scene change: cut to dawn in her bedroom looking through her diaries. she has a bunch of them, of different sizes, shapes, covers, etc. she clutches one to her chin and looks pensive.
@@ -484,9 +496,9 @@ buffy: no, but if i were her, i'd want a little bit of time right now. i wouldn'
 joyce: her school called today. she was suspended.
 scene direction: we see dawn on the stairway above, listening.
 scene direction: joyce os
-joyce: she yelled at a teacher. the things she said, buffy, i mean she never used language like that buffy:
-scene direction: joyce os
-joyce: she probably feels like she can say or do anything right now. she's not real. we're not her family, we don't even know what she is.
+joyce: she yelled at a teacher. the things she said, buffy, i mean she never used language like that
+scene direction: buffy os
+buffy: she probably feels like she can say or do anything right now. she's not real. we're not her family, we don't even know what she is.
 scene direction: dawn looks shocked.
 scene change: cut to dawn storming back into her room, crying. she slams the door, looks around, and begins to trash her room, shrieking. she shoves stuff off the desk, shoves books off the shelves, tears posters off the walls. she picks up one of her diaries and flips through it, then begins to tear out pages, throws them in the wastebasket, then throws the whole book in. extended sequence of dawn ripping pages out of diaries, throwing the pages and the diaries into the wastebasket.
 scene direction: cut back to living room. joyce jumps up, staring at buffy in horror.
@@ -496,7 +508,8 @@ joyce: well, then we have to show her that it isn't true. she needs to know that
 buffy: it's not that simple! we're not gonna be able to fix this with a hug and a kiss and a bowl of soup! dawn needs to know where she came from, she needs real answers.
 scene direction: joyce sits
 joyce: what she needs is her sister, buffy, not the slayer.
-buffy: the slayer is the only thing standing between dawn ... and this god from the bitch dimension that wants to shove her in some kind of lock and give her a good twirl. mom, i need to be out there, doing my job- a shrill beeping noise begins. they both jump up.
+buffy: the slayer is the only thing standing between dawn ... and this god from the bitch dimension that wants to shove her in some kind of lock and give her a good twirl. mom, i need to be out there, doing my job-
+scene direction: a shrill beeping noise begins. they both jump up.
 buffy: oh my god, glory. it's willow's spell.
 scene direction: buffy runs toward stairs
 scene direction: joyce following
@@ -634,20 +647,22 @@ scene direction: ben dawn nods
 ben: i tell you, there've been a lot of nights i wish she didn't exist either.
 dawn: it's not buffy. it's me. i'm the one that doesn't exist.
 scene direction: dawn sighs
-ben: look, i know it can feel that way sometimes, but when you're older- dawn: no, you don't understand. it's not real. none of this.
-scene direction: ben indicating her body
-ben: they made it.
-ben: dawn- dawn: i'm nothing! i'm just a thing the monks made so glory couldn't find me. i'm not real.
+ben: look, i know it can feel that way sometimes, but when you're older-
+dawn: no, you don't understand. it's not real. none of this.
+scene direction: dawn indicating her body
+dawn: they made it.
+ben: dawn-
+dawn: i'm nothing! i'm just a thing the monks made so glory couldn't find me. i'm not real.
 scene direction: ben looks extremely shocked and fearful. he gets to his feet.
 scene direction: ben gets up
 ben: you're the key?
 dawn: how do you know about the key?
 ben: go! before she finds you. don't ask me how she knows, 'cause she always knows. just go.
-dawn: wait! calm down, just tell me- ben:
-scene direction: dawn agitated
-dawn: you don't understand, you're a kid.
-scene direction: dawn dawn gets up
-dawn: you stay, she'll find you. she finds you, she'll hurt you.
+dawn: wait! calm down, just tell me-
+scene direction: ben agitated
+ben: you don't understand, you're a kid.
+scene direction: ben dawn gets up
+ben: you stay, she'll find you. she finds you, she'll hurt you.
 dawn: what's wrong with you?
 ben: you're what she's been searching for. i am telling you, run. you don't know, you -
 scene direction: ben looks around nervously
@@ -688,7 +703,8 @@ glory: you were talking to him, not me.
 scene direction: glory gasps, grabs dawn's chin
 glory: oh, he wasn't being naughty, was he?
 scene direction: a hospital guard enters.
-guard: excuse me, ma'am. this area's for hospital personnel- glory turns around, grabs his head and twists it, breaking his neck. he falls to the floor. dawn gasps. glory turns back to dawn and leans down again.
+guard: excuse me, ma'am. this area's for hospital personnel-
+scene direction: glory turns around, grabs his head and twists it, breaking his neck. he falls to the floor. dawn gasps. glory turns back to dawn and leans down again.
 glory: rude! i was talking!
 scene direction: glory sighs
 glory: what do you say ...
@@ -753,11 +769,12 @@ scene direction: glory annoyed
 glory: is that why you've been playing sugar and spice with old uncle ben?
 scene direction: glory gets down from the table
 glory: trying to get a peek at glory's unmentionables?
-dawn: no, i- glory: shh! i kinda wanna hear me talking right now. me talking.
-scene direction: dawn gets right up close to dawn
-dawn: you know what i'm starting to think? i'm thinking ... that maybe you ...
-scene direction: dawn dawn looking very apprehensive
-dawn: don't have any idea where my key is.
+dawn: no, i-
+glory: shh! i kinda wanna hear me talking right now. me talking.
+scene direction: glory gets right up close to dawn
+glory: you know what i'm starting to think? i'm thinking ... that maybe you ...
+scene direction: glory dawn looking very apprehensive
+glory: don't have any idea where my key is.
 scene direction: glory spins away, speaking faster.
 glory: very irritating. irrational. know what i mean, tiny snapdragon? like...
 scene direction: she bangs her elbows down on the table, leans over and rubs her forehead, scowling as if she has a headache.
@@ -796,7 +813,8 @@ glory: hey, those are really nice shoes.
 scene direction: glory pushes buffy's foot away. buffy goes into a back-flip and kicks glory in the face on the way down.
 buffy: giles, now!
 scene direction: buffy dives out of the way and giles fires the crossbow. the arrow bounces off glory's stomach. she looks annoyed.
-glory: oh, please. like that's- xander comes up behind her and hits her over the head with the tire iron.
+glory: oh, please. like that's-
+scene direction: xander comes up behind her and hits her over the head with the tire iron.
 glory: hey!
 scene direction: glory grabs the tire iron and xander
 glory: watch the hair.
@@ -815,10 +833,10 @@ scene direction: glory buffy pulls the tire iron out of herself with a grimace o
 glory: 'cause i gotta tell ya, so not impressed.
 scene direction: glory walks in between tara and willow. they each throw a handful of glittery powder over her. it flutters down on her, covering her hair and body.
 scene direction: glory angry
-glory: look what you did to my dress, you little- willow:
-scene direction: glory claps her hands once
-glory: discede!
-scene direction: glory latin: 'disperse' or 'separate'
+glory: look what you did to my dress, you little-
+scene direction: willow claps her hands once
+willow: discede!
+scene direction: willow latin: 'disperse' or 'separate'
 scene direction: glory explodes into a cloud of dust and disappears. willow falls to the floor.
 tara: willow!
 scene direction: tara rushes over to her
@@ -831,7 +849,8 @@ willow: teleportation spell. still working out the kinks.
 buffy: where'd you send her?
 willow: don't know. that's one of the kinks.
 scene change: cut to exterior nighttime. several hundred feet above sunnydale. we can see the lights of the city below. a cloud of dust appears and materializes into glory. she looks around, looks down.
-glory: oh, sh- long shot of glory as a ball of light streaking toward the ground.
+glory: oh, sh-
+scene direction: long shot of glory as a ball of light streaking toward the ground.
 scene direction: cut back to hospital. tara crouches by willow as giles comes over. we see xander getting up also.
 giles: that was an incredibly ... dangerous spell for an adept at your level.
 scene direction: giles he and tara help willow sit up
@@ -873,4 +892,4 @@ scene direction: they start to walk out, holding hands.
 dawn: you think she'd raise my allowance?
 buffy: don't push it.
 scene direction: blackout.
-executive producer: joss whedon 
+executive producer: joss whedon.

@@ -1603,7 +1603,6 @@ make
 it
 up
 buffy
-willow
 sighs
 i
 don't
@@ -2174,7 +2173,6 @@ saying
 to
 you
 i
-buffy
 oh
 he
 was
@@ -3483,7 +3481,6 @@ stares
 it's
 sort
 of
-giles
 hollow
 yeah
 so
@@ -4363,7 +4360,6 @@ really
 really
 appreciate
 joyce
-buffy
 to
 buffy
 you
@@ -4423,12 +4419,11 @@ told
 you
 she's
 been
-dr
-kriegel
 i
 know
 joyce
-buffy
+dr
+kriegel
 joyce
 is
 staring
@@ -4436,7 +4431,8 @@ dazedly
 at
 buffy
 joyce
-buffy
+dr
+kriegel
 she
 looks
 at
@@ -5425,7 +5421,6 @@ you're
 a
 shadow
 mom
-joyce
 i
 don't
 know
@@ -5769,7 +5764,6 @@ of
 the
 same
 name
-giles
 xander
 please
 we
@@ -6253,7 +6247,6 @@ summoned
 to
 kill
 riley
-willow
 on
 phone
 crazy
@@ -8309,9 +8302,7 @@ don't
 come
 through
 this
-buffy
 mom
-joyce
 no
 listen
 to

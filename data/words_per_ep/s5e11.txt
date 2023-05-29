@@ -139,7 +139,6 @@ republic
 of
 whereinthehell
 anya
-xander
 softly
 xander
 he
@@ -370,7 +369,6 @@ something
 wrong
 here
 too
-xander
 i
 don't
 think
@@ -1373,7 +1371,6 @@ i
 said
 quirky
 anya
-tara
 annoyed
 hello
 i
@@ -1879,7 +1876,6 @@ see
 that
 face
 again
-buffy
 it
 wasn't
 like
@@ -1890,7 +1886,7 @@ never
 angry
 with
 him
-dawn
+buffy
 sighs
 okay
 that's
@@ -2617,7 +2613,6 @@ she
 just
 goes
 presto
-tara
 only
 it
 won't
@@ -3229,7 +3224,6 @@ goods
 andor
 services
 anya
-willow
 horrified
 xander
 she's
@@ -3558,7 +3552,6 @@ by
 your
 presence
 spirits
-anya
 is
 it
 done
@@ -3953,7 +3946,6 @@ will
 get
 wet
 tara
-buffy
 laughs
 that
 was
@@ -4247,10 +4239,9 @@ a
 little
 thing
 it
-buffy
 little
 thing
-tara
+buffy
 tearfully
 see
 the
@@ -4304,7 +4295,6 @@ up
 oh
 i
 think
-buffy
 they
 have
 a
@@ -4601,7 +4591,6 @@ ogre
 on
 the
 loose
-anya
 troll
 what
 troll
@@ -7552,11 +7541,10 @@ did
 he
 just
 say
-olaf
 ha
 ha
 choose
-willow
+olaf
 gestures
 at
 them

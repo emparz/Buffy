@@ -114,7 +114,6 @@ a
 'not
 so
 completely'
-willow
 yeah
 well
 she
@@ -122,7 +121,6 @@ went
 in
 and
 then
-anya
 speaking
 of
 buffy
@@ -225,9 +223,8 @@ vulcan
 woman
 on
 enterprise
-xander
 ooh
-willow
+xander
 chuckles
 rubs
 his
@@ -1885,7 +1882,6 @@ pocket
 of
 the
 company'
-buffy
 i
 prefer
 the
@@ -1902,7 +1898,6 @@ the
 pocket
 of
 heshouldbiteme'
-gary
 gary
 sighs
 you
@@ -4866,7 +4861,6 @@ take
 forever
 forever'
 amy
-willow
 sympathetically
 yeah
 willow
@@ -5703,7 +5697,6 @@ real
 human
 would
 behave'
-halfrek
 oh
 so
 he
@@ -7271,7 +7264,6 @@ i
 say
 'huh'
 willow
-xander
 still
 looking
 in
@@ -8544,7 +8536,6 @@ say
 not
 my
 fault'
-willow
 i
 can't
 spend
@@ -9147,4 +9138,4 @@ and
 marti
 noxon
 the
-en
+end

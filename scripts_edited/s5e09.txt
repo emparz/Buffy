@@ -126,9 +126,9 @@ buffy: thank you.
 willow: the book is just in case you get a chance to look it over.
 scene direction: shot of joyce looking thoughtful.
 scene direction: willow os
-willow: we're doing world war one now. the last exam was really pretty easy, just underlying causes and trench foot. so it should be no hassle to make it up- buffy:
-scene direction: willow sighs
-willow: i don't even know if i'm gonna take that exam.
+willow: we're doing world war one now. the last exam was really pretty easy, just underlying causes and trench foot. so it should be no hassle to make it up-
+scene direction: buffy sighs
+buffy: i don't even know if i'm gonna take that exam.
 scene direction: joyce scowling
 joyce: i'd rip it in half and stick it in bed with me!
 scene direction: the girls look confused. dawn looks up from her book.
@@ -191,7 +191,8 @@ buffy: are they really gonna send him home?
 ben: don't get me started. the mental ward's booked beyond capacity, literally nowhere to put them, so the ones with families, they're letting 'em go home. like his family's gonna be able to take care of him. he has to have someone to watch him 24-7!
 scene direction: ben looks at dawn
 ben: what was he saying to you?
-dawn: i- buffy: oh, he was just babbling.
+dawn: i-
+buffy: oh, he was just babbling.
 scene change: cut to aerial shot of sunnydale, night. pan across roofs and treetops.
 scene change: cut to roof of a ucs dorm building. willow and tara are lying side-by-side on their backs on a sleeping bag, with pillows under their heads and another sleeping bag covering them.
 willow: you know what's weird?
@@ -224,7 +225,8 @@ scene direction: tara pause
 tara: the real ones never made sense to me, i ... sort of have my own.
 willow: teach me.
 scene direction: tara points
-tara: see those stars over there? "short man looking uncomfortable." they both giggle.
+tara: see those stars over there? "short man looking uncomfortable."
+scene direction: they both giggle.
 tara: uh...
 scene direction: tara points
 tara: "moose getting a sponge bath." umm... "little pile o'crackers."
@@ -312,7 +314,8 @@ anya: 'cause, uh, if there's radiation, you could like go all sterile.
 scene direction: riley looks alarmed. xander jumps backward. riley touches the rock carefully.
 riley: no, it's not hot. it's warm. and broken.
 scene direction: riley kneels to look at it. everyone stares.
-riley: it's sort of- giles: hollow.
+riley: it's sort of-
+giles: hollow.
 riley: yeah.
 anya: so, uh, we're all thinking the same thing, right?
 xander: festive pinata? delicious candy?
@@ -371,7 +374,8 @@ patient: don't you be that kind of barn owl!
 scene direction: patient nurse continues walking away
 patient: please! please don't go! please!
 scene direction: he begins to cry as the nurse turns out the overhead light and leaves the room.
-patient: please! please! please don't- he looks around the darkened room and whimpers in fear. we hear scurrying noises. the patient twists around trying to look under the bed, panting.
+patient: please! please! please don't-
+scene direction: he looks around the darkened room and whimpers in fear. we hear scurrying noises. the patient twists around trying to look under the bed, panting.
 patient: i can't see you! i can't see you! i can't see you!
 scene direction: we see the tail of the alien creature moving behind his bed. then it climbs up on top of him with a squeal.
 scene change: cut to the nurse sitting at her desk doing paperwork. she hears the patient scream and looks up, then goes back to her paperwork.
@@ -383,18 +387,19 @@ scene direction: he turns and we see buffy and dawn on either side of joyce. the
 dr. kriegel: you've got my home phone number, pager number, and here, these are the medications i talked to you about. the sedative and so forth, painkillers.
 buffy: right. no problem.
 dr. kriegel: now, if this is gonna be too much for you, we can make your mom perfectly comfortable here.
-buffy: no. no, no, i-i got this. we really, really appreciate- joyce:
-scene direction: buffy to buffy
-buffy: you look just like your father when he cries.
+buffy: no. no, no, i-i got this. we really, really appreciate-
+scene direction: joyce to buffy
+joyce: you look just like your father when he cries.
 scene direction: shot of the four of them from the alien's perspective.
 scene direction: shot of the alien on the ceiling a few feet down the hall, watching them. we can hear joyce talking but the words are inaudible.
 scene direction: cut back to the group.
 scene direction: buffy to doctor
-buffy: i-i told you she's been- dr. kriegel: i know. joyce?
-scene direction: buffy joyce is staring dazedly at buffy
-buffy: joyce.
-scene direction: buffy she looks at him
-buffy: we're all done here. why don't you take your girls home now?
+buffy: i-i told you she's been-
+dr. kriegel: i know. joyce?
+scene direction: dr. kriegel joyce is staring dazedly at buffy
+dr. kriegel: joyce.
+scene direction: dr. kriegel she looks at him
+dr. kriegel: we're all done here. why don't you take your girls home now?
 joyce: yes. yes, thank you. thank you for all your help, doctor.
 dr. kriegel: i'll see you in a couple of days.
 scene direction: he walks off. the summers women turn away, buffy and dawn flanking joyce and linking their arms through hers.
@@ -458,7 +463,8 @@ scene direction: cut back to buffy and dawn watching tv. there's a noise from th
 dawn: mom?
 scene direction: more crashing noises. buffy and dawn get up.
 scene change: cut to joyce bending over, looking in the refrigerator. the kitchen is dark. there's a sizzling noise. buffy and dawn come in.
-buffy: oh, my- dawn goes to joyce as buffy rushes to the stove and turns it off, moving a pan off the burner and coughing as whatever's in it gives off smoke. joyce straightens up, holding the fridge door, and turns to give buffy an annoyed look.
+buffy: oh, my-
+scene direction: dawn goes to joyce as buffy rushes to the stove and turns it off, moving a pan off the burner and coughing as whatever's in it gives off smoke. joyce straightens up, holding the fridge door, and turns to give buffy an annoyed look.
 buffy: mom, wha-what are you doing?
 scene direction: joyce angrily
 joyce: i'm making breakfast.
@@ -481,7 +487,8 @@ dawn: mom, please!
 joyce: get away from me!
 scene direction: joyce buffy comes over and dawn gives her an anxious look
 joyce: you're nothing, you're, you're a shadow!
-buffy: mom- joyce: i don't know what you are or how you got here!
+buffy: mom-
+joyce: i don't know what you are or how you got here!
 buffy: mom, it's dawn.
 scene direction: dawn backs away, upset, and runs out of the room.
 joyce: dawn? honey, what's wrong?
@@ -519,7 +526,8 @@ buffy: i know.
 scene direction: buffy puts her hand on dawn's shoulder
 buffy: just don't listen.
 scene change: cut to xander staring at a small model of the solar system, which is hanging above his head. behind him we see giles and willow sitting at a table covered with books. there are bookshelves everywhere.
-xander: look at how teeny mercury is compared to, like, saturn. whereas in contrast, the cars of the same name- giles: xander, please, we have work to do here.
+xander: look at how teeny mercury is compared to, like, saturn. whereas in contrast, the cars of the same name-
+giles: xander, please, we have work to do here.
 scene direction: xander walks toward them
 xander: i still don't get why we had to come here to get info about a killer snot monster.
 scene direction: xander sits
@@ -568,9 +576,9 @@ riley: queller demon?
 scene direction: willow on phone
 willow: yeah, that's our perp.
 scene direction: willow cut to willow on a pay phone in the library
-willow: it's sort of a scavenger that can be summoned to kill- riley:
-scene direction: willow on phone
-willow: crazy people.
+willow: it's sort of a scavenger that can be summoned to kill-
+scene direction: riley on phone
+riley: crazy people.
 willow: yeah, how'd you know?
 scene change: cut to riley in the hospital psychiatric ward. we see another commando in the background.
 riley: 'cause i've got five corpses here at the mental ward at sunnydale memorial.
@@ -722,7 +730,9 @@ joyce: and she's important. to the world. precious.
 scene direction: joyce buffy nods
 joyce: as precious as you are to me.
 scene direction: buffy smiles and nods again. joyce nods back.
-joyce: then we have to take care of her. buffy, promise me. if anything happens, if i don't come through this- buffy: mom- joyce: no, listen to me. no matter what she is, she still feels like my daughter. i have to know that you'll take care of her, that you'll keep her safe. that you'll love her like i love you.
+joyce: then we have to take care of her. buffy, promise me. if anything happens, if i don't come through this-
+buffy: mom-
+joyce: no, listen to me. no matter what she is, she still feels like my daughter. i have to know that you'll take care of her, that you'll keep her safe. that you'll love her like i love you.
 scene direction: buffy teary
 buffy: i promise.
 joyce: good. good.
@@ -733,4 +743,4 @@ scene change: cut to joyce on a gurney, being wheeled away. she has one arm up b
 scene direction: shot of buffy and dawn with arms around each other, watching. behind them we can see riley, xander, anya, giles, tara, and willow. the camera moves back from them as if we see them from joyce's perspective.
 scene direction: shot of joyce looking very calm as the nurses take her away.
 scene direction: shot of the others watching. the camera continues to pull back from them and then fades to black.
-executive producer: joss whedon 
+executive producer: joss whedon.

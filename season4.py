@@ -13,7 +13,7 @@ def season4():
             filename += '0'
         filename += str(i)
 
-        '''REMOVING BLANK LINES'''
+        '''REMOVE BLANK LINES + LOSE LINE BREAKS (A, E, F)'''
         unedited_r = open('scripts/' + filename + '.txt', 'r')
         in_progress_w = open('progress.txt', 'w')
         for l in unedited_r:
@@ -34,7 +34,7 @@ def season4():
         edited_w.close()
         # *************************
 
-        '''REMOVE PARENTHESIS'''
+        '''REMOVE PARENTHESIS (D)'''
         # episodes 9, 18
         if i == 9 or i == 18:
             edited_r = open('scripts_edited/' + filename + '.txt', 'r')
@@ -53,10 +53,9 @@ def season4():
             edited_w.close()
             # *************************
 
-        '''INDIVIDUAL EPISODES'''
+        '''FIX DIALOGUE AND DIRECTION (C)'''
         # episodes 4, 10, 11
         if i == 4 or i == 10 or i == 11:
-            '''FIXING DIALOGUE AND DIRECTION'''
             edited_r = open('scripts_edited/' + filename + '.txt', 'r')
             in_progress_w = open('progress.txt', 'w')
             for l in edited_r:
@@ -74,10 +73,9 @@ def season4():
             in_progress_r.close()
             edited_w.close()
             # *************************
-        # other episodes
-        elif i == 1 or i == 2 or i == 3 or i == 5 or i == 6 or i == 7 or i == 8 or i == 9 or i == 12 or i == 13 \
-                or i == 14 or i == 15 or i == 16 or i == 17 or i == 18 or i == 19 or i == 20 or i == 21 or i == 22:
-            '''FIX WEIRD LINES'''
+
+        '''FIX WEIRD LINE BREAKS (A, E, F)'''
+        if i == 5 or i == 7 or i == 13 or i == 14 or i == 15 or i == 16 or i == 17 or i == 19 or i == 21 or i == 22:
             edited_r = open('scripts_edited/' + filename + '.txt', 'r')
             in_progress_w = open('progress.txt', 'w')
             l2 = ''
@@ -99,7 +97,9 @@ def season4():
             edited_w.close()
             # *************************
 
-            '''ADD SCENE DIRECTIONS'''
+        '''ADD SCENE DIRECTIONS (A, B, D, E, F) '''
+        if i == 1 or i == 2 or i == 3 or i == 5 or i == 6 or i == 7 or i == 8 or i == 9 or i == 12 or i == 13 \
+                or i == 14 or i == 15 or i == 16 or i == 17 or i == 18 or i == 19 or i == 20 or i == 21 or i == 22:
             edited_r = open('scripts_edited/' + filename + '.txt', 'r')
             in_progress_w = open('progress.txt', 'w')
             for l in edited_r:

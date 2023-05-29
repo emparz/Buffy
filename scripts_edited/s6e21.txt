@@ -9,7 +9,8 @@ buffy: i know.
 xander: willow did that.
 buffy: that's why we have to keep moving.
 scene direction: buffy puts her hand on xander's shoulder and coaxes him back into motion.
-buffy: you heard what she said, "one down." anya: so we're talking about "two to go," right, jonathan and whatshisface, the other guy.
+buffy: you heard what she said, "one down."
+anya: so we're talking about "two to go," right, jonathan and whatshisface, the other guy.
 buffy: andrew. they're sitting at county jail without a clue willow's coming.
 xander: you don't think she's gonna kill them too? she wouldn't. it doesn't make sense.
 buffy: willow's got an addictive personality, and she just tasted blood. she could be there already.
@@ -69,7 +70,8 @@ andrew: warren never abandoned us. well, not me, anyway. this is like his test. 
 scene direction: jonathan incredulous
 jonathan: you're checking for implants?
 scene direction: andrew defensive
-andrew: lex luthor had a false epidermis escape kit in "superman versus the amazing spider-man" treasury edition- jonathan: okay, first of all, those were sonic disrupters. and second of all ... you are sadness personified. waiting for warren? yeah, maybe he'll come bust us out of here on santa's magic sleigh.
+andrew: lex luthor had a false epidermis escape kit in "superman versus the amazing spider-man" treasury edition-
+jonathan: okay, first of all, those were sonic disrupters. and second of all ... you are sadness personified. waiting for warren? yeah, maybe he'll come bust us out of here on santa's magic sleigh.
 scene direction: andrew stands up angrily
 andrew: i'm telling him you said that.
 jonathan: why wait? i'll tell him right now.
@@ -129,7 +131,8 @@ scene direction: in the street a few feet away there's a whirling tornado of gra
 scene direction: the cop gets out of his car quickly.
 cop: what the hell was that?
 scene direction: willow walks toward him. her eyes are normal at this point though her hair is still completely black.
-cop: listen, i don't know what you think you're doing, but just- willow: take a nap.
+cop: listen, i don't know what you think you're doing, but just-
+willow: take a nap.
 scene direction: the cop falls down on the ground.
 scene direction: willow looks up at the police station building. she walks back a few steps to size it up. it's mostly brick, with large arched windows that have been bricked over.
 scene direction: cut back to the cell block.
@@ -176,7 +179,8 @@ scene change: cut to the cell. willow appears in the hole in the wall, grabs the
 scene direction: the cell is empty. willow looks around, then sees that the cell bars have been bent aside, making a hole.
 willow: buffy.
 scene direction: reveal anya standing in the hallway just beyond the bars.
-anya: willow , just stop for a second and listen to- willow lifts her hands and hits anya with a blast of magic. anya flies backward and hits the opposite wall, falls down unconscious.
+anya: willow , just stop for a second and listen to-
+scene direction: willow lifts her hands and hits anya with a blast of magic. anya flies backward and hits the opposite wall, falls down unconscious.
 scene direction: willow turns away and screams a shrill, loud scream of anger.
 scene direction: blackout.
 scene change: *** act ii ***
@@ -362,9 +366,10 @@ jonathan: could i take a look at it?
 buffy: shut up.
 jonathan: right.
 scene direction: jonathan starts to turn back to his seat, pauses, addresses buffy.
-jonathan: i just thought, you know, as long as you're protecting us, the least i could do is- buffy: i'm not protecting you, jonathan. none of us are. we're doing this for willow. the only reason it happens to be your lucky day? is because willow kills you, she crosses a line, i lose a friend.
-scene direction: jonathan gets right up in jonathan's face
-jonathan: and i hate losing.
+jonathan: i just thought, you know, as long as you're protecting us, the least i could do is-
+buffy: i'm not protecting you, jonathan. none of us are. we're doing this for willow. the only reason it happens to be your lucky day? is because willow kills you, she crosses a line, i lose a friend.
+scene direction: buffy gets right up in jonathan's face
+buffy: and i hate losing.
 jonathan: i get that. it's just ... you know she's running out of power, right? i can tell. i can practically feel it.
 scene direction: jonathan quietly, embarrassed
 jonathan: i've dabbled in the magicks.
@@ -454,9 +459,11 @@ dawn: willow ... please, just listen to me.
 willow: you don't have to talk. just think real loud. i can hear you.
 scene direction: willow advances again, and dawn backs up again.
 dawn: you're freaking me out.
-willow: oh, don't be like that. i'm just a little wired. and i have some things to do. i thought if anybody'd understand- dawn: i miss tara, too!
+willow: oh, don't be like that. i'm just a little wired. and i have some things to do. i thought if anybody'd understand-
+dawn: i miss tara, too!
 scene direction: willow stops cold, glares.
-dawn: but this? what you're doing here? this is not the way to go! you're only going to make things worse! but i promise, it's not too late to- willow: you miss her?
+dawn: but this? what you're doing here? this is not the way to go! you're only going to make things worse! but i promise, it's not too late to-
+willow: you miss her?
 scene direction: dawn shocked
 dawn: yes.
 willow: did you cry?
@@ -526,7 +533,8 @@ anya: you don't know that.
 xander: we're her friends, anya. her family. she would never hurt us.
 anya: she tried to use you for a hood ornament, xander. she doesn't care if you live or die.
 scene direction: xander looks stung by that.
-xander: guess you two finally have something in common beat. anya looks slightly chastised. she turns back to her research.
+xander: guess you two finally have something in common
+scene direction: beat. anya looks slightly chastised. she turns back to her research.
 anya: i care if you live or die, xander. i'm just not sure which one i want.
 xander: again with the comfort. look, we both know things might get ugly at, uh, wiccapalooza. and if it gets really bad...
 scene direction: anya still not looking at him
@@ -590,9 +598,9 @@ willow: why not?
 scene direction: dawn moves away from the wall and approaches them.
 buffy: because you lose everything. your friends, your self... willow, if you let this control you then the world goes away. and all of us with it. there's so much to live for.
 scene direction: buffy forcefully
-buffy: will, there's too much- willow:
-scene direction: buffy scoffs
-buffy: oh, please! this is your pitch? buffy, you hate it here as much as i do. i'm just more honest about it.
+buffy: will, there's too much-
+scene direction: willow scoffs
+willow: oh, please! this is your pitch? buffy, you hate it here as much as i do. i'm just more honest about it.
 buffy: that's not true.
 willow: you're trying to sell me on the world.
 scene direction: the camera starts to do a slow turn thing where it stays focused on willow but the background turns behind her...
@@ -639,9 +647,9 @@ willow: i mean, we're just getting started.
 scene direction: behind willow, buffy and dawn finally get up.
 scene direction: jonathan and andrew grab swords that are hanging on the wall.
 willow: i've got big party plans.
-buffy: will- xander:
-scene direction: buffy to buffy
-buffy: no, don't.
+buffy: will-
+scene direction: xander to buffy
+xander: no, don't.
 willow: guys, come on. i'm just getting wood for the violence here. and you know what they say ... if at first you don't succeed...
 scene direction: she lifts her hands and starts blasting magic again.
 scene change: cut to the cave. spike hurtles against a wall, groaning. he has a large bruise or burn on his chest, and various other burns and injuries. he slumps down onto the ground, wipes blood from his mouth with the back of one hand.
@@ -750,7 +758,8 @@ xander: hey. you're not going anywhere. we just gotta find a place to hide you t
 andrew: yeah, and what if the slayer's dead already?
 scene direction: andrew dawn looking alarmed
 andrew: we're just supposed to sit around waiting for sabrina to show up and disembowel us?
-xander: you do what i say to- andrew suddenly lifts his sword, putting its point to xander's throat.
+xander: you do what i say to-
+scene direction: andrew suddenly lifts his sword, putting its point to xander's throat.
 andrew: i don't think so.
 scene direction: cut back to the magic shop. buffy punches willow a few times, blocks her punch and shoves her across the room, bringing down more furniture and merchandise. more crashing, stuff shattered, etc.
 scene direction: willow sits up ... and notices anya. her hiding place has been revealed by the latest destruction of furniture. anya continues chanting, staring right at willow, looking scared but defiant. buffy looks alarmed.

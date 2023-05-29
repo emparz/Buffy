@@ -37,14 +37,16 @@ scene direction: a huge clap of thunder interrupts as dark clouds appear out of 
 willow: i didn't do it! i didn't do it!
 scene change: they all grab their stuff and run off. cut to exterior shot of a castle, evening, with the storm still raging. a truck drives up. two guys get out and go to the back of the truck, where they remove a tarp from something and begin to pull out a large box.
 guy1: come on, hurry it up, i'm getting soaked.
-guy2: i'm trying. geez, this thing weighs- they give a pull and the box falls to the ground, cracking open slightly, leaning at an angle with one end on the ground and the other leaning on the truck. a little dirt leaks out of the cracked corner.
+guy2: i'm trying. geez, this thing weighs-
+scene direction: they give a pull and the box falls to the ground, cracking open slightly, leaning at an angle with one end on the ground and the other leaning on the truck. a little dirt leaks out of the cracked corner.
 scene direction: guy1 annoyed
 guy1: nice. good job.
 scene direction: guy2 kneels to check out the broken corner
 guy2: look at this. guy's carting dirt around.
 guy1: leave it. we'll, we'll turn it on its side.
 scene direction: they begin trying to right the box.
-guy2: dirt. man, rich people are- a hand bursts out of the box and slashes his throat. he screams and staggers backward. the other guy watches in horror as a body begins to burst out of the box. cut to exterior shot of giles' building.
+guy2: dirt. man, rich people are-
+scene change: a hand bursts out of the box and slashes his throat. he screams and staggers backward. the other guy watches in horror as a body begins to burst out of the box. cut to exterior shot of giles' building.
 scene change: cut to inside giles' apartment. willow is typing on a computer as giles looks on.
 willow: there you go. all set.
 giles: thank you, willow. obstinate bloody machine simply refused to work for me.
@@ -169,7 +171,8 @@ scene direction: she lunges at him with her stake. he dissolves into smoke. as s
 buffy: okay, that's cheating.
 scene direction: xander and willow walk up.
 xander: hey buff, what's up?
-willow: you look like you just- buffy: get out of here. now.
+willow: you look like you just-
+buffy: get out of here. now.
 xander: fine, but i was gonna give you a sip of my double-mint mocha, but...
 scene direction: xander we see dracula reappearing behind him
 buffy: behind you.
@@ -195,7 +198,8 @@ dracula: i will see you soon.
 scene direction: he spreads his cape out and moves toward them, turning into a bat and flying over their heads as they all duck and yell. the bat flies away, squeaking. they straighten up and look around. the bat comes back and flies around buffy's head. she covers her head with her hands.
 buffy: bat! ooh, bat!
 scene change: the bat squeaks and flies away again. cut to exterior shot of giles' building.
-xander vo: and then buffy's all, "look out!" cut to inside giles' apartment.
+xander vo: and then buffy's all, "look out!"
+scene change: cut to inside giles' apartment.
 xander: and then frigging dracula's standing right behind us.
 scene direction: xander sits on sofa where anya and willow are already sitting. we see buffy and riley standing around.
 willow: and then, he lunges at us, like whoosh!
@@ -230,7 +234,8 @@ giles: it must have been, yes.
 scene direction: giles everyone looks at him
 giles: i must admit, i'm sorry i missed that.
 scene direction: willow suddenly realizing
-willow: me too! the whole time i was thinking, 'gosh, i wish giles were here, he'd know what to do!' giles smiles tolerantly; he knows what she's trying to do.
+willow: me too! the whole time i was thinking, 'gosh, i wish giles were here, he'd know what to do!'
+scene direction: giles smiles tolerantly; he knows what she's trying to do.
 scene direction: willow to the others
 willow: didn't you guys ... think that?
 buffy: actually, i was more thinking, 'bat!'
@@ -299,12 +304,13 @@ scene direction: xander looks dracula up and down
 xander: one round of old-fashioned fisticuffs, you'd fold like a bitty baby.
 scene direction: dracula scowls.
 scene direction: xander rolls up sleeves
-xander: okay, let's do it. and no poofing. come on, puffy shirt. pucker on up, 'cause you can kiss your pale ass- dracula: silence.
+xander: okay, let's do it. and no poofing. come on, puffy shirt. pucker on up, 'cause you can kiss your pale ass-
+dracula: silence.
 xander: yes master.
 scene direction: xander shakes head
-xander: no, that's not- dracula:
-scene direction: xander lifts a hand
-xander: you will be my emissary, my eyes and ears in daylight.
+xander: no, that's not-
+scene direction: dracula lifts a hand
+dracula: you will be my emissary, my eyes and ears in daylight.
 xander: your emissary?
 dracula: serve me well. you will be rewarded. i will make you an immortal. a child of darkness that feeds on life itself... on blood.
 scene direction: xander in dracula's accent
@@ -380,7 +386,8 @@ scene direction: pan over to the window. fog pours in from outside, flows across
 dracula: you are magnificent.
 buffy: i bet you say that before you bite all the girls.
 dracula: no, you are different. kindred.
-buffy: kindred? hardly, i- dracula: pull your hair back.
+buffy: kindred? hardly, i-
+dracula: pull your hair back.
 scene direction: buffy looks surprised but pulls her hair back from her neck. shot of dracula admiring her.
 buffy vo: this isn't how i ... usually fight.
 scene direction: buffy looks a little self-conscious. glances at the window.
@@ -392,11 +399,12 @@ dracula: for a creature whose darkness rivals my own.
 scene direction: he puts his hand on her chin and moves her head aside. he sees the scar where angel bit her (episode "graduation day") and touches it with his fingertips.
 dracula: you have been tasted.
 scene direction: dracula smiles slightly as he trails his fingers over her cheek
-buffy: he was- dracula: unworthy.
-scene direction: buffy buffy stares at him, looks scared
-buffy: he let you go.
-scene direction: buffy looks her in the eyes
-buffy: but the embrace ... his bite ... you remember.
+buffy: he was-
+dracula: unworthy.
+scene direction: dracula buffy stares at him, looks scared
+dracula: he let you go.
+scene direction: dracula looks her in the eyes
+dracula: but the embrace ... his bite ... you remember.
 scene direction: buffy uncertain
 buffy: no.
 scene direction: dracula caresses her face some more.
@@ -529,11 +537,13 @@ scene direction: they leave the estate.
 scene change: cut to xander's basement.
 anya: how come i have to be here slayer-sitting while the other guys get to look for dracula?
 scene direction: we see buffy and anya sitting on the couch while xander paces.
-anya: i mean, just because i'm- xander: what time is it?
+anya: i mean, just because i'm-
+xander: what time is it?
 scene direction: anya checks watch
 anya: uh, almost six.
 scene direction: anya stands up so she's standing in front of the open closet door
-anya: look, i mean, i'm the one who knows him, i-i'm the one who had a really good look at him, and so, i mean, what- xander pushes her into the closet and shuts the door.
+anya: look, i mean, i'm the one who knows him, i-i'm the one who had a really good look at him, and so, i mean, what-
+scene direction: xander pushes her into the closet and shuts the door.
 anya: hey! what?
 scene direction: xander puts a chair under the doorknob to hold it shut. we hear anya banging on the door and yelling. buffy sits oblivious through all of this.
 scene direction: xander turns to buffy.
@@ -550,7 +560,8 @@ scene direction: xander buffy walks in behind him, still looking kind of cataton
 xander: sorry, whom.
 scene direction: pan across a long table.
 scene direction: shot of dracula standing by the fireplace, wearing black pants, red shirt, black vest. he turns slowly.
-xander: so now comes the immortality, right? you do the thing, and- dracula: leave us.
+xander: so now comes the immortality, right? you do the thing, and-
+dracula: leave us.
 scene direction: xander stops.
 dracula: we must not be interrupted.
 xander: you bet.
@@ -593,9 +604,10 @@ dracula: do you know why you cannot resist?
 buffy: 'cause you're famous?
 dracula: because you do not want to.
 scene direction: buffy shakes head nervously
-buffy: my friends- dracula: they're here.
-scene direction: buffy she looks at him
-buffy: they will not find us. we are alone.
+buffy: my friends-
+dracula: they're here.
+scene direction: dracula she looks at him
+dracula: they will not find us. we are alone.
 scene direction: buffy looks anxious.
 dracula: always alone.
 scene direction: buffy continues to look anxious.
@@ -630,13 +642,15 @@ scene direction: giles giggling
 giles: tickles! ooh, uh... oh, dear god.
 scene direction: giles panting
 scene direction: cut back to dracula. he holds up his arm and rolls up the sleeve.
-buffy: what are you- dracula: all those years fighting us. your power so near to our own...
-scene direction: buffy cuts his arm with a fingernail till blood wells up
-buffy: ...and you've never once wanted to know what it is that we fight for?
-scene direction: buffy holds his arm out to buffy
-buffy: never even a taste?
+buffy: what are you-
+dracula: all those years fighting us. your power so near to our own...
+scene direction: dracula cuts his arm with a fingernail till blood wells up
+dracula: ...and you've never once wanted to know what it is that we fight for?
+scene direction: dracula holds his arm out to buffy
+dracula: never even a taste?
 scene direction: buffy looks conflicted
-buffy: if i drink that- dracula: i have not drunk enough for you to change. you must be near death to become one of us. and that comes only when you plead for it.
+buffy: if i drink that-
+dracula: i have not drunk enough for you to change. you must be near death to become one of us. and that comes only when you plead for it.
 scene direction: buffy staring at his wrist
 buffy: i'm not hungry.
 dracula: no. your craving goes deeper than that.
@@ -674,10 +688,11 @@ giles: there was no possible escape.
 scene direction: still staring back toward the sisters, giles takes riley's hand and riley pulls him up. giles notices his foot has only a sock on it.
 giles: oh, my shoe.
 scene direction: giles pointing back into the pit
-giles: silly me, i'll just pop- riley: no no no, sir!
-scene direction: giles pulls him away
-giles: no more chick pit for you. come on.
-scene direction: giles they get up and move off down the hall.
+giles: silly me, i'll just pop-
+riley: no no no, sir!
+scene direction: riley pulls him away
+riley: no more chick pit for you. come on.
+scene direction: riley they get up and move off down the hall.
 scene direction: cut back to buffy running across the room. she barrels into dracula and they fall to the floor, rolling. he's on top. he punches her, she punches him, then she grabs his shirt and flips him over. now she's on top. she punches him a few times. then he catches her fist and flings her off him. he's grinning. they both get up, grab each other and fall down again. buffy's on top. she brings both her hands down but he blocks and flings her away again. she flies backward and hits the wall. she grabs him, he flips her across the table and then jumps onto it. she hits him with a chair and then sweeps his feet out from under him. he punches her. she grabs a torch and he rolls away just as she hits the table with it. they face each other across the table.
 buffy: a guy like you should think about going electric. seriously.
 scene direction: dracula growls and turns to smoke. buffy looks around, sees where the smoke is converging, drops the torch and runs toward the smoke. she grabs mister pointy off the table as she runs, leaps to the top of the stairs, and is there to stake dracula just as he appears from the smoke. he looks shocked.
@@ -770,4 +785,4 @@ scene direction: cut back to joyce in her room, calling out.
 joyce: buffy? if you're going out, why don't you take your sister?
 scene direction: cut back to the bedroom. both girls turn to look at the doorway, looking annoyed.
 buffy and dawn: mom!
-scene direction: end 
+scene direction: end.

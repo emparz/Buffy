@@ -187,7 +187,6 @@ be
 in
 real
 willow
-spike
 telepathically
 guys
 heads
@@ -519,7 +518,6 @@ or
 something
 willow
 telepathically
-xander
 xander
 i
 know
@@ -1166,7 +1164,6 @@ her
 to
 be
 exactly
-spike
 she'll
 never
 be
@@ -1574,7 +1571,6 @@ us
 mega
 willow
 maybe
-dawn
 no
 i
 mean
@@ -2094,7 +2090,6 @@ and
 such
 then
 we'll
-buffybot
 what
 is
 this
@@ -2584,7 +2579,6 @@ confused
 mad
 no
 i'mi'm
-anya
 well
 then
 why
@@ -2606,7 +2600,7 @@ i
 was
 a
 demon
-giles
+anya
 giles
 rolls
 his
@@ -2640,7 +2634,6 @@ that
 absolutely
 everything
 anya
-giles
 grabs
 a
 small
@@ -3860,6 +3853,7 @@ boys
 lunchbox
 for
 a
+
 xander
 coughs
 anya
@@ -4144,7 +4138,6 @@ are
 changing
 your
 minds
-willow
 nobody's
 changing
 their
@@ -4318,7 +4311,6 @@ a
 job
 well
 done
-willow
 xander
 this
 isn't
@@ -5246,10 +5238,9 @@ course
 strictly
 speaking
 but
-anya
 um
 
-giles
+anya
 walks
 into
 the
@@ -5886,7 +5877,6 @@ see
 the
 slayer
 mag
-vamp
 shakes
 him
 the
@@ -7414,7 +7404,6 @@ it's
 not
 like
 he's
-tara
 we'll
 call
 him
@@ -7422,7 +7411,7 @@ tomorrow
 how
 'bout
 that
-dawn
+tara
 puts
 arm
 around
@@ -7662,7 +7651,6 @@ hurry
 it
 has
 to
-tara
 what
 time
 is

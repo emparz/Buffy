@@ -996,7 +996,6 @@ then
 it
 was
 like
-buffy
 like
 you
 were
@@ -1846,7 +1845,6 @@ yeah
 we
 could
 um
-giles
 well
 i'm
 a
@@ -3398,14 +3396,12 @@ wanna
 be
 saying
 things
-anya
 like
 there
 was
 a
 wall
 missing
-xander
 but
 they
 just
@@ -3423,7 +3419,6 @@ they
 were
 mean
 and
-anya
 like
 there
 were
@@ -3436,7 +3431,6 @@ a
 fourth
 wall
 and
-xander
 my
 eyes
 are
@@ -3468,7 +3462,6 @@ some
 leads
 and
 i
-anya
 it's
 just
 clearly
@@ -3548,7 +3541,6 @@ focus
 on
 a
 woman
-giles
 btvs
 executive
 producer
@@ -3798,7 +3790,6 @@ she
 doesn't
 seem
 to
-xander
 she's
 easing
 back
@@ -4771,7 +4762,6 @@ i
 never
 fought
 about
-dawn
 it's
 okay
 it's
@@ -6766,7 +6756,6 @@ git
 there
 is
 no
-giles
 if
 i
 want
@@ -6774,7 +6763,7 @@ your
 opinion
 spike
 i'll
-spike
+giles
 pauses
 to
 consider
@@ -6788,9 +6777,8 @@ little
 confusion
 spell
 could
-tara
 no
-willow
+tara
 willow
 looks
 surprised

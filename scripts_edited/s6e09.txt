@@ -45,13 +45,15 @@ scene direction: spike gives her a sour look.
 buffy: just have to get your rocks off fightin' demons.
 scene direction: spike suggestively
 spike: there are other ways.
-buffy: and to that, an extreme 'see you later.' she turns to go. spike smirks, walks after her.
+buffy: and to that, an extreme 'see you later.'
+scene direction: she turns to go. spike smirks, walks after her.
 spike: buffy.
 scene direction: she stops, sighs, turns back.
 buffy: spike ... it's late, okay, can we just finish this another time?
 scene direction: spike walks closer
 spike: oh, so you wanna jump right to the kissing then, eh?
-buffy: i am not kissing you, spike. once was- spike: twice.
+buffy: i am not kissing you, spike. once was-
+spike: twice.
 buffy: but not again.
 scene direction: she turns away again, begins walking.
 spike: you're a tease, you know that, slayer?
@@ -76,7 +78,8 @@ willow: relax, amy. i'm just kiddin'. i swear, if i could figure out how to turn
 scene direction: willow realizes something
 willow: any way ... revele!
 scene direction: a sheet of paper appears on the desk. willow picks it up, reads.
-willow: 'cio che fu non e piu. cio che fu fatto disfa. passato e il pericolo, finita e la prova. metti le cosa a posto.' willow looks up at the bed. red lightning flashes as the rat morphs back into amy, sitting naked on the bed with her legs pulled up to her chest. willow smiles.
+willow: 'cio che fu non e piu. cio che fu fatto disfa. passato e il pericolo, finita e la prova. metti le cosa a posto.'
+scene direction: willow looks up at the bed. red lightning flashes as the rat morphs back into amy, sitting naked on the bed with her legs pulled up to her chest. willow smiles.
 scene direction: amy lifts her head, looks around, her movements all twitchy like a rat. she screams.
 scene direction: wolf howl, opening credits.
 scene change: *** act i ***
@@ -84,7 +87,8 @@ scene direction: open in a museum, night. a person dressed all in black descends
 scene direction: warren and jonathan walk up beside him.
 warren: dude, what are you doing?
 jonathan: we're not breaking into langley here. it's sunnydale.
-andrew: well, you never know what new stuff they have, better safe than- warren: okay, the security system here is a guy named rusty.
+andrew: well, you never know what new stuff they have, better safe than-
+warren: okay, the security system here is a guy named rusty.
 scene direction: warren gives andrew a shove so that he starts spinning head-over-heels in the air. he spins a few times before managing to stop himself. warren and jonathan grin.
 warren: now get up.
 andrew: whoa, head rush. cool.
@@ -122,22 +126,25 @@ andrew: the freeze ray totally worked.
 scene direction: we see that jonathan's arm holding the freeze-ray is also encased in ice.
 jonathan: yeah, uh, not exactly.
 scene direction: warren still gazing at rusty
-warren: so there's a kink or two. it's just a prototype. i mean, soon we'll have- jonathan: hey, that's really neato and stuff, but in the meantime, you know ... ow!
+warren: so there's a kink or two. it's just a prototype. i mean, soon we'll have-
+jonathan: hey, that's really neato and stuff, but in the meantime, you know ... ow!
 scene direction: warren glances at him
 warren: be a bigger wuss.
 jonathan: can we just go back to the lair? because ... i can't ... really feel my fingers.
 warren: yeah, yeah, come on.
 scene direction: jonathan and andrew walk on past warren. andrew pauses looking at rusty.
-andrew: is he gonna like- warren: oh, he'll be fine. yeah, he'll defrost in a couple of days, no harm, no foul.
+andrew: is he gonna like-
+warren: oh, he'll be fine. yeah, he'll defrost in a couple of days, no harm, no foul.
 andrew: won't he tell on us?
 warren: and say what? 'two guys and a mime took me out with their freeze ray'? that's likely.
 scene direction: andrew looks uncertain.
 warren: come on!
 scene direction: they walk off, leaving rusty standing there with bits of mist curling off him.
 scene change: cut to the summers house. amy still sits on the bed in the same position, but now she is wearing clothes. she looks around, very twitchy rat-like movements. she jumps as the door opens. willow enters holding a mug.
-willow: hey. here's some hot chocolate, you want- amy: no, thanks.
-scene direction: willow gestures at her throat
-willow: still ... kinda queasy.
+willow: hey. here's some hot chocolate, you want-
+amy: no, thanks.
+scene direction: amy gestures at her throat
+amy: still ... kinda queasy.
 willow: okay. maybe later.
 scene direction: willow turns to put the mug down. sound of a siren from outside. amy starts, looks fearfully at the window. magic sound-effect. the window slams shut.
 willow: hey, no, i-it's okay.
@@ -201,9 +208,10 @@ amy: rat. you?
 buffy: dead.
 amy: oh.
 scene direction: buffy looking at willow
-buffy: well, i should ... let you guys catch up, i can- amy: no no no, stay.
-scene direction: buffy twitchy
-buffy: do you have any cookies?
+buffy: well, i should ... let you guys catch up, i can-
+amy: no no no, stay.
+scene direction: amy twitchy
+amy: do you have any cookies?
 buffy: uh, yeah, w-what kind?
 amy: any kind. not cheese.
 buffy: um, sure, in the, the kitchen, i'll just get 'em-
@@ -262,7 +270,8 @@ spike: well, well, well. look who decided to show up.
 buffy: what are you doing here, spike?
 spike: well, you know, a man was frozen alive in there. a little compassion, luv.
 scene direction: buffy rolls her eyes, starts to walk past him. spike falls into step beside her.
-spike: uh, you know, as long as we're both here, you might as well tag along. i mean, as a team we could- buffy: yeah, that never really ends well, does it?
+spike: uh, you know, as long as we're both here, you might as well tag along. i mean, as a team we could-
+buffy: yeah, that never really ends well, does it?
 spike: it did the other night.
 buffy: you really seem awfully fixated on a couple of kisses, spike.
 scene direction: spike pauses, so that she walks a few steps ahead of him.
@@ -318,9 +327,10 @@ spike: some people forget that.
 scene direction: he advances on the woman. she backs away, shaking her head fearfully, backs up against a wall.
 woman: please.
 spike: she thinks i'm housebroken. she forgot who she's dealing with.
-woman: anything you want, please- spike: just 'cause she's confused about where she fits in, i'm supposed to be too? 'cause i'm not.
-scene direction: woman pacing back and forth
-woman: i know what i am. i'm dangerous. i'm evil.
+woman: anything you want, please-
+spike: just 'cause she's confused about where she fits in, i'm supposed to be too? 'cause i'm not.
+scene direction: spike pacing back and forth
+spike: i know what i am. i'm dangerous. i'm evil.
 scene direction: woman scared
 woman: i-i'm sure you're not evil.
 spike: yes, i am. i am a killer.
@@ -397,12 +407,13 @@ scene direction: xander awkwardly
 xander: well, you know, i am kinda beat, and i bet you that's tiring, that ... thing you're doing there...
 scene direction: xander fake yawn
 scene direction: xander gives an exaggerated stretch as if to show he's tired. willow takes her hands off the keyboard. sound effect to indicate the end of her spell. she looks at them.
-willow: guys, i'm fine. what's the deal with- anya: oh, for crying out loud. this is bizarre. you're all, 'la la la!' with, with the magic, and the not talking, like everything's normal, when we all know that tara up and left you and now everyone's scared to say anything to you.
-scene direction: willow pauses, smiles
-willow: except me.
-scene direction: willow looks at xander
-willow: is this that thing i do that you were commenting-
-scene direction: willow xander nods
+willow: guys, i'm fine. what's the deal with-
+anya: oh, for crying out loud. this is bizarre. you're all, 'la la la!' with, with the magic, and the not talking, like everything's normal, when we all know that tara up and left you and now everyone's scared to say anything to you.
+scene direction: anya pauses, smiles
+anya: except me.
+scene direction: anya looks at xander
+anya: is this that thing i do that you were commenting-
+scene direction: anya xander nods
 willow: guys ... it's okay. it's hard ... but i-it's better this way. little things just ... starting taking over, things that didn't matter, but we saw them differently, so ... they got blown out of proportion.
 scene direction: willow shot of buffy and xander listening
 willow: and, this time away will help us sort through things. really. now, let's just keep working on this. i don't wanna leave amy alone in the house so long.
@@ -429,10 +440,12 @@ scene direction: spike backs warren up against a pole.
 spike: knock knock, robot boy.
 scene direction: spike knocks on warren's head
 spike: need you to look at my chip.
-jonathan: is that like, british slang or something? 'cause we're not- spike: in my head, the chip in my head.
+jonathan: is that like, british slang or something? 'cause we're not-
+spike: in my head, the chip in my head.
 warren: we're kind of in the middle of something.
 spike: well, you can play holodeck another time. right now, i'm in charge.
-warren: yeah, what are you gonna do if we don't especially feel like maybe playing your- spike turns around, sees a display of action figures, reaches for it.
+warren: yeah, what are you gonna do if we don't especially feel like maybe playing your-
+scene direction: spike turns around, sees a display of action figures, reaches for it.
 warren: what are, wait, what are you doing?
 scene direction: spike picks up the boba fett action figure, removing it from its display stand.
 spike: examine my chip, or else mister...
@@ -465,7 +478,8 @@ scene direction: andrew looks over at spike. shot of spike tossing the action fi
 scene direction: andrew to warren
 andrew: do what you need to do.
 scene direction: warren turns back to spike.
-warren: i think we can work something out. i'll take a look at your chip. it'll be a deal. we scratch your back, you scratch- spike: i'm not scratching your anything. you do what i tell you, that's the deal. deal?
+warren: i think we can work something out. i'll take a look at your chip. it'll be a deal. we scratch your back, you scratch-
+spike: i'm not scratching your anything. you do what i tell you, that's the deal. deal?
 scene direction: warren sighs
 warren: deal.
 spike: then let's go.
@@ -477,7 +491,8 @@ scene direction: amy peeks out of the kitchen.
 amy: oh god, you're back.
 scene direction: amy hurries over
 amy: i thought you said you wouldn't be gone that long.
-willow: i wasn't. i mean, i thought it was- amy: let's go somewhere.
+willow: i wasn't. i mean, i thought it was-
+amy: let's go somewhere.
 willow: don't you wanna go see your dad?
 scene direction: amy twitchy
 amy: no. can't. not yet. too many questions.
@@ -532,15 +547,17 @@ spike: help me out here, spock, i don't speak loser.
 scene direction: spike gives papers back
 warren: okay, right, um ... your chip works fine, yeah.
 scene direction: spike frowns
-spike: there's gotta be something wrong- warren: no, no, listen. i don't know what that thing does ... i'd like to...
-scene direction: spike leans closer
+spike: there's gotta be something wrong-
+warren: no, no, listen. i don't know what that thing does ... i'd like to...
+scene direction: warren leans closer
 scene direction: spike leans back
 spike: hey.
 warren: but whatever it is, it works fine. there's no deterioration of the signal, it still is coming through on a steady pulse. which it's supposed to.
 scene direction: spike stands up, gets in warren's face, towers over him on the platform, very menacing.
-spike: if you're lying to me- warren: no! it's all right here. i, i mean, it is. it's really not that hard to figure out, if you just...
-scene direction: spike sees spike frowning
-spike: what?
+spike: if you're lying to me-
+warren: no! it's all right here. i, i mean, it is. it's really not that hard to figure out, if you just...
+scene direction: warren sees spike frowning
+warren: what?
 scene direction: spike frowns, ponders deeply. gives a small smile. looks at warren.
 spike: you tell anyone about this...
 warren: no, i promise. who would i tell, i don't even know what this is about!
@@ -577,7 +594,12 @@ tara: fine. i'll stay, but just until they get back. and only to make sure that 
 dawn: sure. cool. up to you.
 scene direction: dawn snuggles up to tara, puts her head on tara's shoulder. they both watch tv.
 scene change: cut to the bronze. the group virgil is onstage, performing their song "vermilion borders".
-male singer: low country wars oh, there's a demon she's drinkin' and thinkin' of runnin' away close shot of willow's face as she bends over. sound of billiard balls clinking. willow grimaces.
+male singer:
+scene direction: low country wars
+scene direction: oh, there's a demon
+scene direction: she's drinkin' and thinkin'
+scene direction: of runnin' away
+scene direction: close shot of willow's face as she bends over. sound of billiard balls clinking. willow grimaces.
 willow: i know. xander engaged, i couldn't believe it either.
 scene direction: willow straightens up
 amy: it's just so weird.
@@ -615,7 +637,8 @@ scene direction: willow nervous
 willow: no. thanks, but no.
 amy: you sure?
 scene direction: willow nods, looks at bree, then back at amy
-willow: i'm not, she, i'm still- amy: it's cool.
+willow: i'm not, she, i'm still-
+amy: it's cool.
 scene direction: amy snaps her fingers again. bree looks confused.
 bree: oh, uh, sorry.
 scene direction: bree walks back to where she was. the other girl looks outraged.
@@ -624,7 +647,12 @@ scene direction: amy to willow
 amy: you sure you're gonna be okay?
 willow: yeah, go. i'm all kinds of good.
 scene direction: amy and the two guys go off to the dance floor, begin dancing together. willow stands watching.
-male singer: i'm getting caught in the corners of her vermilion borders she's moving backwards and forwards and she's ugly when she's insecure cut to later. willow sits by herself staring at a martini glass. she lifts out the plastic stirrer with an olive speared on it.
+male singer:
+scene direction: i'm getting caught in the corners
+scene direction: of her vermilion borders
+scene direction: she's moving backwards and forwards
+scene direction: and she's ugly when she's insecure
+scene change: cut to later. willow sits by herself staring at a martini glass. she lifts out the plastic stirrer with an olive speared on it.
 scene direction: close shot of the olive with its pimento filling.
 willow: no use looking at me like that. it's the gullet for you, mister.
 scene direction: she eats the olive.
@@ -639,7 +667,8 @@ scene direction: the two guys walk over again.
 guy 1: hey, come on. we're just getting started.
 scene direction: amy looks at willow
 amy: i think i'm gonna sit this one out.
-guy 2: nuh-uh! you can't, you can't just work us up like that and then just- the guy grabs amy's arm and pulls her away from the bar, but she pulls free.
+guy 2: nuh-uh! you can't, you can't just work us up like that and then just-
+scene direction: the guy grabs amy's arm and pulls her away from the bar, but she pulls free.
 amy: hey!
 willow: i think she said no.
 guy 2: well, nobody asked you ... ellen.
@@ -666,7 +695,8 @@ buffy: we suck.
 xander: we need new brains. what's up with willow?
 buffy: out with amy, i guess.
 anya: great, someone to do more magic with.
-buffy: but at least she's not all cooped up and crying. that's forward momentum. now, i know that i don't ... know everything that happened with her and tara, but it- xander: tara thinks willow is doing too much magic. and she's not the only one.
+buffy: but at least she's not all cooped up and crying. that's forward momentum. now, i know that i don't ... know everything that happened with her and tara, but it-
+xander: tara thinks willow is doing too much magic. and she's not the only one.
 buffy: i know. but i-i think she'll be fine. you know, it's, it's willow. she of the level head.
 anya: well, those are the ones you have to watch out for the most. responsible types.
 buffy: right, she might go crazy and start alphabetizing everything.
@@ -683,7 +713,8 @@ scene direction: xander os
 xander: just giving in to it. going totally wild.
 scene direction: buffy stares at him.
 xander: we need to keep an eye on her.
-buffy: okay. okay, we'll, we'll keep an eye. but we can't assume that everybody's getting seduced, you know, sometimes- the phone rings. buffy gets up to answer it. we see that she's wearing a gauzy white blouse with a long black leather skirt. she goes to the phone at the back of the room.
+buffy: okay. okay, we'll, we'll keep an eye. but we can't assume that everybody's getting seduced, you know, sometimes-
+scene direction: the phone rings. buffy gets up to answer it. we see that she's wearing a gauzy white blouse with a long black leather skirt. she goes to the phone at the back of the room.
 buffy: hello, magic box.
 scene change: cut to spike standing at a pay phone.
 scene direction: spike deep gruff voice
@@ -728,7 +759,8 @@ xander: we have those?
 scene direction: xander they stop walking
 buffy: i'm just saying, all the things that have happened lately? okay, the, the bank robbery, the jewelry heist...
 xander: the exploding lint.
-buffy: i-is it me, or do these things seem really- anya: lame?
+buffy: i-is it me, or do these things seem really-
+anya: lame?
 scene direction: buffy shrugs
 buffy: well, i was gonna go with unusual, but, yeah.
 scene direction: they all stand there shrugging at each other.
@@ -791,21 +823,25 @@ scene direction: buffy slowly looks back over at him, panting.
 buffy: you're wrong.
 scene direction: she hits him again, even harder. he falls down, gets up, grinning. buffy hits him again and he goes down again, gets up again. she pushes him backward into a doorway, follows him up the stairs, grabs him. they crash through the door into the building.
 scene change: cut to the bronze. the two guys are still almost-naked and dancing against their will in the cages.
-male singer: what is wrong here?
+male singer:
+scene direction: what is wrong here?
 scene direction: what is wrong here?
 scene direction: what is wrong with you?
 scene direction: we see amy and willow on the upper level, leaning on the railing looking down, smiling.
-male singer: what is wrong here?
+male singer:
+scene direction: what is wrong here?
 scene direction: what is wrong here?
 scene direction: where is your head?
 willow: you know, this music isn't quite...
 scene direction: willow gestures. the male singer of virgil morphs into the female singer of halo friendlies. the other members of virgil morph into members of halo friendlies too in background.
-female singer: i don't wanna be, i don't wanna be alone backup singers: no no no!
-female singer: i don't wanna go, i don't wanna go it alone amy and willow grin happily, look at the dancing boys.
-female singer: every time i see you i can't find the words to say amy looks down at the lower level, makes a gesture. a white-clad demo
-scene direction: female singer ?
-female singer: appears, floating over the dancers' heads.
-female singer: i just wanna turn and run away willow makes a gesture at two guys standing side-by-side. one guy begins to shrink while the other grows very large, both looking around and yelling in confusion.
+female singer: i don't wanna be, i don't wanna be alone
+backup singers: no no no!
+female singer: i don't wanna go, i don't wanna go it alone
+scene direction: amy and willow grin happily, look at the dancing boys.
+female singer: every time i see you i can't find the words to say
+scene direction: amy looks down at the lower level, makes a gesture. a white-clad demon(?) appears, floating over the dancers' heads.
+female singer: i just wanna turn and run away
+scene direction: willow makes a gesture at two guys standing side-by-side. one guy begins to shrink while the other grows very large, both looking around and yelling in confusion.
 scene direction: amy makes a gesture and turns a bunch of dancers into sheep.
 scene direction: willow and amy grin at each other.
 scene direction: pan across the room with various bolts of magic swirling around, people floating in the air, etc. willow makes another gesture, grinning widely.
@@ -856,7 +892,8 @@ buffy: you haven't even come close to hurting me.
 spike: afraid to give me the chance?
 scene direction: buffy breaks his hold, throws him against a wall. another big hole in the wall where he hits. shot of cracks appearing in the wall.
 scene direction: buffy grabs spike and pushes him up against the wall.
-spike: you afraid i'm gonna- buffy shuts him up by kissing him. they kiss passionately. buffy slams her hand into the wall, creating another hole, to get her arm around spike's neck.
+spike: you afraid i'm gonna-
+scene direction: buffy shuts him up by kissing him. they kiss passionately. buffy slams her hand into the wall, creating another hole, to get her arm around spike's neck.
 scene direction: shot of pieces of the ceiling separating from each other.
 scene direction: buffy and spike move away from the wall, still kissing. spike slams buffy up against another section of wall. above their heads, cracks appear and widen, moving up toward the ceiling.
 scene direction: more kissing. buffy shoves spike away, follows him as he stumbles backward across the room. she pushes him again and continues following. behind her, a huge piece of ceiling falls onto the spot where they were just standing.
@@ -870,4 +907,4 @@ scene direction: buffy leans forward to wrap her arms around spike and they fall
 scene direction: they stare into each other's eyes, both panting.
 scene direction: blackout.
 executive producers: joss whedon and marti noxon.
-scene direction: the en 
+scene direction: the end

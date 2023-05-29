@@ -140,7 +140,6 @@ the
 bigger
 they
 are
-anya
 the
 faster
 they
@@ -453,7 +452,6 @@ left
 behind
 is
 uh
-buffy
 crazy
 people
 giles
@@ -2365,7 +2363,6 @@ like
 to
 pretend
 stuff
-joyce
 um
 anya
 you
@@ -2378,7 +2375,6 @@ fireman
 or
 a
 shepherd
-buffy
 you
 know
 what
@@ -2666,7 +2662,6 @@ of
 chocolates
 and
 i'm
-spike
 what
 sneaking
 out
@@ -3037,7 +3032,6 @@ of
 the
 key'
 spike
-dawn
 scoffs
 brownrobe
 types
@@ -3055,7 +3049,7 @@ justify
 giving
 up
 girls
-dawn
+spike
 he
 looks
 around
@@ -3507,7 +3501,6 @@ it's
 'greeting
 card
 silence'
-willow
 sorry
 maybe
 it's
@@ -3683,7 +3676,6 @@ if
 you
 need
 anything
-buffy
 thanks
 willow
 hugs
@@ -3884,7 +3876,6 @@ i
 worry
 about
 you
-dawn
 you
 worry
 about
@@ -3925,7 +3916,6 @@ my
 fake
 family
 sweetheart
-dawn
 get
 out
 dawn
@@ -4693,7 +4683,6 @@ she'll
 be
 forced
 to
-ben
 to
 what
 what
@@ -4904,7 +4893,6 @@ language
 like
 that
 buffy
-joyce
 os
 she
 probably
@@ -6407,7 +6395,6 @@ but
 when
 you're
 older
-dawn
 no
 you
 don't
@@ -6418,14 +6405,13 @@ real
 none
 of
 this
-ben
+dawn
 indicating
 her
 body
 they
 made
 it
-dawn
 dawn
 i'm
 nothing
@@ -6492,7 +6478,6 @@ just
 tell
 me
 ben
-dawn
 agitated
 you
 don't
@@ -6500,7 +6485,7 @@ understand
 you're
 a
 kid
-dawn
+ben
 dawn
 gets
 up
@@ -7391,7 +7376,6 @@ glory's
 unmentionables
 no
 i
-glory
 shh
 i
 kinda
@@ -7403,7 +7387,7 @@ right
 now
 me
 talking
-dawn
+glory
 gets
 right
 up
@@ -7423,7 +7407,7 @@ that
 maybe
 you
 
-dawn
+glory
 dawn
 looking
 very
@@ -8069,13 +8053,12 @@ dress
 you
 little
 willow
-glory
 claps
 her
 hands
 once
 discede
-glory
+willow
 latin
 'disperse'
 or

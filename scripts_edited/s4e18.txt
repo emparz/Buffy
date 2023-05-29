@@ -73,14 +73,16 @@ scene direction: xander gesturing at his crotch
 xander: no function problem, okay?
 scene direction: anya looks skeptical.
 scene direction: xander claps his hands, starts unbuttoning his shirt
-xander: you want sex? let's have sex. right here. hot, sweaty, big sex. camera angle changes so we see into the truck from the perspective of the customer window in the side of the truck. xander's hands stop moving. his and anya's heads turn together.
+xander: you want sex? let's have sex. right here. hot, sweaty, big sex.
+scene direction: camera angle changes so we see into the truck from the perspective of the customer window in the side of the truck. xander's hands stop moving. his and anya's heads turn together.
 scene direction: shot of a group of kids and parents staring up at them.
 scene direction: shot of xander and anya giving false smiles.
 giles voiceover: there's always been great discord between them.
 scene change: cut to giles holding a rolled-up piece of paper.
 giles: and yet you say that the, the vampire went to the demon's aid. the two of them were working as a team?
 scene direction: buffy sitting on riley's lap, nods
-buffy: everything except giving each other little pats on the behind. we see the interior of a college lounge room. buffy and riley in one chair, giles on their right, willow and tara on the sofa across from them.
+buffy: everything except giving each other little pats on the behind.
+scene direction: we see the interior of a college lounge room. buffy and riley in one chair, giles on their right, willow and tara on the sofa across from them.
 giles: extraordinarily odd.
 scene direction: giles sits back, crosses his legs, gestures with the paper
 giles: as a rule, demons ... have no empathy for any of the species other than their own.
@@ -431,7 +433,7 @@ xander: julie! what?
 scene direction: she suddenly looks horrified.
 julie: i'm sorry. i didn't... i'm sorry!
 scene direction: julie jumps up and runs off. xander looks confused, then runs after her.
-julie: xander walks through the crowds, looking around. we hear a girl yelling "oh my god!" happily. x finds a group of people around the spot on the wall. snob's girl is touching it and going "oh, oh, oh! touch it!" she falls back against snob guy. he puts his hand on the wall. the others chatter loudly.
+scene direction: xander walks through the crowds, looking around. we hear a girl yelling "oh my god!" happily. x finds a group of people around the spot on the wall. snob's girl is touching it and going "oh, oh, oh! touch it!" she falls back against snob guy. he puts his hand on the wall. the others chatter loudly.
 scene direction: xander hears crying noises from behind a closed door.
 xander: hi, uh, you okay?
 scene direction: xander hears more crying
@@ -484,7 +486,8 @@ scene direction: willow yells
 willow: buffy? riley?
 scene direction: they pound on the door. no answer.
 scene direction: suddenly, sharp-looking spiny thorns, with green leaves, sprout from the cracks around the edges of the door. willow and xander jump back.
-xander: buffy! long shot of buffy and riley in bed, smooching and writhing. we hear panting and moaning, which echoes, and faintly we can hear xander still pounding and yelling buffy's name. the bed recedes until it's just a small square in the middle of the screen, with blackness all around.
+xander: buffy!
+scene direction: long shot of buffy and riley in bed, smooching and writhing. we hear panting and moaning, which echoes, and faintly we can hear xander still pounding and yelling buffy's name. the bed recedes until it's just a small square in the middle of the screen, with blackness all around.
 scene change: *** commercial ***
 scene direction: long shot of the bed as a tiny square in the middle of a black screen.
 riley: do you wanna go back?
@@ -594,12 +597,12 @@ xander: what?!
 scene direction: giles sings
 giles: no one knows what it's like...
 scene direction: giles makes unintelligible sounds
-willow: oh, come on, he is kinda sexy. giles
-scene direction: willow sings
-willow: like i do...
+willow: oh, come on, he is kinda sexy.
+scene direction: giles (sings) like i do...
 xander: i'm fighting total mental breakdown here, will. no more fueling the fire please.
 scene direction: giles sings
-giles: and i blame you... the song trails off as we cut back to lowell house, now deserted, wreckage everywhere. the camera pans across the room and up the stairs to riley's door, just like before, only now the vines cover the entire door and much of the ceiling and floor nearby. muffled howling and screeching noises.
+giles: and i blame you...
+scene direction: the song trails off as we cut back to lowell house, now deserted, wreckage everywhere. the camera pans across the room and up the stairs to riley's door, just like before, only now the vines cover the entire door and much of the ceiling and floor nearby. muffled howling and screeching noises.
 scene change: cut to buffy and riley in bed. they let go of each other and lie side by side, panting.
 buffy: you're, you're too far away from me.
 riley: i'm right here.
@@ -710,7 +713,8 @@ scene direction: buffy and riley in bed. blurry slow-motion kissing. panting, mo
 buffy: don't stop. never stop touching me.
 scene direction: she turns his face toward her and they kiss again.
 scene change: cut to tara spreading a red cloth on a table, then sitting in a chair . willow brings candles and sets them on the table, sits down. we see giles sitting on the floor. they're in willow and buffy's dorm room.
-anya: what good are weapons against disembodied spirits, xander? they have no ass to kick. we see xander rummaging in buffy's weapon chest.
+anya: what good are weapons against disembodied spirits, xander? they have no ass to kick.
+scene direction: we see xander rummaging in buffy's weapon chest.
 giles: she's right.
 scene direction: giles gets up, holding a book
 giles: you should just stay outside.

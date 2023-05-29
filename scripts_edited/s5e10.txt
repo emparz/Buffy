@@ -92,7 +92,8 @@ scene direction: anya smiles and rubs xander's chest.
 scene direction: anya to dawn
 anya: he's not very convincing, is he?
 scene direction: dawn shakes her head in agreement.
-dawn: 'alone time' always translates into 'get dawn out of the house so we can have loud obnoxious sex.' xander looks like he wants to object, but doesn't. anya smiles, then suddenly realizes something.
+dawn: 'alone time' always translates into 'get dawn out of the house so we can have loud obnoxious sex.'
+scene direction: xander looks like he wants to object, but doesn't. anya smiles, then suddenly realizes something.
 scene direction: anya softly to xander
 anya: oh, does that mean we can't?
 scene direction: xander gives her a look.
@@ -158,7 +159,8 @@ joyce: well, good. i mean, just as long as the two of you are spending some qual
 buffy: we are. absolutely.
 scene change: cut to looks like a hotel room. a commando is sitting on a sofa fiddling with some high-tech equipment - he has headphones on his ears. graham walks over to a table where major ellis has some maps spread out.
 ellis: what've we got?
-graham: belize. last transmission. infra-red scans say they're- ellis: breeding. they're not gonna stay in that village for long. looks like we got ourselves a hot spot. tell the men to get ready.
+graham: belize. last transmission. infra-red scans say they're-
+ellis: breeding. they're not gonna stay in that village for long. looks like we got ourselves a hot spot. tell the men to get ready.
 scene direction: graham starts to leave, pauses.
 graham: what about riley?
 scene direction: graham ellis looks confused
@@ -224,7 +226,8 @@ vamp 2: hey. hey, hey.
 scene direction: he steps in front of her but she gives him a shove and he flies backward, hitting the wall as buffy exits.
 scene direction: spike comes down the stairs a few steps behind. vamp 2 growls as spike passes him.
 scene change: cut to buffy exiting the warehouse, pausing at the bottom of the stairs, looking shell-shocked. spike bursts out, passes her and turns back.
-spike: i thought you should know- buffy lifts her head and gives him a fierce look. spike looks startled. she runs past him and away, down the alley. spike looks disappointed.
+spike: i thought you should know-
+scene direction: buffy lifts her head and gives him a fierce look. spike looks startled. she runs past him and away, down the alley. spike looks disappointed.
 scene change: cut to inside the warehouse. riley comes rushing down the stairs, buttoning his shirt. vamp #2 intercepts him, grabbing his shirt.
 vamp 2: was that the slayer? what the hell do you think you're doing bringing the slayer here?
 riley: back off, man. i didn't know.
@@ -281,9 +284,9 @@ willow: aw, holding them tight as they fall asleep. painting their little toenai
 scene direction: willow and giles laugh. xander grins. anya grins too, though she is not amused.
 anya: that's so very humorous. make fun of the ex-demon! i can just hear you in private.
 scene direction: anya talks to the chicken foot
-anya: 'i dislike that anya. she's newly human and strangely literal.' willow:
-scene direction: anya frowns
-anya: anya, i don't say that. no one says that. no one talks that way.
+anya: 'i dislike that anya. she's newly human and strangely literal.'
+scene direction: willow frowns
+willow: anya, i don't say that. no one says that. no one talks that way.
 anya: there's nothing wrong with my idea anyway. i've been very good for this store.
 scene direction: anya frowns
 anya: if it wasn't for me, giles would be a terrified old man staring at a quarterly tax statement and wetting himself.
@@ -309,7 +312,8 @@ scene direction: giles puts up a hand
 giles: please! stop, i beg of you.
 scene direction: they all look up as the door opens (it has bells that jingle when it moves) and buffy enters. she has a bag over her shoulder. she strides purposefully over to the counter.
 buffy: i need to find out everything i can about a vamp nest downtown.
-giles: a nest? what sort of- buffy: there were people there. it, um, it looked like they were paying vampires to bite them.
+giles: a nest? what sort of-
+buffy: there were people there. it, um, it looked like they were paying vampires to bite them.
 scene direction: giles looks shocked.
 xander: *now* i know what to get for the person who has everything!
 willow: who would pay to get bitten?
@@ -347,9 +351,9 @@ buffy: i don't understand. this place was doing serious business last night.
 scene direction: we see that the place is deserted. willow and xander are on the main floor. a small grill sits on a table, with a fire burning in it.
 xander: well, i guess everybody jumped ship once the word got out that the slayer found their crib.
 scene direction: xander pauses
-xander: i just want to apologize for the use of the word 'crib.' buffy:
-scene direction: xander to giles
-xander: do you think they'll set up shop again in town?
+xander: i just want to apologize for the use of the word 'crib.'
+scene direction: buffy to giles
+buffy: do you think they'll set up shop again in town?
 giles: it's hard to say. i'm sure they'll lie low for a bit.
 buffy: but they're around somewhere. there's gotta be a way to find these creeps.
 willow: don't worry, buff, you'll find them.
@@ -456,9 +460,10 @@ scene direction: anya calling over her shoulder
 anya: there's a funny thing with the vaulting horse that you can tr...
 xander: anya!
 anya: what? he started it.
-xander: in your world, maybe, but where the people are, this isn't the time for 'tales of anya and xander's sexcapades.' anya: oh.
-scene direction: xander stops walking and turns to him
-xander: uh, well, maybe we can go home and, you know, have 'em.
+xander: in your world, maybe, but where the people are, this isn't the time for 'tales of anya and xander's sexcapades.'
+anya: oh.
+scene direction: anya stops walking and turns to him
+anya: uh, well, maybe we can go home and, you know, have 'em.
 xander: actually, i've got some stuff to take care of.
 scene direction: he walks past her and opens the door to leave. anya follows him.
 scene change: cut to buffy still punching. riley walks in behind her.
@@ -484,9 +489,10 @@ scene direction: buffy quietly
 buffy: fine. get your hand off of me.
 scene direction: he lets go of her arm, sighs, walks a few steps away.
 riley: i think, when this thing started, it was just some stupid, immature game. i wanted to even the score after you let dracula bite you.
-buffy: i did not *let* dracula- riley: i know. on some level i know that. but i was still spun.
-scene direction: buffy pause
-buffy: i don't know, i - i wanted to know what you felt. i wanted to know why dracula and angel have so much power over you.
+buffy: i did not *let* dracula-
+riley: i know. on some level i know that. but i was still spun.
+scene direction: riley pause
+riley: i don't know, i - i wanted to know what you felt. i wanted to know why dracula and angel have so much power over you.
 scene direction: buffy shakes her head
 buffy: you so don't get it.
 riley: i wanted to get it, buffy. i wanted to get you.
@@ -496,8 +502,10 @@ riley: this isn't your fault. it's mine. i feel like hell for what i've put you 
 scene direction: riley buffy still doesn't look at him
 riley: it's just...
 scene direction: riley sighs
-riley: these girls- buffy: vampires. killers.
-riley: they made me feel something, buffy. something i didn't even know i was missing until- buffy: i can't. i can't hear this.
+riley: these girls-
+buffy: vampires. killers.
+riley: they made me feel something, buffy. something i didn't even know i was missing until-
+buffy: i can't. i can't hear this.
 scene direction: she turns away again and riley grabs her arm again.
 riley: you *need* to hear this.
 scene direction: buffy pulls her arm away, walks a few steps away.
@@ -610,7 +618,8 @@ buffy: well, it's not fair.
 xander: who cares if it's fair? in about twenty minutes, riley's gonna disappear, maybe forever, unless you do something to stop him.
 buffy: what am i supposed to do? beg him to stay?
 scene direction: xander in disbelief
-xander: why wouldn't you? to keep riley here- buffy: i don't even know who he is anymore. i mean, i thought he was ... dependable.
+xander: why wouldn't you? to keep riley here-
+buffy: i don't even know who he is anymore. i mean, i thought he was ... dependable.
 xander: dependable? what is he, state farm?
 buffy: you know what i mean.
 xander: yeah. i think you mean convenient. i think you took it for granted that he was gonna show up when you wanted him to, and take off when you didn't.
@@ -664,4 +673,4 @@ scene change: cut to buffy entering the dark summers house. she walks partway up
 scene direction: her image fades into the image of riley sitting in the helicopter with the dark town of sunnydale laid out below him.
 scene direction: blackout.
 scene direction: in memory of d.c. gustafson.
-executive producer: joss whedon 
+executive producer: joss whedon.

@@ -98,7 +98,6 @@ more
 minutes
 to
 decide
-buffy
 no
 i
 it's
@@ -256,15 +255,6 @@ not
 this
 isn't
 about
-the
-cordless
-phone
-on
-the
-table
-rings
-buffy
-sighs
 i'm
 all
 phoned
@@ -395,7 +385,6 @@ will
 be
 no
 wake'
-xander
 good
 yeah
 it's
@@ -1170,7 +1159,6 @@ float
 aand
 disappear
 and
-tara
 but
 we
 don't
@@ -1678,7 +1666,6 @@ relationship
 with
 the
 slayer
-ben
 we
 don't
 have
@@ -1791,7 +1778,6 @@ that's
 not
 what
 i
-jinx
 i
 understand
 sir
@@ -1952,23 +1938,6 @@ warlocks'
 a
 controversy
 born'
-she
-flips
-the
-pages
-quickly
-finds
-the
-spot
-reads
-quickly
-then
-looks
-up
-with
-a
-thoughtful
-expression
 you
 don't
 have
@@ -2473,7 +2442,6 @@ he's
 most
 loyal
 to
-glory
 hey
 he
 better
@@ -2802,7 +2770,6 @@ the
 grieving
 fly
 by
-dawn
 i
 don't
 want
@@ -2903,7 +2870,6 @@ it
 this
 egg
 or
-doc
 if
 it
 was
@@ -3256,14 +3222,6 @@ and
 i
 haven't
 got
-dawn
-turns
-and
-runs
-back
-toward
-the
-nest
 a
 weapon
 no
@@ -3613,7 +3571,6 @@ told
 me
 her
 dna
-buffy
 who
 told
 you
@@ -3753,7 +3710,6 @@ because
 i
 have
 to
-dawn
 no
 you've
 been

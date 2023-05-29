@@ -531,13 +531,6 @@ does
 too
 does
 no
-dawn
-stops
-herself
-calms
-down
-a
-little
 xander
 action
 is
@@ -595,7 +588,6 @@ going
 to
 support
 me
-xander
 i'm
 supportive
 i'm
@@ -1474,7 +1466,6 @@ mmmfashnik
 like
 mmm
 cookies
-xander
 or
 maybe
 muhfashnik
@@ -1802,7 +1793,7 @@ youyou
 know
 i
 meant
-buffy
+
 i
 know
 what
@@ -2294,18 +2285,6 @@ was
 like
 run
 juliet
-they
-all
-grin
-nod
-at
-each
-other
-laugh
-their
-dorky
-laughs
-again
 enough
 nothing
 you
@@ -3110,7 +3089,6 @@ looking
 for
 is
 congratulations
-giles
 having
 buffy
 back
@@ -4113,7 +4091,6 @@ of
 the
 way
 before
-buffy
 i
 gotta
 go
@@ -4133,4 +4110,4 @@ and
 marti
 noxon
 the
-en
+end

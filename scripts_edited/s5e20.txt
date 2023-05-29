@@ -21,7 +21,8 @@ glory: last words, slay-runt?
 buffy: just one. truck.glory looks to her right, too late, as a huge semi smashes into her.
 scene direction: buffy and dawn run off in the other direction.
 scene direction: glory lands on her back on top of a parked car, smashing its roof in. she starts to sit up, then stops with a jerk.
-glory: no! not now, you idiot! let go- she morphs into ben.
+glory: no! not now, you idiot! let go-
+scene direction: she morphs into ben.
 ben: -of my body!
 scene direction: ben rolls off the car onto the ground, looks around. he's wearing glory's dress.
 ben: oh, god.
@@ -42,9 +43,9 @@ dawn: buffy's just standing there not even blinking, like "bring it on," and the
 scene direction: dawn smacks one fist into the other hand
 dawn: hell-bitch in orbit.
 xander: go, buff!
-giles: i knew you'd best glory eventually, i mean all-all our years of training- buffy:
-scene direction: giles still staring out the window
-giles: a truck hit her.
+giles: i knew you'd best glory eventually, i mean all-all our years of training-
+scene direction: buffy still staring out the window
+buffy: a truck hit her.
 giles: oh.
 anya: you threw it at her?
 dawn: well, no. she more kind of waited for it to hit glory. uh, but then buffy ran really fast and we got away.
@@ -68,9 +69,11 @@ anya: we should drop a piano on her. well, it always works for that creepy carto
 scene direction: giles rolls his eyes
 giles: yes, or perhaps we could paint a convincing tunnel on the side of a mountain. let's just keep thinking, everyone.
 scene direction: giles to buffy
-giles: perhaps we should reassemble at the magic shop, see if there's anything- buffy: we can't fight her.
+giles: perhaps we should reassemble at the magic shop, see if there's anything-
+buffy: we can't fight her.
 scene direction: giles surprised
-giles: w-well not yet, no, but- buffy: no, not ever. she's too strong, giles. we're not gonna win this with, with stakes, or spells, or pulling out some uranium power core. she's a god and she's coming for us. so let's just not be here when she starts knocking.
+giles: w-well not yet, no, but-
+buffy: no, not ever. she's too strong, giles. we're not gonna win this with, with stakes, or spells, or pulling out some uranium power core. she's a god and she's coming for us. so let's just not be here when she starts knocking.
 anya: run away?
 scene direction: buffy looks at her.
 anya: finally, a sensible plan.
@@ -139,9 +142,8 @@ xander: hey, we gotta be like sergeant rock. cool and collected in the face of o
 anya: *over*whelming?
 scene direction: anya turns to him
 anya: how much more than whelming would that be exactly?
-giles: look, everything will be all right, we just need to stay here calmly. as soon as buffy arrives- a large winnebago
-scene direction: giles rv, motor home
-giles: drives up and screeches to a halt in front of them. the windows are all covered with aluminum foil. the door swings open.
+giles: look, everything will be all right, we just need to stay here calmly. as soon as buffy arrives-
+scene direction: a large winnebago (rv, motor home) drives up and screeches to a halt in front of them. the windows are all covered with aluminum foil. the door swings open.
 giles: -we'll feel oddly worse.
 scene direction: they all pick up their stuff and climb into the winnebago.
 scene change: cut to inside. looking from the driver's seat back, on the left there's a small kitchen area with sink; on the right, a booth with a table. farther back there's a door leading into a back bedroom.
@@ -156,9 +158,9 @@ scene direction: buffy looks up from the table
 buffy: he's here because we need him.
 xander: the hell we do.
 buffy: if glory finds us, he's the only one besides me that has any chance of protecting dawn.
-xander: buffy, come on- buffy:
-scene direction: xander jumps up angrily
-xander: look, this isn't a discussion! he stays. get over it.
+xander: buffy, come on-
+scene direction: buffy jumps up angrily
+buffy: look, this isn't a discussion! he stays. get over it.
 scene direction: she takes one of the maps and storms into the back room, slamming the door. dawn watches anxiously.
 scene direction: spike grins hugely. giles glares at him.
 spike: buckle up, kids. daddy's puttin' the hammer down.
@@ -171,7 +173,8 @@ scene direction: we see two other guys standing behind him, also wearing basebal
 nurse: okay, that should do it.
 scene direction: dante nods, turns to the other men. they start to walk off. the taller man is orlando. he stares blankly ahead of him.
 scene direction: dante to the other man
-dante: see. did i not tell you how easy it would be for us to- nurse: hey!
+dante: see. did i not tell you how easy it would be for us to-
+nurse: hey!
 scene direction: the men stop walking as in the background the nurse comes out from behind her counter. dante and the other man exchange a look. the second man begins to pull a dagger out of his jacket. the nurse comes over to them.
 scene direction: nurse pointing at dante's hand
 nurse: my pen.
@@ -208,7 +211,8 @@ scene direction: blackout.
 scene change: *** act ii ***
 scene direction: open on the winnebago driving down residential streets. the hole in the foil is larger than before. it screeches around a corner.
 scene change: cut to inside. giles is driving. dawn, willow, tara, anya, and xander sit around the table. spike sits on the floor beside dawn, looking irritated. willow is studying a book.
-anya: shouldn't somebody be asking, "are we there yet?" willow looks up from her book briefly, then returns to it.
+anya: shouldn't somebody be asking, "are we there yet?"
+scene direction: willow looks up from her book briefly, then returns to it.
 scene direction: anya to xander
 anya: isn't that what small entertaining children do?
 scene direction: xander doesn't reply. he looks ill.
@@ -287,7 +291,8 @@ scene direction: tara crying
 willow: no, shh, baby. the light's still outside, okay?
 scene direction: dawn watches with concern. willow continues trying to comfort tara.
 tara: all dark. all dark.
-scene change: cut to the psych ward at sunnydale hospital. all the patients, strapped down in their beds, are also saying "all dark." they repeat this over and over. then one of them says "soon" and they all start saying "soon, soon." cut to a section of floor with candles set out and symbols written on the floor in red dirt. a pair of hands throw runestones onto the symbols. the camera pulls out and we see we're in glory's apartment. gronx and murk sit on the floor casting the runes.
+scene change: cut to the psych ward at sunnydale hospital. all the patients, strapped down in their beds, are also saying "all dark." they repeat this over and over. then one of them says "soon" and they all start saying "soon, soon."
+scene change: cut to a section of floor with candles set out and symbols written on the floor in red dirt. a pair of hands throw runestones onto the symbols. the camera pulls out and we see we're in glory's apartment. gronx and murk sit on the floor casting the runes.
 gronx: it's coming. the signs are in alignment, and soon victory will be in our grasp.
 scene direction: gronx they smile
 gronx: all we need do is seize the moment ... and squeeze until it bleeds.
@@ -366,7 +371,8 @@ scene direction: buffy moves back toward the rear. spike continues looking in th
 scene direction: the knight stabs down again.
 buffy: stay low!
 scene direction: the knight stabs again.
-buffy: watch out for the- the sword point comes in directly at buffy's head. spike reaches up with both hands and grabs the sword, stops it from stabbing buffy in the head. she ducks.
+buffy: watch out for the-
+scene direction: the sword point comes in directly at buffy's head. spike reaches up with both hands and grabs the sword, stops it from stabbing buffy in the head. she ducks.
 scene direction: the knight tries to pull his sword free but can't. spike continues holding onto it with both hands.
 spike: now might be a good time for something heroic.
 scene direction: the knight continues trying to free his sword.
@@ -553,7 +559,8 @@ gregor: no.
 buffy: it is not her fault! she's human now!
 scene direction: buffy shot of dawn
 gregor: the key is too dangerous ... to be allowed to exist. no matter what form it has been pressed into.
-buffy: i will not let anyone tell me- buffy breaks off as we hear a wailing from the next room and willow saying "shh, shh." xander turns to look through the door.
+buffy: i will not let anyone tell me-
+scene direction: buffy breaks off as we hear a wailing from the next room and willow saying "shh, shh." xander turns to look through the door.
 scene direction: buffy, dawn, spike, and xander go into the other room where anya is watching helplessly as willow tries to calm tara.
 willow: shh, shh, shh.
 buffy: what happened?
@@ -571,7 +578,8 @@ tara: time... time... time...
 scene change: cut to the hospital psych ward. all the patients are muttering "time, time" as well, and struggling against their bonds. one of them is the man who accosted dawn on the street in "the real me".
 patients: time. time.
 scene direction: the nurse comes in.
-nurse: no, it's not time for your meds, just lie back- the guy from "the real me" rips free of his restraints and the nurse rushes over to try to force him back into bed.
+nurse: no, it's not time for your meds, just lie back-
+scene direction: the guy from "the real me" rips free of his restraints and the nurse rushes over to try to force him back into bed.
 scene direction: nurse yelling over her shoulder
 nurse: doctor! doctor mccarthy!
 scene direction: another patient hits her over the head and she falls down unconscious. the other patients begin to break free and get up out of bed. they all walk off toward the door, muttering "time" over and over again.
@@ -688,10 +696,11 @@ xander: it's not like we got much of a choice.
 scene direction: spike gestures impatiently
 spike: could make a break for it! use general armor-all as a shield
 scene direction: spike shot of the general
-spike: get to the doc's car, and- xander: great plan. and while all the hacking and slashing's going on, what are you gonna be doing, huh? throwing migraines at 'em?
-spike: look, we stay here, we all die! at least this way, some of us might get- buffy:
-scene direction: spike os
-spike: no.
+spike: get to the doc's car, and-
+xander: great plan. and while all the hacking and slashing's going on, what are you gonna be doing, huh? throwing migraines at 'em?
+spike: look, we stay here, we all die! at least this way, some of us might get-
+scene direction: buffy os
+buffy: no.
 scene direction: the guys turn to see buffy standing in the doorway.
 buffy: we're all gonna make it. i'm not losing anyone.
 scene direction: spike sighs and shakes his head but says nothing.
@@ -731,7 +740,8 @@ dawn: i want to know.
 gregor: the key ... is almost as old as the beast itself. where it came from, how it was created ... the deepest of mysteries. all that is certain is that its power is absolute. countless generations of my people have sacrificed their lives in search of it, to destroy it before its wrath could be unleashed.
 dawn: but the monks found it first.
 gregor: yes, and hid it with their magicks.
-buffy: why didn't they just destroy it? if the key is as dangerous as- gregor: because they were fools. they thought they could harness its power for the forces of light. they failed, and paid with their blood.
+buffy: why didn't they just destroy it? if the key is as dangerous as-
+gregor: because they were fools. they thought they could harness its power for the forces of light. they failed, and paid with their blood.
 dawn: what do i do? what was i created for?
 gregor: you were created ... to open the gates that separate dimensions. the beast will use your power ... to return home and seize control of the hell she was banished from.
 scene direction: buffy laughs. the general looks at her in surprise.
@@ -871,7 +881,8 @@ scene direction: spike points
 spike: the car. get the keys.
 scene direction: spike and xander run off. buffy continues staring.
 scene direction: willow, tara, and anya start forward.
-willow: buffy! buffy, we have to find dawn. we, we can't let glory- buffy abruptly sits down on the ground.
+willow: buffy! buffy, we have to find dawn. we, we can't let glory-
+scene direction: buffy abruptly sits down on the ground.
 willow: buffy? buffy!
 scene direction: tears run down buffy's face. willow and tara walk over to her.
 willow: buffy, you have to get up! we need you!
@@ -881,4 +892,4 @@ willow: buffy, please!
 scene direction: willow echoing
 willow: buffy...
 scene direction: blackout.
-executive producer: joss whedon 
+executive producer: joss whedon.

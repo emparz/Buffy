@@ -22,7 +22,8 @@ willow: i didn't hear her. she wouldn't talk about what happened at the magic sh
 tara: i'm sure she'll be okay.
 willow: yeah, i'm not really worried about her going up against warren and the others. i know this is going to sound crazy, but ... i think something might be going on. with spike and buffy.
 scene direction: willow pause
-willow: i mean, she looked so hurt when she saw him with anya. i think maybe- tara: they've been sleeping together.
+willow: i mean, she looked so hurt when she saw him with anya. i think maybe-
+tara: they've been sleeping together.
 scene direction: willow laughs
 willow: no. i wouldn't go that far.
 tara: no, i mean she told me they've been sleeping together.
@@ -31,7 +32,8 @@ willow: sleeping together? you mean like the naked kind of together?
 scene direction: tara sighs
 tara: i'm sorry i didn't say anything, but i, i promised her i wouldn't.
 scene direction: willow shocked
-willow: does everybody else know? am i the only one she didn't- tara: god, no. she, she didn't even mean to tell me, it just came out.
+willow: does everybody else know? am i the only one she didn't-
+tara: god, no. she, she didn't even mean to tell me, it just came out.
 scene direction: willow still shocked
 willow: how could she hide something like this from me?
 tara: i think she was afraid of the look you'd get on your face.
@@ -64,14 +66,15 @@ dawn: it was kinda obvious after last night.
 scene direction: willow covering
 willow: yeah, i totally knew.
 dawn: it must have hurt so much. to see him and, and, and anya like that? and poor xander. everything is so screwed up.
-willow: it's gonna be all right. it's just ... complicated. you know, when, when people have such strong feelings for each other, sometimes- tara: is she back yet?
+willow: it's gonna be all right. it's just ... complicated. you know, when, when people have such strong feelings for each other, sometimes-
+tara: is she back yet?
 scene direction: tara emerges from the bedroom with the sheet wrapped around her. dawn's face lights up. tara sees dawn and looks mildly alarmed/embarrassed.
 tara: oh. hey.
 scene direction: dawn starting to smile, delighted
-dawn: oh! you and- tara:
-scene direction: dawn smiling
-dawn: uh, that's my cue to put some clothes on.
-scene direction: dawn turning back toward the bedroom
+dawn: oh! you and-
+scene direction: tara smiling
+tara: uh, that's my cue to put some clothes on.
+scene direction: tara turning back toward the bedroom
 dawn: no! no no no! i'm totally not here! you guys, you do whatever you want. um ... i'll go watch tv.
 scene direction: dawn giggles
 dawn: downstairs, really loud! in the basement. where i can't hear anything.
@@ -108,8 +111,9 @@ willow: okay, we're here, ready for action! uh, bad guy fighting action.
 scene direction: willow giggles
 scene direction: reveal buffy sitting on the sofa holding some papers, and dawn on the floor beside her, eating something.
 scene direction: willow and tara exchange affectionate looks.
-buffy: guys, you didn't have to ... you know, if you still wanna be alone- willow: no. no, we're good.
-scene direction: buffy still with the amorous looks
+buffy: guys, you didn't have to ... you know, if you still wanna be alone-
+willow: no. no, we're good.
+scene direction: willow still with the amorous looks
 tara: we're better than good.
 scene direction: buffy and dawn smiling too.
 buffy: great.
@@ -121,9 +125,10 @@ willow: okay, all right, we'll stop.
 dawn: oh, you better not!
 tara: so, um, nerds. how are them? they?
 buffy: well, i found their lair, but they obviously knew we were tracing their signal. they left in a hurry. van was gone, but everything else was still there.
-willow: we should go back, uh, tara and i can sherlock around- buffy: there's nothing left there now. giant buzz saw. it was a thing.
-scene direction: willow indicating papers
-willow: this was all that i could save. i, i know it's not much, but we need to go through it and see if we can find anything that might tell us what, what they're doing, where they're going...
+willow: we should go back, uh, tara and i can sherlock around-
+buffy: there's nothing left there now. giant buzz saw. it was a thing.
+scene direction: buffy indicating papers
+buffy: this was all that i could save. i, i know it's not much, but we need to go through it and see if we can find anything that might tell us what, what they're doing, where they're going...
 scene direction: willow and tara kneel on the floor. we see that the coffee table is covered with the rest of the papers and stuff that buffy salvaged from the nerds' lair.
 scene direction: tara picks up a large book. it has a buzz-saw cut right across the middle, and it falls in half as she picks it up.
 tara: um,
@@ -135,9 +140,9 @@ scene direction: buffy grimaces
 buffy: i don't think he's really in the scooby space. we need to give him some time.
 dawn: maybe they've heard something in the demon bars about those guys.
 scene direction: dawn tentatively, looking at buffy
-dawn: spike- buffy:
-scene direction: dawn quickly
-dawn: spike ... spike's not part of the team.
+dawn: spike-
+scene direction: buffy quickly
+buffy: spike ... spike's not part of the team.
 scene direction: dawn softly
 dawn: so he's not ... going to be around anymore?
 scene direction: dawn willow and tara looking concerned
@@ -161,13 +166,18 @@ scene direction: crying woman continues crying
 anya: likes 'em fleshy, huh? bet you wish he'd bloat up a coupla thousand pounds and pop like a big ol' meat zeppelin, don't you?
 crying woman: he said he loved me.
 anya: oh, gee, then he must have meant it, 'cause hey, guys never say anything they don't really mean, do they?
-crying woman: but we- anya: they say, "i love you," and, and you think it's true.
-scene direction: crying woman crying woman staring at her
-crying woman: they say, "oh, anya, i want to be with you for the rest of my life," and, and you believe them, you believe they feel the same way about you, because that's the way love's supposed to be, right?
+crying woman: but we-
+anya: they say, "i love you," and, and you think it's true.
+scene direction: anya crying woman staring at her
+anya: they say, "oh, anya, i want to be with you for the rest of my life," and, and you believe them, you believe they feel the same way about you, because that's the way love's supposed to be, right?
 crying woman: who's anya?
-anya: and then you get all excited with the tingly anticipation, but wait! not so fast! there's the apocalypse, a-and the back from the grave, and the blah blah blah blah blah, and by the time you're finally standing there in that beautiful expensive white dress you've dreamed about ever since you became human, he's gets all heebie-jeebie and decides, "you know, i'd rather just go steady." beat. the other woman has stopped crying. now she just looks bitter.
-crying woman: men suck. i wish carl's flesh would- anya: and you know, he said it isn't me, but how can i believe him? i mean ... he knew he didn't want to get married! deep down he knew, but he lied to me every day for months!
-crying woman: i wish- anya: he lied and lied and then lied some more, 'cause hey , who's gonna notice with all the other lies flying around like little monkeys? and then he thinks he can just sweep the carnage underneath the rug by saying , "oh-" cut to some sort of underground cavern. a looming shapeless shadow moves across the wall.
+anya: and then you get all excited with the tingly anticipation, but wait! not so fast! there's the apocalypse, a-and the back from the grave, and the blah blah blah blah blah, and by the time you're finally standing there in that beautiful expensive white dress you've dreamed about ever since you became human, he's gets all heebie-jeebie and decides, "you know, i'd rather just go steady."
+scene direction: beat. the other woman has stopped crying. now she just looks bitter.
+crying woman: men suck. i wish carl's flesh would-
+anya: and you know, he said it isn't me, but how can i believe him? i mean ... he knew he didn't want to get married! deep down he knew, but he lied to me every day for months!
+crying woman: i wish-
+anya: he lied and lied and then lied some more, 'cause hey , who's gonna notice with all the other lies flying around like little monkeys? and then he thinks he can just sweep the carnage underneath the rug by saying , "oh-"
+scene change: cut to some sort of underground cavern. a looming shapeless shadow moves across the wall.
 voice: i'm sorry. sorry.
 scene direction: pan down and reveal andrew, sitting on the floor and scooting backwards on his butt as the looming creature pursues him down the tunnel.
 andrew: sorry, please! i'll never try to desecrate your chamber again!
@@ -230,7 +240,8 @@ spike: wankers!
 scene direction: dawn walks down the steps and a few feet into the room.
 scene direction: dawn pained
 dawn: do you love her?
-spike: oh, no. no. it was just a ... it was a bad day. for both of us. and we just had a few drinks and, things just- dawn: no. not anya. buffy.
+spike: oh, no. no. it was just a ... it was a bad day. for both of us. and we just had a few drinks and, things just-
+dawn: no. not anya. buffy.
 scene direction: close on spike staring at his glass.
 scene direction: dawn os
 dawn: do you really love her?
@@ -494,7 +505,8 @@ scene direction: buffy annoyed
 buffy: no. i don't.
 spike: why do you keep lying to yourself?
 scene direction: buffy whirls around to face him again
-buffy: how many times- she pauses, composes herself.
+buffy: how many times-
+scene direction: she pauses, composes herself.
 scene direction: buffy calmer
 buffy: i have feelings for you. i do. but it's not love. i could never trust you enough for it to be love.
 scene direction: spike laughing
@@ -513,7 +525,8 @@ buffy: no...
 spike: you love me.
 buffy: ow, no, stop it.
 scene direction: they struggle, spike trying to kiss and grope buffy, buffy trying to push him away. sound of fabric ripping. spike's hand is inside buffy's robe.
-buffy: spike, no - ow - what are you do- she loses her balance and falls backward toward the tub. her hand grabs the shower curtain for balance, but it rips off the shower rod and buffy falls down, hitting her back against the side of the tub.
+buffy: spike, no - ow - what are you do-
+scene direction: she loses her balance and falls backward toward the tub. her hand grabs the shower curtain for balance, but it rips off the shower rod and buffy falls down, hitting her back against the side of the tub.
 scene direction: buffy yelling
 buffy: ow!
 scene direction: she falls to the floor beside the tub, groaning in pain. spike gets on top of her, holding her down. he grabs her face and tries to kiss her as she continues trying to fight him off.
@@ -541,11 +554,11 @@ scene direction: she gives him one last shove with her slayer-strength and spike
 scene direction: spike gets up, panting and staring at her.
 scene direction: buffy ask me again why i could never love you.
 scene direction: spike looks like he's just realizing what he was doing.
-spike: buffy, my god, i didn't- buffy:
-scene direction: spike angrily
-spike: because i stopped you.
-scene direction: spike quieter
-spike: something i should have done a long time ago.
+spike: buffy, my god, i didn't-
+scene direction: buffy angrily
+buffy: because i stopped you.
+scene direction: buffy quieter
+buffy: something i should have done a long time ago.
 scene direction: a tear runs down buffy's face. spike stares at her looking horrified.
 scene change: cut to exterior shot of the house.
 scene change: cut to aerial shot of sunnydale, houses lit up in the dark of night.
@@ -584,7 +597,8 @@ warren: like i'm gonna be with your girl in about five minutes.
 scene direction: frank threateningly
 frank: what'd you say?
 warren: you heard me, meathead. take a walk.
-frank: oh, you're dead, you little- frank grabs warren by the shoulders to shove him away, but can't budge him. frank frowns, tries several times to push warren away, but he can't.
+frank: oh, you're dead, you little-
+scene direction: frank grabs warren by the shoulders to shove him away, but can't budge him. frank frowns, tries several times to push warren away, but he can't.
 warren: this ain't high school.
 scene direction: warren shoves frank in the chest with one hand, and frank flies backward, crashing into some people. the girlfriend looks alarmed.
 guy: frankie!
@@ -638,9 +652,11 @@ scene change: cut to summers house, foyer. the door opens and xander enters, his
 scene direction: xander calls
 xander: buffy? i found warren.
 scene direction: he glances around.
-scene change: xander actually, my face kinda found him- he stops as he sees spike's leather jacket hanging on the banister. xander strides over to it, picks it up. his expression is grim as he starts up the stairs.
+scene change: xander actually, my face kinda found him-
+scene direction: he stops as he sees spike's leather jacket hanging on the banister. xander strides over to it, picks it up. his expression is grim as he starts up the stairs.
 scene change: cut to the bathroom. xander bursts in holding the jacket.
-xander: this what you call not seeing spike anymore- he pauses as he sees buffy. she's sitting on the floor looking very upset.
+xander: this what you call not seeing spike anymore-
+scene direction: he pauses as he sees buffy. she's sitting on the floor looking very upset.
 xander: what did he do?
 scene direction: close on buffy's legs. her robe hangs loosely and one thigh is exposed, with a big ugly bruise on the inside of the thigh.
 xander: did he hurt you?
@@ -655,7 +671,8 @@ scene direction: buffy tearfully
 buffy: please, just ... don't.
 scene direction: xander stares at her in concern. a loud door-slamming noise from downstairs makes them both jump.
 scene direction: willow rushes in, smiling.
-willow: hey, i think we finally have something- she pauses, seeing xander's bloody face and buffy's bruised condition. buffy quickly pulls her robe down to hide the bruise on her leg.
+willow: hey, i think we finally have something-
+scene direction: she pauses, seeing xander's bloody face and buffy's bruised condition. buffy quickly pulls her robe down to hide the bruise on her leg.
 willow: what happened?
 buffy: nothing.
 scene direction: xander looks down at buffy as she composes herself.
@@ -742,7 +759,8 @@ spike: yeah, they do.
 scene direction: spike gives a bitter sarcastic laugh. clem looks at him, kind of helpless.
 scene direction: then something occurs to spike. his grin turns nasty.
 spike: if you make them.
-scene change: cut to an amusement park, shut down for the night. a banner reads "opening weekend!" pan across closed concession stands, to a large stone gate with lettering over the archway reading "wild river adventure." pan further to reveal two men standing beside an armored truck. one man wears a security uniform, the other a dark suit. they check something on a clipboard, and then the security guard puts two bags into the back of the truck. a second guard comes around from the other side of the truck.
+scene change: cut to an amusement park, shut down for the night. a banner reads "opening weekend!" pan across closed concession stands, to a large stone gate with lettering over the archway reading "wild river adventure."
+scene direction: pan further to reveal two men standing beside an armored truck. one man wears a security uniform, the other a dark suit. they check something on a clipboard, and then the security guard puts two bags into the back of the truck. a second guard comes around from the other side of the truck.
 guard #1: all right, that's the last one.
 scene direction: guard #1 takes the clipboard from the guy in the suit, and signs it. guard #2 is closing the truck.
 scene direction: guard #1 quite a haul, huh? (gives back the clipboard)
@@ -810,13 +828,15 @@ scene direction: warren continues beating on buffy. he gets her legs out from un
 warren: you know who i am? huh, slayer?
 buffy: you're a murderer.
 scene direction: buffy getting up
-warren: well, that too, but more to the point- buffy swings at him, he blocks the punch and backhands her.
+warren: well, that too, but more to the point-
+scene direction: buffy swings at him, he blocks the punch and backhands her.
 scene direction: warren i'm the guy that beat you.
 scene direction: again she swings, again he blocks and hits her. buffy reels backward, looking shocked.
 warren: and it's not the muscles, baby.
 scene direction: he kicks her backward.
 warren: it's the brains.
-buffy: i'll remember that when i knock 'em clean out of your- suddenly jonathan leaps onto buffy from behind, grabbing her around the neck. buffy grunts and stumbles forward, trying to pry him off.
+buffy: i'll remember that when i knock 'em clean out of your-
+scene direction: suddenly jonathan leaps onto buffy from behind, grabbing her around the neck. buffy grunts and stumbles forward, trying to pry him off.
 scene direction: warren amused
 warren: whoa! sparky, i didn't think you had it in you.
 scene direction: close on jonathan and buffy struggling. jonathan mutters into buffy's ear through gritted teeth.
@@ -927,7 +947,8 @@ scene direction: tara falls forward.
 scene direction: willow shocked, rushing forward
 willow: tara?
 scene change: cut to the backyard. xander gets up, brushes himself off.
-xander: sweet fancy moses! where the hell did he- xander stops, looking to his left. pan quickly over to buffy, lying on the ground on her back, staring upward.
+xander: sweet fancy moses! where the hell did he-
+scene direction: xander stops, looking to his left. pan quickly over to buffy, lying on the ground on her back, staring upward.
 xander: oh god!
 scene change: cut to the bedroom. tara lies on the floor. willow grabs her shoulders.
 scene direction: willow desperate
@@ -946,4 +967,4 @@ scene direction: shot of buffy lying on the ground staring blankly at the sky as
 scene direction: close shot on tara's face and the bullet hole in her chest.
 scene direction: willow lifts her head and bares her teeth. her face is wet with tears and her eyes are completely black ... then they go completely red.
 scene direction: blackout.
-executive producers: joss whedon and marti noxon 
+executive producers: joss whedon and marti noxon.

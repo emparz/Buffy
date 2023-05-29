@@ -415,7 +415,6 @@ xan
 xander
 where
 where
-xander
 shh
 we're
 using
@@ -573,13 +572,12 @@ back
 on
 the
 web
-willow
 there
 is
 no
 other
 one
-xander
+willow
 closes
 her
 eyes
@@ -752,9 +750,8 @@ down
 strays
 it's
 bullsh
-mag
 hey
-clyed
+mag
 grabs
 clyed
 you
@@ -1231,7 +1228,6 @@ for
 the
 others
 spike
-dawn
 grabs
 her
 roughly
@@ -1239,7 +1235,7 @@ by
 the
 shoulders
 look
-dawn
+spike
 pauses
 more
 quietly
@@ -1256,7 +1252,7 @@ sitter
 so
 mind
 me
-dawn
+spike
 lets
 go
 her
@@ -1973,7 +1969,6 @@ tell
 us
 how
 much
-willow
 no
 not
 now
@@ -2121,7 +2116,6 @@ forward
 xander
 i
 don't
-xander
 stay
 down
 i'll
@@ -2149,20 +2143,18 @@ of
 light
 xander
 it's
-xander
 a
 bug
 a
 big
 fiery
 bug
-willow
+xander
 trying
 to
 shoo
 it
 away
-xander
 xander
 get
 off
@@ -2790,7 +2782,6 @@ a
 chair
 are
 you
-willow
 uh
 not
 yet
@@ -2825,7 +2816,6 @@ calling
 the
 house
 but
-xander
 maybe
 they're
 on
@@ -3705,7 +3695,6 @@ if
 the
 demons
 hadn't
-willow
 it
 would
 have
@@ -6718,7 +6707,6 @@ shakes
 again
 dawn
 shrieks
-dawn
 we
 have
 to
@@ -7127,4 +7115,4 @@ and
 marti
 noxon
 the
-en
+end

@@ -110,7 +110,8 @@ dawn: yes it is! you can't charge innocent people for saving their lives.
 anya: spiderman does.
 dawn: he does not!
 anya: does too.
-dawn: does no- dawn stops herself, calms down a little.
+dawn: does no-
+scene direction: dawn stops herself, calms down a little.
 dawn: xander?
 scene direction: anya looks at xander. he continues looking uncomfortable.
 scene direction: xander reluctantly
@@ -126,7 +127,8 @@ scene change: cut to the street. anya strides angrily down the sidewalk. xander 
 xander: come on! wait up. anya!
 scene direction: he runs in front of her.
 xander: what's wrong with you?
-anya: why don't you ask your best friend spiderman? you know, if you're not going to support me- xander: i'm supportive! i'm totally supportive! i'm a flying buttress of support!
+anya: why don't you ask your best friend spiderman? you know, if you're not going to support me-
+xander: i'm supportive! i'm totally supportive! i'm a flying buttress of support!
 anya: no you're not.
 scene direction: she looks down. xander sighs.
 xander: this is because i haven't told them yet about the engagement, isn't it?
@@ -321,9 +323,10 @@ anya: the kind that wants money.
 xander: what do you even call that?
 dawn: this?
 scene direction: she holds up a book, turned to a picture of a demon.
-dawn: i'm guessing on how you say it. it's got an apostrophe. i think it's mmmfashnik. like "mmm, cookies." xander: or maybe, muh-fashnik. like muh..
-scene direction: dawn lamely
-dawn: fashnik.
+dawn: i'm guessing on how you say it. it's got an apostrophe. i think it's mmmfashnik. like "mmm, cookies."
+xander: or maybe, muh-fashnik. like muh..
+scene direction: xander lamely
+xander: fashnik.
 scene direction: buffy and willow emerge from the back room. dawn holds up the book toward buffy.
 dawn: this your guy?
 scene direction: buffy to dawn
@@ -381,7 +384,8 @@ buffy: i mean, yeah, you know, sleeping's hard, but ... just because of the whol
 scene direction: she trails off, looks away again.
 giles: you seem to be doing remarkably well under extreme circumstances. i'm proud of you.
 buffy: well, actually, it wasn't me. willow brought me back. i just lay there.
-giles: you-you know -- i meant - buffy: i know what you meant. it was just a little post-post-mortem comedy.
+giles: you-you know -- i meant -
+buffy: i know what you meant. it was just a little post-post-mortem comedy.
 scene direction: giles smiles a little. buffy gets up.
 buffy: well, i, i, uh, better start prepping. the slayage.
 scene direction: she begins wrapping protective bandages on her hands. giles stands up too.
@@ -471,7 +475,8 @@ scene direction: beat. warren and jonathan hold their angry looks for a moment, 
 scene direction: warren grinning
 warren: that was cool. that was kinda cool.
 scene direction: jonathan laughs
-jonathan: remember, everyone was like, "run, juliet!" they all grin, nod at each other, laugh their dorky laughs again.
+jonathan: remember, everyone was like, "run, juliet!"
+scene direction: they all grin, nod at each other, laugh their dorky laughs again.
 scene direction: demon roars
 demon: enough!
 scene direction: the three geeks shut up, look scared. he advances on them, and they back up.
@@ -619,7 +624,8 @@ giles: oh, there are others in this world who can do what you did. you just don'
 scene direction: giles turns away again
 willow: no, probably not, but ... well, they're the bad guys. i'm not a bad guy.
 scene direction: willow upset
-willow: i brought buffy back into this world, a-and maybe the word you should be looking for is "congratulations." giles: having buffy back in the world makes me feel ... indescribably wonderful, but i wouldn't congratulate you if you jumped off a cliff and happened to survive.
+willow: i brought buffy back into this world, a-and maybe the word you should be looking for is "congratulations."
+giles: having buffy back in the world makes me feel ... indescribably wonderful, but i wouldn't congratulate you if you jumped off a cliff and happened to survive.
 willow: that's not what i did, giles.
 scene direction: giles angry
 giles: you were lucky.
@@ -849,9 +855,10 @@ buffy: he, he needs to see me. i have to see him.
 giles: yes, of course. you'll leave for l.a. tomorrow.
 scene direction: buffy shakes her head
 buffy: not l.a. and not here. somewhere in the middle. there's a, a place.
-giles: i see. well, we should get all these ... bills and things out of the way before- buffy: i gotta go now.
+giles: i see. well, we should get all these ... bills and things out of the way before-
+buffy: i gotta go now.
 scene direction: she starts to leave, pauses and turns back again.
 buffy: um, thanks for taking care of this for me.
 scene direction: she exits, leaving dawn and giles staring at each other in dismay in the trashed living room.
 scene direction: blackout.
-executive producers: joss whedon and marti noxon. the en 
+executive producers: joss whedon and marti noxon. the end

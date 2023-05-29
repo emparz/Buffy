@@ -203,7 +203,6 @@ we
 know
 pip
 pip'
-buffy
 yeah
 phones
 see
@@ -428,7 +427,6 @@ care
 of
 dawn
 and
-xander
 but
 that's
 not
@@ -787,7 +785,6 @@ the
 mailman's
 head
 what
-dreg
 drink
 oh
 what
@@ -2370,7 +2367,6 @@ more
 i
 only
 meant
-professor
 what
 was
 it
@@ -2388,7 +2384,7 @@ of
 the
 prussian
 generals
-buffy
+professor
 buffy
 looks
 annoyed
@@ -3231,7 +3227,6 @@ from
 the
 beginning
 giles
-travers
 scornfully
 well
 that's
@@ -4735,9 +4730,8 @@ yes
 of
 course
 we're
-tara
 rrregistered
-willow
+tara
 nodding
 cut
 back
@@ -5096,7 +5090,6 @@ to
 attack
 the
 dummy
-travers
 no
 no
 philip
@@ -5104,7 +5097,7 @@ will
 attack
 the
 dummy
-giles
+travers
 we
 see
 philip
@@ -6418,7 +6411,6 @@ i
 think
 'ew'
 buffy
-dawn
 to
 joyce
 keep
@@ -6448,7 +6440,6 @@ to
 remind
 you
 but
-spike
 yeah
 yeah
 'anything
@@ -7449,7 +7440,6 @@ buffy
 are
 you
 buffy
-giles
 puts
 her
 coat
@@ -7459,7 +7449,7 @@ chair
 just
 to
 talk
-giles
+buffy
 resumes
 pacing
 she
@@ -7478,7 +7468,7 @@ me
 in
 a
 second
-giles
+buffy
 stops
 looks
 at
@@ -7509,7 +7499,7 @@ a
 civilized
 conversation
 why
-giles
+buffy
 pauses
 because
 she

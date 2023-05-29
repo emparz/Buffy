@@ -1818,11 +1818,10 @@ space
 to
 train
 so
-buffy
 i
 love
 it
-giles
+buffy
 giles
 gives
 a
@@ -3834,7 +3833,6 @@ another
 time
 the
 cia
-buffy
 dawn
 it's
 important
@@ -4603,7 +4601,6 @@ there
 if
 you
 don't
-buffy
 i'll
 get
 him
@@ -4899,11 +4896,10 @@ the
 by
 my
 friend
-buffy
 you
 guys
 enough
-anya
+buffy
 anya
 and
 xander
@@ -4916,7 +4912,7 @@ in
 real
 danger
 here
-anya
+buffy
 sighs
 anya
 xander
@@ -6301,7 +6297,6 @@ this
 kind
 of
 strength
-riley
 i
 can
 handle
@@ -6577,7 +6572,6 @@ so
 little
 of
 me
-riley
 buffy
 no
 no
@@ -7358,7 +7352,6 @@ more
 a
 beige
 like
-overheiser
 would
 you
 please
@@ -8079,7 +8072,6 @@ kinda
 unholy
 by
 the
-spike
 she
 follows
 me

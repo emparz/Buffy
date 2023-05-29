@@ -453,7 +453,6 @@ his
 watch
 but
 sir
-doctor
 you
 can't
 be
@@ -465,7 +464,7 @@ that
 you
 don't
 have
-ben
+doctor
 gives
 the
 clipboard
@@ -490,7 +489,7 @@ who'll
 actually
 do
 it
-ben
+doctor
 ben
 sighs
 in
@@ -888,7 +887,6 @@ splendiforous
 radiance
 your
 aromatic
-glory
 how
 about
 you
@@ -902,7 +900,7 @@ you
 disgusting
 little
 fools
-murk
+glory
 all
 three
 bow
@@ -1245,7 +1243,6 @@ sure
 this
 will
 all
-principal
 dawn
 why
 don't
@@ -1376,7 +1373,6 @@ watched
 customer
 never
 buys
-anya
 they
 would
 if
@@ -2998,7 +2994,6 @@ what
 it's
 like
 to
-willow
 yeah
 i
 know
@@ -3022,7 +3017,6 @@ i
 didn't
 mean
 to
-willow
 no
 i
 just
@@ -3036,14 +3030,14 @@ what
 you
 went
 through
-tara
+willow
 tara
 frowns
 but
 i
 just
 
-tara
+willow
 fake
 laugh
 it's
@@ -3059,7 +3053,6 @@ all
 i
 meant
 was
-willow
 no
 it's
 okay
@@ -4420,7 +4413,6 @@ matter
 what
 heinous
 torture
-giles
 actually
 you're
 talking
@@ -4616,7 +4608,6 @@ wait
 i'll
 go
 with
-willow
 no
 call
 buffy
@@ -4916,7 +4907,6 @@ human
 being
 i
 didn't
-glory
 i
 hate
 being
@@ -4928,10 +4918,10 @@ me
 feel
 so
 betrayed
-tara
+glory
 considers
 hey
-tara
+glory
 turns
 back
 to
@@ -5945,7 +5935,6 @@ you
 maybe
 it's
 something
-dawn
 worse
 spike
 doesn't
@@ -6716,7 +6705,6 @@ slightest
 bit
 concerned
 about
-glory
 what
 about
 the
@@ -6735,7 +6723,7 @@ as
 good
 as
 mine
-jinx
+glory
 the
 demons
 all
@@ -7973,7 +7961,6 @@ i'm
 sorry
 i
 couldn't
-willow
 it's
 okay
 i

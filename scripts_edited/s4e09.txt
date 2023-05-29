@@ -351,7 +351,8 @@ spike: you weren't gonna say that name.
 buffy: sorry. why don't we talk about where we're going to register.
 spike: well, where would angel like to register? and can we have the photographer angel would've wanted? and, flowers angel would have liked?
 scene direction: buffy stands
-buffy: hey! you think i don't live with the shadow of drusilla over my head? that i'm not wondering if you're going to be thinking of her on our honeymoon when you're making... sweet love to me...? she walks to spike and sits in his lap. they, you guessed it, kiss. giles reaches for his glass of scotch, knocking it to the floor
+buffy: hey! you think i don't live with the shadow of drusilla over my head? that i'm not wondering if you're going to be thinking of her on our honeymoon when you're making... sweet love to me...?
+scene direction: she walks to spike and sits in his lap. they, you guessed it, kiss. giles reaches for his glass of scotch, knocking it to the floor
 buffy: giles are you okay?
 giles: i rather think not. i seem to be rather... rather... blind. completely, in fact.
 scene direction: buffy walks over to him, concerned
@@ -366,7 +367,8 @@ buffy: see? this is how it's gonna be. spike'll even take care of you while i'm 
 scene direction: buffy stands and walks to spike who takes her in his arms
 buffy: from now on, we're a family.
 scene direction: they kiss. giles gets all panicky. he stands and wobbles his way to the kitchen
-giles: that's alright. i have more scotch. cut to buffy exiting the magick shop. she stops in the middle of the street, staring at a window display of a beautiful wedding gown. she walks over to it, memorized. in the background, we see riley walking by. he sees her and walks up
+giles: that's alright. i have more scotch.
+scene change: cut to buffy exiting the magick shop. she stops in the middle of the street, staring at a window display of a beautiful wedding gown. she walks over to it, memorized. in the background, we see riley walking by. he sees her and walks up
 riley: hey, buffy. what's up?
 scene direction: buffy turns back, staring at the dress
 buffy: riley, look — aren't they beautiful?
@@ -569,13 +571,8 @@ willow: no, please! you have to help them!
 ta'hoffren: it is not my concern. you are my interest in this matter.
 willow: really... no offense intended... i mean, you've been super-nice and everything, but... i don't want to be a demon. i just wanna go back and help my friends.
 ta'hoffren: that is your answer?
-willow: it-it is. ta'hoffren.
-scene direction: willow menacingly
-willow: i'm sorry to hear that.
-scene direction: willow lighter tone
-willow: oh well. here is my talisman.
-scene direction: willow holds it up and willow takes it
-willow: you change your mind, give us a chant.
+willow: it-it is.
+scene direction: ta'hoffren. (menacingly) i'm sorry to hear that. (lighter tone) oh well. here is my talisman. (holds it up and willow takes it) you change your mind, give us a chant.
 scene change: he waves his hand and she disappears. cut to buffy struggling with a demon as yet another bursts onto the scene. it knocks spike on his back. buffy gets pissed and kicks both the demon's asses and runs over to spike
 buffy: oh, spike... are you okay?
 spike: slayer..

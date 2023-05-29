@@ -136,7 +136,8 @@ scene direction: veruca leaves
 scene direction: buffy walks up
 buffy: check out the rapid exits. was it me?
 scene direction: willow looking sad as buffy sits
-willow: me. i don't speak musicianese. how come you didn't tell me i look like a crazy birthday cake in this shirt?
+willow: me. i don't speak musicianese. how come you didn't tell me
+scene direction: i look like a crazy birthday cake in this shirt?
 buffy: i thought that was the point. he thinks she's sexy. he gets this blushy thing going on behind his ears. that's for me only.
 buffy: it doesn't mean anything. so oz checks out another girl. he loves you.
 willow: i know. i--i know. and i don't wanna be the kind of girl who freaks every time my boyfriend notices somebody else. i mean, i have wrong feelings about other guys sometimes, but i feel guilty, and i flog and punish.

@@ -4,14 +4,740 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91be5e45-b60b-4174-887f-5282164fc438" name="Changes" comment="changed sig figs to .4">
+    <list default="true" id="91be5e45-b60b-4174-887f-5282164fc438" name="Changes" comment="added legends to graphs, fixed averages in graphing_episodes">
+      <change afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/buffy looks over at a wall clock. the hands on the clock move quickly. they start at about 11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/danny.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/witchy-poo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/backup singers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/anya and xander.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/close on the screen. it reads in part.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/coroner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/ruling.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s3e18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s3e18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s4e01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s4e01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s4e02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s4e02.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s4e03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s4e03.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s4e06.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s4e06.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s4e08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s4e08.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s4e09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s4e09.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s4e12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s4e12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s4e18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s4e18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s4e20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s4e20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e02.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e03.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e04.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e04.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e06.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e06.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e08.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e09.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s5e21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s5e21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e02.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e03.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e04.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e04.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e05.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e05.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e06.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e06.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e07.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e08.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e09.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dialogue_per_ep/s6e22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dialogue_per_ep/s6e22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/angel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/angel.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/cordelia vo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/cordelia vo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/cordelia.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/cordelia.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/hogan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/hogan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/larry.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/larry.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/male student vo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/male student vo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/oz.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/oz.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/scene change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/scene change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s3e18/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e01/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e01/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e01/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e01/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e01/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e01/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e02/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e02/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e02/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e02/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e03/parker.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e03/parker.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e03/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e03/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e06/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e06/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e06/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e06/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e08/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e08/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e08/hus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e08/hus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e08/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e08/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e08/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e08/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e09/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e09/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e09/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e09/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e09/scene change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e09/scene change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e09/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e09/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e09/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e09/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/ethan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/ethan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/everybody.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/everybody.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/scene change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/scene change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/walsh.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/walsh.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e12/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e18/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e18/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e18/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e18/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e18/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e18/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e18/julie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e18/julie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e18/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e18/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e18/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e18/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e18/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e18/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e20/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e20/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e20/mcnamara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e20/mcnamara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e20/riley.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e20/riley.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e20/scene change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e20/scene change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e20/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e20/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e20/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s4e20/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/dracula.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/dracula.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/guy2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/guy2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/riley.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/riley.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/scene change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/scene change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/xander vo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/xander vo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e01/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/dawn voiceover.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/dawn voiceover.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/harmony.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/harmony.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/joyce voiceover.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/joyce voiceover.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/joyce.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/joyce.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/mort.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/mort.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/peaches.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/peaches.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/riley.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/riley.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/scene change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/scene change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e02/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e03/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e03/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e03/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e03/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e03/riley.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e03/riley.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e03/scene change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e03/scene change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e03/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e03/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e03/suavexander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e03/suavexander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e03/toth.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e03/toth.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e03/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e03/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e03/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e03/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/doctor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/doctor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/graham.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/graham.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/harmony.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/harmony.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/overheiser.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/overheiser.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/riley.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/riley.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e04/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/bartender.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/bartender.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/beth.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/beth.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/mr. maclay.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/mr. maclay.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/riley.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/riley.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e06/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/dreg.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/dreg.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/glory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/glory.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/riley.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/riley.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/tara voiceover.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/tara voiceover.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e08/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/dr. kriegel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/dr. kriegel.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/joyce.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/joyce.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/patient.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/patient.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/riley.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/riley.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e09/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/ellis.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/ellis.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/graham.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/graham.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/riley.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/riley.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e10/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e11/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e11/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e11/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e11/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e11/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e11/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e11/olaf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e11/olaf.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e11/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e11/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e11/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e11/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e11/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e11/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e11/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e11/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/dreg.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/dreg.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/mailman.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/mailman.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/nigel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/nigel.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/professor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/professor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/scene change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/scene change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/travers voiceover.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/travers voiceover.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/travers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/travers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e12/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/ben.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/ben.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/glory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/glory.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/guard.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/guard.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/jinx.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/jinx.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/joyce.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/joyce.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e13/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e14/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e14/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e14/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e14/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e14/harmony.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e14/harmony.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e14/joyce.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e14/joyce.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e14/scene change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e14/scene change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e14/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e14/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e14/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e14/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e14/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e14/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e15/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e15/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e15/april.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e15/april.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e15/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e15/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e15/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e15/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e15/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e15/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e15/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e15/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e15/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e15/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e15/warren.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e15/warren.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e15/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e15/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/joyce.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/joyce.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/kevin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/kevin.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/lisa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/lisa.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e16/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/ben.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/ben.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/director.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/director.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/doc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/doc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/glory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/glory.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/jinx.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/jinx.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/murk.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/murk.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e17/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/glory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/glory.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/murk.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/murk.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/warren.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/warren.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e18/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/ben.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/ben.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/doctor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/doctor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/glory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/glory.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/jinx.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/jinx.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/murk.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/murk.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/principal.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/principal.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/slook.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/slook.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e19/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/dante.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/dante.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/glory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/glory.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/gregor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/gregor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/nurse.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/nurse.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e20/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e21/ben.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e21/ben.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e21/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e21/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e21/doc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e21/doc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e21/glory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e21/glory.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e21/murk.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e21/murk.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e21/priest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e21/priest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e21/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e21/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e21/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e21/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e21/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s5e21/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/buffybot.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/buffybot.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/mag.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/mag.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/scene change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/scene change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/vamp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/vamp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e01/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/buffybot.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/buffybot.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/clyed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/clyed.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/executive producers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/executive producers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/mag.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/mag.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/razor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/razor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e02/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e03/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e03/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e03/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e03/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e03/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e03/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e03/executive producers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e03/executive producers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e03/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e03/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e03/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e03/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e03/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e03/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e03/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e03/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e03/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e03/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e04/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e04/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e04/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e04/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e04/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e04/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e04/executive producers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e04/executive producers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e04/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e04/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e04/jonathan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e04/jonathan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e04/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e04/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e04/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e04/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e04/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e04/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/andrew.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/andrew.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/executive producers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/executive producers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/jonathan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/jonathan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/male customer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/male customer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/scene change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/scene change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/tony.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/tony.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/warren.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/warren.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e05/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/justin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/justin.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/zack.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e06/zack.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/scene change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/scene change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e07/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/executive producers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/executive producers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/scene change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/scene change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e08/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/amy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/amy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/andrew.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/andrew.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/female singer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/female singer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/guy 2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/guy 2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/jonathan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/jonathan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/male singer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/male singer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/scene change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/scene change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/warren.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/warren.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/woman.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/woman.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e09/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/amy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/amy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/demon.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/demon.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/rack.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/rack.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e10/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/andrew.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/andrew.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/boss.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/boss.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/invisible buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/invisible buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/invisible warren.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/invisible warren.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/jonathan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/jonathan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/ms. kroger.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/ms. kroger.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/warren.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/warren.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e11/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e12/amy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e12/amy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e12/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e12/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e12/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e12/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e12/gary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e12/gary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e12/halfrek.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e12/halfrek.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e12/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e12/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e12/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e12/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e12/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e12/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/andrew.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/andrew.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/jonathan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/jonathan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/katrina.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/katrina.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/scene change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/scene change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/warren.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e13/warren.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/halfrek.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/halfrek.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/teacher.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/teacher.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e14/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e15/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e15/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e15/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e15/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e15/riley.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e15/riley.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e15/sam.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e15/sam.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e15/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e15/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e15/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e15/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e15/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e15/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e15/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e15/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/anya voiceover.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/anya voiceover.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/d'hoffryn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/d'hoffryn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/halfrek.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/halfrek.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/mr. harris.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/mr. harris.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/mrs. harris.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/mrs. harris.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/old man.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/old man.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/scene change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/scene change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/tentacle demon.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/tentacle demon.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/uncle rory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/uncle rory.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e16/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/andrew.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/andrew.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/doctor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/doctor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/jonathan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/jonathan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/joyce voiceover.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/joyce voiceover.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/joyce.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/joyce.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/warren.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/warren.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e17/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/andrew.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/andrew.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/halfrek.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/halfrek.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/jonathan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/jonathan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/warren.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/warren.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e18/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/crying woman.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/crying woman.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/frank.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/frank.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/scene change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/scene change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/tara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/tara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/warren.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/warren.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e19/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/bartender.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/bartender.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/clem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/clem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/demon.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/demon.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/warren.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/warren.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e20/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e21/andrew.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e21/andrew.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e21/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e21/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e21/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e21/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e21/cop.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e21/cop.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e21/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e21/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e21/jonathan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e21/jonathan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e21/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e21/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e21/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e21/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e21/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e21/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e22/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e22/anya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e22/buffy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e22/buffy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e22/dawn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e22/dawn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e22/giles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e22/giles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e22/scene change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e22/scene change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e22/scene direction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e22/scene direction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e22/spike.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e22/spike.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e22/willow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e22/willow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e22/xander.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_char_per_ep/s6e22/xander.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s3e18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s3e18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s4e09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s4e09.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s4e12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s4e12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s4e18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s4e18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s4e20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s4e20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e02.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e03.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e04.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e04.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e06.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e06.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e08.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e09.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s5e21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s5e21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e02.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e03.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e04.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e04.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e05.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e05.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e06.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e06.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e07.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e08.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e09.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/words_per_ep/s6e22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/words_per_ep/s6e22.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/graphing_characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphing_characters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/graphing_episodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphing_episodes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphing_totals.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphing_totals.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/allDialogueScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/allDialogueScores.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/allWordsScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/allWordsScores.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/s1e01Scores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/s1e01Scores.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/s1e12Scores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/s1e12Scores.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/angelNumWords.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/angelNumWords.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/angelScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/angelScores.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/anyaNumWords.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/anyaNumWords.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/anyaScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/anyaScores.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/buffyNumWords.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/buffyNumWords.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/buffyScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/buffyScores.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/cordeliaNumWords.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/cordeliaNumWords.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/cordeliaScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/cordeliaScores.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/dawnNumWords.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/dawnNumWords.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/dawnScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/dawnScores.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/gilesNumWords.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/gilesNumWords.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/gilesScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/gilesScores.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/joyceNumWords.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/joyceNumWords.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/joyceScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/joyceScores.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/numCharacters.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/numCharacters.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/numDialogue.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/numDialogue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/numWords.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/numWords.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/ozNumWords.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/ozNumWords.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/ozScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/ozScores.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/allDialogueScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/allDialogueScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/allWordsScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/allWordsScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/angelNumWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/angelNumWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/angelScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/angelScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/anyaNumWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/anyaNumWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/anyaScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/anyaScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/buffyNumWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/buffyNumWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/buffyScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/buffyScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/cordeliaNumWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/cordeliaNumWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/cordeliaScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/cordeliaScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/dawnNumWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/dawnNumWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/dawnScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/dawnScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/drusillaNumWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/drusillaNumWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/drusillaScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/drusillaScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/faithNumWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/faithNumWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/faithScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/faithScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/gilesNumWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/gilesNumWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/gilesScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/gilesScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/joyceNumWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/joyceNumWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/joyceScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/joyceScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/numCharacters.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/numCharacters.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/numWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/numWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/ozNumWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/ozNumWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/ozScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/ozScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/s1e01Scores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/s1e01Scores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/s1e12Scores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/s1e12Scores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/spikeNumWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/spikeNumWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/spikeScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/spikeScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/taraNumWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/taraNumWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/taraScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/taraScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/willowNumWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/willowNumWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/willowScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/willowScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/xanderNumWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/xanderNumWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plotsData/xanderScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plotsData/xanderScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/spikeNumWords.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/spikeNumWords.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/spikeScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/spikeScores.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/taraNumWords.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/taraNumWords.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/taraScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/taraScores.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/willowNumWords.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/willowNumWords.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/willowScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/willowScores.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/xanderNumWords.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/xanderNumWords.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/xanderScores.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/xanderScores.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s3e18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s3e18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s4e01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s4e01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s4e02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s4e02.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s4e03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s4e03.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s4e06.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s4e06.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s4e08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s4e08.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s4e09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s4e09.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s4e12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s4e12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s4e18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s4e18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s4e20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s4e20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e02.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e03.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e04.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e04.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e06.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e06.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e08.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e09.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s5e21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s5e21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e02.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e03.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e04.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e04.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e05.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e05.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e06.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e06.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e07.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e08.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e09.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts_edited/s6e22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts_edited/s6e22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/season1.py" beforeDir="false" afterPath="$PROJECT_DIR$/season1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/season2.py" beforeDir="false" afterPath="$PROJECT_DIR$/season2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/season3.py" beforeDir="false" afterPath="$PROJECT_DIR$/season3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/season4.py" beforeDir="false" afterPath="$PROJECT_DIR$/season4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/season5.py" beforeDir="false" afterPath="$PROJECT_DIR$/season5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/season6.py" beforeDir="false" afterPath="$PROJECT_DIR$/season6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/season7.py" beforeDir="false" afterPath="$PROJECT_DIR$/season7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -406,7 +1132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684191241112</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added legends to graphs, fixed averages in graphing_episodes">
+      <created>1684443121928</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684443121928</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -429,6 +1162,18 @@
     <MESSAGE value="renamed folders (2)" />
     <MESSAGE value="fixed formatting" />
     <MESSAGE value="changed sig figs to .4" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed sig figs to .4" />
+    <MESSAGE value="added legends to graphs, fixed averages in graphing_episodes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added legends to graphs, fixed averages in graphing_episodes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/graphing_characters.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

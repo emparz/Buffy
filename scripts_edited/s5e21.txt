@@ -22,7 +22,8 @@ scene direction: glory frowning
 glory: so tell me, why am i not popping your head like a zit right now?
 scene direction: the minions have no idea.
 glory: maybe i'm just hungry.
-murk: yes, we shall fetch a, a lovely- glory: no, i'm not hungry.
+murk: yes, we shall fetch a, a lovely-
+glory: no, i'm not hungry.
 scene direction: she drops the robe to the floor, revealing a simple black dress underneath. she steps impatiently down from the stool. the tailors continue to work on the robe.
 glory: uhh! just a little tight in the skin is all. i've been waiting an eternity - well, 25 human years - and it all comes down to tonight.
 gronx: the portal shall open.
@@ -183,7 +184,8 @@ scene direction: glory looks over, sees the priest minion chanting over dawn.
 glory: what's he doing?
 priest: i must anoint the key.
 glory: really don't. go.
-priest: but- glory: out! get out, get out!
+priest: but-
+glory: out! get out, get out!
 scene direction: murk hurries forward and ushers the priest out. dawn continues to look frightened. in the background we can see a window through which the crazy people are visible, going back and forth as they do whatever they're doing with the machinery.
 glory: you know ... you recapture your godhood and unleash armageddon...
 scene direction: glory picks up a rag from a table, uses it to rub the stuff off dawn's forehead
@@ -530,7 +532,8 @@ scene change: cut to the dream-hallway. willow is still following buffy #2 down 
 willow: you have to talk to...
 scene direction: willow enters the room, sees something on the floor.
 willow: ...me.
-scene direction: willow walks slowly into the room as we see what she's looking at. it is joyce's graveyard plot complete with a mound of fresh dirt, sprinkled with fallen leaves, and a fringe of grass. the headstone reads "joyce summers 1958-2001." buffy #2 stands staring at the grave with her arms folded. willow walks up next to her, also looking at the grave.
+scene direction: willow walks slowly into the room as we see what she's looking at. it is joyce's graveyard plot complete with a mound of fresh dirt, sprinkled with fallen leaves, and a fringe of grass. the headstone reads "joyce summers 1958-2001."
+scene direction: buffy #2 stands staring at the grave with her arms folded. willow walks up next to her, also looking at the grave.
 scene direction: overhead shot of the two of them and the grave. the room appears to be joyce's bedroom; the grave is where the bed should be, and the entire room is carpeted in grass. the other furniture (bedside table, chair, etc.) is as it should be.
 willow: i'm sorry.
 scene direction: buffy #2 shakes her head, doesn't look at willow
@@ -581,21 +584,23 @@ scene direction: dawn he continues looking upset
 dawn: ben, glory could come back any minute.
 scene direction: ben not seeming to hear her
 ben: how could she do this?
-dawn: i don't know. but we have to get out of her and, and find buffy- ben: no!
-scene direction: dawn turns to her
-dawn: i mean, i have a job. i have a life! and glory? she never once thinks about me in all this!
+dawn: i don't know. but we have to get out of her and, and find buffy-
+ben: no!
+scene direction: ben turns to her
+ben: i mean, i have a job. i have a life! and glory? she never once thinks about me in all this!
 scene direction: dawn stares at him. sound of a knock on the door. they both look anxiously at it.
 dawn: help me.
 ben: how?
-dawn: i- priest:
-scene direction: dawn os
-dawn: highness!
+dawn: i-
+scene direction: priest os
+priest: highness!
 scene direction: ben gets up.
 dawn: please.
 scene direction: priest os
 priest: is everything all right?
 scene direction: ben strides over to the door, opens it.
-priest: you're not- ben grabs the priest and pulls him inside, head-butts him. the priest staggers back against the wall and falls down. ben punches him and he falls unconscious.
+priest: you're not-
+scene direction: ben grabs the priest and pulls him inside, head-butts him. the priest staggers back against the wall and falls down. ben punches him and he falls unconscious.
 scene direction: ben to dawn
 ben: i'll take you as far as i can, ditch you before she comes back.
 scene direction: he and dawn run out the door.
@@ -639,9 +644,9 @@ scene direction: the door opens, spike and xander enter.
 scene direction: doc os
 doc: what can i do for you boys? want some cocoa?
 scene direction: they walk over to him. he continues looking at the book.
-spike: no. we need information. we need- xander:
-scene direction: spike suddenly
-spike: ben's glory!
+spike: no. we need information. we need-
+scene direction: xander suddenly
+xander: ben's glory!
 scene direction: doc looks up
 doc: who's what?
 scene direction: spike surprised
@@ -654,7 +659,8 @@ spike: wonderful. but not why we're here.
 scene direction: spike turns back to doc
 spike: hell-god type.
 scene direction: spike doc returns to his book
-spike: name of glory- xander: a.k.a. ben.
+spike: name of glory-
+xander: a.k.a. ben.
 spike: -has gone missing. she's brewing up some major-league bad, and she's nicked the slayer's kid sister in the bargain.
 scene direction: doc looking at him, nodding
 doc: hmm. that girl you brought here. sweet little thing. how'd things work out with her mom? changed her mind, didn't she?
@@ -679,7 +685,8 @@ doc: right.
 scene direction: doc thinks
 doc: well, i may know a fella ... you know, who knows a fella in...
 scene direction: doc thinks
-doc: in china. he might- spike: how the hell are we supposed to get to china? teleport?
+doc: in china. he might-
+spike: how the hell are we supposed to get to china? teleport?
 doc: i guess.
 scene direction: shot of spike looking suspicious. he looks downward.
 scene direction: close angle on doc from about mid-chest to mid-thigh. his hands are clasped in front of him. behind him on the table we see something that looks like a wooden box.
@@ -784,7 +791,8 @@ glory: i'm going home no matter what you do.
 scene direction: glory looks to the side, reaches down to grab something, morphs into ben as she picks it up. it's an empty beer bottle. ben slams it against the side of the dumpster, breaking it. he holds the broken edge up to dawn's face. dawn cringes away in terror.
 ben: you really think i'll just let that happen?
 glory: benjamin, what are you doing?
-ben: you need her blood? when i'm through there won't be enough left to fill a bottle cap. then you, hellbitch, have nowhere left- glory: -to go. huh!
+ben: you need her blood? when i'm through there won't be enough left to fill a bottle cap. then you, hellbitch, have nowhere left-
+glory: -to go. huh!
 scene direction: glory pulls dawn away from the dumpster, throws her across the alley, then throws the bottle against the wall. we hear it shatter. dawn crouches on the ground staring at glory in fear.
 glory: you can't hurt her and you know it, ben.
 scene direction: glory sits down on a pile of bricks
@@ -960,4 +968,4 @@ scene direction: zoom in on giles's face as he first avoids buffy's eyes, finall
 giles: buffy, the only way is to kill dawn.
 scene direction: buffy reacts with dismay.
 scene direction: blackout.
-executive producer: joss whedon 
+executive producer: joss whedon.

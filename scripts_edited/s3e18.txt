@@ -16,11 +16,13 @@ giles: here we go, we've been researching the, uh, mayor's forthcoming ascension
 oz: it's pretty riveting stuff.
 buffy: what do we know?
 xander: what don't we know. tell her giles.
-giles: based upon the supposed date, graduation day, and the mayor being impervious to harm, i've cross-referenced- xander: he's a cross-referencing fool.
+giles: based upon the supposed date, graduation day, and the mayor being impervious to harm, i've cross-referenced-
+xander: he's a cross-referencing fool.
 giles: and i've eliminated several possibilities. it's not the ritual flaying of the demon azarath nor the, uh ... i don't know what's going to happen.
 oz: that was kind of an anti-climax.
 buffy: we don't know anything? the whole fake angel thing was for nothing?
-giles: no, no, no. if nothing else angel's charade has brought faith's treachery to the open and this information on the ascension will prove useful eventually, i just need to put it together. we see buffy scratching at her hand as wesley enters, looking dapper as ever.
+giles: no, no, no. if nothing else angel's charade has brought faith's treachery to the open and this information on the ascension will prove useful eventually, i just need to put it together.
+scene direction: we see buffy scratching at her hand as wesley enters, looking dapper as ever.
 wesley: terribly sorry, i was detained. official counsel business. mr. giles, you were speaking?
 giles: i was just filling buffy in on my progress regarding the research on the ascension.
 wesley: oh, and what took up the rest of the minute?
@@ -52,7 +54,8 @@ percy: most of it.
 scene direction: willow in school teacher, un-approving type voice
 willow: percy.
 percy: i'll finish it at lunch.
-willow: that's my little trooper hogan: i don't know what you're doing to him. i actually heard him complete a sentence. it had a clause and everything.
+willow: that's my little trooper
+hogan: i don't know what you're doing to him. i actually heard him complete a sentence. it had a clause and everything.
 percy: you're watching the game, right?
 willow: wouldn't miss it!
 xander: see ya hogan.
@@ -91,7 +94,8 @@ scene direction: everyone claps and cheers as hogan steps out.
 buffy: is it me or is this really lame?
 oz: i don't know. i usually enjoy lameness, and this is leaving me kinda cold.
 scene direction: willow reading the school newspaper
-willow: well, according to freddy's latest editorial, 'the pep rally is a place for pseudo-prostitutes to provoke men into a sexual frenzy which, when thwarted, results in pointless athletic competition.' xander: and the downside being?
+willow: well, according to freddy's latest editorial, 'the pep rally is a place for pseudo-prostitutes to provoke men into a sexual frenzy which, when thwarted, results in pointless athletic competition.'
+xander: and the downside being?
 willow: the school paper is edging on depressing lately. you guys notice that?
 oz: i don't know. i always go straight to the obits.
 scene direction: willow notices buffy running her hands over her hair.
@@ -148,7 +152,8 @@ oz: it was intense.
 xander: yeah, for a minute there i thought you're gonna make an expression.
 oz: well, i felt one coming on. i won't lie.
 willow: man, i've never seen anyone jump like hogan martin. they should call him -- the jumper.
-xander: or a name that isn't an article of women's clothing. hey, remember when- willow: shhh...
+xander: or a name that isn't an article of women's clothing. hey, remember when-
+willow: shhh...
 scene direction: xander shuts up as buffy approaches the group.
 buffy: hmmm... quietness. we either lost, or we won and you don't want me to feel bad.
 willow: well, yeah it wasn't a really good game.
@@ -161,7 +166,8 @@ cordelia: from the pyramid.
 willow: yeah, well, i still bet patrolling was way better cause, wow, important.
 buffy: well i thought i saw a four legged demon. but it was just a dog.
 oz: a weredog?
-buffy: regular xander: tough luck.
+buffy: regular
+xander: tough luck.
 scene direction: xander looks at cordy talking with her friends.
 xander vo: i wonder if she and wesley have kissed.
 buffy: it really bugs you huh?
@@ -183,10 +189,12 @@ male student vo: buffy is so beautiful.
 scene direction: she stops, gives a furtive glance at the guy.
 male student vo: i mean, look at that body.
 scene direction: she raises her arm to shield a blush.
-male student vo: god, i would love to shove her against that locker right now and just oooh. she mentally freaks and hurries past. she almost bumps into another guy who looks at her. we don't hear his thought but she breaks into a run.
+male student vo: god, i would love to shove her against that locker right now and just oooh.
+scene direction: she mentally freaks and hurries past. she almost bumps into another guy who looks at her. we don't hear his thought but she breaks into a run.
 scene change: cut to buffy talking to giles in the library.
 buffy: is this the thing? the aspect thing? because i gotta say, if it is, it is way better than a tail. i mean, i have a hard enough time finding jeans that fit right.
-giles: buffy, slow down. i'm not even convinced that this is genuine mind reading. you're most likely projecting your- buffy: when i walked in a few minutes ago, you thought 'look at her shoes. if a fashion magazine told her to, she'd wear cats strapped to her feet.
+giles: buffy, slow down. i'm not even convinced that this is genuine mind reading. you're most likely projecting your-
+buffy: when i walked in a few minutes ago, you thought 'look at her shoes. if a fashion magazine told her to, she'd wear cats strapped to her feet.
 giles: i...um...
 giles vo: the demons are telepathic. i should have known. that's why they didn't need mouths.
 giles: of course, demons are telepathic!
@@ -259,7 +267,8 @@ buffy: like say, immortality?
 angel: exactly, i'm dying to get rid of that.
 buffy: funny.
 angel: i'm a funny guy.
-scene change: cut to the library where willow, oz, xander, cordelia, buffy, giles and wesley are gathered around the table.
+scene change: cut to the library where willow,
+scene direction: oz, xander, cordelia, buffy, giles and wesley are gathered around the table.
 xander: she can read our minds? our every impulse and fantasy.
 buffy: every one.
 xander vo: oh god.
@@ -295,9 +304,8 @@ scene direction: willow gets up and runs from the library.
 oz: if you don't need me, i'm gonna follow the red-head.
 scene direction: oz leaves also.
 scene direction: buffy to giles and cordelia
-buffy: guess i won't be writing that book, 'gaining friends through telepathy.' cordelia
-scene direction: buffy vo
-buffy:  whatever. i wonder when i can go.
+buffy: guess i won't be writing that book, 'gaining friends through telepathy.'
+cordelia vo: whatever. i wonder when i can go.
 cordelia: whatever. can i go?
 scene direction: wesley sticks his head out of the office
 wesley: excuse me. can you hear me thinking in here? i could go out into the hall.
@@ -481,29 +489,35 @@ larry: what secret? being gay? man, i'm out! i'm so out i got my grandma fixing 
 xander: that's uh, nice.
 larry: but it sounds like, uh, you're having a rough time with it.
 scene direction: xander gets uncomfortable.
-larry: look, just do it. that weird freddy iverson guy that does the school paper- xander: he's gay?
+larry: look, just do it. that weird freddy iverson guy that does the school paper-
+xander: he's gay?
 larry: no dude, but i bet he'd put in like a coming out announcement for you. something tasteful.
 scene change: cut to oz, goes up to the newspaper office door. it's locked. he knocks.
-oz: freddy. we see freddy stop at a corner behind him. freddy turns and goes the other way.
+oz: freddy.
+scene direction: we see freddy stop at a corner behind him. freddy turns and goes the other way.
 scene change: cut to cordy, oz, willow and xander in the library.
 willow: he's the only one we couldn't find?
 oz: yeah. freddy iverson.
 cordelia: the newspaper guy? but we can't figure out if it's him without the worksheet, right?
 scene direction: xander holding up the newspaper
-xander: we do have this people. today's editorial titled 'big game draws mindless brain dead mob' cordelia: does he mention the cheerleaders? because we were on.
+xander: we do have this people. today's editorial titled 'big game draws mindless brain dead mob'
+cordelia: does he mention the cheerleaders? because we were on.
 scene change: cut to buffy tossing and turning in her bed. giles and joyce stand in the doorway to buffy's room.
 joyce: i can't stand this. i keep wondering if i'm hurting her with my thoughts.
-giles: you're not. not anymore. she can't pick one thought out of the... out of the din. a knock comes from downstairs. they turn and bolt for downstairs. wesley beats them to door below. he opens it and a smoking figure covered in a blanket steps inside. the figure pulls off the blanket and we see it's angel. he holds a vial of glowing blue liquid.
+giles: you're not. not anymore. she can't pick one thought out of the... out of the din.
+scene direction: a knock comes from downstairs. they turn and bolt for downstairs. wesley beats them to door below. he opens it and a smoking figure covered in a blanket steps inside. the figure pulls off the blanket and we see it's angel. he holds a vial of glowing blue liquid.
 angel: i got it.
 scene change: cut to upstairs. angel sets the potion on a burner. he sits down on the bed and pulls buffy up into his arms.
 scene direction: buffy dazed, confused
 buffy: uh, no.
 angel: i'm gonna help you.
 scene direction: he grabs the potion and feeds it to her. she struggles but can't really resist. she gulps some of it down. he sets the potion aside and lays her back on the pillow. she seems better. he kisses her forehead. she starts to freak, thrashing and kicking, not knowing what she's doing.
-angel: giles! cut to the sunnydale high quad. with the 'something's up' background music playing. the camera pans around the students moving about. the scooby gang passes through frame. the camera moves and then tilts up so we see the clock tower. reverse to from the clocktower looking down at the quad. the camera pulls back into the darkness of the tower. we see johnathan step into view. he crouches down and opens a steel case. inside, the disassembled parts of a high-powered rifle. he grabs one of the pieces.
+angel: giles!
+scene change: cut to the sunnydale high quad. with the 'something's up' background music playing. the camera pans around the students moving about. the scooby gang passes through frame. the camera moves and then tilts up so we see the clock tower. reverse to from the clocktower looking down at the quad. the camera pulls back into the darkness of the tower. we see johnathan step into view. he crouches down and opens a steel case. inside, the disassembled parts of a high-powered rifle. he grabs one of the pieces.
 scene change: *** act four ***
 scene direction: buffy's bedroom. angel kneels at her bedside, her hand clasped in his. her eyes open and she turns her head to look at him.
-buffy: angel. buffy's mother sits down on the bed and we see giles and wesley in the room just behind her.
+buffy: angel.
+scene direction: buffy's mother sits down on the bed and we see giles and wesley in the room just behind her.
 joyce: thank god! are you all right? do you hear thoughts?
 buffy: no. did you find the killer?
 scene change: cut to freddy sitting at his desk in the newspaper office. willow, oz, and cordy burst through the main door. freddy springs out of his chair to go out a side door but xander comes walking through that one.
@@ -628,4 +642,4 @@ buffy: oh come on! what am i, saint buffy? he's like three feet tall!
 giles: i'm glad to see you've recovered from your psychic encounter more or less intact. feel up to some training?
 buffy: sure. we can work out after school. you know, if you're not too busy having sex with my mother!
 scene direction: at which point giles walks right into a tree.
-scene direction: black out 
+scene direction: black out

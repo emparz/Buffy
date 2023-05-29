@@ -245,7 +245,6 @@ fetch
 a
 a
 lovely
-glory
 no
 i'm
 not
@@ -1751,7 +1750,6 @@ really
 don't
 go
 but
-glory
 out
 get
 out
@@ -5552,9 +5550,8 @@ and
 and
 find
 buffy
-ben
 no
-dawn
+ben
 turns
 to
 her
@@ -5601,7 +5598,6 @@ me
 how
 i
 priest
-dawn
 os
 highness
 ben
@@ -5999,7 +5995,6 @@ information
 we
 need
 xander
-spike
 suddenly
 ben's
 glory
@@ -6058,7 +6053,6 @@ book
 name
 of
 glory
-xander
 aka
 ben
 has
@@ -6260,7 +6254,6 @@ in
 china
 he
 might
-spike
 how
 the
 hell
@@ -7426,7 +7419,6 @@ hellbitch
 have
 nowhere
 left
-glory
 to
 go
 huh

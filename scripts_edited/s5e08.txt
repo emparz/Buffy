@@ -7,7 +7,8 @@ buffy: dawn, i'm really...
 scene direction: she stops herself as dawn gives her an apprehensive look. buffy puts her arm around dawn and brings dawn's head to rest on her shoulder. she kisses the top of dawn's head.
 scene direction: long shot of them sitting there in the hospital waiting room as various staff people walk by.
 scene change: cut to a telephone book, open to a page where we see a large advertisement for the magic box.
-tara voiceover: "your one-stop spot to shop for all your occult needs." we see tara and giles standing behind the counter, looking at the ad.
+tara voiceover: "your one-stop spot to shop for all your occult needs."
+scene direction: we see tara and giles standing behind the counter, looking at the ad.
 tara: catchy.
 giles: think so?
 tara: uh-huh. in a ... hard to read sort of way, but i think it's great.
@@ -67,13 +68,13 @@ scene direction: glory kicks out her foot and the shoe flies off it, hitting dre
 dreg: ow! thank you.
 glory: dreg, is it?
 scene direction: glory gets up
-dreg: yes. dreg. your creamy coolness has honored me by speaking my name. your voice is like a thousand sweet songbirds that- glory:
-scene direction: dreg irritated
-dreg: yeah, i never tire of hearing that. look, just so we're clear, the spell's gonna work, right?
-scene direction: dreg dreg nods anxiously. glory turns and goes to the window, peeking around the curtain
-dreg: i mean, nothing worse than a gift that doesn't work. then i'd have to get all mad and kill you!
-scene direction: dreg apologetically
-dreg: it's this whole big thing.
+dreg: yes. dreg. your creamy coolness has honored me by speaking my name. your voice is like a thousand sweet songbirds that-
+scene direction: glory irritated
+glory: yeah, i never tire of hearing that. look, just so we're clear, the spell's gonna work, right?
+scene direction: glory dreg nods anxiously. glory turns and goes to the window, peeking around the curtain
+glory: i mean, nothing worse than a gift that doesn't work. then i'd have to get all mad and kill you!
+scene direction: glory apologetically
+glory: it's this whole big thing.
 dreg: it will work, your extremeness. provided you have the other items you need.
 glory: don't worry. i'll have them all right.
 scene direction: she walks past him to where a copy of the phone book is sitting open to the page with giles' ad. she tears out the page and smiles at it.
@@ -204,12 +205,13 @@ willow: so i'm thinking maybe she...
 giles: predates language itself?
 scene direction: willow nods significantly. xander looks puzzled.
 xander: well hey, if it means i don't have to read any more, woo! and might i add a big hoo!
-giles: if tara's right, then we're blind. there's ... there's no way we can determine ... her moves, her habits, where she'll turn up next- he turns around, putting his glasses back on, and is confronted by glory. she has a few items in her hands.
-giles: oh! i beg your- glory:
-scene direction: giles abruptly
-giles: uh-huh.
-scene direction: giles holds up items
-giles: i want these.
+giles: if tara's right, then we're blind. there's ... there's no way we can determine ... her moves, her habits, where she'll turn up next-
+scene direction: he turns around, putting his glasses back on, and is confronted by glory. she has a few items in her hands.
+giles: oh! i beg your-
+scene direction: glory abruptly
+glory: uh-huh.
+scene direction: glory holds up items
+glory: i want these.
 giles: yes, of course!
 scene direction: giles hurries behind the counter, taking the items
 giles: um, you find everything all right?
@@ -288,9 +290,10 @@ scene direction: buffy grabs her coat and puts it on
 buffy: i have to do something.
 riley: do something?
 buffy: yeah, like, you know, magic, like a healing spell.
-riley: buffy ... people get sick. i don't think magic- buffy: that attitude's not helping.
-scene direction: riley riley looks cowed
-riley: i have to try.
+riley: buffy ... people get sick. i don't think magic-
+buffy: that attitude's not helping.
+scene direction: buffy riley looks cowed
+buffy: i have to try.
 riley: okay.
 buffy: i need to talk to giles. uh, will you do me a favor and, and drop dawn off at school, and tell her i'll meet her at the magic shop in an hour when she gets off?
 riley: of course, whatever you need me to do.
@@ -378,14 +381,16 @@ anya: we've done just about enough making things worse for one day, haven't we?
 scene direction: everyone looks guilty except buffy, who looks confused.
 buffy: why? what do you mean?
 xander: uh, nothing. anya broke a ... bippity boppity boo. a thing. don't worry about it.
-anya: i did not! i didn't break- giles: anya, buffy doesn't need to hear about your ... clumsiness right now.
+anya: i did not! i didn't break-
+giles: anya, buffy doesn't need to hear about your ... clumsiness right now.
 scene direction: anya sighs
 anya: my clumsiness. i mean, that is so-
 scene direction: anya willow and xander give her meaningful looks. she looks at buffy
 anya: ...like ... me. slippery, slippery ... butterfingers.
 scene direction: buffy not fooled
 buffy: what happened?
-giles: nothing to concern you, uh- buffy: giles!
+giles: nothing to concern you, uh-
+buffy: giles!
 scene direction: giles sighs
 giles: the, uh,
 scene direction: giles embarrassed
@@ -429,7 +434,8 @@ scene direction: buffy turns back
 buffy: what? i'm going.
 xander: buffy, this chick creamed you last time.
 buffy: that's because i wasn't ready for her last time. i am now.
-willow: but you- buffy: but what? will, i can't just sit here. i have to do something.
+willow: but you-
+buffy: but what? will, i can't just sit here. i have to do something.
 scene direction: she leaves.
 scene change: cut to exterior shot of the sunnydale zoo, day.
 scene change: cut to inside the reptile building. pan across a sign explaining the characteristics of the cobra. we see a cobra case with the snake inside. pan back across to glory looking at the case. she punches a fist through the glass, reaches in and grabs the snake. she holds it up to her face, smiling. the snake hisses. glory hisses back(?). the snake's tail lashes angrily.
@@ -446,7 +452,8 @@ glory: that it may mold this wretched creature ... that it may be reborn ... tha
 scene direction: glory irritated
 glory: ah! dark incantations! always overwritten!
 scene direction: glory dreg stops chanting, looks uncertainly at her
-glory: why can't they just cut to the- suddenly buffy tackles glory from the side, slamming her into a wall.
+glory: why can't they just cut to the-
+scene direction: suddenly buffy tackles glory from the side, slamming her into a wall.
 buffy: fight?
 scene direction: buffy kicks glory in the face.
 glory: no fair-
@@ -526,7 +533,8 @@ xander: yeah, it is. buffy needs something she can fight, something she can solv
 scene direction: xander looks closer at riley
 xander: do you?
 scene direction: riley stares at him, then looks away.
-xander: hey, i'm not trying to get- riley: it's cool.
+xander: hey, i'm not trying to get-
+riley: it's cool.
 xander: you okay?
 scene direction: riley nods
 riley: just a little crazed.
@@ -537,9 +545,9 @@ scene direction: riley he shrugs and leaves.
 scene change: cut to exterior shot of a church.
 scene change: cut to interior of church. pan across a statue of jesus on the cross. pan down. we see the snake creature moving through the church, hissing. its eyes are yellow.
 scene change: cut to magic box. giles hands something to a customer as the phone rings. he moves to answer it.
-giles: magic box, your one-stop spot to shop for- buffy:
-scene direction: giles on phone
-giles: giles, it's me.
+giles: magic box, your one-stop spot to shop for-
+scene direction: buffy on phone
+buffy: giles, it's me.
 giles: buffy! you all right?
 scene change: cut to buffy in the hospital, on a pay phone.
 buffy: no, i'm really not.
@@ -554,10 +562,12 @@ scene direction: buffy winces
 buffy: lethal looking.
 giles: do you know why she raised it?
 buffy: i don't know yet.
-giles: i'll warn the others. we'll get weapons, we'll fan out- buffy: wait. what time is it?
+giles: i'll warn the others. we'll get weapons, we'll fan out-
+buffy: wait. what time is it?
 scene direction: giles looks at his watch
 giles: half past four, why?
-buffy: school's out. dawn's on her way over to you. giles- giles: understood. we'll keep her safe here until you arrive.
+buffy: school's out. dawn's on her way over to you. giles-
+giles: understood. we'll keep her safe here until you arrive.
 buffy: thanks. and giles...
 giles: yes?
 buffy: dawn's kind of fragile right now. about mom. she doesn't know how bad it is.
@@ -592,7 +602,8 @@ scene direction: willow and giles watch with concern. dawn turns away to gather 
 scene direction: buffy sighs, speaks quietly to willow and giles
 buffy: so, any monster reptile sightings?
 giles: none.
-willow: tara and i did a mini-patrol earlier, but biggie snake was nowhere to be- suddenly the snake creature bursts in through the display window. everyone turns as it slithers inside and rears up, looking at them. dawn is in the forefront. the snake smacks a display case with one arm and it topples over onto buffy, knocking her to the floor. the snake moves toward dawn, who screams continuously as it looms over her. its eyes glow red again. dawn continues screaming as buffy struggles to get out from under the case, and the snake stares at dawn. then it turns and slithers quickly back out the way it came in. blackout.
+willow: tara and i did a mini-patrol earlier, but biggie snake was nowhere to be-
+scene direction: suddenly the snake creature bursts in through the display window. everyone turns as it slithers inside and rears up, looking at them. dawn is in the forefront. the snake smacks a display case with one arm and it topples over onto buffy, knocking her to the floor. the snake moves toward dawn, who screams continuously as it looms over her. its eyes glow red again. dawn continues screaming as buffy struggles to get out from under the case, and the snake stares at dawn. then it turns and slithers quickly back out the way it came in. blackout.
 scene change: *** act iv ***
 scene direction: fade back in on the magic shop. tara and willow get up from behind the counter as xander rushes over to dawn.
 xander: dawn, you okay?
@@ -606,14 +617,17 @@ scene direction: buffy starts to run after the creature. giles comes out of the 
 scene direction: shot of the snake moving down an alley with buffy running after it. buffy turns as giles' convertible comes around the corner and screeches to a stop beside her. she jumps in and giles burns rubber after the creature. as they round a corner, the creature uses its tail to shove a dumpster out into the car's path. giles swerves to avoid it and crashes into a pile of garbage bags. giles struggles to shift into reverse.
 buffy: i've gotta stop this monster before it gets back to glory.
 giles: glory?
-buffy: that's what he called her. giles, she's gonna know dawn's the key if we don't- giles: we will.
+buffy: that's what he called her. giles, she's gonna know dawn's the key if we don't-
+giles: we will.
 scene direction: giles backs the car out and they resume the chase.
 scene change: cut to exterior shot of glory's apartment building.
 scene direction: dreg os
 dreg: please! please, mistress!
 scene change: cut to inside the apartment. dreg is cowering as glory throws shoeboxes at him.
-dreg: perturbed, yet ultimately merciful- glory sweeps a pile of shoeboxes off the sofa in annoyance.
-dreg: please, don't- glory: what is taking so long, dreg? you told me snakey-wakey would find my key. now why isn't he back here with a beautiful message for me?
+dreg: perturbed, yet ultimately merciful-
+scene direction: glory sweeps a pile of shoeboxes off the sofa in annoyance.
+dreg: please, don't-
+glory: what is taking so long, dreg? you told me snakey-wakey would find my key. now why isn't he back here with a beautiful message for me?
 dreg: i grovel like a bug, most silky and effervescent glorificus-
 scene direction: dreg she throws more shoeboxes at him
 dreg: glory! glory. your most fresh and cleanness, it's just a matter of time.

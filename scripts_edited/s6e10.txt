@@ -10,7 +10,8 @@ scene direction: dawn frowns sleepily
 dawn: plus, a mother of all night-wedgies.
 scene direction: tara looks around
 tara: uh-oh.
-dawn: it's not tragic. i'm sure as soon as i stand up- tara: no, dawn ... why didn't anybody wake us up? where is everyone?
+dawn: it's not tragic. i'm sure as soon as i stand up-
+tara: no, dawn ... why didn't anybody wake us up? where is everyone?
 scene change: cut to upstairs. dawn opens the door to buffy's room, revealing the neatly made bed that has clearly not been slept in. dawn and tara look in, look confused. dawn walks down the hall with tara following.
 scene direction: dawn opens the door to willow's bedroom. the bed is also neatly made and not slept in.
 dawn: willow didn't come home either. they were out all night.
@@ -66,11 +67,13 @@ spike: make me.
 buffy: no! no!
 scene direction: she continues struggling for about another half second and then grabs his face and kisses him. she puts her arms around his neck and moans. they kiss for a moment.
 scene direction: buffy pulling back
-buffy: no, no, i-i have to- spike: stay. i'm stuck here.
-scene direction: buffy looks upward
-buffy: sun's up.
+buffy: no, no, i-i have to-
+spike: stay. i'm stuck here.
+scene direction: spike looks upward
+spike: sun's up.
 scene direction: buffy looks at spike for a moment, resumes kissing him. more moaning. spike turns her around and lays her down on a conveniently placed pillow, lies on top of her. he moves down to kiss her neck. buffy moans again. spike lifts himself up to look at her.
-spike: i knew. i knew the only thing better than killing a slayer would be f- buffy: what?!
+spike: i knew. i knew the only thing better than killing a slayer would be f-
+buffy: what?!
 scene direction: buffy shoves him away and gets up angrily, moves a few feet away. spike remains sprawled on the floor.
 buffy: is that what this is about? doing a slayer?
 scene direction: spike smirking
@@ -132,7 +135,8 @@ tara: funny shapes, or...?
 scene direction: tara sighs
 scene direction: sound of the back door opening. both tara and dawn turn.
 scene direction: willow and amy enter, chattering.
-willow: it'll wear off in a day or- willow stops as she spots tara. they look at each other.
+willow: it'll wear off in a day or-
+scene direction: willow stops as she spots tara. they look at each other.
 scene direction: willow nervous
 willow: hey.
 scene direction: tara nervous
@@ -159,13 +163,14 @@ amy: i couldn't even keep up with her last night.
 willow: amy.
 amy: no, it's true!
 scene direction: amy to tara
-amy: i mean, i can do some transmography, but she is messing with dimensions and everything, it was awesome! this blowhard dude, first she made his mouth disappear? thank god. and then- tara continues looking angrily at willow.
+amy: i mean, i can do some transmography, but she is messing with dimensions and everything, it was awesome! this blowhard dude, first she made his mouth disappear? thank god. and then-
+scene direction: tara continues looking angrily at willow.
 amy: i'm talking too much. sorry. it's just been ... you know ... me and a bag of pellets for the last few years, so...
 tara: no, it's, it's fine. it's just, um, i, i re-really need to go.
 scene direction: tara turns to leave
-willow: tara, uh, you left some stuff upstairs, it's in- tara:
-scene direction: willow walking away
-willow: i'll get them later.
+willow: tara, uh, you left some stuff upstairs, it's in-
+scene direction: tara walking away
+tara: i'll get them later.
 willow: tara!
 scene direction: tara walks down the hall toward the foyer. on the way, she passes buffy who has just come in the front door. buffy gives tara a confused look and continues into the kitchen. buffy walks with a slight limp. she still has visible bruises and/or hickeys on her face.
 dawn: buffy! uh, where were you, are you okay?
@@ -237,7 +242,8 @@ xander: ahn, would you hand me that one next to you?
 scene direction: anya doesn't respond.
 xander: great, we're not even married yet and already you've stopped listening to me.
 scene direction: he reaches across her to get a book. as he picks it up, something falls out of it and onto the table.
-scene direction: close shot of it. it's a magazine called "bride & joy." xander looks at it, puts his hand on the book anya's reading and tips it down. reveal that she's actually reading a bridal magazine hidden in the demon book.
+scene direction: close shot of it. it's a magazine called "bride & joy."
+scene direction: xander looks at it, puts his hand on the book anya's reading and tips it down. reveal that she's actually reading a bridal magazine hidden in the demon book.
 xander: anya!
 anya: i'm sorry, but this is pointless!
 scene direction: anya buffy coming over
@@ -259,7 +265,8 @@ scene direction: anya buffy and xander rolling their eyes
 anya: ...or the traditional burlap with blood larva.
 xander: the traditional what?
 anya: well, i was a demon for a thousand years, you don't expect me to turn my back on all the ways of my people.
-buffy: uh, can i weigh in on this whole me wearing larva- anya and xander: no.
+buffy: uh, can i weigh in on this whole me wearing larva-
+anya and xander: no.
 scene direction: buffy sighs in irritation, sits.
 scene direction: anya to xander
 anya: at least i'm not asking you to perform the groom's rite of self-flagellation.
@@ -304,7 +311,8 @@ amy: he does.
 scene direction: amy stops walking
 amy: you can't feel it?
 scene direction: we see a long stretch of alley in front of them, apparently empty.
-willow: what do you- amy takes willow's hand and holds it up to the air, moves it horizontally.
+willow: what do you-
+scene direction: amy takes willow's hand and holds it up to the air, moves it horizontally.
 amy: here.
 willow: it's hot.
 scene direction: amy grins excitedly, turns toward willow and walks backward into the open space.
@@ -318,7 +326,8 @@ scene direction: pan across the room. it's fairly run-down with some old chairs 
 amy: it's cool, isn't it? the place is cloaked.
 willow: yeah.
 amy: moves around a lot too. keeps rack out of trouble.
-willow: rack, who's- they both turn as another door opens and a man comes out. he gives them a look and walks forward.
+willow: rack, who's-
+scene direction: they both turn as another door opens and a man comes out. he gives them a look and walks forward.
 scene direction: girl anxious
 girl: rack, rack, it's my turn.
 guy: no, man, you said i was up.
@@ -331,7 +340,8 @@ scene change: *** act ii ***
 scene direction: open on the inner room of rack's place. willow, amy, and rack enter. willow still looks nervous. amy is removing her jacket. she wears a sleeveless top.
 amy: thanks, rack, for taking us.
 scene direction: amy puts her jacket down
-amy: i know it's been a while. you'll never believe- rack: you were a rat.
+amy: i know it's been a while. you'll never believe-
+rack: you were a rat.
 amy: how did you know?
 scene direction: rack chuckling
 rack: i hope that taught you not to mess with spells you can't handle. you should leave that in the hands of a professional.
@@ -353,12 +363,14 @@ rack: and what do you want me to do about that?
 scene direction: willow uncertain
 willow: i-i don't know, i, i thought-
 scene direction: willow looks back at amy
-willow: amy said- rack: amy said. amy said i could help you. but did amy say how you could help me?
-willow: no, i-i have some money, a-a bit- rack:
-scene direction: willow shakes head
-willow: not money.
+willow: amy said-
+rack: amy said. amy said i could help you. but did amy say how you could help me?
+willow: no, i-i have some money, a-a bit-
+scene direction: rack shakes head
+rack: not money.
 scene direction: willow nervous
-willow: well, i could help you with your computer, i'm really handy- rack walks forward, holding out his hand toward her chest.
+willow: well, i could help you with your computer, i'm really handy-
+scene direction: rack walks forward, holding out his hand toward her chest.
 rack: just relax, i'm not gonna hurt you. you gotta give a little to get a little, right?
 scene direction: willow looks very nervous, looks at amy.
 scene direction: amy whispers
@@ -502,10 +514,11 @@ amy: ohh, don't shake me again, super strength. i think i'm gonna boot.
 buffy: then tell me where this place is, and i won't.
 amy: well, it's downtown, but it moves.
 buffy: what do you mean, it moves?
-amy: it's downtown, i'm, i'm not sure where it would be tonight exactly- buffy:
-scene direction: amy shakes her
-amy: tell me how to find it.
-amy: you just kinda have to feel it out ... oh god, i think i'm gonna- amy puts her hand over her mouth and rushes toward the bathroom. buffy looks disgusted, turns to leave.
+amy: it's downtown, i'm, i'm not sure where it would be tonight exactly-
+scene direction: buffy shakes her
+buffy: tell me how to find it.
+amy: you just kinda have to feel it out ... oh god, i think i'm gonna-
+scene direction: amy puts her hand over her mouth and rushes toward the bathroom. buffy looks disgusted, turns to leave.
 scene change: cut to the street. willow and dawn walk along together.
 willow: so, uh, the burger was good? you liked it?
 scene direction: dawn smiling
@@ -525,7 +538,8 @@ willow: did she say something?
 dawn: uh, not exactly. i can just tell, by the way she was acting.
 willow: oh.
 scene direction: willow seems distracted. dawn looks anxious.
-dawn: uh, are you sure you're okay? you look a little- willow: no, i'm fine. and tara's in her new place and everything, she's all settled in?
+dawn: uh, are you sure you're okay? you look a little-
+willow: no, i'm fine. and tara's in her new place and everything, she's all settled in?
 dawn: um ... we really didn't get into ... well...
 scene direction: dawn looking around
 dawn: is this right? i-is this the way to the movies?
@@ -579,12 +593,15 @@ spike: what's the story?
 buffy: she went out with willow.
 spike: willow?
 scene direction: spike grinning
-spike: that's kind of a sorry excuse to come by. if you want the touch all you need to do is- buffy: spike. willow's into something. okay, her and dawn have been missing for hours. there, there's some guy named rack.
+spike: that's kind of a sorry excuse to come by. if you want the touch all you need to do is-
+buffy: spike. willow's into something. okay, her and dawn have been missing for hours. there, there's some guy named rack.
 scene direction: spike frowns
 spike: rack?
-buffy: yeah, he's, uh, some sort of- spike: i know who he is, he deals in magic. black stuff, dangerous.
+buffy: yeah, he's, uh, some sort of-
+spike: i know who he is, he deals in magic. black stuff, dangerous.
 buffy: i've been all over downtown and i can't find his place.
-spike: because he cloaks it. you can't feel it unless you're into the big bad - a witch or a vampire or- buffy: so let's go!
+spike: because he cloaks it. you can't feel it unless you're into the big bad - a witch or a vampire or-
+buffy: so let's go!
 scene direction: spike stands up, still naked. buffy quickly turns her back.
 scene direction: spike scoffs
 spike: oh, that's right. hide your blushing eyes.
@@ -594,7 +611,8 @@ sleazy cigarette guy: hey, wait your turn.
 scene direction: as dawn approaches the door, it suddenly opens and willow comes out, smiling.
 willow: hey dawnie. it's movie time.
 scene direction: dawn angrily
-dawn: do you know how long i've been out here? it's too late for the movie. and that guy smells like- dawn notices that willow's eyes are completely black.
+dawn: do you know how long i've been out here? it's too late for the movie. and that guy smells like-
+scene direction: dawn notices that willow's eyes are completely black.
 scene direction: dawn nervous
 dawn: are-are you, are you okay?
 willow: fine. let's get outta here.
@@ -641,9 +659,10 @@ spike: you know it. but i got my rocks back. you felt something last night.
 buffy: not love.
 spike: not yet. but i'm in your system now. you're gonna crave me, like i crave blood. and the next time you come crawling, if you don't stop being such a bitch, maybe i will bite you.
 scene direction: buffy stares, stops walking
-buffy: that, that's it! i want you out of my life! out of my work, out of my home- spike: too late for that. you invited me in already.
-scene direction: buffy buffy scowls
-buffy: and as for your work, you need me. like tonight.
+buffy: that, that's it! i want you out of my life! out of my work, out of my home-
+spike: too late for that. you invited me in already.
+scene direction: spike buffy scowls
+spike: and as for your work, you need me. like tonight.
 buffy: i'll find dawn myself.
 scene direction: spike rolls eyes
 spike: you really gonna put your little sis in danger just to spite me?
@@ -662,7 +681,8 @@ dawn: with magic?
 scene direction: dawn shakes head in disgust
 scene direction: suddenly dawn hears a noise. she stops, looking very fearful.
 dawn: what's that?
-willow: what? i didn't- dawn: uh ... i'm getting out of here.
+willow: what? i didn't-
+dawn: uh ... i'm getting out of here.
 scene direction: dawn begins to walk, very fast.
 willow: aw, dawnie, don't. it was probably a cat or something like that.
 scene direction: dawn turns to look back at willow, turns back again and the demon steps out in front of her. it's the same demon from willow's two hallucinations earlier. dawn moves back, staring in horror. willow looks alarmed, comes up to her.
@@ -671,7 +691,8 @@ scene direction: dawn scared
 dawn: seems real! very! real!
 demon: you summoned me, witch.
 scene direction: willow nervous, moving back
-willow: i, i didn't- demon: did. you raised hell with your magicks.
+willow: i, i didn't-
+demon: did. you raised hell with your magicks.
 scene direction: the demon growls, reaches out with a clawed hand and slashes dawn's cheek. she shrieks. willow moves in front of her. the demon holds his bloody finger up to his face.
 demon: fresh.
 willow: don't! she has nothing to do with it, it was me!
@@ -698,7 +719,8 @@ willow: woo!
 scene direction: willow laughing
 scene direction: dawn stares at willow, terrified. the car zooms down the street and into an alley. dawn continues screaming.
 scene direction: willow looking back over her shoulder
-willow: take that, scuz- the car goes into an alley, through an arched entrance, and slams into a concrete pillar.
+willow: take that, scuz-
+scene direction: the car goes into an alley, through an arched entrance, and slams into a concrete pillar.
 scene direction: blackout.
 scene change: *** act iv ***
 scene direction: open on the same scene. the car sits with its entire front end smashed in, smoke curling up from it.
@@ -835,4 +857,4 @@ scene direction: pan down to reveal buffy sitting on her bed, knees drawn up to 
 scene direction: blackout.
 scene direction: in loving memory of j.d. peralta.
 executive producers: joss whedon and marti noxon.
-scene direction: the en 
+scene direction: the end

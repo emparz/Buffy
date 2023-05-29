@@ -5,7 +5,9 @@ scene direction: xander sits on the sofa beside anya, puts the popcorn on the co
 willow: you should have seen their headquarters. it was like the nerd natural habitat.
 anya: well, if we know where they are, shouldn't we do something?
 willow: we tried. buffy was gonna go in there and bust them on the spot.
-xander: i'm sensing a 'not so completely.' willow: yeah, well, she went in, and then- anya: speaking of buffy, isn't she ready? she's gonna be late for her first day.
+xander: i'm sensing a 'not so completely.'
+willow: yeah, well, she went in, and then-
+anya: speaking of buffy, isn't she ready? she's gonna be late for her first day.
 willow: hey, respect the narrative flow much?
 anya: please continue the story of failure.
 willow: so, buffy went in, but they'd cleared out. and she brought back the stuff that they left...
@@ -15,9 +17,10 @@ scene direction: willow smiling
 willow: a couple of rare things, charmed objects, and a conjurer's harp...
 scene direction: willow trails off, looking a little wistful. xander and anya look at her with concern.
 scene direction: willow snaps out of it
-willow: a-and they had other stuff, you know, razor scooters, and pictures of the vulcan woman on "enterprise." xander: ooh!
-scene direction: willow chuckles, rubs his hands together, then sees anya's expression
-willow: i mean ... nerds.
+willow: a-and they had other stuff, you know, razor scooters, and pictures of the vulcan woman on "enterprise."
+xander: ooh!
+scene direction: xander chuckles, rubs his hands together, then sees anya's expression
+xander: i mean ... nerds.
 anya: okay. see, this is why demons are better than people.
 willow: interesting turn.
 anya: when i was a vengeance demon, i caused pain and mayhem, certainly. but i put in a full day's work doing it, and i got compensated appropriately.
@@ -179,7 +182,8 @@ scene direction: gary stops smiling
 gary: you better stop that.
 scene direction: buffy filling the cup at a soda dispenser
 buffy: why?
-gary: productivity. one of manny's watch-words. 'levity is the time-thief that picks the pocket of the company.' buffy: i prefer the one that goes, 'manny's a humorless dolt who picks the pocket of he-should-bite-me.' gary:
+gary: productivity. one of manny's watch-words. 'levity is the time-thief that picks the pocket of the company.'
+buffy: i prefer the one that goes, 'manny's a humorless dolt who picks the pocket of he-should-bite-me.'
 scene direction: gary sighs
 gary: you really need to be quiet with that.
 scene direction: gary picks up the tray with the fries and soda and hands it to the customer.
@@ -361,7 +365,8 @@ spike: this place'll kill you!
 scene change: cut to the alley behind the doublemeat palace. camera angle from the point of view of someone hiding behind some trash cans. we see gary come out the back door and begin doing something with the trash. he hears a noise, looks around, toward the camera.
 gary: someone there?
 scene direction: camera angle moves up as from the pov of someone coming out from hiding. gary's face shows recognition.
-gary: oh, hi, what are you doing? what, what- camera angle moves closer as gary suddenly begins to scream.
+gary: oh, hi, what are you doing? what, what-
+scene direction: camera angle moves closer as gary suddenly begins to scream.
 scene direction: close shot of his cap falling to the ground as screaming continues.
 scene direction: blackout.
 scene change: *** act ii ***
@@ -507,7 +512,8 @@ scene direction: buffy snaps out of it, turns to walk away. she catches sight of
 scene direction: reveal spike walking past outside the window, looking in at her. he stops walking to look at her.
 scene direction: buffy takes off her cap and runs her hand through her hair, looking at spike.
 scene direction: spike resumes walking.
-scene change: cut to the alley. buffy stands leaning her back against the wall as spike stands pressed up against her with his hands on the wall beside her shoulders. buffy has her hands on his upper arms. spike is moving rhythmically against her (we see them only from the waist up). he moves his head as if to kiss her but she turns her face away. spike continues to move as buffy stares blankly off to the side. on the wall beside them hangs a poster with the word "teamwork." cut to willow's bedroom. willow lies on her stomach on the bed, marking a book with a yellow highlighter. the door is open. we hear knocking.
+scene change: cut to the alley. buffy stands leaning her back against the wall as spike stands pressed up against her with his hands on the wall beside her shoulders. buffy has her hands on his upper arms. spike is moving rhythmically against her (we see them only from the waist up). he moves his head as if to kiss her but she turns her face away. spike continues to move as buffy stares blankly off to the side. on the wall beside them hangs a poster with the word "teamwork."
+scene change: cut to willow's bedroom. willow lies on her stomach on the bed, marking a book with a yellow highlighter. the door is open. we hear knocking.
 willow: come in.
 scene direction: amy appears in the doorway.
 amy: it's me. dawn said i could come up.
@@ -527,9 +533,9 @@ scene direction: amy pauses, then sits down on the bed beside willow.
 amy: hey. so i hear you got this whole cold-turkey thing goin' on.
 scene direction: amy willow nods
 amy: how's that going?
-willow: it's good. it's really good. i mean, i-it was hard at first ... frustrating ... doing everything the slow way. it was like, 'is everything gonna take forever, forever?' amy:
-scene direction: willow sympathetically
-willow: yeah.
+willow: it's good. it's really good. i mean, i-it was hard at first ... frustrating ... doing everything the slow way. it was like, 'is everything gonna take forever, forever?'
+scene direction: amy sympathetically
+amy: yeah.
 scene direction: willow still fiddling with pen
 willow: but, uh, it's better now. i'm ... getting my focus back.
 amy: mm. i can see that.
@@ -618,7 +624,8 @@ anya: he's very kind, and brave ... he has the sweetest smile and the nicest bod
 halfrek: who told you that it isn't easy to love you?
 anya: well, you know, i'll do something, or say something, and, and then he has to say stuff like,
 scene direction: anya imitating xander
-anya: 'it's incorrect for you to appreciate money so much,' or, or, 'observe: here is how a real human would behave.' halfrek: oh, so he corrects you?
+anya: 'it's incorrect for you to appreciate money so much,' or, or, 'observe: here is how a real human would behave.'
+halfrek: oh, so he corrects you?
 anya: well, no, it's just ... um ... well, no, i mean, now i'm all confused, i mean, wha, do you think there's something wrong with, with the way he treats me?
 scene direction: halfrek shrugs
 halfrek: do you?
@@ -770,9 +777,9 @@ scene direction: dawn makes a very disgusted face to show that she hasn't heard 
 anya: and by the way, i'm opposed to using demon meat, no matter how much money it saves.
 scene direction: anya to xander
 anya: does that surprise you?
-xander: again, i say 'huh?' willow:
-scene direction: xander still looking in microscope
-xander: no, i'm not sure what i'm seeing. cellulose?
+xander: again, i say 'huh?'
+scene direction: willow still looking in microscope
+willow: no, i'm not sure what i'm seeing. cellulose?
 scene direction: shot of the slide on the microscope. looks like a lot of brownish cells clinging together.
 scene direction: willow pulls back from the eyepiece.
 willow: there's something weird here.
@@ -865,7 +872,8 @@ scene direction: willow not moving aside
 willow: amy.
 amy: can i come in? my new place isn't set up, and i wanted to borrow some stuff like detergent.
 willow: you really can't.
-amy: i can't borrow detergent? well, when they start calling me 'stinky amy,' i'm just gonna say, 'hey, not my fault...' willow: i can't spend time with you anymore.
+amy: i can't borrow detergent? well, when they start calling me 'stinky amy,' i'm just gonna say, 'hey, not my fault...'
+willow: i can't spend time with you anymore.
 amy: what?
 willow: you can't come in here again.
 amy: what's up, y-you didn't like your birthday present?
@@ -924,4 +932,4 @@ buffy: right. here on out.
 scene direction: she gives a small brave smile.
 scene direction: blackout.
 executive producers: joss whedon and marti noxon.
-scene direction: the en 
+scene direction: the end

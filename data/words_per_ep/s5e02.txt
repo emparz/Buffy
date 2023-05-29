@@ -883,7 +883,6 @@ yeah
 i'm
 actually
 joyce
-buffy
 interrupts
 you
 can
@@ -942,6 +941,7 @@ no
 but
 see
 mom
+
 buffy
 and
 dawn
@@ -1701,7 +1701,6 @@ of
 flighty
 frivolous
 dawn
-giles
 pointing
 hey
 there's
@@ -2235,7 +2234,6 @@ upped
 to
 bad
 giles
-buffy
 calling
 hello
 anyone
@@ -2890,7 +2888,6 @@ this
 is
 a
 virtual
-buffy
 deathtrap
 what
 well
@@ -3043,7 +3040,6 @@ power
 possibly
 even
 a
-willow
 a
 unicorn
 10inch
@@ -3383,7 +3379,6 @@ of
 you
 guys
 mort
-harmony
 yelling
 when
 harmony
@@ -4523,7 +4518,6 @@ distance
 it
 looked
 kinda
-riley
 tense
 nooo
 ii
@@ -4631,7 +4625,6 @@ new
 leather
 pants
 and
-riley
 you
 know
 what
@@ -5341,7 +5334,6 @@ xander
 will
 kick
 your
-anya
 dawn
 no
 xander
@@ -5459,6 +5451,7 @@ new
 tricks
 honing
 my
+
 she
 bends
 to
@@ -6060,7 +6053,6 @@ mort
 mort
 this
 is
-mort
 i
 know
 who
@@ -7224,7 +7216,6 @@ send
 buffy
 a
 note
-peaches
 more
 notes
 harmony

@@ -123,7 +123,8 @@ tara: hey, sorry i'm late.
 buffy: oh, time has no meaning here. gina, i'm taking a break.
 scene direction: buffy takes her hat off, starts to move off. tara gives gina a fake smile and follows buffy.
 scene change: cut to the employee lounge. close on the wall bearing motivational posters reading "dedication" and "productivity".
-scene direction: pan over to tara sitting in a chair at a long table. behind her we see more posters - "cooperation" and "motivation." buffy comes over with a paper cup.
+scene direction: pan over to tara sitting in a chair at a long table. behind her we see more posters - "cooperation" and "motivation."
+scene direction: buffy comes over with a paper cup.
 tara: i have this sudden urge to dedicate my productive cooperation.
 scene direction: buffy hands her the cup of soda.
 buffy: well, if you close your eyes and repeatedly smash yourself in the head with frozen meat, it'll go away.
@@ -219,7 +220,8 @@ scene direction: andrew over earpiece
 andrew: go for the one with the bazoombas!
 scene direction: jonathan over earpiece
 jonathan: yeah, go for the one with the bazoombas.
-scene direction: warren continues looking at katrina. in the earpiece, the other two begin chanting "bazoomba, bazoomba." warren resumes walking toward katrina. as he walks, he removes the earpiece and drops it into a martini glass on another table. it sizzles as it shorts out.
+scene direction: warren continues looking at katrina. in the earpiece, the other two begin chanting "bazoomba, bazoomba."
+scene direction: warren resumes walking toward katrina. as he walks, he removes the earpiece and drops it into a martini glass on another table. it sizzles as it shorts out.
 scene change: cut to the van. andrew and jonathan scream as their headsets fill with loud feedback. they let go of each other and grab at their ears.
 scene direction: cut back to the restaurant. warren slides into the chair beside katrina, who has her head turned away from him.
 warren: so how did you get so beautiful?
@@ -277,7 +279,8 @@ willow: hey, we're thinking of heading to the bronze later. wanna come, get all 
 xander: tall glasses of frosty relaxation on me. nectar of the working man.
 buffy: no, thanks. i think i'll stay here with dawn.
 scene direction: buffy sound of a car horn honking outside
-buffy: curl up on the couch with a big bowl of popcorn and- dawn moves toward the door, picks up her jacket.
+buffy: curl up on the couch with a big bowl of popcorn and-
+scene direction: dawn moves toward the door, picks up her jacket.
 buffy: ...listen to the cars honk?
 scene direction: buffy to dawn
 buffy: where are you going?
@@ -364,9 +367,11 @@ katrina: yes, warren.
 scene direction: she kneels down, out of shot. warren looks excited for a moment, then pauses.
 warren: wait, what'd you just say?
 scene direction: shot of katrina kneeling, looking up at him. warren's hand is on the back of her head.
-katrina: i said yes, war- she pauses in mid-word, looks confused. warren looks alarmed.
+katrina: i said yes, war-
+scene direction: she pauses in mid-word, looks confused. warren looks alarmed.
 scene direction: katrina looks at warren's hand on her head, shoves it away, looks down at her outfit, looks outraged.
-katrina: what the f- cut to the other room. jonathan and andrew are sparring with plastic light-up star wars lightsabers. in background, warren flies into shot, falling to the floor as if pushed. katrina comes up behind him, throwing her french-maid hat at him. the others stop and stare.
+katrina: what the f-
+scene change: cut to the other room. jonathan and andrew are sparring with plastic light-up star wars lightsabers. in background, warren flies into shot, falling to the floor as if pushed. katrina comes up behind him, throwing her french-maid hat at him. the others stop and stare.
 scene direction: katrina furious
 katrina: what did you do to me?!
 warren: get the dampener!
@@ -383,7 +388,8 @@ katrina: you were gonna share me with these two dorks?!
 scene direction: katrina warren putting on his red sunglasses
 andrew: hey! we're supervillains!
 scene direction: andrew and jonathan rush over. andrew wears his sunglasses and holds the dampener.
-andrew: call us "master!" andrew thrusts his hand out with the dampener on his palm. jonathan isn't wearing his sunglasses - he puts his hands quickly over his eyes.
+andrew: call us "master!"
+scene direction: andrew thrusts his hand out with the dampener on his palm. jonathan isn't wearing his sunglasses - he puts his hands quickly over his eyes.
 jonathan: wait!
 scene direction: the dampener flashes briefly, weakly, and nothing. katrina just stares at it.
 andrew: aw, crap.
@@ -402,11 +408,11 @@ scene direction: katrina yelling
 katrina: well, this is not some fantasy, it's not a game, you freaks! it's rape!
 scene direction: jonathan stunned
 jonathan: what?
-andrew: no ... we didn't- katrina:
-scene direction: andrew crying, and still angry
-andrew: you're all sick.
-scene direction: andrew points at warren
-andrew: and i'm going to make sure you get locked up for this. and then we'll see how you like getting raped.
+andrew: no ... we didn't-
+scene direction: katrina crying, and still angry
+katrina: you're all sick.
+scene direction: katrina points at warren
+katrina: and i'm going to make sure you get locked up for this. and then we'll see how you like getting raped.
 scene direction: she turns to walk off.
 warren: stop her!
 scene direction: andrew and jonathan each grab an arm. katrina fights back.
@@ -474,8 +480,10 @@ warren: no, we just have to stay calm.
 jonathan: tell that to your girlfriend!
 warren: ex-girlfriend!
 jonathan: it doesn't matter! there's a link. you knew her, so there's a link. you don't think buffy'll be able to put that together? that's what she does, she'll figure it out!
-andrew: it was an accident. maybe if we turn ourselves in- warren: no.
-jonathan: he's right. if we go to the police now- warren: i'm not going to jail.
+andrew: it was an accident. maybe if we turn ourselves in-
+warren: no.
+jonathan: he's right. if we go to the police now-
+warren: i'm not going to jail.
 jonathan: we can't hide this! sooner or later, the slayer's gonna find out she's dead.
 scene direction: warren rubbing his chin, thoughtfully
 warren: well, then maybe it should be sooner.
@@ -576,17 +584,32 @@ tara: will? i'm ... i'm glad you're doing better.
 scene direction: they look at each other. tara gives a little smile, turns and walks away. willow stands there looking sad.
 scene direction: cue slow sad music ("out of this world" by bush).
 scene change: cut to graveyard, night. buffy walks along, holding a stake. she wears a brown turtleneck sweater, a black jacket, and black leather gloves.
-scene change: when we die we go into the arms of those that remember us cut to spike's crypt. spike stands with his shirt unbuttoned, smoking a cigarette and pouring a glass of blood. he takes a pinch of some herb from a jar and sprinkles it in the blood, picks up the glass.
-scene direction: we are home now spike pauses as if hearing, or sensing, something. he looks toward the door, smiles.
-scene change: out of our heads cut to exterior shot of the crypt. buffy walks up.
-scene change: out of our minds out of this world cut to inside. spike walks over to the door, puts his hands on it and presses his body against it.
-scene change: out of our time cut to outside. buffy stands right up next to the door, lifting her gloved hand to it.
-scene change: are you drowning or waving i just want you to save me cut to inside. spike runs his hand up the door as if caressing it.
+scene direction: when we die
+scene direction: we go into the arms of those
+scene direction: that remember us
+scene change: cut to spike's crypt. spike stands with his shirt unbuttoned, smoking a cigarette and pouring a glass of blood. he takes a pinch of some herb from a jar and sprinkles it in the blood, picks up the glass.
+scene direction: we are home now
+scene direction: spike pauses as if hearing, or sensing, something. he looks toward the door, smiles.
+scene direction: out of our heads
+scene change: cut to exterior shot of the crypt. buffy walks up.
+scene direction: out of our minds
+scene direction: out of this world
+scene change: cut to inside. spike walks over to the door, puts his hands on it and presses his body against it.
+scene direction: out of our time
+scene change: cut to outside. buffy stands right up next to the door, lifting her gloved hand to it.
+scene direction: are you drowning or waving
+scene direction: i just want you to save me
+scene change: cut to inside. spike runs his hand up the door as if caressing it.
 scene change: cut to outside. buffy has her hand on the door in the same spot as spike's.
-scene change: should we try to get along just try to get along cut to inside. spike is still pressed up against the door, eyes closed, and breathing faster with excitement.
-scene direction: so we move spike pulls the door open and walks out.
-scene direction: we change by the speed of the choices that we make no sign of buffy. spike frowns, looks around. pan across the assortment of gravestones.
-scene direction: and the barriers are all self-made spike frowns, sighs.
+scene direction: should we try to get along
+scene direction: just try to get along
+scene change: cut to inside. spike is still pressed up against the door, eyes closed, and breathing faster with excitement.
+scene direction: so we move
+scene direction: spike pulls the door open and walks out.
+scene direction: we change by the speed of the choices that we make
+scene direction: no sign of buffy. spike frowns, looks around. pan across the assortment of gravestones.
+scene direction: and the barriers are all self-made
+scene direction: spike frowns, sighs.
 scene direction: that's so retrograde...
 scene change: cut to another part of the graveyard. buffy walks along, under trees. the music fades out.
 scene direction: buffy to herself
@@ -825,7 +848,8 @@ buffy: a girl is dead because of me.
 spike: and how many people are alive because of you? how many have you saved? one dead girl doesn't tip the scale.
 buffy: that's all it is to you, isn't it? just another body!
 scene direction: spike sighing
-spike: buffy- she attacks him. he blocks a couple of punches but then she gets in and hits him in the stomach.
+spike: buffy-
+scene direction: she attacks him. he blocks a couple of punches but then she gets in and hits him in the stomach.
 buffy: you can't understand why this is killing me, can you?
 spike: why don't you explain it?
 scene direction: she hits him a few more times. he takes it, not fighting back.
@@ -901,9 +925,17 @@ buffy: we need to find warren, and the others. whatever they've done, they're no
 scene change: cut to the geeks' new lair. they are gathered around a computer with warren in the middle, working the keyboard.
 warren: we're gonna get away with it.
 scene direction: warren pointing at screen
-warren: "injuries consistent with a fall." close on the screen. it reads in part: confidential files coroners summary report ruling: suicide coroner: willard batts february 01, 2002 @ 0127 hrs.
+warren: "injuries consistent with a fall."
+close on the screen. it reads in part:
+scene direction: confidential files
+scene direction: coroners summary report
+ruling: suicide
+coroner: willard batts
+scene direction: february 01, 2002 @ 0127 hrs.
 scene direction: victim sustained injuries consistent with a fall.
-scene direction: twenty-one year old katrina silber's death appears to have been caused by an accidental drowning or suicide.
+scene direction: twenty-one year old katrina silber's death appears
+scene direction: to have been caused by an accidental drowning or
+scene direction: suicide.
 scene direction: cut back to shot of the three geeks looking at the screen.
 warren: the coroner's ruling it a suicide.
 jonathan: what about buffy?
@@ -964,4 +996,4 @@ buffy: please don't forgive me...
 scene direction: tara strokes her hair gently as she continues crying.
 scene direction: blackout.
 executive producers: joss whedon and marti noxon.
-scene direction: the en 
+scene direction: the end
